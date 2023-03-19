@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Japan Inquiry Into Accident Could Tarnish Toyota Image</title>
+    <meta content="13toyota" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2006/07/13/business/worldbusiness/13toyota.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1775643"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <series series.name="INTERNATIONAL BUSINESS"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Japan</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Asia Pacific</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Automobiles/Topics/Motoring</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Road Trips</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/Japan</classifier>
+        <classifier class="online_producer" type="descriptor">Recalls and Bans of Products</classifier>
+        <classifier class="online_producer" type="descriptor">Accidents and Safety</classifier>
+        <classifier class="online_producer" type="descriptor">Utility Vehicles and Other Light Trucks</classifier>
+        <classifier class="online_producer" type="descriptor">Automobiles</classifier>
+        <classifier class="online_producer" type="general_descriptor">Consumer Protection</classifier>
+        <classifier class="online_producer" type="general_descriptor">Utility Vehicles and Other Light Trucks</classifier>
+        <classifier class="online_producer" type="general_descriptor">Automobile Safety Features and Defects</classifier>
+        <classifier class="online_producer" type="general_descriptor">Recalls and Bans of Products</classifier>
+        <classifier class="online_producer" type="general_descriptor">Automobiles</classifier>
+        <classifier class="online_producer" type="general_descriptor">Roads and Traffic</classifier>
+        <classifier class="online_producer" type="general_descriptor">Accidents and Safety</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+        <location class="online_producer">Japan</location>
+        <org class="online_producer">Toyota Motor Corporation</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060713T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B07E3DE1E30F930A25754C0A9609C8B63" item-length="645" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Japan Inquiry Into Accident Could Tarnish Toyota Image</hl1>
+        <hl2 class="online_headline">Japan Inquiry Into Accident Could Tarnish Toyota Image</hl2>
+      </hedline>
+      <byline class="print_byline">By MARTIN FACKLER; Chieko Tsuneoka contributed reporting for this article.</byline>
+      <byline class="normalized_byline">Fackler, Martin</byline>
+      <dateline>TOKYO, July 12</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>An investigation by the local Japanese police into an accident involving a Toyota sport utility vehicle threatens to turn into an embarrassing scandal for the carmaker, which has built its success on a reputation for reliability.</p>
+        <p>On Tuesday, the police in Kumamoto, a small city in southern Japan, accused Toyota of failing to recall the type of S.U.V. involved in an accident in 2004 that injured a family of five, despite having known for years of a fault in the steering assembly. Toyota started issuing recalls for the vehicle, called a Hilux Surf in Japan and a 4Runner in the United States, two months after the accident.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Local police accused Toyota of failing to recall a sport utility vehicle involved in an accident that injured a family of five.</p>
+      </block>
+      <block class="full_text">
+        <p>An investigation by the local Japanese police into an accident involving a Toyota sport utility vehicle threatens to turn into an embarrassing scandal for the carmaker, which has built its success on a reputation for reliability.</p>
+        <p>On Tuesday, the police in Kumamoto, a small city in southern Japan, accused Toyota of failing to recall the type of S.U.V. involved in an accident in 2004 that injured a family of five, despite having known for years of a fault in the steering assembly. Toyota started issuing recalls for the vehicle, called a Hilux Surf in Japan and a 4Runner in the United States, two months after the accident.</p>
+        <p>The police asked local prosecutors to investigate three current and former executives in Toyota's head office for possible negligence in their decision not to issue the recall earlier, or to take other safety measures, said Akitoshi Takahashi, an officer in the city police traffic division. He refused to identify the three, but said prosecutors were reviewing the request before deciding whether to file charges. The Kumamoto district prosecutor's office declined to comment.</p>
+        <p>Toyota discovered the design flaw in 1996, after customer complaints prompted an internal inquiry, but decided that the problem was not big enough to merit a recall, a spokesman, Paul Nolasco, said. It issued a statement on Tuesday saying it believed that the ''three individuals concerned addressed the matter appropriately,'' but also promised to cooperate with the investigation and to strengthen its quality control.</p>
+        <p>Still, ''Toyota views this as a serious case and a serious accusation,'' Mr. Nolasco added.</p>
+        <p>Analysts said the accusation was unlikely to grow into a big enough problem to derail Toyota's push to overtake General Motors and become the world's largest carmaker. But they said that the failure to disclose the flaw promptly and fix it was an embarrassing misstep for the company. The analysts also recalled the troubles at another Japanese vehicle manufacturer, the truck and bus maker Mitsubishi Fuso. Its sales dropped two years ago after the authorities concluded that it had covered up a defective front axle that led to the death of a pedestrian.</p>
+        <p>''Mitsubishi's brand suffered for a long time as a result of the negative publicity,'' said Koichi Sugimoto, an analyst at Nomura Securities in Tokyo. ''The risk for Toyota is that this incident becomes the same sort of public issue.''</p>
+        <p>Mr. Sugimoto said he thought that Toyota would be more successful at damage control than Mitsubishi, partly because it had already recalled the vehicles in question and because Mitsubishi's problems were more widespread.</p>
+        <p>Still, Toyota's image has started to take a battering in Japan, where the police accusation was a top item in Wednesday's newspapers. The effect was particularly acute because Toyota has become a source of national pride here for its success in besting Detroit.</p>
+        <p>''A life-threatening flaw,'' a headline in Tokyo Shimbun read. ''Has the world leader grown smug?''</p>
+        <p>Toyota said the defect was in a part of the steering assembly, the relay rod, which Toyota said was prone to bending. The company said a rising number of customer complaints had already prompted it to begin reconsidering whether to issue a recall when the accident in Kumamoto happened in August 2004.</p>
+        <p>In the accident, a sudden steering problem caused a Hilux Surf to swerve into oncoming traffic and strike another vehicle, Toyota and the police said. The driver of the Hilux Surf was unharmed, but all five members of the family traveling in the other vehicle, including three children, were injured, some seriously.</p>
+        <p>Two months later, Toyota recalled the Hilux Surf and two pickup truck models that used a similar steering assembly, the T100 and the Hilux, as the Tacoma pickup truck in the United States. Toyota recalled affected models including the 4Runner in the United States in September 2005, Mr. Nolasco said.</p>
+        <p>INTERNATIONAL BUSINESS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

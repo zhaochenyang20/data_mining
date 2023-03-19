@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Loral to Acquire Honeywell Unit</title>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1989" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="304985"/>
+      <doc.copyright holder="The New York Times" year="1989"/>
+      <series series.name="COMPANY NEWS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">MERGERS, ACQUISITIONS AND DIVESTITURES</classifier>
+        <org class="indexing_service">HONEYWELL INC</org>
+        <org class="indexing_service">LORAL CORP</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19891129T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950DE0D91E3DF93AA15752C1A96F948260" item-length="103" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Loral to Acquire Honeywell Unit</hl1>
+      </hedline>
+      <byline class="print_byline">Reuters</byline>
+      <dateline>MINNEAPOLIS, Nov. 28</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Honeywell Inc. said it had agreed to sell its Electro-Optics division to the Loral Corporation, a New York military electronics company, for undisclosed terms.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Honeywell Inc. said it had agreed to sell its Electro-Optics division to the Loral Corporation, a New York military electronics company, for undisclosed terms.</p>
+        <p>Honeywell Inc. said it had agreed to sell its Electro-Optics division to the Loral Corporation, a New York military electronics company, for undisclosed terms.</p>
+        <p>Electro-Optics, based in Lexington, Mass., employs 1,200 people. It specializes in infrared imaging components for the military. A spokesman for Honeywell would not disclose its annual revenues. The division is one of several military units Honeywell has said it will sell because they are outside the company's strategy. Honeywell's stock rose 50 cents a share today, to $78.875, on the New York Stock Exchange, while Loral was unchanged at $30.75.</p>
+        <p>COMPANY NEWS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="COR013958" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Corrections; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1354902"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Terrorism</classifier>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <location class="indexing_service">India</location>
+        <location class="indexing_service">Kashmir and Jammu (India)</location>
+        <location class="indexing_service">Pakistan</location>
+        <org class="indexing_service">Lashkar-E-Taiba</org>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/India</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/Pakistan</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/India/Kashmir and Jammu</classifier>
+        <classifier class="online_producer" type="general_descriptor">Terrorism</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20011228T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C07E2DE1E31F93BA15751C1A9679C8B63" item-length="114" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>Correction of Dec 24 article: road across Pakistan and India that runs through Pakistani town that is spiritual home of Lashkar-e-Taiba was built in mid-1500's</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A front-page article on Monday about Lashkar-e-Taiba, a militant Islamic group that is challenging India's rule in Kashmir, misstated the age of the Grand Trunk Road, which runs across Pakistan and India and through the Pakistani town of Muridke, where the group has its spiritual headquarters. It was built during the reign of Sher Shah Suri in the mid-1500's, not when Pakistan and India were part of British-ruled India.</p>
+      </block>
+      <block class="full_text">
+        <p>A front-page article on Monday about Lashkar-e-Taiba, a militant Islamic group that is challenging India's rule in Kashmir, misstated the age of the Grand Trunk Road, which runs across Pakistan and India and through the Pakistani town of Muridke, where the group has its spiritual headquarters. It was built during the reign of Sher Shah Suri in the mid-1500's, not when Pakistan and India were part of British-ruled India.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

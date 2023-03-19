@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Decisive Moment on Parkinson's Fetal-Cell Transplants</title>
+    <meta content="20PARK" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1999" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1101503"/>
+      <doc.copyright holder="The New York Times" year="1999"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Parkinson's Disease</classifier>
+        <classifier class="indexing_service" type="descriptor">Fetal Tissue</classifier>
+        <classifier class="indexing_service" type="descriptor">Transplants</classifier>
+        <classifier class="indexing_service" type="descriptor">Brain</classifier>
+        <classifier class="indexing_service" type="descriptor">Research</classifier>
+        <classifier class="indexing_service" type="descriptor">Placebos</classifier>
+        <classifier class="indexing_service" type="descriptor">Tests and Testing</classifier>
+        <person class="indexing_service">Stolberg, Sheryl Gay</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Parkinson's Disease</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Transplants</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Mental Health and Behavior</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Stem Cells</classifier>
+        <classifier class="online_producer" type="general_descriptor">Transplants</classifier>
+        <classifier class="online_producer" type="general_descriptor">Brain</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Parkinson's Disease</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tests and Testing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diseases and Conditions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19990420T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F03E2DC1F3BF933A15757C0A96F958260" item-length="1634" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Decisive Moment on Parkinson's Fetal-Cell Transplants</hl1>
+      </hedline>
+      <byline class="print_byline">By SHERYL GAY STOLBERG</byline>
+      <byline class="normalized_byline">Stolberg, Sheryl Gay</byline>
+      <abstract>
+        <p>Researchers and thousands of patients with Parkinson's disease will soon learn results of study in which tissue from aborted fetuses was transplanted into brains of Parkinson's patients; all 40 people who enrolled in study had four tiny holes drilled into skull, but only half participants got the fetal tissue; as first placebo-controlled, randomized clinical trial using fetal cells for Parkinson's, study is what scientists call 'proof of principle' experiment, one designed to see if treatment has any effect; photo (L)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>In the 14 years since discovering he has Parkinson's disease, Steve Ashworth has slowly lost control of his muscles. Two years ago, with simple tasks like brushing his teeth becoming next to impossible, he eagerly signed up for a chance to stave off his slide into immobility, the first Government-financed study of brain-cell transplants using tissue from aborted fetuses.</p>
+        <p>But the use of fetal cells was not all that made the experiment controversial. Like all 40 people who enrolled, Mr. Ashworth, a 53-year-old labor negotiator for General Motors, would have to undergo brain surgery: four tiny holes drilled into the skull through the wrinkle lines above his eyebrows. Yet only half the participants would get the tissue. The other half would get nothing.</p>
+      </block>
+      <block class="full_text">
+        <p>In the 14 years since discovering he has Parkinson's disease, Steve Ashworth has slowly lost control of his muscles. Two years ago, with simple tasks like brushing his teeth becoming next to impossible, he eagerly signed up for a chance to stave off his slide into immobility, the first Government-financed study of brain-cell transplants using tissue from aborted fetuses.</p>
+        <p>But the use of fetal cells was not all that made the experiment controversial. Like all 40 people who enrolled, Mr. Ashworth, a 53-year-old labor negotiator for General Motors, would have to undergo brain surgery: four tiny holes drilled into the skull through the wrinkle lines above his eyebrows. Yet only half the participants would get the tissue. The other half would get nothing.</p>
+        <p>In July 1997, Mr. Ashworth flew from his home in Martinsburg, W.Va., to Denver for the surgery. Lying sedated on the operating table, with a stainless steel halo bolted to his head, he listened carefully to the doctors' conversation, hoping for clues about whether he would receive the cells that might repair his damaged brain.</p>
+        <p>Thirteen months later came the official word: his surgery was a fake. He has since been waiting for the study results to decide if he wants the real thing.</p>
+        <p>''I thought it sounded like my best chance of walking away'' from the disease, Mr. Ashworth said. ''My life has been on hold, waiting for this study to come to a conclusion.''</p>
+        <p>On Wednesday, the wait will be over for Mr. Ashworth and tens of thousands of Parkinson's patients who have seen their symptoms worsen while fetal cell research became caught up in abortion politics. At a conference in Toronto, Dr. Curt Freed, the University of Colorado neuroscientist who led the study, will announce his results, 11 years after President Reagan first banned the use of taxpayer money for such research, and six years after President Clinton lifted that ban.</p>
+        <p>As the first placebo-controlled, randomized clinical trial using fetal cells for Parkinson's, the study is what scientists call a ''proof of principle'' experiment, one designed to see if the treatment has any effect.</p>
+        <p>''I don't think anybody is going to look at this study and say, 'Wow, that is a cure,' '' Dr. Freed said in an interview.</p>
+        <p>But if the study confirms what he and others have long suspected, that injecting fetal cells into the brain can help patients regain lost motor function and reduce their need for medication, it will undoubtedly generate patient demand for the procedure and spur further public and private investment in the research.</p>
+        <p>Regardless of the outcome, the study is leaving its mark on medicine in another fashion, by helping to legitimize the use of ''sham surgery.'' The practice, long out of favor, is described by proponents as state-of-the-art medicine. But critics, including some Parkinson's researchers, say it is unethical to use a placebo that, unlike a simple sugar pill, carries some risk.</p>
+        <p>''This is not a placebo,'' said Dr. Arthur Caplan, director of Bioethics at the University of Pennsylvania and one of the study's most vociferous opponents. ''It is a phony surgical operation. You could wind up with a hole in your head for nothing.''</p>
+        <p>The placebo effect is well known in medical research, and experts say it is particularly powerful with a dramatic intervention like surgery. That has posed a problem for Dr. Freed and other researchers who have performed fetal cell transplants over the past decade with private money. Although some of those patients got better, scientists could not be certain if the fetal cells were responsible, or if they improved simply because they knew they had been treated. To get a true measure of success, they had to compare people who got the cells with people who thought they had, said Dr. Michael D. Walker of the National Institute of Neurological Disorders and Stroke, which paid for Dr. Freed's $4.5 million study.</p>
+        <p>''If we are going to end up treating thousands of patients this way in the future,'' Dr. Walker said, ''we jolly well better know whether it is effective.''</p>
+        <p>It is unlikely that thousands of patients will be getting fetal cells anytime soon, because the surgery is complicated and aborted fetuses are hard to obtain. But if Dr. Freed's research shows real promise, experts say, scientists will quickly turn their attention to finding alternate sources of the tissue, perhaps through another controversial area of investigation that has touched off an abortion rights controversy, the use of stem cells that come from human embryos.</p>
+        <p>More than one million Americans suffer from Parkinson's disease, a degenerative condition that kills the brain cells that produce dopamine, a neurochemical that controls motor function. Stiffness and tremors are the primary symptoms. Mr. Ashworth wakes up each morning so bent over, he says, that he shuffles around ''like a 70-year-old'' until his medication kicks in. His speech is affected as well; he talks softly and slowly, as though his mouth needs time to get out the words his brain is telling him to say.</p>
+        <p>There are a handful of medications for Parkinson's disease, but they eventually stop working, leaving patients to face a future that Mr. Ashworth says ''can scare the wits out of you. You wind up bedridden and unable to control your bodily movements, but your brain is intact.''</p>
+        <p>Dr. Freed, who at 56 has spent his entire career studying Parkinson's,  said he concluded in the early 1980's that ''drugs would not be the answer, that we had to approach the disease with a dynamic cell therapy'' to restore the missing dopamine. From studies on rats, he knew that dopamine-producing cells could be taken from an embryo and placed in the brain, and that the cells would survive. By 1988, he was planning to perform the surgery on people.</p>
+        <p>In March of that year, the Reagan Administration imposed a moratorium on Federal financing for all medical research involving fetal tissue. That November, on the same day George Bush was elected President, Dr. Freed performed the first fetal cell transplant in the United States. The patient was a retired factory manager, Don Nelson, who had been fighting Parkinson's for 20 years; the operation was paid for with private money.</p>
+        <p>Today, Mr. Nelson, 62, is doing well enough to help his son build a house. The cells from the first transplant have died off; he had a second one five years ago. ''It has helped me immensely,'' he said. ''Screws and nails and things were hard to hold. I could hardly pick them up and now there's no problem.''</p>
+        <p>While President Bush left the ban intact, Dr. Freed continued his work, operating with private money. So did a handful of others, including researchers at Yale University led by Dr. Gene Redmond. When Mr. Clinton, who had pledged to rescind the ban, was elected, the researchers began preparing Federal grant applications.</p>
+        <p>Dr. Freed teamed up with Dr. Stanley Fahn, a neuroscientist at Columbia Presbyterian Center in Manhattan; their study, with its placebo design, was approved, as was a similar proposal from the Mount Sinai School of Medicine in New York and the University of South Florida. Dr. Redmond also submitted a grant proposal, but the National Institutes of Health turned it down because it had no placebo group.</p>
+        <p>''We felt it was not appropriate to do a sham procedure,'' Dr. Redmond said last week. He is continuing with animal research, hoping to perfect his technique before operating again on people. ''I have not regretted that we did not do the study the way they wanted it done,'' he said.</p>
+        <p>In Dr. Freed's experiment, patients were awake but sedated for the hourlong operation. Surgeons drilled the four holes, clearing a path to the putamen, a structure on each side of the brain that controls movement. For those in the placebo group, the operation stopped there. For the other 20, surgeons inserted long needles into the putamen, injecting about two droplets worth of tissue, 2 million dopamine cells in all. The hope, Dr. Freed said, was that 100,000 of those cells would take hold.</p>
+        <p>The transplant carried a small risk of hemorrhage and stroke, Dr. Freed said, while the risk of the phony surgery, ''is similar to the risk of going to the dentist.'' Each of the 20 placebo patients was offered the fetal cells 13 months after the original surgery; so far, 14 have gone back for a second operation.</p>
+        <p>Among them is Lynda McKenzie, a 46-year-old former crafts shop owner from a suburb of Toronto. She had the transplant last October and noticed a difference within six weeks. ''I'm very hopeful and I do believe it's working for me,'' Ms. McKenzie said last week. ''I don't feel at the mercy of Parkinson's so much.''</p>
+        <p>Mr. Ashworth, who said he understood the need for the sham surgery, was hopeful too, but cautious. Dr. Freed, who is continuing to improve his surgical technique, tells patients that the longer they can put off surgery, the better. For Mr. Ashworth, the decision will depend on the results released this week.</p>
+        <p>''If it enables me to get off the medicine, to go to the mall and walk around without having to worry about am I going to be able to get back home, then I will definitely go through with it,'' he said. If not, he will continue to wait.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

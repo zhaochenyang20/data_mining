@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Music; Two Views Of a Singular Work</title>
+    <meta content="17BOKM" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Arts and Leisure Desk" name="dsk"/>
+    <meta content="35" name="print_page_number"/>
+    <meta content="2" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2002/03/17/arts/music/17BOKM.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1376320"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Music</classifier>
+        <org class="indexing_service">St Thomas Choir of Men and Boys</org>
+        <org class="indexing_service">Concert Royal</org>
+        <org class="indexing_service">Bach Choir of Bethlehem (Music Group)</org>
+        <org class="indexing_service">Lehigh University</org>
+        <person class="indexing_service">Bach, Johann Sebastian (1685-1750)</person>
+        <person class="indexing_service">Hancock, Gerre</person>
+        <person class="indexing_service">Funfgeld, Greg</person>
+        <person class="indexing_service">Oestreich, James R</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Music, Theater and Dance</classifier>
+        <classifier class="online_producer" type="descriptor">Classical Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Classical Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+        <org class="online_producer">Concert Royal</org>
+        <person class="online_producer">Hancock, Gerre</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20020317T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9805EFDC1539F934A25750C0A9649C8B63" item-length="327" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Music; Two Views Of a Singular Work</hl1>
+        <hl2 class="online_headline">Two Views of a Singular Work</hl2>
+      </hedline>
+      <byline class="print_byline">By James R. Oestreich</byline>
+      <byline class="normalized_byline">Oestreich, James R</byline>
+      <abstract>
+        <p>St Thomas Choir of Men and Boys and Concert Royal, conducted by Gerre Hancock, will perform Bach's St Matthew Passion at St Thomas Church Fifth Avenue; Bach Choir of Bethlehem, conducted by Greg Funfgeld, will present same piece at Packer Memorial Church, Lehigh University, Bethlehem, Pa; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>AMID the surfeit of performances of Handel's ''Messiah'' in New York every December, one has consistently stood out in recent years. The annual presentation by the St. Thomas Choir of Men and Boys and the period-instrument Concert Royal, conducted by Gerre Hancock, is typically considered the best of the lot. So it is a happy occasion when these performers busy themselves ''off season'' with another Baroque monument, as they do on Tuesday in Bach's ''St. Matthew Passion'' (very much in season, of course).</p>
+        <p>This account of the final hours and death of Jesus, surely one of Bach's greatest works, has escaped controversy like that surrounding his ''St. John Passion'' for a perceived anti-Semitism in the text if not in the music. The performance, at St. Thomas Church Fifth Avenue, at 53rd Street, celebrates Mr. Hancock's 30th anniversary as organist and master of choristers there. Mark Bleeke sings the Evangelist; Woodrow Bynum, Jesus. Other soloists include boys from the choir in treble roles.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Amid the surfeit of performances of Handel's "Messiah" in New York every December, one has consistently stood out in recent years.</p>
+      </block>
+      <block class="full_text">
+        <p>AMID the surfeit of performances of Handel's ''Messiah'' in New York every December, one has consistently stood out in recent years. The annual presentation by the St. Thomas Choir of Men and Boys and the period-instrument Concert Royal, conducted by Gerre Hancock, is typically considered the best of the lot. So it is a happy occasion when these performers busy themselves ''off season'' with another Baroque monument, as they do on Tuesday in Bach's ''St. Matthew Passion'' (very much in season, of course).</p>
+        <p>This account of the final hours and death of Jesus, surely one of Bach's greatest works, has escaped controversy like that surrounding his ''St. John Passion'' for a perceived anti-Semitism in the text if not in the music. The performance, at St. Thomas Church Fifth Avenue, at 53rd Street, celebrates Mr. Hancock's 30th anniversary as organist and master of choristers there. Mark Bleeke sings the Evangelist; Woodrow Bynum, Jesus. Other soloists include boys from the choir in treble roles.</p>
+        <p>Listeners who find themselves an hour or two west of Manhattan can find a notable ''St. Matthew'' closer to hand, in Bethlehem, Pa. The Bach Choir of Bethlehem has been celebrating its namesake through rapidly changing musical times for more than a century, most notably in an annual festival in May. Here Greg Funfgeld, the group's music director, conducts a seasonal performance in Packer Memorial Church at Lehigh University.</p>
+        <p>To judge from the work of the choir and the Bach Festival Orchestra at the festival in 1998 and at Carnegie Hall in 2000, this will be a more traditional affair, with a large mixed chorus and female as well as male soloists. Yet it should also be eminently respectable on its own terms. The vocal soloists include Frederick Urrey as the Evangelist and Gary Relyea as Jesus.</p>
+        <p>JAMES R. OESTREICH</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

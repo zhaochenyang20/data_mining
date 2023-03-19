@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Sports of The Times; Mets Seem Outsiders In This Showdown</title>
+    <meta content="26VECS$05" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/10/26/sports/26VECS.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1242079"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Baseball</classifier>
+        <classifier class="indexing_service" type="descriptor">World Series</classifier>
+        <org class="indexing_service">New York Yankees</org>
+        <org class="indexing_service">New York Mets</org>
+        <person class="indexing_service">Vecsey, George</person>
+        <person class="indexing_service">Agbayani, Benny</person>
+        <object.title class="indexing_service">Sports of the Times (Times Column)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Columns/George Vecsey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball/Major League/New York Yankees</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball/Major League/New York Mets</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball</classifier>
+        <classifier class="online_producer" type="general_descriptor">World Series</classifier>
+        <classifier class="online_producer" type="general_descriptor">Baseball</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001026T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CE5D81031F935A15753C1A9669C8B63" item-length="914" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Sports of The Times; Mets Seem Outsiders In This Showdown</hl1>
+      </hedline>
+      <byline class="print_byline">By GEORGE VECSEY</byline>
+      <byline class="normalized_byline">Vecsey, George</byline>
+      <abstract>
+        <p>George Vecsey Sports of The Times column on play of New York Mets outfielder Benny Agbayani in World Series (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>THIS was in late March, when Benny Agbayani heard rumors he might be sent down. He was with the Mets in Japan, a long way from home for most of the players but close to the Pacific center of Agbayani's soul.</p>
+        <p>He had a meal with Konishiki, a Samoan who grew up in Hawaii and became the first non-Japanese wrestler to achieve the second highest honor in sumo, called Ozeki, or champion.</p>
+      </block>
+      <block class="full_text">
+        <p>THIS was in late March, when Benny Agbayani heard rumors he might be sent down. He was with the Mets in Japan, a long way from home for most of the players but close to the Pacific center of Agbayani's soul.</p>
+        <p>He had a meal with Konishiki, a Samoan who grew up in Hawaii and became the first non-Japanese wrestler to achieve the second highest honor in sumo, called Ozeki, or champion.</p>
+        <p>''He told me, 'Don't give up,' '' Agbayani recalled. ''He told me to stay focused, not to let them get me down.''</p>
+        <p>The advice from the retired sumo star would apply to these Mets, who have been so much fun but are currently in very big trouble in their own ballpark, both in the score department and the ovation department.</p>
+        <p>The Yankees outscored them, 3-2, last night, and came embarrassingly close to winning the battle of the decibels, too. Now the Mets will need a victory tonight or disperse for the winter.</p>
+        <p>''It's going to be tough, but we can't just run away,'' Agbayani said afterward.</p>
+        <p>The Mets have been a work in progress all season, with players like Agbayani and Jay Payton emerging from the logjam of outfielders, but now they need a vintage Mets' World Series rally against a championship team.</p>
+        <p>''They've lost three straight before,'' said Payton, Agbayani's best friend on the team. ''And we've won three straight. We'll just have to grind it out, get down and dirty.''</p>
+        <p>These two friends have shown their own strength, surviving with the Mets from those tenuous opening days in Tokyo, when it seemed the front office was intent on farming out Agbayani for the simple clerical detail that he had options left.</p>
+        <p>Imagine if they had lost Benny Agbayani back then. Imagine if he had let them break him down. Instead, he has been responsible for the Mets' being in contention in all three of their losses. He is batting .286 and last night he went hitless, including a wicked line drive that the pitcher, Jeff Nelson, converted into a double play to end the sixth.</p>
+        <p>On Tuesday, Agbayani brought the Mets back to life with his ringing, liberating double scoring the go-ahead run. After the game, he recalled that meal with Konishiki back in Tokyo.</p>
+        <p>Now retired, Konishiki was once considered for the highest rank of Yokozuna, but was passed over.</p>
+        <p>''He's an outsider there,'' Agbayani recalled the other night. ''You have to be strong when you're an outsider.''</p>
+        <p>Agbayani has a respect for sumo wrestlers that athletes have for people who perform other sports. Ken Griffey Jr., and Michael Jordan idolize golfers. Mickey Mantle and Roger Maris fancied themselves as running backs. Michael Schumacher, the Formula One auto driver, lives for his cameos in soccer uniforms.</p>
+        <p>And Benny Agbayani, born in the 50th state, with its roots to the east and to the west, has immense respect for the gigantic, fleshy sumo wrestlers who comport themselves with a solemn dignity unknown in American sports.</p>
+        <p>He followed Konishiki's advice in Tokyo and won the second game against the Cubs there with a pinch-hit grand-slam home run and then waited to see if the front office would follow through on its impending cutdown.</p>
+        <p>''We had too many outfielders,'' Agbayani said. ''I was the eighth outfielder.''</p>
+        <p>Agbayani was battling the perception that he was somehow too round to play regularly. At 6 feet tall and 225 pounds, he falls into the same preconceptions that Charles Barkley once encountered in basketball.</p>
+        <p>''That's just my body type,'' Agbayani was saying Tuesday. ''That's how we all look in Hawaii.''</p>
+        <p>He has had an advocate in Bobby Valentine, who was once his manager briefly at Norfolk, and who never wanted to send him down. Instead, Valentine thought Payton needed the extra year of seasoning to recuperate from injuries. But both have been terrific, and now must find something left for the Mets to continue.</p>
+        <p>The two friends were impressed with the way Mariano Rivera came in and pitched two full innings last night.</p>
+        <p>''Joe Torre wasn't taking any chances,'' Payton said. ''They were counting on Rivera not giving up a run.''</p>
+        <p>The insecurity of those opening days has not yet dissipated. On Tuesday afternoon, Agbayani ran into rumors that he would be benched for Darryl Hamilton against the right-handed slants of Orlando (El Duque) Hernandez. This was, in fact, a talk-radio creation, perpetuated by a few gossip-mongers in the print press.</p>
+        <p>''He makes out the lineup,'' Agbayani said of the manager. ''What am I going to do, go into his room and complain?''</p>
+        <p>Some people would. Instead, Agbayani decided he could live with the fictitious benching.</p>
+        <p>''Whaaaat?'' asked Valentine afterward. ''It was never on my mind. Yeah, I'd platoon him during the season sometimes, but that was to get at-bats for other guys. This is the World Series. You go with the guys who got you here. I never gave it a thought. Not once.''</p>
+        <p>Agbayani and Payton have a place in the lineup for this World Series. Battling stereotypes and injuries, they have come a long way, and now they will try to extend this Series, with the desperation of outsiders.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

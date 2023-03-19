@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Earnings Decline in Quarter At Several Large Retailers</title>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="Correction Appended" name="banner"/>
+    <meta content="19911114T000000" name="correction_date"/>
+    <docdata>
+      <doc-id id-string="486626"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <series series.name="COMPANY NEWS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">RETAIL STORES AND TRADE</classifier>
+        <classifier class="indexing_service" type="descriptor">COMPANY REPORTS</classifier>
+        <org class="indexing_service">PENNEY, J C, CO</org>
+        <org class="indexing_service">LIMITED INC</org>
+        <org class="indexing_service">NORDSTROM INC</org>
+        <org class="indexing_service">MAY DEPARTMENT STORES
+CO</org>
+        <org class="indexing_service">CALDOR INC</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Shopping</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Retail</classifier>
+        <classifier class="online_producer" type="general_descriptor">Retail Stores and Trade</classifier>
+        <classifier class="online_producer" type="general_descriptor">Company Reports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Corporations</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19911113T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE7D91E3DF930A25752C1A967958260" item-length="671" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Earnings Decline in Quarter At Several Large Retailers</hl1>
+      </hedline>
+      <byline class="print_byline">By The Associated Press</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The J. C. Penney Company, the Limited Inc. and Nordstrom Inc. said yesterday that their earnings for the third quarter fell from depressed levels of a year earlier, while the May Department Stores Company said its profits edged up 1 percent.</p>
+        <p>Another retailer, the Caldor Corporation, said its third-quarter loss narrowed from the corresponding period last year. The improvement reflected the company's stock sale, the proceeds of which were used to retire debt.</p>
+      </block>
+      <block class="full_text">
+        <p>The J. C. Penney Company, the Limited Inc. and Nordstrom Inc. said yesterday that their earnings for the third quarter fell from depressed levels of a year earlier, while the May Department Stores Company said its profits edged up 1 percent.</p>
+        <p>Another retailer, the Caldor Corporation, said its third-quarter loss narrowed from the corresponding period last year. The improvement reflected the company's stock sale, the proceeds of which were used to retire debt.</p>
+        <p>The results provided further evidence of the consumer spending slump that has sliced into the earnings of many retailers. A predicted rebound in spending has not happened, as consumers are weighed down by concerns about the economy and their jobs.</p>
+        <p>Penney, Nordstrom and May also reported earnings declines in 1990 quarter, in the early months of the Persian Gulf war and the recession. The Limited's results were little changed during the period.</p>
+        <p>Following are details of the retailers' results. Penney</p>
+        <p>The Dallas-based Penney said its profits fell by 13.4 percent, to $116 million, or 93 cents a share, compared with $134 million, or $1.07 a share, in the comparable period a year earlier. Its revenues fell slightly, to $4.20 billion from $4.24 billion.</p>
+        <p>The retailer attributed its results to a sales drop. The consumer spending drought has taken a heavy toll on Penney.</p>
+        <p>In the third quarter of last year, Penney's earnings plunged nearly 36 percent. The company's shares rose $1.875 yesterday, to $52, on the New York Stock Exchange. Limited</p>
+        <p>The nation's largest specialty apparel retailer said its earnings for the quarter that ended on Nov. 2 fell by 14 percent, to $72.8 million, or 20 cents a share, from $84.9 million, or 23 cents a share. Its sales rose by 15 percent, to $1.43 billion from $1.24 billion.</p>
+        <p>Leslie H. Wexner, the chairman, cited the weak economy and slow store traffic in the quarter. But he said, "External factors are not an excuse for such mediocre performance."</p>
+        <p>"I believe it is always our merchandising that produces success or failure," he said.</p>
+        <p>The stock of the Limited, which is based in Columbus, Ohio, rose 75 cents yesterday, to $26.75, on the Big Board. Nordstrom</p>
+        <p>Nordstrom, based in Seattle, said its earnings fell by 4.9 percent, to $19.4 million, or 24 cents a share, in the quarter that ended on Oct. 31. That compared with $20.4 million, or 25 cents a share, in the 1990 quarter, when earnings fell by 7 percent.</p>
+        <p>Its sales rose by 8.2 percent, to $687 million from $634.8 million.</p>
+        <p>Nordstrom said its sales growth rate slowed during the quarter after improving in the first half of its fiscal year. The trend reflected the slowdown in consumer spending.</p>
+        <p>The company's stock rose 62.5 cents yesterday, to $39.125, in over-the-counter trading. May Department Stores</p>
+        <p>May Department Stores, based in St. Louis, said it earned $91 million, or 70 cents a share, in the quarter that ended on Nov. 2, up slightly from $90 million, or 69 cents a share. Its revenues rose by 8 percent, to $2.56 billion from $2.37 billion.</p>
+        <p>Department stores have been particularly hard-hit by the slide in consumer spending. May's stores include Lord &amp; Taylor, May and Hecht's. It also owns the Payless Shoesource chain.</p>
+        <p>May, whose stock rose 62.5 cents yesterday on the Big Board, to $51.875, said it was merging its Thalhimer Brothers division with its Hecht's operation.</p>
+        <p>The move will close seven Thalhimer's stores in Virginia and North Carolina.  Caldor</p>
+        <p>Caldor, the discount-store chain based in Norwalk, Conn., reported a $3.8 million loss, compared with a loss of $5.7 million, before adjustments and other items, in the 1990 period. The company's sales rose by 4.5 percent, to $417.8 million from $399.8 million.</p>
+        <p>The retailer, which returned to public ownership earlier this year after a leveraged buyout, is still paying down the costs of the transaction.</p>
+        <p>Caldor's stock rose 37.5 cents on the Big Board yesterday, to $14.625.</p>
+        <p>COMPANY NEWS  Correction:  November 14, 1991, Thursday</p>
+        <p>Because of an editing error, a brief report in the Company News column in some copies of Business Day yesterday misstated the reason for a fourth-quarter charge taken by the Phillips Petroleum Company against pretax earnings of $15 million. It results from previous staff cuts, announced in September.</p>
+      </block>
+      <block class="correction_text">
+        <p>Correction: November 14, 1991, Thursday</p>
+        <p>Because of an editing error, a brief report in the Company News column in some copies of Business Day yesterday misstated the reason for a fourth-quarter charge taken by the Phillips Petroleum Company against pretax earnings of $15 million. It results from previous staff cuts, announced in September.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

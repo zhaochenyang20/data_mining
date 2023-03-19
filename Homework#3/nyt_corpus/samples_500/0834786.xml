@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Winner for a Change</title>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="1996" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Cultural Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="834786"/>
+      <doc.copyright holder="The New York Times" year="1996"/>
+      <series series.name="TV NOTES"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">TELEVISION</classifier>
+        <classifier class="indexing_service" type="descriptor">RATINGS AND RATING SYSTEMS</classifier>
+        <org class="indexing_service">CBS INC</org>
+        <org class="indexing_service">NATIONAL BROADCASTING CO (NBC)</org>
+        <org class="indexing_service">AMERICAN BROADCASTING COSINC (ABC)</org>
+        <org class="indexing_service">NIELSEN, A C, CO</org>
+        <person class="indexing_service">MIFFLIN, LAWRIE</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ratings and Rating Systems</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19960306T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E04E4DD1F39F935A35750C0A960958260" item-length="280" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Winner for a Change</hl1>
+      </hedline>
+      <byline class="print_byline">By LAWRIE MIFFLIN</byline>
+      <byline class="normalized_byline">MIFFLIN, LAWRIE</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>What does it feel like to win a week for once? People at CBS found out yesterday, when Nielsen numbers showed that the network had finished first in the prime-time ratings race last week -- for the first time this season.</p>
+        <p>"It's very good for morale," said Leslie Moonves, president of CBS Entertainment.</p>
+        <p>CBS had an 11.4 average Nielsen rating for the week. (Each rating point equals 959,000 homes.) NBC had 10.6, ABC 9.4 and Fox a 7.7.</p>
+      </block>
+      <block class="full_text">
+        <p>What does it feel like to win a week for once? People at CBS found out yesterday, when Nielsen numbers showed that the network had finished first in the prime-time ratings race last week -- for the first time this season.</p>
+        <p>"It's very good for morale," said Leslie Moonves, president of CBS Entertainment.</p>
+        <p>CBS had an 11.4 average Nielsen rating for the week. (Each rating point equals 959,000 homes.) NBC had 10.6, ABC 9.4 and Fox a 7.7.</p>
+        <p>For February -- a "sweeps" month -- CBS nosed out ABC for second-place behind the mighty NBC. NBC won the month with a 12.2 average. CBS's average was 10.5, ABC's was 10.2, and Fox's was 8.0.</p>
+        <p>CBS did well with the Grammy Awards last Wednesday (14.6 rating), and a Friday special, "Sergei Grinkov: Celebration of a Life" (10.3), featuring the young figure skater Yekaterina Gordeyeva and other skating stars in a tribute to her husband and pairs partner, Mr. Grinkov, who died of a heart attack in November.</p>
+        <p>But David F. Poltrack, CBS's vice president of research, said the average rating for CBS's regularly scheduled shows was higher (10.8) than its overall rating (10.5) in February's sweeps.</p>
+        <p>"We've got a solid Saturday, Sunday and Monday now," Mr. Poltrack said. Which makes it easier to forget about the show that was supposed to herald a new, younger, more glitzy CBS: "Central Park West." The series went on, with much fanfare, last fall, and flopped. It was put on hiatus, and now network officials say it will probably be a summer replacement.</p>
+        <p>LAWRIE MIFFLIN</p>
+        <p>TV NOTES</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

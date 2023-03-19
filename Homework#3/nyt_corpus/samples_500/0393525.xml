@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Reviews/Music;   The Fiddle, hye Absurd And Humor</title>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Cultural Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="393525"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">MUSIC</classifier>
+        <classifier class="indexing_service" type="descriptor">REVIEWS</classifier>
+        <classifier class="indexing_service" type="descriptor">CONCERTS AND RECITALS</classifier>
+        <person class="indexing_service">KOZINN, ALLAN</person>
+        <person class="indexing_service">ROSE, JON</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19901020T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CEFDF1531F933A15753C1A966958260" item-length="450" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Reviews/Music;   The Fiddle, hye Absurd And Humor</hl1>
+      </hedline>
+      <byline class="print_byline">By ALLAN KOZINN</byline>
+      <byline class="normalized_byline">KOZINN, ALLAN</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Jon Rose is an Australian violinist and composer with a taste for the absurd. In his curriculum vitae, which served as program notes for his concert on Wednesday evening at the Kitchen, he asserted - among many other things - that he had been a fighter ace in the Imperial Japanese Air Force in World War II, had climbed Mount Everest, had won a Nobel Peace Prize for a book about Yehudi Menuhin and had given violin lessons to the Beatles.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Jon Rose is an Australian violinist and composer with a taste for the absurd. In his curriculum vitae, which served as program notes for his concert on Wednesday evening at the Kitchen, he asserted - among many other things - that he had been a fighter ace in the Imperial Japanese Air Force in World War II, had climbed Mount Everest, had won a Nobel Peace Prize for a book about Yehudi Menuhin and had given violin lessons to the Beatles.</p>
+        <p>Jon Rose is an Australian violinist and composer with a taste for the absurd. In his curriculum vitae, which served as program notes for his concert on Wednesday evening at the Kitchen, he asserted - among many other things - that he had been a fighter ace in the Imperial Japanese Air Force in World War II, had climbed Mount Everest, had won a Nobel Peace Prize for a book about Yehudi Menuhin and had given violin lessons to the Beatles. He also wrote that he was born in 1921, but he looks to be in his early 40's.</p>
+        <p>Mr. Rose's sense of humor is equally evident in his music. In a program of four works offered under the collective title ''Space Violins,'' he played an electric fiddle and manipulated a welter of synthesizer sounds that served as his accompaniment.</p>
+        <p>It was difficult to tell whether the sweeping, conductorial gestures he made with his bow actually controlled the electronics or whether his motions were merely balletic. He clearly intended to give the impression that there was a correlation between gesture and sound, although it often seemed as if the computer were careening off on its own. In his first piece, Mr. Rose's sound was often abrasive, in a fingernails-on-the-chalkboard kind of way, and it was some time before a listener could determine whether he could actually play the violin or was just using it as a classy noisemaker. But from the cacophony arose jazz riffs, passages of complex spiccato bowing and parodies of Paganini-style virtuosity.</p>
+        <p>In other pieces, there were fleeting moments of lyricism, particularly in the chordal introduction of the third piece. And in the second piece - in many ways the wittiest - there were fleeting references to Classical pieces, along with a parody of Neapolitan song in which Mr. Rose accompanied himself by using his fiddle as a mandolin.</p>
+        <p>Mostly, though, Mr. Rose toyed with a kaleidoscopic array of timbres. From one moment to the next, his violin might sound like a subway car screeching to a halt, a wailing imitation of Jimi Hendrix's guitar or a gently gurgling mechanical toy. The synthesizer sounds were equally varied, ranging from the bleeps and squeaks of 1960's-vintage Morton Subotnick to smooth tones that simulated voices and flutes.</p>
+        <p>In his closing piece, Mr. Rose put down his violin in favor of a pair of bows, one of which was amplified. At first he played it as if he were a Boy Scout trying to build a campfire, and from there the performance grew steadily more exotic. The sounds were not quite so varied as in the violin pieces, though. In the end he relented, playing a gentle coda with the amplified bow on an unamplified violin and thereby bringing a raucous evening to a graceful close.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

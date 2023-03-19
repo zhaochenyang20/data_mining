@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>It's a Myth</title>
+    <meta content="LTR105124" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts; Books; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1359141"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <person class="indexing_service">Burkhardt, Frederick</person>
+        <person class="indexing_service">Mayr, Ernst</person>
+        <person class="indexing_service">Raeburn, Paul</person>
+        <object.title class="indexing_service">What Evolution Is (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20020113T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A04E4DA1030F930A25752C0A9649C8B63" item-length="288" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>It's a Myth</hl1>
+      </hedline>
+      <abstract>
+        <p>Frederick Burkhardt letter on Paul Raeburn December 16 review of What Evolution Is by Ernst Mayr (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Paul Raeburn, in his review of Ernst Mayr's ''What Evolution Is'' (Dec. 16), cites another book's story that a reprint of Mendel's famous article was found in Darwin's library after his death with the pages uncut.</p>
+        <p>There is no evidence that+a reprint of Mendel's paper was found or ever existed in Darwin's library. The story may be a garbled version of one that a copy of the Proceedings of the Natural History Society of Brno, in which the article was+published in 1866, was found uncut in the library of the Linnean Society, London, after the discovery of the paper in 1900.</p>
+        <p>Darwin's library at Cambridge University does contain two works on hybridism, one+published in 1869, the other in 1880, in which Mendel's paper is mentioned. Both publications+show that Darwin had read them, but his marginal notes show no interest in Mendel's paper, and in one of the works the pages citing Mendel's paper are uncut.</p>
+        <p>However, if Darwin had known of Mendel's work, it is doubtful that he would have recognized its importance for his theory. After all, Mendel himself, who had read (carefully but disapprovingly) ''The Origin of Species'' five years before his work on peas, did not make any connection either.+The recognition of Mendel's principle had to wait until the advances in genetic science at the turn of the century.</p>
+        <p>Frederick Burkhardt  Bennington, Vt.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Paul Raeburn, in his review of Ernst Mayr's ''What Evolution Is'' (Dec. 16), cites another book's story that a reprint of Mendel's famous article was found in Darwin's library after his death with the pages uncut.</p>
+        <p>There is no evidence that+a reprint of Mendel's paper was found or ever existed in Darwin's library. The story may be a garbled version of one that a copy of the Proceedings of the Natural History Society of Brno, in which the article was+published in 1866, was found uncut in the library of the Linnean Society, London, after the discovery of the paper in 1900.</p>
+        <p>Darwin's library at Cambridge University does contain two works on hybridism, one+published in 1869, the other in 1880, in which Mendel's paper is mentioned. Both publications+show that Darwin had read them, but his marginal notes show no interest in Mendel's paper, and in one of the works the pages citing Mendel's paper are uncut.</p>
+        <p>However, if Darwin had known of Mendel's work, it is doubtful that he would have recognized its importance for his theory. After all, Mendel himself, who had read (carefully but disapprovingly) ''The Origin of Species'' five years before his work on peas, did not make any connection either.+The recognition of Mendel's principle had to wait until the advances in genetic science at the turn of the century.</p>
+        <p>Frederick Burkhardt  Bennington, Vt.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

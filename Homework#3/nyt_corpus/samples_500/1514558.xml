@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>In Defense Of Willful Directors</title>
+    <meta content="24ROCK$01" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Arts and Leisure Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="2" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Arts; Theater" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2003/08/24/arts/theater/24ROCK.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1514558"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <series series.name="THEATER"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Theater</classifier>
+        <person class="indexing_service">Rockwell, John</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/News and Features</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Music, Theater and Dance</classifier>
+        <classifier class="online_producer" type="descriptor">Theater</classifier>
+        <classifier class="online_producer" type="general_descriptor">Theater</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20030824T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE4D81130F937A1575BC0A9659C8B63" item-length="972" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>In Defense Of Willful Directors</hl1>
+        <hl2 class="online_headline">In Defense of Willful Directors</hl2>
+      </hedline>
+      <byline class="print_byline">By JOHN ROCKWELL</byline>
+      <byline class="normalized_byline">Rockwell, John</byline>
+      <abstract>
+        <p>John Rockwell discusses various directors' interpretations of new and classic plays; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>WE live in a theatrical age in which stage directors have assumed an ever more prominent place in the creative process. They mount productions of classics in ways the writers would never recognize. They forcefully shape the writing of new plays. They even create their own plays, sometimes relegating text to a subsidiary position, as Robert Wilson has done.</p>
+        <p>This steadily evolving influence has provoked overwrought complaints in the theater world, a world that very much includes opera. This summer alone, whether it was Mark Wing-Davey's production of Shakespeare's ''Henry V'' in Central Park, with all those chairs, or the varied approaches in the Kirov Opera season at the Metropolitan Opera, some people hate just about anything they perceive as untraditional.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The steadily evolving influence of stage directors in the creative process has provoked overwrought complaints in the theater world.</p>
+      </block>
+      <block class="full_text">
+        <p>WE live in a theatrical age in which stage directors have assumed an ever more prominent place in the creative process. They mount productions of classics in ways the writers would never recognize. They forcefully shape the writing of new plays. They even create their own plays, sometimes relegating text to a subsidiary position, as Robert Wilson has done.</p>
+        <p>This steadily evolving influence has provoked overwrought complaints in the theater world, a world that very much includes opera. This summer alone, whether it was Mark Wing-Davey's production of Shakespeare's ''Henry V'' in Central Park, with all those chairs, or the varied approaches in the Kirov Opera season at the Metropolitan Opera, some people hate just about anything they perceive as untraditional.</p>
+        <p>Even dead people are getting into the act, as in the estate of the late philanthropist Sybil Harrington, which recently sued the Metropolitan Opera for spending her money on a telecast of a production of Wagner's ''Tristan und Isolde'' that her executors said wasn't traditional enough for her (dead) tastes.</p>
+        <p>The considered critical response to all this is ''Whoa, Nelly.'' Theater has always been a collective, collaborative art. Over the centuries the relationship among the various creative forces has constantly changed. What the balance was in Shakespeare's time is utterly different from what it is today.</p>
+        <p>Or is it? One way to bridge a gulf of time and place is to ignore it -- by trying, say, to recreate just what Shakespeare's plays might have looked like 400 years ago. The rebuilt Globe Theater in London is an American vision (Sam Wanamaker) realized by a British artistic director (Mark Rylance). The performances there -- judged from a ''Richard III'' this summer with Kathryn Hunter in the title role -- may not embody every single speculation as to what performances at the Globe or the Rose might precisely have been like. But they come pretty close, and can be pretty wonderful.</p>
+        <p>Change is neither good nor bad. Presumably the best productions of brand-new works have a decent chance of reflecting the creators' intention (although even here, only a minor lapse of time can cause major problems, as in the attempts of Samuel Beckett's estate to suppress stagings that differ from his stage directions). Productions of centuries-old works, like ''Henry V,'' become more problematic, whatever the balance of pedantic reinstatement and poetic evocation.</p>
+        <p>''Traditional'' is a slippery word. One could imagine a ''Henry V'' set anywhere from the Globe to an East German public toilet (I can assure you that there must have been one). The Met's venerable version of Wagner's ''Ring,'' beloved by some as an insight into what Wagner really wanted, looks to me more like what venerable donors might have seen in their childhood in the 1930's.</p>
+        <p>Willful directors can either enliven or distort. Enliven, if they accept the gulf between a playwright's time and immediate intentions on the one hand and the sensibilities of today on the other, and set up a critical dialogue between past and present, text and audience. Distort, if they just lay a simple-minded, ideologically monolithic interpretation on a multi-faceted play (Georg Büchner's ''Woyzeck'' about, and only about, the evils of money, symbolized by dollars, as was recently done in Germany).</p>
+        <p>The temptation to distort is particularly powerful in a climate that discourages the new, like commercially cautious Broadway or the West End today. Or when the creators, like so many modernist composers, have drifted from the audience. Easier to feed the theatrical and operatic maw by tossing it proven hits, but spicing them up to slake the yearning for novelty.</p>
+        <p>Bold or brain-dead direction has been more common on the continent of Europe than in the more conservative, word-driven theatrical climate of the English-speaking world, no matter what the nationality of the director (cf. Mr. Wilson and Peter Sellars). In Europe it sometimes seems as if there are theaters every few miles, and everyone who cares has seen ''Henry V'' a hundred times.</p>
+        <p>My own response is to focus on the merits and demerits of whatever production I'm seeing right now, and to avoid the sweeping pronunciamentos of someone like Michael Feingold. Mr. Feingold, inspired by ''Henry V'' and the Kirov visit, recently unburdened himself of linked essays in two successive Village Voices decrying contemporary stage direction: ''Under the black umbrella of postmodernism,'' he wrote, ''visionary directing and the deflationary subversive kind formed an unholy merger, and the target of their takeover was the classic repertoire.''</p>
+        <p>Gosh. With all due respect to dramaturgy, I have never encountered a theory of theater that could explain why productions in any style work or not. Of course there are witless, arrogant, over-the-top directors, just like there are boring playwrights, ranting actors and no-talent celebrities. But some ''subversive'' productions are brilliantly unforgettable, like Mr. Wilson's account of ''A Dream Play'' three years ago at the Brooklyn Academy. Mr. Wilson revealed facets of Strindberg that Strindberg himself could never have envisaged, making for a compelling dialogue across time. Success or failure depends on particulars, not on generalist theory.</p>
+        <p>When the playwright ruled in Elizabethan theater, the world was bequeathed some great plays, in part because words are more durable than the ephemera of theatrical production. But there are still great plays being written today (Tom Stoppard, anyone?), just as composers managed to write great operas when singers ruled the operatic stage. It's the shifting creative balance that keeps theater alive. Deal with it.</p>
+        <p>THEATER</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Co-Chairmen Attuned to Macy's Needs</title>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1992" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="524491"/>
+      <doc.copyright holder="The New York Times" year="1992"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">APPOINTMENTS AND EXECUTIVE CHANGES</classifier>
+        <classifier class="indexing_service" type="descriptor">SUSPENSIONS, DISMISSALS AND RESIGNATIONS</classifier>
+        <org class="indexing_service">MACY, R H, &amp; CO INC</org>
+        <person class="indexing_service">SHAPIRO, EBEN</person>
+        <person class="indexing_service">ULLMAN, MYRON E 3D</person>
+        <person class="indexing_service">HANDLER, MARK S</person>
+        <person class="indexing_service">FINKELSTEIN, EDWARD S</person>
+        <classifier class="online_producer" type="types_of_material">Biography</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Appointments and Executive Changes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suspensions, Dismissals and Resignations</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19920428T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CEFDB103CF93BA15757C0A964958260" item-length="594" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Co-Chairmen Attuned to Macy's Needs</hl1>
+      </hedline>
+      <byline class="print_byline">By EBEN SHAPIRO</byline>
+      <byline class="normalized_byline">SHAPIRO, EBEN</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>In choosing two men to replace Edward S. Finkelstein, the R. H. Macy board took an unusual step intended to address the competing pressures facing the company.</p>
+        <p>The board gave the titles of co-chairman and co-chief executive to a financier, Myron E. Ullman 3d, and a merchant, Mark S. Handler. While the two men get along well, some management experts question whether such an arrangement can last.</p>
+      </block>
+      <block class="full_text">
+        <p>In choosing two men to replace Edward S. Finkelstein, the R. H. Macy board took an unusual step intended to address the competing pressures facing the company.</p>
+        <p>The board gave the titles of co-chairman and co-chief executive to a financier, Myron E. Ullman 3d, and a merchant, Mark S. Handler. While the two men get along well, some management experts question whether such an arrangement can last.</p>
+        <p>Some retailing consultants say they think the move was a stopgap measure aimed at dealing as neatly as possible with Mr. Finkelstein's abrupt departure. Mr. Ullman, a relative newcomer to the tradition-steeped department store company, and Mr. Handler, who has spent more than 30 years at Macy's, are a study in contrasts. But both played down the possibility of conflicts, noting that they had worked together closely for three and a half years.  "We see it as a long-term and very viable relationship," Mr. Handler said. "We think it's a very viable way to run a company."  The men will be jointly responsible for developing a Macy business plan, the crucial blueprint subject to approval of the company's creditors and the bankruptcy judge. Mr. Ullman will be responsible for operations and corporate functions and Mr. Handler will be in charge of merchandising and marketing.</p>
+        <p>Mr. Ullman joined Macy's in 1988. As vice chairman and chief operating officer, he has played the leading role in Macy's dealing with its lenders.</p>
+        <p>"He's a very good leader and a very good financial guy," said Mark Solow, a senior executive vice president of Chemical Bank, which played a leading role in arranging financing for Macy's 1986 leveraged buyout, and also in providing loans after it filed for bankruptcy in January.</p>
+        <p>Mr. Solow and others described Mr. Ullman as straightforward, bright and extremely focused. "He knows what's important and what's not," Mr. Solow said. Tall Order in Cincinnati</p>
+        <p>Mr. Ullman, who is 45 years old, was selected by President Ronald Reagan as a White House Fellow, a coveted position that exposes prominent young Americans to the workings of the Federal Government.</p>
+        <p>Guiding Macy's in bankruptcy is not Mr. Ullman's first experience with a financially troubled organization. As the 30-year-old chief financial officer at the University of Cincinnati, he brought order to an organization struggling to meet its budget. "He really put the entire university financial system in place for me," said Warren Bennis, a former president of the university who is now a business professor at the University of Southern California.</p>
+        <p>Still, as an author of several books on leadership, Mr. Bennis said that the division of power at Macy was unlikely to last. "It can work, but it usually doesn't last that long," he said. He added that if anybody could make such an arrangement work, Mr. Ullman could.</p>
+        <p>Management experts said such arrangements usually ran into problems because of turf battles and personality conflicts. For such divisions of authority to work, they say, it is important that each executive's responsibilities be clearly defined.</p>
+        <p>Walter Levy, a retail consultant, said the tandem appointment was likely an interim step. But he noted that large retail companies often divide up operations and management.</p>
+        <p>Mr. Handler, who is 59, has spent his career at Macy, joining the company's training program in 1958. He rose through the ranks with stops as a fabrics buyer and as chief executive of the Bamberger's subsidiary. Since 1980, Mr. Handler has been president and chief operating officer of R. H. Macy &amp; Company.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

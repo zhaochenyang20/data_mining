@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>No Time To Lose In Iraq</title>
+    <meta content="20FRIE$04" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="21" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2003/08/20/opinion/20FRIE.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1513470"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <series series.name="Op-Ed Columnist"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Terrorism</classifier>
+        <classifier class="indexing_service" type="descriptor">United States Armament and Defense</classifier>
+        <classifier class="indexing_service" type="descriptor">United States International Relations</classifier>
+        <classifier class="indexing_service" type="descriptor">Bombs and Explosives</classifier>
+        <classifier class="indexing_service" type="descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="indexing_service" type="descriptor">Pipelines</classifier>
+        <classifier class="indexing_service" type="descriptor">Foreign Aid</classifier>
+        <classifier class="indexing_service" type="descriptor">Politics and Government</classifier>
+        <location class="indexing_service">Iraq</location>
+        <location class="indexing_service">Baghdad (Iraq)</location>
+        <org class="indexing_service">United Nations</org>
+        <person class="indexing_service">Friedman, Thomas L</person>
+        <person class="indexing_service">Bremer, L Paul III</person>
+        <person class="indexing_service">Bush, George W (Pres)</person>
+        <person class="indexing_service">Viera De Mello, Sergio</person>
+        <classifier class="online_producer" type="types_of_material">Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Columnists</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Columnists/Thomas L Friedman</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Iraq</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East/Iraq</classifier>
+        <classifier class="online_producer" type="descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="descriptor">Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Foreign Aid</classifier>
+        <classifier class="online_producer" type="general_descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="online_producer" type="general_descriptor">Pipelines</classifier>
+        <classifier class="online_producer" type="general_descriptor">International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Armament and Defense</classifier>
+        <classifier class="online_producer" type="general_descriptor">Terrorism</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bombs and Explosives</classifier>
+        <classifier class="online_producer" type="general_descriptor">Armament, Defense and Military Forces</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <location class="online_producer">Iraq</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20030820T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9805E2DD1E30F933A1575BC0A9659C8B63" item-length="860" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>No Time To Lose In Iraq</hl1>
+        <hl2 class="online_headline">No Time to Lose in Iraq</hl2>
+      </hedline>
+      <byline class="print_byline">By THOMAS L. FRIEDMAN</byline>
+      <byline class="normalized_byline">Friedman, Thomas L</byline>
+      <abstract>
+        <p>Thomas L Friedman Op-Ed column says attacks on Iraqi pipelines, US forces and United Nations headquarters in Baghdad are steadily eroding sense of partnership between US and Iraqi people, which is essential for Iraq's future; says that Pres Bush must give Paul Bremer III, US administrator for Iraq, more resources to get basic services running and that more Iraqis must be placed in positions of responsibility, where they can be seen solving their country's own problems and can empower silent majority of Iraqis who want American to succeed; says Sergio Vieira de Mello, chief UN officer in Baghdad, who was killed in bombing of UN headquarters, told him just a few days ago that Iraqis could build different Iraq</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>I was stopped the other day at the U.S. Army checkpoint on the July 14 Bridge in the heart of Baghdad and told by the sergeant on duty that I didn't have the proper ID to enter the U.S. compound, which clogs the heart of the capital. So I called the U.S. Army officer I had an appointment with, and he offered to drive out to escort me in. To make certain he found me, I asked the sergeant who was running the checkpoint to take the phone and tell the officer exactly where we were standing. ''Sir,'' the sergeant said, ''we're on the enemy side of the July 14 bridge. . . .''</p>
+        <p>''Hmm,'' I thought to myself, ''the 'enemy side' of the July 14 Bridge? He's referring to Baghdad outside the walls of the U.S. compound.''</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The Pentagon has been too slow in turning Iraq over to Iraqis, the only people who can rescue the country.</p>
+      </block>
+      <block class="full_text">
+        <p>I was stopped the other day at the U.S. Army checkpoint on the July 14 Bridge in the heart of Baghdad and told by the sergeant on duty that I didn't have the proper ID to enter the U.S. compound, which clogs the heart of the capital. So I called the U.S. Army officer I had an appointment with, and he offered to drive out to escort me in. To make certain he found me, I asked the sergeant who was running the checkpoint to take the phone and tell the officer exactly where we were standing. ''Sir,'' the sergeant said, ''we're on the enemy side of the July 14 bridge. . . .''</p>
+        <p>''Hmm,'' I thought to myself, ''the 'enemy side' of the July 14 Bridge? He's referring to Baghdad outside the walls of the U.S. compound.''</p>
+        <p>I couldn't blame the sergeant for having that impression. The bad guys in Iraq have been gaining so much momentum in recent days -- with their attacks on pipelines, U.S. forces and the U.N. headquarters -- that they are steadily eroding the sense of partnership between U.S. forces and the Iraqi people.</p>
+        <p>The mounting attacks are forcing U.S. troops in Iraq to crouch more and more behind their own barricades, to mistrust more and more Iraqis, and to put up more and more roadblocks. There is now a huge cement wall being built around part of the U.S. compound in central Baghdad that is a carbon copy of the wall Israel is building in the West Bank.</p>
+        <p>The same is happening on the Iraqi side. The Pentagon, with its insistence on doing nation-building in Iraq on the cheap, has been too slow in forming a provisional Iraqi government, too slow in getting the electricity on, too slow in turning security over to Iraqis. As a result, while most Iraqis are happy to be rid of Saddam, too many feel that their lives are tangibly worse in every other respect -- jobs, electricity, roadblocks -- because of the U.S. presence. ''Saddam was paranoid, but he kept the streets open -- you're closing all the arteries,'' Muhammad Kadhim, a Baghdad professor, said to me.</p>
+        <p>Everyone has advice now for the U.S.: bring in U.N. peacekeepers, bring in the French. They're all wrong. There are only two things we need: more Americans out back and more Iraqis out front. President Bush needs to give the U.S. administrator, Paul Bremer III, more resources to get basic services here running and Iraqis in charge as fast as we can. This is not Germany 1945. America is much more radioactive in this region. We don't have infinite time.</p>
+        <p>Which is also why we need Iraqis out front -- fast. They need to be seen to be solving their own problems. They need to be manning the checkpoints because only they know who the good guys and bad guys are, and they need to be increasingly running the show so attacks on Iraq's infrastructure are seen and understood as attacks on Iraqis, not on us.</p>
+        <p>And, most important, we need them out front because the Iraqi silent majority is our only potential friend in this whole neighborhood. Everyone else wants America to fail. But we have not empowered that Iraqi silent majority enough, and it has been too timid and divided to step forward yet. ''The Iraqi people are the only ones in the area who have an interest in your success,'' said Masrour Barzani, the security chief for the Kurdistan Democratic Party, a real friend of America's. ''But you have not allowed that friendship to emerge.''</p>
+        <p>It can only emerge if America gets the basics right -- water, jobs and electricity -- and lets Iraqis run things faster. ''Let [Iraqis] take the credit; let them take the blame,'' Mr. Barzani said. ''We need Iraqis to face their own problems and each other, and right now you're in the way.''</p>
+        <p>I heard a similar message just a few days ago from Sergio Vieira de Mello, the chief U.N. officer in Baghdad, who was killed in yesterday's bombing. We met over Lebanese beer and pistachios at his hotel, and he told me how much he believed that Iraqis could build a different Iraq, if they were given half a chance. Like me, he was a congenital optimist who believed in people's better angels. His senseless death is heartbreaking.</p>
+        <p>It's also a challenge. Whoever blew up the U.N. office in Baghdad was trying to blow up Iraq's future. Yes, America must work harder now and devolve more power to Iraqis faster. But when all is said and done, only Iraqis can rescue this place. Only they can show us whether the diverse communities that make up this nation can rule themselves and take on their evil angels within. Only they can prove whether Iraqis are a nation with a collective will to be free and united. Only they can really tell us the true identity of the people on the other side of the July 14 bridge.</p>
+        <p>Op-Ed Columnist</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

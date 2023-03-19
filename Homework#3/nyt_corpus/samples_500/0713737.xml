@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>550 Agents' Jobs to Be Cut At Airline</title>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="713737"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <series series.name="COMPANY NEWS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">AIRLINES AND AIRPLANES</classifier>
+        <classifier class="indexing_service" type="descriptor">CONTRACTS</classifier>
+        <classifier class="indexing_service" type="descriptor">LABOR</classifier>
+        <org class="indexing_service">AMERICAN AIRLINES INC</org>
+        <person class="indexing_service">BRYANT, ADAM</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Manufacturing, Operations and Logistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Sales and Business Development</classifier>
+        <classifier class="online_producer" type="general_descriptor">Airlines and Airplanes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Labor</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19940923T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F01E2DC143AF930A1575AC0A962958260" item-length="466" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>550 Agents' Jobs to Be Cut At Airline</hl1>
+      </hedline>
+      <byline class="print_byline">By ADAM BRYANT</byline>
+      <byline class="normalized_byline">BRYANT, ADAM</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>American Airlines said yesterday that it would contract out the work of 550 agents at 30 airports, a move that American said will save it $35 million next year.</p>
+        <p>Big airlines have been trying to cut costs for years, but American's move is noteworthy because it addresses an area that airlines have been generally reluctant to touch: employees who deal directly with customers. After all, airlines have long cultivated identities based on the service their employees provide.</p>
+      </block>
+      <block class="full_text">
+        <p>American Airlines said yesterday that it would contract out the work of 550 agents at 30 airports, a move that American said will save it $35 million next year.</p>
+        <p>Big airlines have been trying to cut costs for years, but American's move is noteworthy because it addresses an area that airlines have been generally reluctant to touch: employees who deal directly with customers. After all, airlines have long cultivated identities based on the service their employees provide.</p>
+        <p>Airlines have hired other carriers in the past to handle their passengers in airports where they offer only a flight or two a day -- as Singapore Airlines and Swissair do for Delta -- but American's decision to contract out customer service jobs in so many cities suggests a broader shift away from tradition.</p>
+        <p>"Some of the work arrangements that have developed over the past 50 years must change," said Robert W. Baker, American's executive vice president of operations.</p>
+        <p>Some analysts said other carriers would most likely make similarly sweeping changes in customer service operations in the future.</p>
+        <p>"Airlines, like many other industries, are seeking to cut costs and this is just the opening gun of very extensive cost-cutting programs for the industry," said Julius Maldutis, an airline stock analyst at Salomon Brothers. "They will outsource anything they can."</p>
+        <p>In a similar move, Continental Airlines said last month that America West would start handling its passengers in Phoenix and in Las Vegas, Nev., while Continental would do the same for America West passengers in Houston and Newark. Delta Air Lines, in the midst of a drive to cut $2 billion in annual operating costs a year by 1997, said that nothing would be immune from cuts except for safety and passenger service.</p>
+        <p>American said that the 550 employees who would be affected by the cuts did not spend all their time dealing with customers. The agents, who are not unionized, do many jobs that do not involve customer relations. Their duties include issuing tickets, boarding passengers and handling luggage.</p>
+        <p>The company also said that some jobs at American's hub airports -- like baggage check-in, baggage service and cargo -- would also be gradually contracted out.</p>
+        <p>American said the 550 workers, whose jobs will be contracted out by June 1, will be offered jobs in other cities or severance packages. The airline said when the cuts were fully effective in several years the change would save the company $130 million a year.</p>
+        <p>The airline's stock rose $1.625 yesterday, to $54.625, on the New York Stock Exchange. American has not selected the companies that will do the contract work. However, it said that in some cases other service divisions of American's parent company, the AMR Corporation, would be considered for the work.  COMPANY NEWS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

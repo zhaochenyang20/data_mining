@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Ms. Gartner And Mr. Cowie</title>
+    <meta content="17GART$01" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1999" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1077902"/>
+      <doc.copyright holder="The New York Times" year="1999"/>
+      <series series.name="WEDDINGS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">GARTNER, KATHY ANNE (KATHY ANNE COWIE)</person>
+        <person class="indexing_service">COWIE, E. ANTHONY</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19990117T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D01EFDF1E31F934A25752C0A96F958260" item-length="195" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Ms. Gartner And Mr. Cowie</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Kathy Anne Gartner, a daughter of Mr. and Mrs. George W. Gartner of Forked River, N.J., was married yesterday to E. Anthony Cowie, a son of Mr. and Mrs. Edwin C. Cowie of Washington Township, N.J. Msgr. Thomas O'Leary performed the ceremony at the Church of St. Elizabeth in Wyckoff, N.J.</p>
+        <p>Mrs. Cowie, 34, is an art director in Secaucus, N.J., at Belae Brands, a manufacturer of bath and home products. She is also an owner of Gartner Software Solutions in Holmdel, N.J. She graduated from the University of Maryland. Her father, who is retired, was the president of the guidance systems division of Allied Signal in Teterboro, N.J. Her mother, Kathleen Gartner, also retired, taught the first grade at George Washington Elementary School in Wyckoff and was a broker at Hurwitt-Cottrell Real Estate in West Hartford, Conn.</p>
+      </block>
+      <block class="full_text">
+        <p>Kathy Anne Gartner, a daughter of Mr. and Mrs. George W. Gartner of Forked River, N.J., was married yesterday to E. Anthony Cowie, a son of Mr. and Mrs. Edwin C. Cowie of Washington Township, N.J. Msgr. Thomas O'Leary performed the ceremony at the Church of St. Elizabeth in Wyckoff, N.J.</p>
+        <p>Mrs. Cowie, 34, is an art director in Secaucus, N.J., at Belae Brands, a manufacturer of bath and home products. She is also an owner of Gartner Software Solutions in Holmdel, N.J. She graduated from the University of Maryland. Her father, who is retired, was the president of the guidance systems division of Allied Signal in Teterboro, N.J. Her mother, Kathleen Gartner, also retired, taught the first grade at George Washington Elementary School in Wyckoff and was a broker at Hurwitt-Cottrell Real Estate in West Hartford, Conn.</p>
+        <p>Mr. Cowie, 31, is an assistant vice president, in New York, of the Axa Group, the French insurance company, where he is an underwriter for domestic marine, aviation and satellite reinsurance. He graduated from the University of Richmond. His mother, Jean Anne Cowie, and his father own the Jim Loretto contracting company in Teaneck, N.J.</p>
+        <p>WEDDINGS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

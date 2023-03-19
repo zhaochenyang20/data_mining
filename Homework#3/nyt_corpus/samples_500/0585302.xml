@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Two Are Slain, Three Injured At Loud Party</title>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1993" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="27" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="585302"/>
+      <doc.copyright holder="The New York Times" year="1993"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">MURDERS AND ATTEMPTED MURDERS</classifier>
+        <location class="indexing_service">WILLIAMSBURG (NYC)</location>
+        <location class="indexing_service">NEW YORK CITY</location>
+        <person class="indexing_service">HOLLOWAY, LYNETTE</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="general_descriptor">Murders and Attempted Murders</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19930124T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE5D6163CF937A15752C0A965958260" item-length="283" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Two Are Slain, Three Injured At Loud Party</hl1>
+      </hedline>
+      <byline class="print_byline">By LYNETTE HOLLOWAY</byline>
+      <byline class="normalized_byline">HOLLOWAY, LYNETTE</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Two people were shot to death and three others were wounded early yesterday after a dispute erupted at a warehouse party in Brooklyn and spilled out onto the street, the police said.</p>
+        <p>The shooting occurred about 4:30 A.M. in front of S &amp; S Corrugated Paper Machinery Inc., at 160 North Fourth Street in Williamsburg, where the party was held, said a police spokesman, Sgt. John McCluskey.</p>
+      </block>
+      <block class="full_text">
+        <p>Two people were shot to death and three others were wounded early yesterday after a dispute erupted at a warehouse party in Brooklyn and spilled out onto the street, the police said.</p>
+        <p>The shooting occurred about 4:30 A.M. in front of S &amp; S Corrugated Paper Machinery Inc., at 160 North Fourth Street in Williamsburg, where the party was held, said a police spokesman, Sgt. John McCluskey.</p>
+        <p>Residents in the neighborhood said about 70 people attended the party, which started about 11 P.M. Many young people loitered outside the building, listening to loud music from car stereos, they said. Shortly after midnight, the police told them to be quiet and ordered them inside the building. But many went back out moments after the police left, neighbors said. 'I Saw 10 Kids'</p>
+        <p>"Sometime around 4:30 A.M. I was awakened by what sounded like firecrackers and ran to the window," said one neighbor, who would not let his name be used out of fear of retribution. The police recovered a submachinegun from the scene and about 20 spent shell casings.</p>
+        <p>Late yesterday, investigators were still trying to determine what the dispute was about and who fired the shots, Sergeant McCluskey said.</p>
+        <p>Francisco Espina Maldanado, 24, of 801 Driggs Avenue, and Eric Rivera of 417 Lorimer Street, both in Williamburg, died of gunshot wounds to the chest at Woodhull Hospital, said Sergeant McCluskey.</p>
+        <p>Timothy Aguila, 16, who was shot in the left foot, and John Leggio, 22, who was shot in the abdomen, were listed in serious but stable condition at Woodhull Hospital. Richard Rodriguez, 20, who was shot in the back, was listed in serious but stable condition at Beth Israel Hospital, the police said.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>2 Publishers Quit Iran Fair</title>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1989" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Weekend Desk" name="dsk"/>
+    <meta content="31" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="244697"/>
+      <doc.copyright holder="The New York Times" year="1989"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">BOOKS AND LITERATURE</classifier>
+        <classifier class="indexing_service" type="descriptor">BOOK FAIRS</classifier>
+        <classifier class="indexing_service" type="descriptor">BOOK TRADE</classifier>
+        <location class="indexing_service">IRAN</location>
+        <org class="indexing_service">MCGRAW-HILL BOOK CO</org>
+        <org class="indexing_service">WILEY, JOHN, &amp; SONS</org>
+        <person class="indexing_service">MCDOWELL, EDWIN</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East/Iran</classifier>
+        <classifier class="online_producer" type="general_descriptor">Book Fairs</classifier>
+        <classifier class="online_producer" type="general_descriptor">Book Fairs</classifier>
+        <classifier class="online_producer" type="general_descriptor">Book Trade</classifier>
+        <classifier class="online_producer" type="general_descriptor">Trade Shows and Fairs</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19890428T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950DE1D7153FF93BA15757C0A96F948260" item-length="483" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>2 Publishers Quit Iran Fair</hl1>
+      </hedline>
+      <byline class="print_byline">By EDWIN McDOWELL</byline>
+      <byline class="normalized_byline">MCDOWELL, EDWIN</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: McGraw-Hill and John Wiley &amp; Sons have both decided not to participate in the Iran Book Fair next month after widespread criticism of plans by the two publishing houses to have their books displayed there.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: McGraw-Hill and John Wiley &amp; Sons have both decided not to participate in the Iran Book Fair next month after widespread criticism of plans by the two publishing houses to have their books displayed there.</p>
+        <p>McGraw-Hill and John Wiley &amp; Sons have both decided not to participate in the Iran Book Fair next month after widespread criticism of plans by the two publishing houses to have their books displayed there.</p>
+        <p>Writers' groups and other publishing houses praised the two companies today for withdrawing from the fair, but several people in the industry said the decisions were largely symbolic since the books were shipped long ago to the fair, which is to be held May 7 to 19. Now the companies have withdrawn their authorization for the books to be displayed.</p>
+        <p>McGraw-Hill's books were scheduled to be displayed by an Iranian distributor, while Wiley's were to be displayed with those of several European publishers. Neither company had planned to send any personnel to Teheran. Nevertheless, both houses were sharply criticized by American authors and publishers this week for agreeing even to send books. PEN Praises Move</p>
+        <p>Two months ago Iran's leader, Ayatollah Ruhollah Khomeini, called for the killing of Salman Rushdie, the author of ''The Satanic Verses,'' which the Ayatollah called blasphemous to Islam. The Ayatollah also threatened Viking Penguin, the publisher.</p>
+        <p>Susan Sontag, president of the PEN American Center, which represents 2,200 writers in the United States, said, ''I am delighted and always hoped and expected that American publishers would stand together to express their solidarity with writers and other publishers being subjected to the monstrous intimidation emanating from Iran.''</p>
+        <p>McGraw-Hill's decision to withdraw was announced in a statement made public yesterday afternoon. ''The original decision to participate in the book fair,'' it said, ''was based on the belief that 'there should be no sanctions on knowledge,' and that some good would be served by making medical, scientific and technical publications available to Iranian students. However, the unfolding politicalization of the book fair indicates participation serves no constructive purpose.'' Wiley's Position</p>
+        <p>The Wiley statement reiterated the company's position that authors must be free to write and that publishers must be free to distribute their writings ''anywhere and everywhere.'' Thus more than a year ago, it said, Wiley agreed to display some books in Teheran, and it sent them shortly thereafter.</p>
+        <p>Leonard Harris, a Wiley consultant, said yesterday that the company learned two days ago from ''an international publishing source'' that Iran has decided to withhold visas from some publishers and individuals and that it has also excluded the books of some publishers.</p>
+        <p>''So Wiley notified officials of the Iran Book Fair that we will not participate in the fair,'' he added.</p>
+        <p>American publishers say Iran's book fair, which specializes in scientific, technical and medical books, is modest in comparison with the better-known Cairo International Book Fair held each year.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

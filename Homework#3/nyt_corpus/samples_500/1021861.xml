@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Why Must Farms Use Migrant Labor?</title>
+    <meta content="LTR033617" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="24" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1021861"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Agriculture</classifier>
+        <classifier class="indexing_service" type="descriptor">Migrant and Seasonal Agricultural Worker Protection Act</classifier>
+        <classifier class="indexing_service" type="descriptor">Migrant Labor</classifier>
+        <classifier class="indexing_service" type="descriptor">Labor</classifier>
+        <person class="indexing_service">Greene, Leonard M</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Migrant Labor</classifier>
+        <classifier class="online_producer" type="general_descriptor">Agriculture</classifier>
+        <classifier class="online_producer" type="general_descriptor">Labor</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980603T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE3DC123BF930A35755C0A96E958260" item-length="157" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Why Must Farms Use Migrant Labor?</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter by Leonard M Greene, president of Institute for Socioeconomics Studies, contends that inhuman living conditions of migrant workers in US, described in May 31 article, is result of distorted supply of labor to US farms</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re your May 31 front-page article on migrant farm workers: The inhuman living conditions of many migrant farm workers result from the distorted supply of labor to United States farms. Many Americans cannot afford to accept the low wages offered by agricultural employers because they would have to forfeit their social welfare benefits. This creates a surplus of impoverished farm laborers, many of whom are illegal immigrants.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re your May 31 front-page article on migrant farm workers: The inhuman living conditions of many migrant farm workers result from the distorted supply of labor to United States farms. Many Americans cannot afford to accept the low wages offered by agricultural employers because they would have to forfeit their social welfare benefits. This creates a surplus of impoverished farm laborers, many of whom are illegal immigrants.</p>
+        <p>To attract more citizens to low-paying jobs like farm labor, income above the poverty level has to be assured. The Government should cash out its narrowly defined corporate and social welfare programs and redirect that money to every American in an annual tax rebate that, when added to the minimum wage, would bring every worker above the poverty level.</p>
+        <p>LEONARD  M.  GREENE  White Plains, June 1, 1998</p>
+        <p>The writer is the president of the Institute for Socioeconomic Studies.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

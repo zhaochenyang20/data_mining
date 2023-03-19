@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Schulman (A.) Inc.(SHLM,NNM) reports earnings for Qtr to Aug 31</title>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="722816"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">COMPANY EARNINGS</classifier>
+        <classifier class="online_producer" type="types_of_material">Statistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19941104T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=980CEEDD1639F937A35752C1A962958260" item-length="110" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Schulman (A.) Inc.(SHLM,NNM) reports earnings for Qtr to Aug 31</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="full_text">
+        <p>*3*** COMPANY REPORTS **</p>
+        <p>*3*Schulman (A.) Inc.(SHLM,NNM)</p>
+        <p>Qtr to Aug 31</p>
+        <p>1994</p>
+        <p>1993</p>
+        <p>Sales</p>
+        <p>210,704,000</p>
+        <p>160,354,000</p>
+        <p>Net inc</p>
+        <p>13,761,000</p>
+        <p>12,024,000</p>
+        <p>Share earns</p>
+        <p>.37</p>
+        <p>.32</p>
+        <p>Shares outst</p>
+        <p>37,458,119</p>
+        <p>37,388,565</p>
+        <p>Yr sales</p>
+        <p>756,234,000</p>
+        <p>693,215,000</p>
+        <p>Net inc</p>
+        <p>44,571,000</p>
+        <p>b36,738,000</p>
+        <p>Share earns</p>
+        <p>1.19</p>
+        <p>.98</p>
+        <p>Shares outst</p>
+        <p>37,438,118</p>
+        <p>37,325,547</p>
+        <p>b-After a charge of $ 2,169,000, or 6 cents a share, from an adjustment in accounting. The latest quarter included a gain of $ 360,000, or 1 cent a share, on foreign exchange rate translation. The translation reduced latest year earnings by $ 1.2 million, or 3 cents a share.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

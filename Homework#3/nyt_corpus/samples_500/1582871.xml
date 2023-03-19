@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Richard Strong Is Not Expected to Face Criminal Changes</title>
+    <meta content="19FUND$02" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2004/05/19/business/19fund.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1582871"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Stocks and Bonds</classifier>
+        <classifier class="indexing_service" type="descriptor">Suits and Litigation</classifier>
+        <classifier class="indexing_service" type="descriptor">Ethics</classifier>
+        <classifier class="indexing_service" type="descriptor">Mutual Funds</classifier>
+        <classifier class="indexing_service" type="descriptor">Securities and Commodities Violations</classifier>
+        <org class="indexing_service">Strong Capital Management</org>
+        <person class="indexing_service">Atlas, Riva D</person>
+        <person class="indexing_service">Strong, Richard S</person>
+        <person class="indexing_service">Spitzer, Eliot</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="descriptor">Attorneys General</classifier>
+        <classifier class="online_producer" type="descriptor">Suits and Litigation</classifier>
+        <classifier class="online_producer" type="descriptor">Securities and Commodities Violations</classifier>
+        <classifier class="online_producer" type="descriptor">Mutual Funds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mutual Funds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ethics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Attorneys General</classifier>
+        <classifier class="online_producer" type="general_descriptor">Futures and Options Trading</classifier>
+        <classifier class="online_producer" type="general_descriptor">Securities and Commodities Violations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suits and Litigation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <org class="online_producer">Strong Capital Management</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040519T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9406EFDF133FF93AA25756C0A9629C8B63" item-length="601" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Richard Strong Is Not Expected to Face Criminal Changes</hl1>
+        <hl2 class="online_headline">Richard Strong Is Not Expected to Face Criminal Changes</hl2>
+      </hedline>
+      <byline class="print_byline">By RIVA D. ATLAS</byline>
+      <byline class="normalized_byline">Atlas, Riva D</byline>
+      <abstract>
+        <p>Richard S Strong, founder of Strong Capital Management, will not face criminal charges from New York State Atty Gen Eliot Spitzer for rapid trades he made in and out of mutual funds; Strong has been in talks with Spitzer and other regulators to settle investigation into trades he made in funds managed by Strong Capital (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Richard S. Strong will not face criminal charges from the New York attorney general for rapid trades he made in and out of mutual funds, people briefed on the talks said last night.</p>
+        <p>Mr. Strong, the founder of Strong Capital Management of Menomonee Falls, Wis., has been in negotiations with the attorney general, Eliot Spitzer, and other regulators to settle an investigation into trades he made in funds managed by Strong Capital.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Richard S. Strong will not face criminal charges from the New York attorney general for rapid trades he made in and out of mutual funds, people briefed on the talks said last night.</p>
+      </block>
+      <block class="full_text">
+        <p>Richard S. Strong will not face criminal charges from the New York attorney general for rapid trades he made in and out of mutual funds, people briefed on the talks said last night.</p>
+        <p>Mr. Strong, the founder of Strong Capital Management of Menomonee Falls, Wis., has been in negotiations with the attorney general, Eliot Spitzer, and other regulators to settle an investigation into trades he made in funds managed by Strong Capital.</p>
+        <p>Negotiations remained fluid yesterday, and an announcement could come today of either a settlement or a civil suit against Mr. Strong, these people said.</p>
+        <p>Mr. Spitzer had left open the possibility of a criminal case against Mr. Strong last October, when he disclosed the trading Mr. Strong had done for his own account.</p>
+        <p>''There will be charges brought, the nature of which have yet to be defined,'' Mr. Spitzer said at the time. ''If you ever wanted proof that there were two sets of rules -- one for insiders and one for individual investors -- this is it.''</p>
+        <p>A grand jury convened by Mr. Spitzer has been hearing evidence for months about the trades. But Mr. Spitzer concluded that it would be hard to successfully prosecute a criminal case because such market timing is not necessarily illegal, people briefed on the negotiations said.</p>
+        <p>Mr. Spitzer has brought criminal charges against several individuals associated with improper trading in funds but so far has not brought a criminal case against the leaders of any fund company.</p>
+        <p>Mr. Strong, 62, traded in and out of funds managed by his company on behalf of his own account and the accounts of family and friends, Mr. Spitzer has said. He made the trades despite language in fund documents indicating that his company discouraged the practice.</p>
+        <p>Mr. Strong, whose net worth has been estimated at $800 million by Forbes magazine, made about $600,000 on the trades, people briefed on the investigation have said.</p>
+        <p>Mr. Strong's lawyer, Stanley Arkin, has said his client did nothing wrong. ''I have nothing to report,'' Mr. Arkin said last night. ''There are very intense negotiations going on.''</p>
+        <p>Mr. Strong, who resigned in December as chairman of Strong Capital, is eager to settle with regulators because the investigation is making it difficult for him to sell his majority interest in the company. The most likely buyer, Wells Fargo, does not want to commit to an acquisition until regulators resolve their investigation, said people briefed on the sale negotiations, which were announced last December.</p>
+        <p>Strong Capital disclosed in prospectuses for its funds that several regulators were investigating trading by employees of the company, including Mr. Strong. Besides Mr. Spitzer's office, the list includes the Securities and Exchange Commission, the Wisconsin attorney general and the Wisconsin Department of Financial Institutions. It has also received ''one or more'' subpoenas from the West Virginia attorney general and other regulatory agencies, the company said.</p>
+        <p>A spokeswoman for Wells Fargo and a spokesman for Strong Capital declined to comment on negotiations with regulators. A spokeswoman for Mr. Spitzer and a representative of the S.E.C. also declined comment. A spokesman for the Wisconsin attorney general could not be reached last night.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

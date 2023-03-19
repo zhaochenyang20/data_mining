@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>TAMIL RESISTANCE WANES</title>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Week in Review Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Week in Review" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="86360"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <series series.name="THE WORLD: REFUGEE FLOOD"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">MILITARY ACTION</classifier>
+        <classifier class="indexing_service" type="descriptor">ARMAMENT, DEFENSE AND MILITARY FORCES</classifier>
+        <classifier class="indexing_service" type="descriptor">CIVIL WAR AND GUERRILLA WARFARE</classifier>
+        <classifier class="indexing_service" type="descriptor">REFUGEES AND EXPATRIATES</classifier>
+        <classifier class="indexing_service" type="descriptor">TAMILS (ETHNIC GROUP)</classifier>
+        <location class="indexing_service">SRI LANKA, REPUBLIC OF</location>
+        <location class="indexing_service">INDIA</location>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Week in Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/India</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/Sri Lanka</classifier>
+        <classifier class="online_producer" type="general_descriptor">Civil War and Guerrilla Warfare</classifier>
+        <classifier class="online_producer" type="general_descriptor">Immigration and Refugees</classifier>
+        <classifier class="online_producer" type="general_descriptor">War and Revolution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Armament, Defense and Military Forces</classifier>
+        <classifier class="online_producer" type="general_descriptor">Culture</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19871025T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE3DE1F3DF936A15753C1A961948260" item-length="260" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>TAMIL RESISTANCE WANES</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: INDIAN troops were winning the real estate in their battle with Tamil guerrillas last week, but their main political target, Velupillai Prabakaran, commander of the separatist Liberation Tigers of Tamil Eelam, reportedly escaped to fight another day. After a two-week siege, 8,000 Indian soldiers were said to have captured all but a few pockets of resistance in Jaffna, the northern stronghold of Sri Lanka's Tamil minority.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: INDIAN troops were winning the real estate in their battle with Tamil guerrillas last week, but their main political target, Velupillai Prabakaran, commander of the separatist Liberation Tigers of Tamil Eelam, reportedly escaped to fight another day. After a two-week siege, 8,000 Indian soldiers were said to have captured all but a few pockets of resistance in Jaffna, the northern stronghold of Sri Lanka's Tamil minority.</p>
+        <p>INDIAN troops were winning the real estate in their battle with Tamil guerrillas last week, but their main political target, Velupillai Prabakaran, commander of the separatist Liberation Tigers of Tamil Eelam, reportedly escaped to fight another day. After a two-week siege, 8,000 Indian soldiers were said to have captured all but a few pockets of resistance in Jaffna, the northern stronghold of Sri Lanka's Tamil minority. Yesterday, the Indians said they were still encountering ''a lot of sniping.''</p>
+        <p>More than 600 guerrillas and 100 Indian soldiers have been killed, Indian officials said. With few exceptions, however, journalists were barred from the area, so the claims could not be verified. With information tightly controlled, support for the rebels seemed to be waning among the tens of millions of Tamils of the southern Indian state of Tamil Nadu; such support was a major concern for the Indian Government. The Indians attacked anew after Mr. Prabakaran backed away from a promise to surrender weapons, and guerrilla attacks resumed against members of Sri Lanka's ethnic majority, the Sinhalese.</p>
+        <p>India has dispatched 20,000 soldiers, many of them ethnic Tamils, to enforce the agreement signed by the two countries July 29. Mr. Prabakaran had been promised a leading role in a more fully automonous regional government. Meanwhile, an estimated 500,000 refugees have fled from northern and eastern Sri Lanka in the last three weeks. Ninety thousand refugees from earlier phases of the four-year-old conflict were already living in camps.</p>
+        <p>THE WORLD: REFUGEE FLOOD</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

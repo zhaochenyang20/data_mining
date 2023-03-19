@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Eyes on Alaska, Where the Oil Is</title>
+    <meta content="L03ALA$01" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2001/02/03/opinion/L03ALA.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1267813"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Gas (Fuel)</classifier>
+        <classifier class="indexing_service" type="descriptor">Pipelines</classifier>
+        <location class="indexing_service">Alaska</location>
+        <person class="indexing_service">Murkowski, Frank H (Sen)</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Alaska</classifier>
+        <classifier class="online_producer" type="general_descriptor">Gas (Fuel)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Pipelines</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20010203T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F01E0DB123EF930A35751C0A9679C8B63" item-length="214" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Eyes on Alaska, Where the Oil Is</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter from Sen Frank H Murkowski of Alaska says he appreciates support in Jan 31 editorial to Alaska's plan for gas pipeline to bring natural gas from Prudhoe Bay</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Wrong Way on Energy'' (editorial, Jan. 31):</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Wrong Way on Energy'' (editorial, Jan. 31):</p>
+        <p>Why is there interest in the small area of the coastal plain of the Arctic National Wildlife Refuge? Because there are potentially billions of barrels of oil there.</p>
+        <p>We are preparing a comprehensive energy program that includes renewables, alternative fuels, conservation and development. The goal is to reduce our dependence on foreign oil. The parallel is that even one power plant could have made the difference in California's energy crisis, just as 16 billion barrels of oil could make the difference in our national energy security.</p>
+        <p>Without more resources, the country may face similar crises. In that vein, Alaska is preparing a gas pipeline to bring natural gas from Prudhoe Bay; we appreciate your support of the idea.</p>
+        <p>FRANK H. MURKOWSKI  Washington, Feb. 1, 2001</p>
+        <p>The writer, an Alaska Republican, is chairman of the Senate Energy and Natural Resources Committee.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

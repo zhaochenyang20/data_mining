@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Venus Williams Defeats Dokic in Straight Sets</title>
+    <meta content="Y05TEN$01" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2002/08/05/sports/tennis/05TENN.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1413740"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <series series.name="TENNIS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Tennis</classifier>
+        <classifier class="indexing_service" type="descriptor">Acura Classic (Tennis)</classifier>
+        <person class="indexing_service">Arkush, Michael</person>
+        <person class="indexing_service">Williams, Venus</person>
+        <person class="indexing_service">Dokic, Jelena</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Tennis</classifier>
+        <classifier class="online_producer" type="descriptor">Tennis</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tennis</classifier>
+        <person class="online_producer">Williams, Venus</person>
+        <person class="online_producer">Dokic, Jelena</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20020805T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9402EED9133BF936A3575BC0A9649C8B63" item-length="621" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Venus Williams Defeats Dokic in Straight Sets</hl1>
+        <hl2 class="online_headline">Venus Williams Defeats Dokic in Straight Sets</hl2>
+      </hedline>
+      <byline class="print_byline">By MICHAEL ARKUSH</byline>
+      <byline class="normalized_byline">Arkush, Michael</byline>
+      <dateline>CARLSBAD, Calif. Aug. 4</dateline>
+      <abstract>
+        <p>Venus Williams defeats Jelena Dokic to win Acura Classic; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Only one of the Williams sisters, Venus, entered the field for the Acura Classic at the La Costa Resort and Spa. Serena took the week off.</p>
+        <p>In today's world of women's tennis, that usually removes the only obstacle preventing the older sister from capturing yet another title. Venus Williams has lost only six times this year, three times to Serena, who has supplanted her as the top-ranked player.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Venus Williams beat Jelena Dokic, 6-2, 6-2, in just 55 minutes to win the Acura Classic.</p>
+      </block>
+      <block class="full_text">
+        <p>Only one of the Williams sisters, Venus, entered the field for the Acura Classic at the La Costa Resort and Spa. Serena took the week off.</p>
+        <p>In today's world of women's tennis, that usually removes the only obstacle preventing the older sister from capturing yet another title. Venus Williams has lost only six times this year, three times to Serena, who has supplanted her as the top-ranked player.</p>
+        <p>Venus, ranked No. 2, coasted to a 6-2, 6-2 victory over sixth-seeded Jelena Dokic in 55 minutes in today's uneventful final. She was dominant, recording 23 winners to Dokic's 5. She limited her unforced errors, a former weakness, to 24. Williams had six aces and lost her serve once, but by then, the match was pretty much over.</p>
+        <p>''I just had a great day,'' said Williams, who won this tournament for the third consecutive year. ''Winning is so familiar here.''</p>
+        <p>She had a lot of great days this week. In Saturday night's semifinal, she dispatched Lindsay Davenport, 6-2, 6-1, in one hour. Her only real challenge came in the quarterfinals, when she needed three sets to eliminate Kim Clijsters of Belgium, 6-3, 5-7, 6-4. In that match, she crushed 31 winners, but also made 73 errors.</p>
+        <p>''Fortunately, I was able to get it back,'' Williams said.</p>
+        <p>Cutting back on her errors has been a big priority in recent years.</p>
+        <p>''You get tired of making mistakes,'' she said.''I got tired of fighting all day against myself and my opponent.''</p>
+        <p>Dokic, 19, from Yugoslavia, was exhausted after two straight difficult matches, against Jennifer Capriati and Anna Kournikova. Each match went three sets. She also had a stomach virus and went to a doctor this morning. It is formidable enough facing Venus Williams even when healthy.</p>
+        <p>''I was very tired from the last two days,'' Dokic said. ''I was very tired and very sore.''</p>
+        <p>The fatigue was not evident early in the match. Dokic held her serve at love in the first game. After Williams took the second game, Dokic held again, saving a break point.</p>
+        <p>But Williams captured the next five games to take the set. Dokic held again to start the second set, but was broken in the third game. Williams cruised from there. The only miscue came when she was broken by Dokic in the sixth game. But, typically, she broke right back.</p>
+        <p>''I hit two or three unbelievable drop shots and she took steps and was there and hit a winner,'' Dokic said. ''Sometimes you just have to say, 'Too good.' ''</p>
+        <p>Nonetheless, Dokic, the world's fifth-ranked player, is not ready to surrender to the Williams sisters.</p>
+        <p>''They are beatable at times,'' Dokic said. ''Not a lot of times, but they are beatable. How long they can keep it going is a different story.''</p>
+        <p>In the meantime, though, a more immediate question is: Can the older sister regain the upper hand? Venus's last two losses to Serena, both in straight sets, came in the finals at the French Open and Wimbledon. Serena had also beaten her earlier in the year at a tournament in Miami. Their next meeting could be at the United States Open, which begins in late August. Venus is the two-time defending champion.</p>
+        <p>This week, the roles will be reversed.</p>
+        <p>Venus Williams will fly back to her home in Florida while Serena will compete in the JPMorgan Chase Open at Manhattan Beach, Calif. Also in the field will be Capriati, Davenport, Dokic and Clijsters.</p>
+        <p>TENNIS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

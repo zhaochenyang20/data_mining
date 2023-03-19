@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Tiny Nation's Premier Learns to Run With the Big Dogs</title>
+    <meta content="22andorra" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2006/09/22/nyregion/22andorra.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1791884"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <identified-content>
+        <location class="indexing_service">Andorra</location>
+        <org class="indexing_service">United Nations</org>
+        <org class="indexing_service">General Assembly (Un)</org>
+        <person class="indexing_service">Barron, James</person>
+        <person class="indexing_service">Pintat, Albert (Prime Min)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Andorra</classifier>
+        <classifier class="online_producer" type="descriptor">International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <location class="online_producer">Andorra</location>
+        <org class="online_producer">United Nations</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060922T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A07E3DF1E31F931A1575AC0A9609C8B63" item-length="812" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Tiny Nation's Premier Learns to Run With the Big Dogs</hl1>
+        <hl2 class="online_headline">From Tiny Andorra to the U.N. Center Stage</hl2>
+      </hedline>
+      <byline class="print_byline">By JAMES BARRON</byline>
+      <byline class="normalized_byline">Barron, James</byline>
+      <abstract>
+        <p>Prime Minister Albert Pintat of Andorra, European nation with one city, receives same attention given to representatives of larger nations while in New York City to attend opening session of United Nations General Assembly; photos (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>In New York, every president or visiting prime minister rides around in a limousine or a sport utility vehicle, trailed by security guys who have little plastic coils that run up their necks to little earphones that stick out of their ears. George H. W. Bush. Bill Clinton. Tony Blair. Albert Pintat.</p>
+        <p>Yes, Albert Pintat, the prime minister of Andorra, an amoeba-shaped principality between France and Spain with 75,000 citizens, half as many as Fort Lauderdale, Fla., and less than 1 percent of the population of New York City.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>For the prime minister of Andorra, an amoeba-shaped principality between France and Spain, a weeklong visit to New York means not having to drive himself around.</p>
+      </block>
+      <block class="full_text">
+        <p>In New York, every president or visiting prime minister rides around in a limousine or a sport utility vehicle, trailed by security guys who have little plastic coils that run up their necks to little earphones that stick out of their ears. George H. W. Bush. Bill Clinton. Tony Blair. Albert Pintat.</p>
+        <p>Yes, Albert Pintat, the prime minister of Andorra, an amoeba-shaped principality between France and Spain with 75,000 citizens, half as many as Fort Lauderdale, Fla., and less than 1 percent of the population of New York City.</p>
+        <p>Mr. Pintat's country is income tax-free and limousine-free. When he goes places in Andorra's one city, he drives himself, if he does not simply walk. He has no security detail, no entourage.</p>
+        <p>The way Mr. Pintat describes Andorra, it sounds like a place created not by Charlemagne, as legend and the national anthem have it, but by Garrison Keillor. ''The world forgot us,'' he says, cheerfully.</p>
+        <p>How different his weeklong visit to New York has been from a week at home. Since he arrived to attend the opening session this week of the United Nations General Assembly, Mr. Pintat has not been in the driver's seat once. He has not had to learn the New York driver's alphabet: the B.Q.E., the F.D.R., C.P.W.</p>
+        <p>Nor has he had to figure out such New York driving rituals as alternate-side parking, for he has been just another leader in the back seat of just another limousine creeping toward the United Nations.</p>
+        <p>And he has been trailed by American Secret Service agents. They ride in elevators with him. They cool their heels when he decides, as he did on Wednesday afternoon, to stop by the Andorran mission and work on ''the speech.'' For his week was focused on ''the speech,'' which he delivered yesterday afternoon from the same lectern at which President Bush spoke one day and President Hugo Chávez of Venezuela called him ''the devil'' the next.</p>
+        <p>There was also the reception, which is a diplomatic must when heads of state are in town. Little Andorra drew a big crowd: more than 75 people shook Mr. Pintat's hand as they moved through his receiving line at the Millennium U.N. Plaza Hotel, across First Avenue from the United Nations.</p>
+        <p>As lower-level diplomats from other nations swirled through the crowded room, Ambassador Ravan Farhadi of Afghanistan leaned against the piano. Across the room, sipping a glass of water, Mr. Pintat talked about how comfortable he felt in New York.</p>
+        <p>''I was always impressed with what is written under the liberty lady -- here you are welcome,'' he said. And with so many leaders in New York at once, he said, ''you can speak with Montenegro, with Switzerland, with Iceland. All your friends, you can see them here.''</p>
+        <p>He does not mind being the smallest of players on the world stage. ''We do not want to join the E.U.,'' he said, referring to the European Union.</p>
+        <p>Andorra has been working to shake off a reputation as the dowdy laughingstock of the Pyrenees, as a tax refuge mentioned in the same breath as Monaco or Liechtenstein and as a front for swindlers on eBay who are based elsewhere.</p>
+        <p>Mr. Pintat said Andorra had been going through an ''economic evolution.'' Parliament has been considering a corporate tax, but not a personal income tax. ''You don't need that much taxation,'' he said.</p>
+        <p>Mr. Pintat mentioned that Andorra had the world's lowest unemployment rate (zero). Encyclopedias and almanacs add details that he did not: Andorrans have the world's longest life expectancy (83 1/2 years). Andorra has no navy -- it is, after all, landlocked, although it has dozens of mountain lakes -- and it has no army, either. Until 1993, it had a law requiring every household to keep a firearm that could be used to defend the country, said Joseph Altarriba, an aide who accompanied Mr. Pintat to New York.</p>
+        <p>Officially, Andorra was at war with Germany until the 1950's. (Andorra was mistakenly left out of the Versailles treaty that ended World War I.)</p>
+        <p>These days, Andorrans spend euros -- Andorra does not have its own currency, and it has been known as a place that appeals to rich foreigners who want to avoid taxes.</p>
+        <p>In 2002, the Organization for Economic Cooperation and Development put the country on its list of uncooperative tax havens. But Mr. Pintat, who has been prime minister since May 2005, said Andorra was not like that.</p>
+        <p>''We don't go in for offshore business or tax evasion,'' he said. In fact, he said, foreign business interests can own only a third of an Andorran-based company. Andorrans must own the rest.</p>
+        <p>Still, he said, the corporate tax law would go a long way toward redeeming Andorra's reputation. ''After 9/11, you have to prove you are clean,'' he said. ''We thought, being a small country, we didn't have to show our wallet.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

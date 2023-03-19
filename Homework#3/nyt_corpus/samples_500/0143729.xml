@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Panama Banks Reopen Under New Constraints</title>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1988" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="143729"/>
+      <doc.copyright holder="The New York Times" year="1988"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">BANKS AND BANKING</classifier>
+        <classifier class="indexing_service" type="descriptor">ECONOMIC CONDITIONS AND TRENDS</classifier>
+        <location class="indexing_service">PANAMA</location>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Panama</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Americas</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Central and South America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Central and South America/Panama</classifier>
+        <classifier class="online_producer" type="general_descriptor">Banks and Banking</classifier>
+        <classifier class="online_producer" type="general_descriptor">Economic Conditions and Trends</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19880510T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DE7D6133FF933A25756C0A96E948260" item-length="143" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Panama Banks Reopen Under New Constraints</hl1>
+      </hedline>
+      <byline class="print_byline">Special to the New York Times</byline>
+      <dateline>PANAMA, May 9</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Banks here opened under close restrictions today in an effort by the military Government to make enough cash available to the public to permit a limited return to normal of economic activity.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Banks here opened under close restrictions today in an effort by the military Government to make enough cash available to the public to permit a limited return to normal of economic activity.</p>
+        <p>Banks here opened under close restrictions today in an effort by the military Government to make enough cash available to the public to permit a limited return to normal of economic activity.</p>
+        <p>If the economy gains a boost, it will be a blow to the Reagan Administration's effort to use economic sanctions to force the military leader, Gen. Manuel Antonio Noriega, to resign.  Because of the political and economic crisis here, Panamanian banks have not been allowing clients to withdraw cash for the last two months.</p>
+        <p>This morning, most private banks allowed clients to withdraw up to 25 percent of their deposits, with a limit of $500 to $2,000 a month. The limits are designed to avoid a run on the banks.</p>
+        <p>Unlike the private banks, the Government-owned National Bank of Panama and the National Savings Bank are not allowing depositors to withdraw cash.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

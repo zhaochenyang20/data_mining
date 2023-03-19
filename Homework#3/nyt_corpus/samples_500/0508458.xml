@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Dr. Hacib Aoun, 36; Championed Rights Of Health Workers</title>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="1992" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="U.S.; Obituaries" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="508458"/>
+      <doc.copyright holder="The New York Times" year="1992"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">DEATHS</classifier>
+        <classifier class="indexing_service" type="descriptor">BIOGRAPHICAL INFORMATION</classifier>
+        <classifier class="indexing_service" type="descriptor">ACQUIRED IMMUNE DEFICIENCY SYNDROME (AIDS)</classifier>
+        <person class="indexing_service">AOUN, HACIB (DR)</person>
+        <person class="indexing_service">NAVARRO, MIREYA</person>
+        <classifier class="online_producer" type="types_of_material">Biography</classifier>
+        <classifier class="online_producer" type="types_of_material">Obituary (Obit)</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Obituaries</classifier>
+        <classifier class="online_producer" type="general_descriptor">Acquired Immune Deficiency Syndrome</classifier>
+        <classifier class="online_producer" type="general_descriptor">Acquired Immune Deficiency Syndrome</classifier>
+        <classifier class="online_producer" type="general_descriptor">Viruses</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diseases and Conditions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19920218T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CEED81F30F93BA25751C0A964958260" item-length="358" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Dr. Hacib Aoun, 36; Championed Rights Of Health Workers</hl1>
+      </hedline>
+      <byline class="print_byline">By MIREYA NAVARRO</byline>
+      <byline class="normalized_byline">NAVARRO, MIREYA</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Dr. Hacib Aoun, a doctor who championed the rights of health-care workers after becoming infected with H.I.V. on the job, died Sunday at his home in Glen Arm, Md. He was 36 years old.</p>
+        <p>Dr. Aoun died of complications from AIDS, said a friend, Lee Koromvokis.</p>
+      </block>
+      <block class="full_text">
+        <p>Dr. Hacib Aoun, a doctor who championed the rights of health-care workers after becoming infected with H.I.V. on the job, died Sunday at his home in Glen Arm, Md. He was 36 years old.</p>
+        <p>Dr. Aoun died of complications from AIDS, said a friend, Lee Koromvokis.</p>
+        <p>Dr. Aoun was one of the earliest health-care workers to become infected in the course of his duties. He became infected with H.I.V., the virus that causes AIDS, in 1982 at John Hopkins University Hospital when a test tube with contaminated blood broke in his hand, piercing a thumb. He was diagnosed as having AIDS in 1986.</p>
+        <p>Dr. Aoun sued the hospital, saying hospital officials refused to support him and dismissed him from his hospital job. University officials said they offered him a faculty position and other benefits before he brought his suit. The lawsuit was settled out of court in 1988. Opposed Mandatory Testing</p>
+        <p>A cardiologist educated at the University of Costa Rica and Vanderbilt University in Nashville, Dr. Aoun was a chief resident of medicine at the time of the accident. Even as his health faltered, he became a strong voice on behalf of health-care workers, opposing mandatory testing of health-care workers for H.I.V. because of likely discrimination against those infected. He also exhorted interns and residents to insure that they had benefits to protect themselves in the event they contracted an illness on the job.</p>
+        <p>"They ask you to go be on the front lines in medicine, saying you have a moral and ethical duty to do it, and you go willingly," he told The New York Times in March 1990. "But if something happens, you are on your own."</p>
+        <p>In an article published this month in the Annals of Internal Medicine, he said: "Medicine must lead the way in changing society's fears and misconceptions about AIDS. If medical people show little compassion or discriminate against the victims of this illness, why should the rest of society know or do better?"</p>
+        <p>He is survived by his wife, Dr. Patricia Aoun of Glen Arm, and a daughter, Gabriela; his parents, Orlando and Aura Aoun, and two brothers, Orlando and Juan Carlos, all of Caracas, Venezuela.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Muni Funds Provide Hideaway From Taxes</title>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="1993" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="" name="dsk"/>
+    <meta content="35" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Your Money Page" name="feature_page"/>
+    <docdata>
+      <doc-id id-string="620559"/>
+      <doc.copyright holder="The New York Times" year="1993"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">STOCKS AND BONDS</classifier>
+        <classifier class="indexing_service" type="descriptor">MUTUAL FUNDS</classifier>
+        <classifier class="indexing_service" type="descriptor">GOVERNMENT BONDS</classifier>
+        <classifier class="indexing_service" type="descriptor">INVESTMENT STRATEGIES</classifier>
+        <classifier class="indexing_service" type="descriptor">FINANCES, PERSONAL</classifier>
+        <person class="indexing_service">GOULD, CAROLE</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mutual Funds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Government Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Personal Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19930710T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CEFDF1F3FF933A25754C0A965958260" item-length="851" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Muni Funds Provide Hideaway From Taxes</hl1>
+      </hedline>
+      <byline class="print_byline">By CAROLE GOULD</byline>
+      <byline class="normalized_byline">GOULD, CAROLE</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>President Clinton's pledge to increase the top income tax rate from 31 to 36 percent (39.6 percent for the wealthiest) has many investors scrambling for shelter.</p>
+        <p>One good place to hide is a municipal bond fund, which invests in the bonds and notes of states and municipalities. The issues, used to finance public projects and services, are backed by the taxing power of issuers or by revenues from toll roads or other projects.</p>
+      </block>
+      <block class="full_text">
+        <p>President Clinton's pledge to increase the top income tax rate from 31 to 36 percent (39.6 percent for the wealthiest) has many investors scrambling for shelter.</p>
+        <p>One good place to hide is a municipal bond fund, which invests in the bonds and notes of states and municipalities. The issues, used to finance public projects and services, are backed by the taxing power of issuers or by revenues from toll roads or other projects.</p>
+        <p>The accompanying chart lists the 10 top-performing national muni bond funds ranked by three-year returns, the 9 best muni funds investing in New York and the 10 best for California. The chart excludes funds with annual expenses of more than three-quarters of 1 percent, the average for the group. It also eliminates the most volatile funds and adjusts returns for front-end sales charges.</p>
+        <p>The chief appeal of these funds, of course, is that their income is free from Federal income taxes (although taxes are owed on any capital gains). In the case of the New York and California funds, which invest in debt issued by those states, their municipalities or agencies, income is free from Federal, state and local taxes for state residents.</p>
+        <p>So while munis may yield less than taxable funds, investors keep more after taxes are paid.</p>
+        <p>A fund's "taxable equivalent yield" shows how much a taxable investment would have to pay to match the yield of a tax-free fund. To calculate, divide the actual yield by 1 minus your Federal tax rate expressed in decimals. For a taxpayer in the 28 percent bracket, the taxable equivalent yield for a muni bond fund yielding 4.83 percent -- the average for these funds in June -- is 6.71 percent (after subtracting .28 from 1, then dividing 4.83 by .72).</p>
+        <p>Also, interest on issues of specific states is free of state taxes for state residents. Funds note this amount on your end-of-year tax statement.</p>
+        <p>To figure the rough after-tax yield on the single-state funds, divide the fund's yield by one minus your combined Federal and state tax rates, expressed in decimals.</p>
+        <p>Some national and single-state muni funds own "private purpose" paper, issued by some municipalities to finance nonessential projects like student loans. Interest on private purpose paper is free from Federal income taxes but subject to the alternative minimum tax.</p>
+        <p>To compensate for the tax liability, private purpose paper normally pays slightly more than regular issues.  People who do not expect to owe the alternative minimum tax, or A.M.T., can increase their yields by owning shares in funds that own more A.M.T. paper. Fund companies can provide this information.</p>
+        <p>While most people view muni funds as solid investments, they carry a serious risk. In general, bond fund prices fall when interest rates rise; the longer the term of the bond, the farther prices fall when rates rise.  Most muni funds carry maturities of more than 20 years.</p>
+        <p>While the top-performing muni funds over time are those with longer maturities, the interim interest-rate risk may be too much for conservative investors. By shortening maturities, investors reduce risk. If interest rates rise 1 percent, an intermediate- term fund's share price should drop only 3 percent, compared with 7 percent for share prices of longer-term funds, said John Rekenthaler, editor of Morningstar Mutual Funds.</p>
+        <p>Of course what is gained in safety is lost in yield. The 59 muni funds sporting short to intermediate maturities yield about three-quarters of a percentage point less than their longer cousins.</p>
+        <p>Because of differences in the quality and maturity of bonds held by the funds, yields vary. So it pays to shop around. The average 12-month yield of the long-term New York funds tracked by Morningstar was 5.49 percent in June. But Putnam New York Tax-Exempt Opportunities yields 6.48 percent, while the laggard, the Warburg Pincus New York Municipal Bond Fund yields only 4.45 percent. The long-term California funds yielded an average of 5.53 percent, but Prudential California Municipal Income A yields 6.51 percent and Muir California Tax-Free Bond Fund yields 4.02 percent.</p>
+        <p>Because of the general erosion in some states' economies, investors in New York and Massachusetts in particular, should keep no more than 40 or 50 percent of their total tax-free portfolio in state bonds, said James F. Lynch, editor of the Lynch Municipal Bond Advisory, a newsletter published in New York. Even in better-managed states, he advised tying up no more than 75 percent of tax-free assets in-state.</p>
+        <p>One way to minimize risk is to buy funds that invest in insured bonds or regular munis that the fund insures itself. The 1983 default by the Washington Public Power Supply System was a harsh reminder that munis are not risk-free. Yet experts say that defaults on individual issues should not pose a problem for investors in funds, because they have diversified portfolios.</p>
+        <p>The price for the added security is negligible because the insurance premium is small. As a group, regular munis returned 10.1 percent for the year ended in June, compared with 10.3 percent for the 76 insured muni funds.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

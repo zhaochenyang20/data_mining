@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Amgen Seen Near Deal to Buy Immunex for About $16 Billion</title>
+    <meta content="17DEAL$05" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1352260"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Drugs (Pharmaceuticals)</classifier>
+        <classifier class="indexing_service" type="descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <org class="indexing_service">Amgen Inc</org>
+        <org class="indexing_service">Immunex Corp</org>
+        <person class="indexing_service">Pollack, Andrew</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Pharmaceutical, Biotechnology and Science</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Drugs (Pharmaceuticals)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20011217T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940CE7DE173EF934A25751C1A9679C8B63" item-length="811" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Amgen Seen Near Deal to Buy Immunex for About $16 Billion</hl1>
+      </hedline>
+      <byline class="print_byline">By ANDREW POLLACK</byline>
+      <byline class="normalized_byline">Pollack, Andrew</byline>
+      <abstract>
+        <p>Amgen Inc reportedly nears deal to acquire Immunex for about $16 billion in stock and cash; deal would help make Amgen major phamaceutical company (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Amgen Inc. was nearing a deal last night to acquire Immunex for about $16 billion in stock and cash in a transaction that would help Amgen become the first biotechnology company to gain the stature of a major pharmaceutical company.</p>
+        <p>The merger would unite two of the oldest companies in biotechnology and some of the industry's most lucrative products. Amgen will gain rights to Immunex's rheumatoid arthritis drug, Enbrel, which is expected to have sales of more than $1 billion next year and which Immunex projects could eventually reach sales of $4 billion a year.</p>
+      </block>
+      <block class="full_text">
+        <p>Amgen Inc. was nearing a deal last night to acquire Immunex for about $16 billion in stock and cash in a transaction that would help Amgen become the first biotechnology company to gain the stature of a major pharmaceutical company.</p>
+        <p>The merger would unite two of the oldest companies in biotechnology and some of the industry's most lucrative products. Amgen will gain rights to Immunex's rheumatoid arthritis drug, Enbrel, which is expected to have sales of more than $1 billion next year and which Immunex projects could eventually reach sales of $4 billion a year.</p>
+        <p>The deal was being considered yesterday by the boards of both companies, as well as that of American Home Products, which owns 41 percent of Immunex, people close to the deal said. Details and contracts were still being worked on late yesterday. The companies are hoping to announce the deal today.</p>
+        <p>People close to the deal said that it would be valued at about $16 billion, with about 15 percent in cash and the rest in stock. Amgen would pay about $30 a share for Immunex. But Amgen's shares have fallen 13 percent since rumors of the merger first surfaced on Thursday, and it was not clear late yesterday whether the terms of the deal had changed.</p>
+        <p>The transaction would be the largest merger by far in the biotechnology industry, which has experienced a spate of acquisitions as companies struggle to expand their product offerings. The acquisition would also be a departure for Amgen, based in Thousand Oaks, Calif., which until now has grown largely through internal development.</p>
+        <p>Despite being the nation's largest biotechnology company, Amgen until recently had only two big products -- Epogen, which is used to treat anemia, and Neupogen, which prevents infections in cancer patients receiving chemotherapy. While each has sales of more than $1 billion a year, they have been on the market for 10 years or more and their sales growth is flagging.</p>
+        <p>Kevin W. Sharer, a former nuclear submarine officer and telecommunications industry executive who took over as Amgen's chief executive in May 2000, is trying to expand the company's product offerings. He has promised investors that sales and earnings per share would grow 20 percent or more a year until 2005. Amgen's revenue should reach $8 billion to $9 billion by then, more than double the current level, he has said.</p>
+        <p>Mr. Sharer has said he would be interested in acquisitions, particularly one that is large enough to make a difference but not so large that Amgen would not be able to digest it. People close to the company said it has been thinking for months that Immunex fit this bill.</p>
+        <p>But by acquiring a drug, Amgen might be acknowledging the difficulties it has had developing drugs of its own. Until this year, the company has not introduced a significant new drug in a decade. And the big new drug it introduced this year, Aranesp, is really just a new version of Epogen that requires fewer injections. Next year, Amgen hopes to win approval for a new version of Neupogen. Kineret, a drug for rheumatoid arthritis introduced this year, is Amgen's first really new drug, and analysts expect it to have only modest sales.</p>
+        <p>The deal, reports of which first surfaced on Thursday, has been criticized by some analysts and Amgen shareholders who said that Amgen might be paying too much and would hurt its earnings. Such concern caused Amgen's stock to drop 13 percent since the close of trading Wednesday. It closed Friday at $56.03. But people close to the deal said Amgen thought that the acquisition would add to earnings per share starting in 2004.</p>
+        <p>Some shareholders and analysts also said the acquisition would distract the company when it appears to be on the cusp of a new wave of growth spurred by the new versions of Epogen and Neupogen.</p>
+        <p>''Now it's a time for them to focus on executing to get those products to the market,'' said Linda Miller, portfolio manager of the John Hancock Health Sciences and Biotechnology funds, both of which own Amgen shares. ''Shareholders have been patiently waiting for the payoff,'' she said. ''To take your eye off the ball and buy something sizable at that juncture is a little confusing to me.''</p>
+        <p>American Home Products would become an owner of about 8 percent of Amgen's stock. The company, based in Madison, N.J., will get some cash that could be used to help pay for the billions of dollars it has agreed to pay out in settlements of litigation over its diet pills, used in the fen-phen combination. It is expected that American Home Products will retain the rights it has to sell Enbrel and share in the revenue from that drug.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

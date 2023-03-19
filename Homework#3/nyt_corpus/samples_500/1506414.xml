@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Briefing | New York: Queens: Man Dies Days After Scuffle</title>
+    <meta content="MB015626" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1506414"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Assaults</classifier>
+        <location class="indexing_service">New York City</location>
+        <person class="indexing_service">Herrera, Oscar</person>
+        <person class="indexing_service">Castillo, Hector</person>
+        <person class="indexing_service">Wilson, Michael</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Assaults</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20030722T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9805E5DE173FF931A15754C0A9659C8B63" item-length="192" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Briefing | New York: Queens: Man Dies Days After Scuffle</hl1>
+      </hedline>
+      <byline class="print_byline">By Michael Wilson (NYT); Compiled by Anthony Ramirez</byline>
+      <byline class="normalized_byline">Wilson, Michael</byline>
+      <abstract>
+        <p>Oscar Herrera, whose eye was gouged during scuffle with roomate Hector Castillo in East Elmhurst, Queens, dies of heart attack days later in hospital; medical examiner will determine whether death linked to assault (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A man whose eyes were gouged during a scuffle with his roommate died in the hospital of a heart attack on Sunday, four days after the argument, the police said yesterday. The man, Oscar Herrera, 53, of East Elmhurst, and his roommate, Hector Castillo, 51, were arguing over a broken television antenna in their home at 100-30 Ditmars Boulevard. Mr. Castillo gouged Mr. Herrera's eyes with his fingers and fingernails, the police said. Both were arrested, and Mr. Castillo was charged with assault. Mr. Herrera suffered a heart attack at Elmhurst Hospital Center and died on Sunday night. The medical examiner's office will determine whether the death was linked to the assault, the police said.</p>
+        <p>Michael Wilson (NYT)</p>
+      </block>
+      <block class="full_text">
+        <p>A man whose eyes were gouged during a scuffle with his roommate died in the hospital of a heart attack on Sunday, four days after the argument, the police said yesterday. The man, Oscar Herrera, 53, of East Elmhurst, and his roommate, Hector Castillo, 51, were arguing over a broken television antenna in their home at 100-30 Ditmars Boulevard. Mr. Castillo gouged Mr. Herrera's eyes with his fingers and fingernails, the police said. Both were arrested, and Mr. Castillo was charged with assault. Mr. Herrera suffered a heart attack at Elmhurst Hospital Center and died on Sunday night. The medical examiner's office will determine whether the death was linked to the assault, the police said.</p>
+        <p>Michael Wilson (NYT)</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Executive Changes</title>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="35" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="801394"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">APPOINTMENTS AND EXECUTIVE CHANGES</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="general_descriptor">Appointments and Executive Changes</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19951021T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CE7D61430F932A15753C1A963958260" item-length="87" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Executive Changes</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>ALTERNATIVE RESOURCES CORP., Lincolnshire, Ill., said Michael E. Harris had resigned as chief financial officer. Bradley K. Lamers, currently vice president of finance, was named acting chief financial officer. KENETECH CORP., San Francisco, an operator of alternative-fuel electric power plants, said Jean-Yves Dexmier, its chief financial officer, had resigned over differences with management and directors about who should handle dealings with the investment community. A successor has not yet been named.</p>
+      </block>
+      <block class="full_text">
+        <p>ALTERNATIVE RESOURCES CORP., Lincolnshire, Ill., said Michael E. Harris had resigned as chief financial officer. Bradley K. Lamers, currently vice president of finance, was named acting chief financial officer. KENETECH CORP., San Francisco, an operator of alternative-fuel electric power plants, said Jean-Yves Dexmier, its chief financial officer, had resigned over differences with management and directors about who should handle dealings with the investment community. A successor has not yet been named.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

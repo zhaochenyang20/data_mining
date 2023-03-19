@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>TRANSACTIONS</title>
+    <meta content="16TRAN$01" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1999" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1100677"/>
+      <doc.copyright holder="The New York Times" year="1999"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">List</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19990416T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9400EFD6123BF935A25757C0A96F958260" item-length="433" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>TRANSACTIONS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>BASEBALL</p>
+        <p>American League  TAMPA BAY DEVIL RAYS--Placed LHP Wilson Alvarez on the 15-day disabled list. Purchased the contract of RHP Bryan Rekar from Durham of the International League.  TORONTO BLUE JAYS--Signed 2B Pat Kelly. Placed INF Craig Grebeck on the 15-day disabled list. Announced RHP Eric Ludwick has cleared waivers and will be offered back to the Florida Marlins.</p>
+        <p>National League  FLORIDA MARLINS--Received cash from the Rangers as compensation for Gregg Zaun.  MONTREAL EXPOS--Recalled RHP Shayne Bennett from Ottawa of the International League.  PITTSBURGH PIRATES--Placed RHP Francisco Cordova on the 15-day disabled list.</p>
+      </block>
+      <block class="full_text">
+        <p>BASEBALL</p>
+        <p>American League  TAMPA BAY DEVIL RAYS--Placed LHP Wilson Alvarez on the 15-day disabled list. Purchased the contract of RHP Bryan Rekar from Durham of the International League.  TORONTO BLUE JAYS--Signed 2B Pat Kelly. Placed INF Craig Grebeck on the 15-day disabled list. Announced RHP Eric Ludwick has cleared waivers and will be offered back to the Florida Marlins.</p>
+        <p>National League  FLORIDA MARLINS--Received cash from the Rangers as compensation for Gregg Zaun.  MONTREAL EXPOS--Recalled RHP Shayne Bennett from Ottawa of the International League.  PITTSBURGH PIRATES--Placed RHP Francisco Cordova on the 15-day disabled list.</p>
+        <p>FOOTBALL</p>
+        <p>National Football League  CINCINNATI BENGALS--Re-signed OL Rod Jones and WR Stepfret Williams. Waived G Cory Withrow.  DALLAS COWBOYS--Declined to match the Carolina Panthers' offer sheet to WR Patrick Jeffers.  KANSAS CITY CHIEFS--Signed PK Sean Fleming to a three-year contract.  MIAMI DOLPHINS--Waived WR Denis Montana.  ST. LOUIS RAMS--Acquired RB Marshall Faulk from the Indianapolis Colts for undisclosed draft picks.</p>
+        <p>HOCKEY</p>
+        <p>National Hockey League  DALLAS STARS--Recalled G Manny Fernandez from Houston of the IHL and D Petr Buzek from Michigan of the IHL. Assigned G Marty Turco to Michigan.  FLORIDA PANTHERS--Assigned F Marcus Nilson, F Peter Worrell and D John Jakopin to New Haven of the AHL.  LOS ANGELES KINGS--Recalled G Ryan Bach from Long Beach of the IHL. Assigned G Manny Legace to Long Beach.  VANCOUVER CANUCKS--Assigned D Brent Sopel, C Josh Holden and LW Robb Gordon to Syracuse of the AHL.</p>
+        <p>COLLEGE  NCAA--Placed St. Joseph's, Ind., on two years probation and took away five men's basketball scholarships for the 1999-2000 season for violating NCAA rules.  EAST CAROLINA--Announced DE Freddie Claybrooks and TE Marcus Bryson have been dismissed from the football team for unspecified violations of team rules.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

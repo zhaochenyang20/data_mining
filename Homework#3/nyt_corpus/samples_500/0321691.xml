@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Baby's First-Year Costs Won't Approach $5,774</title>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="321691"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">CHILDREN AND YOUTH</classifier>
+        <classifier class="indexing_service" type="descriptor">BABIES</classifier>
+        <classifier class="indexing_service" type="descriptor">FINANCES, PERSONAL</classifier>
+        <classifier class="indexing_service" type="descriptor">LIFE STYLES</classifier>
+        <person class="indexing_service">KENNELLY, LAURA B</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Family</classifier>
+        <classifier class="online_producer" type="general_descriptor">Babies</classifier>
+        <classifier class="online_producer" type="general_descriptor">Personal Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Life Styles</classifier>
+        <classifier class="online_producer" type="general_descriptor">Children and Youth</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19900130T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE6D9133EF933A05752C0A966958260" item-length="312" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Baby's First-Year Costs Won't Approach $5,774</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: To the Editor:</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: To the Editor:</p>
+        <p>To the Editor:</p>
+        <p>I hope no readers really believe the American Demographics magazine estimate of $5,774 for baby's first year's costs (Week in Review, Dec. 31). As a college teacher and mother of five children born between 1962 and 1981, I have to say, ''Ridiculous!''</p>
+        <p>Such costs might be incurred by double-income couples with no other children, no friends or family. If you have friends with children, you know babies don't need $233 worth of bedding and $995 worth of furniture. You borrow, you shop for used furniture or empty a few of your own drawers, you hem up a few sheets - you've got baby supplies.</p>
+        <p>The greatest expenses - day care ($2,184) and paper diapers ($570) -should be linked to the cost of both parents' working. Day care centers require paper diapers; day care centers also expose the baby to lots of germs (add here the $396 in medical bills). If you take care of the baby yourself, you save - right off the top - a fast $3,000 to $3,150 (allowing a little for shots and checkups).</p>
+        <p>And, if the mother decides to breast-feed the baby, she can chalk up another $855 saved because many experts agree that breast milk alone suffices the first year.</p>
+        <p>And toys? Why spend $199 on toys when babies can't tell the difference between the box the toy came in and the toy itself? Babies play with spoons, cloths, pans - things parents already have. Now we've cut $4,054 from the list.</p>
+        <p>Babies aren't expensive: ignorance is; trying to have it all is. The American Demographics magazine's list applies only to misinformed parents who decorate their babies with expensive items before leaving them in the care of strangers. For such parents, the baby-expense list might include the cost of therapy and special schools their usually less hardy offspring will need after a few years as a status symbol.</p>
+        <p>LAURA B. KENNELLY</p>
+        <p>Denton, Tex., Jan. 8, 1990</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

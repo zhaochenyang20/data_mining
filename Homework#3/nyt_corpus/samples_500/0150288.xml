@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Italian Support Cited on Irving Bid</title>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="1988" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="150288"/>
+      <doc.copyright holder="The New York Times" year="1988"/>
+      <series series.name="COMPANY NEWS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">MERGERS, ACQUISITIONS AND DIVESTITURES</classifier>
+        <classifier class="indexing_service" type="descriptor">BANKS AND BANKING</classifier>
+        <org class="indexing_service">IRVING BANK CORP</org>
+        <org class="indexing_service">BANCA COMMERCIALE ITALIANA</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Banks and Banking</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19880601T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DE6DF1031F932A35755C0A96E948260" item-length="117" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Italian Support Cited on Irving Bid</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Banca Commerciale Italiana said that Italian regulators had indicated that they would approve its bid to buy 51 percent of the Irving Bank Corportion at $80 a share. The offer has the approval of Irving's management and directors and is competing with a hostile offer from the Bank of New York Company.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Banca Commerciale Italiana said that Italian regulators had indicated that they would approve its bid to buy 51 percent of the Irving Bank Corportion at $80 a share. The offer has the approval of Irving's management and directors and is competing with a hostile offer from the Bank of New York Company.</p>
+        <p>Banca Commerciale Italiana said that Italian regulators had indicated that they would approve its bid to buy 51 percent of the Irving Bank Corportion at $80 a share. The offer has the approval of Irving's management and directors and is competing with a hostile offer from the Bank of New York Company. Banca Commerciale's bid must still be approved by the Federal Reserve Board, which is expected to take several months.</p>
+        <p>Irving's stock was unchanged yesterday at $62.375 a share, or slightly below the $64.81-a-share value of the Bank of New York's offer. The Bank of New York, whose stock rose 12.5 cents a share, to $31.625, is offering $15 cash and 1.575 of its shares for each Irving share.</p>
+        <p>COMPANY NEWS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

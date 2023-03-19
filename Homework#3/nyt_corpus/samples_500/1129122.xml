@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Erica Weeder and John Kezdy</title>
+    <meta content="08WEED" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="1999" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1129122"/>
+      <doc.copyright holder="The New York Times" year="1999"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">WEEDER, ERICA CRISPIN</person>
+        <person class="indexing_service">KEZDY, JOHN F.</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19990808T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9401E4D71430F93BA3575BC0A96F958260" item-length="247" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Erica Weeder and John Kezdy</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Erica Crispin Weeder and John F. Kezdy were married yesterday by Judge Charles A. Delehey of New Jersey Superior Court in Trenton, at Mountain Lakes House in Princeton, N.J.</p>
+        <p>The couple work in Chicago, the bride, 34, as an associate at Liederbach &amp; Graham, architects, and the bridegroom, 40, as an Illinois assistant attorney general.</p>
+      </block>
+      <block class="full_text">
+        <p>Erica Crispin Weeder and John F. Kezdy were married yesterday by Judge Charles A. Delehey of New Jersey Superior Court in Trenton, at Mountain Lakes House in Princeton, N.J.</p>
+        <p>The couple work in Chicago, the bride, 34, as an associate at Liederbach &amp; Graham, architects, and the bridegroom, 40, as an Illinois assistant attorney general.</p>
+        <p>The bride, who is keeping her name, graduated from Yale University and received a master's degree in architecture from Princeton University. She is the daughter of Erica H. Weeder of Princeton and Dr. Richard S. Weeder of Lawrenceville, N.J., and the stepdaughter of Areta Parle. The bride's father, an attending surgeon at Hunterdon Medical Center Hospital, belongs to Hunterdon Surgical Associates, a group practice in Flemington, N.J. Her mother retired as a curator at the Japan Society in New York.</p>
+        <p>The bridegroom graduated from Northwestern University and received a law degree from DePaul University. He is the son of Marie-Therese and Dr. Ferenc J. Kezdy of Kalamazoo, Mich. The bridegroom's father, who is retired, was a professor of biochemistry at the University of Chicago.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Woolward to Handle Echostar Account</title>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="816962"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <series series.name="THE MEDIA BUSINESS: ADVERTISING -- ADDENDA"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">ACCOUNT CHANGES</classifier>
+        <org class="indexing_service">ECHOSTAR COMMUNICATIONS CORP</org>
+        <org class="indexing_service">WOOLWARD &amp; PARTNERS</org>
+        <object.title class="indexing_service">ADVERTISING (TIMES COLUMN)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Addenda</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="general_descriptor">Advertising and Marketing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19951218T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CE5DD1439F93BA25751C1A963958260" item-length="97" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Woolward to Handle Echostar Account</hl1>
+      </hedline>
+      <byline class="print_byline">By Stuart Elliott</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Echostar Communications Corporation, a satellite broadcast company, has named Woolward &amp; Partners in San Francisco as the first agency to handle advertising for its DISH Network brand in the United States. The billings were estimated at more than $15 million. Barbara Sullivan, vice president for marketing at Echostar in Denver, said that Woolward was awarded the account after a monthlong review that began with six agencies and was narrowed to Woolward and two other finalists: McClain Finlon Advertising in Denver and Mering &amp; Associates in Sacramento, Calif.</p>
+      </block>
+      <block class="full_text">
+        <p>The Echostar Communications Corporation, a satellite broadcast company, has named Woolward &amp; Partners in San Francisco as the first agency to handle advertising for its DISH Network brand in the United States. The billings were estimated at more than $15 million. Barbara Sullivan, vice president for marketing at Echostar in Denver, said that Woolward was awarded the account after a monthlong review that began with six agencies and was narrowed to Woolward and two other finalists: McClain Finlon Advertising in Denver and Mering &amp; Associates in Sacramento, Calif.</p>
+        <p>THE MEDIA BUSINESS: ADVERTISING -- ADDENDA</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

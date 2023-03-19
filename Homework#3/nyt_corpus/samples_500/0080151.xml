@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Editors at School Give Klan Photos to County</title>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="19" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="80151"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NEWS AND NEWS MEDIA</classifier>
+        <location class="indexing_service">MARYLAND</location>
+        <location class="indexing_service">CARROLL COUNTY (MD)</location>
+        <org class="indexing_service">KU KLUX KLAN</org>
+        <org class="indexing_service">WESTMINSTER HIGH SCHOOL (WESTMINSTER, MD)</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Maryland</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Maryland</classifier>
+        <classifier class="online_producer" type="general_descriptor">Media</classifier>
+        <classifier class="online_producer" type="general_descriptor">News and News Media</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19871005T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE1DF103AF936A35753C1A961948260" item-length="177" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Editors at School Give Klan Photos to County</hl1>
+      </hedline>
+      <byline class="print_byline">AP</byline>
+      <dateline>WESTMINSTER, Md., Oct. 4</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: A high school student newspaper voluntarily turned over photographic negatives of a Ku Klux Klan rally to the Carroll County state's attorney after a local daily newspaper refused.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: A high school student newspaper voluntarily turned over photographic negatives of a Ku Klux Klan rally to the Carroll County state's attorney after a local daily newspaper refused.</p>
+        <p>A high school student newspaper voluntarily turned over photographic negatives of a Ku Klux Klan rally to the Carroll County state's attorney after a local daily newspaper refused.</p>
+        <p>''We, as a class, talked about our rights as American citizens,'' said Cathy Berry, adviser for The Owl of Westminster High School. ''We, as a staff, felt that if we as citizens had something to show to help somebody we would. We felt our First Amendment rights would not be violated.''</p>
+        <p>The Maryland Grand Dragon of the Ku Klux Klan's Invisible Empire, Roger Kelly, faces one count of burning a cross at a Sept. 12 rally near Manchester.</p>
+        <p>Assistant State's Attorney W. Samuel Truette said his office received photographic negatives of the rally from the student newspaper, but declined to comment further.</p>
+        <p>State's Attorney Thomas Hickman had issued an administrative summons for the pictures, but The Carroll County Times refused to comply. The editor, Gene Bracken, said many photographers were at the public event and that the prosecutor could easily have hired someone.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

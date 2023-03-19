@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Medication After Life Support</title>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="1992" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Health Page" name="feature_page"/>
+    <docdata>
+      <doc-id id-string="508542"/>
+      <doc.copyright holder="The New York Times" year="1992"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">DEATH</classifier>
+        <classifier class="indexing_service" type="descriptor">RESEARCH</classifier>
+        <classifier class="indexing_service" type="descriptor">LIFE-SUSTAINING SUPPORT SYSTEMS, WITHDRAWAL OF</classifier>
+        <classifier class="indexing_service" type="descriptor">PAIN-RELIEVING DRUGS</classifier>
+        <classifier class="indexing_service" type="descriptor">SEDATIVES</classifier>
+        <org class="indexing_service">JOURNAL OF THE AMERICAN MEDICAL ASSN</org>
+        <person class="indexing_service">WILSON, WILLIAM (DR)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Death and Dying</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Pain</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Drugs (Pharmaceuticals)/Pain-Relieving Drugs</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Pain-Relieving Drugs</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Drugs (Pharmaceuticals)/Sedatives</classifier>
+        <classifier class="online_producer" type="general_descriptor">Death and Dying</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Pain</classifier>
+        <classifier class="online_producer" type="general_descriptor">Pain-Relieving Drugs</classifier>
+        <classifier class="online_producer" type="general_descriptor">Sedatives</classifier>
+        <classifier class="online_producer" type="general_descriptor">Drugs (Pharmaceuticals)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19920219T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CE4DE143DF93AA25751C0A964958260" item-length="417" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Medication After Life Support</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>WHEN hopelessly ill patients are removed or kept from life support, they are often given sedatives and pain-killing drugs but the drugs are given as often to comfort family members as they are to soothe the patient, a new study suggests. In a third of the cases, the study found, the aim was also to speed the patient's death.</p>
+        <p>"We were not surprised that the physicians and nurses working with these patients would like to allow the patient to peacefully depart once it's been decided that further medical therapy would be of no benefit," said Dr. William Wilson, a resident at the University of California at San Diego and one of the authors of the study.</p>
+      </block>
+      <block class="full_text">
+        <p>WHEN hopelessly ill patients are removed or kept from life support, they are often given sedatives and pain-killing drugs but the drugs are given as often to comfort family members as they are to soothe the patient, a new study suggests. In a third of the cases, the study found, the aim was also to speed the patient's death.</p>
+        <p>"We were not surprised that the physicians and nurses working with these patients would like to allow the patient to peacefully depart once it's been decided that further medical therapy would be of no benefit," said Dr. William Wilson, a resident at the University of California at San Diego and one of the authors of the study.</p>
+        <p>"However," he said, "we were surprised that so many physicians and nurses would tell us that the hastening of death was a reason for use of these drugs, on paper, in a study that was clearly going to be published."</p>
+        <p>The researchers, whose findings are reported in today's issue of the Journal of the American Medical Association, interviewed the doctors and nurses who cared for 44 critically ill patients after they had stopped receiving life support.</p>
+        <p>These researchers emphasize, however, that the study and informal discussions later with the doctors and nurses who participated suggest that hastening death was never the sole or even the main reason for the use of the drugs.</p>
+        <p>Most often the drugs were prescribed and administered to alleviate pain and suffering. Surprisingly, the drugs were given nearly as often "for the comfort" of the patient's family as they were given to reduce the suffering of the patients themselves.</p>
+        <p>But on this score, doctors who order the drugs differ in their thinking from nurses who actually administer them. In just over half of the cases did doctors order drugs to comfort the family of the dying patient. Yet in more than four out of every five cases, nurses who had discretion in administering drugs said that they were treating the patients for the comfort of their loved ones.</p>
+        <p>Because almost all patients died within a few hours of the withdrawal of life support, the study found little evidence that patients who were receiving drugs to speed their deaths were dying any more quickly than those who did not receive the drugs.</p>
+        <p>"The most important thing about this study is that it shows that one should not be afraid to provide the sedatives and analgesics required for a patient to be comfortable for fear that in doing so they might hasten the patient's death," Dr. Wilson said.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

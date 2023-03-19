@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Favorite Uncle, a Stock Market Whiz, and a Steely Marathon Man</title>
+    <meta content="753068SGM" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2001/10/19/nyregion/19MISS.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1335014"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <series series.name="A NATION CHALLENGED: PORTRAITS OF GRIEF: THE VICTIMS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Terrorism</classifier>
+        <classifier class="indexing_service" type="descriptor">World Trade Center (NYC)</classifier>
+        <classifier class="indexing_service" type="descriptor">Airlines and Airplanes</classifier>
+        <classifier class="indexing_service" type="descriptor">Hijacking</classifier>
+        <classifier class="indexing_service" type="descriptor">Biographical Information</classifier>
+        <classifier class="indexing_service" type="descriptor">Terrorism</classifier>
+        <classifier class="indexing_service" type="descriptor">World Trade Center (NYC)</classifier>
+        <classifier class="indexing_service" type="descriptor">Airlines and Airplanes</classifier>
+        <classifier class="indexing_service" type="descriptor">Hijacking</classifier>
+        <classifier class="indexing_service" type="descriptor">Biographical Information</classifier>
+        <location class="indexing_service">New York City</location>
+        <location class="indexing_service">Washington (DC)</location>
+        <location class="indexing_service">New York City</location>
+        <location class="indexing_service">Washington (DC)</location>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New Jersey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Washington, D.C.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Manufacturing, Operations and Logistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Washington, D.C.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New Jersey</classifier>
+        <classifier class="online_producer" type="descriptor">Halloween</classifier>
+        <classifier class="online_producer" type="descriptor">Stations and Terminals (Passenger)</classifier>
+        <classifier class="online_producer" type="descriptor">Terrorism</classifier>
+        <classifier class="online_producer" type="descriptor">Banks and Banking</classifier>
+        <classifier class="online_producer" type="general_descriptor">World Trade Center (NYC)</classifier>
+        <classifier class="online_producer" type="general_descriptor">World Trade Center (NYC)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hijacking</classifier>
+        <classifier class="online_producer" type="general_descriptor">Halloween</classifier>
+        <classifier class="online_producer" type="general_descriptor">Banks and Banking</classifier>
+        <classifier class="online_producer" type="general_descriptor">Airlines and Airplanes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stations and Terminals (Passenger)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Terrorism</classifier>
+        <classifier class="online_producer" type="general_descriptor">Office Buildings and Commercial Properties</classifier>
+        <classifier class="online_producer" type="general_descriptor">Crime and Criminals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Holidays and Special Occasions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <location class="online_producer">New Jersey (USA)</location>
+        <org class="online_producer">Aon Corporation</org>
+        <person class="online_producer">Young, Jacqueline</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20011019T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9502E3D6173BF93AA25753C1A9679C8B63" item-length="3082" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Favorite Uncle, a Stock Market Whiz, and a Steely Marathon Man</hl1>
+        <hl2 class="online_headline">A Favorite Uncle, a Stock Market Whiz, and a Steely Marathon Man</hl2>
+      </hedline>
+      <byline class="print_byline">These profiles were written by David Barstow, Robert Hanley, Jan Hoffman, Kirk Johnson, Sarah Kershaw, N. R. Kleinfield, John Leland and Terry Pristin.</byline>
+      <abstract>
+        <p>Portraits in Grief, profiles of 15 victims of Sept 11 attack on World Trade Center; photos (L)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Here are glimpses of some of the victims of the Sept. 11 attack on the World Trade Center.</p>
+        <p>DAVID G. CARLONE  Catching Up With Friends</p>
+        <p>David G. Carlone was a man who knew his own mind and followed his own road. On their first date 25 years ago, said his wife, Beverly, he told her that he was going to marry her. And he later vowed that he would run a marathon in under three hours. He accomplished both goals.</p>
+        <p>Mr. Carlone, 46, had given up the grind of commuting daily from Randolph, N.J., into New York City. He had worked at the World Trade Center for many years, but about six years ago, as his three sons -- now ages 12, 15 and 17 -- hit the age of sports teams and after-school games, he quit and took a job as an account executive at an insurance company 15 minutes from home.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>DAVID G. CARLONE Catching Up With Friends.</p>
+      </block>
+      <block class="full_text">
+        <p>Here are glimpses of some of the victims of the Sept. 11 attack on the World Trade Center.</p>
+        <p>DAVID G. CARLONE  Catching Up With Friends</p>
+        <p>David G. Carlone was a man who knew his own mind and followed his own road. On their first date 25 years ago, said his wife, Beverly, he told her that he was going to marry her. And he later vowed that he would run a marathon in under three hours. He accomplished both goals.</p>
+        <p>Mr. Carlone, 46, had given up the grind of commuting daily from Randolph, N.J., into New York City. He had worked at the World Trade Center for many years, but about six years ago, as his three sons -- now ages 12, 15 and 17 -- hit the age of sports teams and after-school games, he quit and took a job as an account executive at an insurance company 15 minutes from home.</p>
+        <p>But he still had many friends in the towers. When he would go in for an occasional business meeting, as he did the morning of Sept. 11 at Aon's offices on the 105th floor of 2 World Trade Center, he would actually look forward to it, Ms. Carlone said. It was an opportunity to catch with the places and people that had once been his world and that were still very dear to him.</p>
+        <p>EDWARD LICHTSCHEIN  The Favorite Uncle</p>
+        <p>Edward Lichtschein had master's degrees in physics and engineering, designed software for eSpeed, and prided himself on solving challenging computer glitches that stumped others. He was also a favorite uncle to nine nieces and nephews, ages 8 to 33.</p>
+        <p>''He was 35, but in certain ways he was a kid at heart,'' said Vera Glatt, his sister.</p>
+        <p>With his older nieces and nephews, Mr. Lichtschein, of Park Slope, Brooklyn, swapped videos and CD's, and critiqued movies, ''The Simpsons'' and rock music. With the younger ones, he took nature walks in a wildlife preserve behind his brother Mark's home in Teaneck, N.J. Everybody always received cartoon sketches from him parodying family members and family life.</p>
+        <p>Two cousins, Yoni Glatt, 19, and Avi Lichtschein, 15, have been particularly despondent over his death, Ms. Glatt said. ''They were angry at us for accepting it.''</p>
+        <p>RICHARD A. ARONOW  Always in the Know</p>
+        <p>Richard A. Aronow was always so eager to share the fact that his lunch buddies at the Port Authority, where he worked for more than 18 years, called him sensei, Japanese for teacher. ''Whatever they knew, or thought they knew, he knew more,'' his wife, Laura Weinberg, recalled.</p>
+        <p>Among the things Mr. Aronow, 48, of Mahwah, N.J., knew a lot about was markets, whether it was the stock market or the intricacies of frequent-flier plans, and he was forever switching long-distance companies to find the best deal.</p>
+        <p>As a deputy chief of the agency's law department, Mr. Aronow worked on some huge legal deals -- most recently, the lease for the new $1.4 billion International Arrivals Terminal at Kennedy Airport -- and he knew the details of all the Port Authority's leases, documents so voluminous that they are called telephone books.</p>
+        <p>Mr. Aronow was considered a fair adversary; about 20 lawyers who had been on the opposing side of his deals attended his memorial service last month, his wife said.</p>
+        <p>JONATHAN CONNORS  A 'Tip Top' Life</p>
+        <p>His license plate was ''Tip Top,'' which was also one of his nicknames and his reflexive response to ''How ya doing?'' His other nickname -- having at least one is practically a prerequisite on Wall Street -- was ''J.C.,'' short for Jonathan Connors, a 55-year-old senior vice president of Cantor Fitzgerald who loved to make money, wear Armani, dance the Lindy, dine at Nobu and, whenever possible, be surrounded by strong, independent, beautiful women.</p>
+        <p>His wife, Susan Connors, said he greeted her not with a peck but with a full-blown kiss. He liked to hold her hand tightly. When she was diagnosed with Parkinson's disease, the two dug in together to fight off the effects. ''Whatever he did,'' she said, ''it turned to gold, never silver.''</p>
+        <p>Soon after the World Trade Center bombing in 1993, Mr. Connors constructed a diorama of his brush with terrorism. In a red-framed box, he displayed mementos of that day -- the soot-covered shirt and tie he wore, the cashmere scarf he used as a mask, his train ticket, the next day's front page. He mounted the box on a wall in his house. It was, his wife said, an act of catharsis, remembrance and defiance all at once.</p>
+        <p>Mrs. Connors recently took it down. ''I couldn't stand to look at it,'' she said.</p>
+        <p>JACQUELINE YOUNG  Avoiding Noise, not Music</p>
+        <p>Jacqueline Young, known as Jakki, hated noise. She hated it so much that she moved to Staten Island, even though she had no relatives there, for some quiet. Raised in South Carolina, Ms. Young, 37, who worked for Marsh &amp; McLennan, the consulting firm, often talked about moving out of the city altogether and searched for jobs in other states.</p>
+        <p>''She wanted to be where life was at a slower pace, where it was not so hectic all the time,'' said her mother, LaBertha McKenly-Williams.</p>
+        <p>Ms. Young's brother, James McKenly, accompanied her to a job interview in Virginia last year, and when the hotel they were staying in proved too noisy, she insisted they move to another one.</p>
+        <p>It was about 20 miles away, he said.</p>
+        <p>Despite her need for quiet, Ms. Young, who was unmarried, often took her nieces and nephews on excursions and loved to dance.</p>
+        <p>In July, she danced at the wedding of another brother in Brooklyn. ''She was so happy for him,'' Mr. McKenly said.</p>
+        <p>DAVID P. DERUBBIO  'Dave Was an Experience'</p>
+        <p>If you knew David P. DeRubbio -- ''Crazy Dave'' or ''Crazy Uncle Dave'' to his family -- you knew about the jokes and you knew about the milk.</p>
+        <p>The fifth of seven children, Mr. DeRubbio, a Brooklyn firefighter, was famous in the family for his countless ways of getting around the household rule against profanity and for the zany nicknames he gave out.</p>
+        <p>''Dave was an experience,'' said Angela Tiberi, his younger sister, who contended with being nicknamed, ''Witchie Poo.''</p>
+        <p>He doted on his daughter Jessica, 12. He nicknamed her ''Pestica.''</p>
+        <p>To avoid using one profanity at home, Mr.DeRubbio would say, ''What the H-E- double hockey sticks is going on?'' Callers who encountered him at the other end of the line would typically find themselves being serenaded.</p>
+        <p>Mr. DeRubbio, 38, was such a milk hound that their mother joked about buying a family cow just to meet the demand, his sister said.</p>
+        <p>To the delight of his friends and family, none of this stopped after Mr. DeRubbio, who joined the Fire Department in 1998 and was assigned to Engine Company 226, became an adult.</p>
+        <p>''I know he's up there,'' Ms. Tiberi said. ''And he's got everyone rolling.''</p>
+        <p>GERTRUDE ALAGERO  The Luckiest in the World</p>
+        <p>She always had time for a friendly chat with the corner newsdealer and the counterman at the deli, and she was sometimes forgetful about paying parking tickets and bills. But Gertrude Alagero, nicknamed Trudi, was also a determined competitor. After she taught her fianc, Peter B. Walther, to snowboard, she never let him beat her when they raced down Okemo Mountain in Vermont.</p>
+        <p>Ms. Alagero, a senior vice president at Marsh Private Client Services, a division of Marsh &amp; McLennan, and Mr. Walther, who was her supervisor before they began dating in 1998, had planned to marry in Boston on Jan. 5.</p>
+        <p>A few days before the terrorist attack, Mr. Walther said, she pressed her fingers to his mouth while they were walking toward the subway from their Upper West Side apartment.</p>
+        <p>''Shhh,'' she said, ''I need to tell you something: I am the luckiest woman in the world.''</p>
+        <p>On Sept. 7, the day that Ms. Alagero turned 37, she gave Mr. Walther a Nikon camera so he could become adept at using it before their honeymoon in Africa. He snapped two rolls of pictures, mostly of her.</p>
+        <p>EDWARD C. MURPHY  Defying Easy Categorization</p>
+        <p>Edward C. Murphy's life brimmed with contrasts and deep loyalties. He was a staunch Republican who invested in real estate and race horses. But he also helped nonprofit groups raise money for food and clothing for poor children in his native Clifton, N.J.</p>
+        <p>He loved the vitality of Manhattan but insisted on living in Clifton, where he headed a town board that improved traffic safety, especially around schools. Mr. Murphy, 42, was a managing director at Cantor Fitzgerald and was as busy as the job title implies, but every morning at 9 sharp, he called his mother Evelyn, a 77-year-old widow. On Sept. 11, her phone rang on schedule, minutes after the first jetliner hit.</p>
+        <p>''He said, 'Mom, I'm O.K., I'm getting out,' '' said Mr. Murphy's brother Daniel. ''She just cherishes that moment.''</p>
+        <p>Mr. Murphy's girlfriend of 17 years, Maryann Flego, called him a ''quick-witted maverick '' who jogged for years and loved both classical and rock music and the works of Andy Warhol, Jackson Pollock and R.C. Gorman, a Navajo artist in the Southwest. He delighted in haggling to cut prices of many of his purchases, whether a pearl ring for Ms. Flego or a pretzel at a ball game.</p>
+        <p>LISA L. TREROTOLA  Surviving Ills, One at a Time</p>
+        <p>After Lisa L. Trerotola's appointment with the oncologist, she went to her mother's house and burst into tears. Lisa was not a complainer, and her mother feared the worst, that the thyroid cancer was terminal.</p>
+        <p>''No, no!'' Lisa said. She was sobbing because her treatment required isolation, which meant, ''I'm going to have to leave my babies for two whole weeks!''</p>
+        <p>Mrs. Trerotola's family was rocked by her cancer, but she went through treatment keeping her eyes on the prize: her twins, now three and a half years old, whom she had struggled for years to conceive with her husband, Michael. Life kept road-testing Mrs. Trerotola, 36, of Hazlet, N.J.</p>
+        <p>In addition to cancer and infertility, she had prevailed over other health problems, including a chronic bronchial condition that she believed was triggered by fumes from the 1993 bombing of the World Trade Center, where she worked as an administrative assistant at the Port Authority.</p>
+        <p>''You know the sweetest thing my sister did?'' said her brother, Paul Spina. ''She was planning a surprise party Oct. 6 for my brother-in-law's 40th birthday. Sent the invitations and everything. He has no idea. Would you put that in the newspaper? I don't have the heart to tell him.''</p>
+        <p>THOMAS DAMASKINOS  Passionate Fan of Broncos</p>
+        <p>Thomas Damaskinos, his wife is quick to point out, was a passionate Denver Broncos fan long before John Elway came along. No, Mr. Damaskinos' Broncos fixation started 23 years ago, when he was 10. His brother gave him a Broncos cap, and that was that. So what if the Broncos lost every game he ever attended?</p>
+        <p>Last year, for her husband's 32nd birthday, Jennifer Damaskinos found the perfect gift for him -- the official N.F.L. John Elway Retirement Helmet, autographed and embossed with Mr. Elway's career statistics. And when Mile High Stadium was put out of commission, he simply had to have a souvenir.</p>
+        <p>''He bought two of the seats because he never got to go,'' Mrs. Damaskinos said. ''They are supposed to come next month.''</p>
+        <p>Mr. Damaskinos, vice president for operations at Cantor Fitzgerald, had other obsessions. He taped every single episode of ''The Simpson's,'' for example, and on some nights, he and his wife indulged in Simpson marathons, calling out favorite bits of Simpson dialogue.</p>
+        <p>And then there were his children, Jessica, 13, by his first wife, and Matthew, 1. Jessica and her father had a nightly ritual. He would tuck her in and then they would race to see who could say ''I love you'' the fastest and the most.</p>
+        <p>STEPHEN J. CANGIALOSI  The Great Shirt War</p>
+        <p>Stephen J. Cangialosi will be remembered for ''The Shirt.'' Yes, he was a devoted father and husband, loyal friend, successful bond trader at Cantor Fitzgerald and a die-heart Yankees fan. But it was ''The Shirt.''</p>
+        <p>For years, he made fun of his Georgetown University classmate, Andy Stearns, for wearing a stained, plaid, late-1970's shirt with wide lapels throughout college. To get him back, Mr. Stearns wrapped it, threw a bow on the box and gave it to him as a gift. Not to be outdone, Mr. Cangialosi wrapped it in a big box with a bow and gave it back. That went on for about 17 years. It would turn up on holidays, birthdays and anniversaries.</p>
+        <p>''It's so ugly,'' Mr. Stearns said of the shirt, laughing.</p>
+        <p>Mr. Cangialosi, 40, of Middletown, N.J., will also be remembered for a horror movie, ''Ghost Story,'' that another Georgetown classmate produced. Mr. Cangialosi, an athletic 6-foot-1, was the star. Simply put, it was 28 minutes of horrible. But, oh, how they loved to watch it and laugh together, Mr. Stearns said.</p>
+        <p>While memorializing his friend, Mr. Stearns suddenly remembered that Mr. Cangialosi had given him ''The Shirt'' for his 40th birthday. He decided that it would be fitting to give it as a gift to Mr. Cangialosi's wife, Karen.</p>
+        <p>DONALD ADAMS  Gaining Entry to Happiness</p>
+        <p>In the summer of '92 he was a bouncer, 6 feet 5 inches tall, at some long-gone beach bar on the Jersey Shore. She was cute and underage, hoping to sweet-talk her way through the door. ''He was nice and let me in,'' Heda Adams said of the day she met her husband, Donald Adams.</p>
+        <p>Turned out that both were students at Fairleigh Dickinson University. He was a fraternity boy, No. 77 on the offensive line. ''Yes, I was pinned,'' Mrs. Adams said, laughing.</p>
+        <p>Six months ago they had their first child, Rebecca, who, it is already clear, shares her father's outgoing, extroverted personality.</p>
+        <p>On summer evenings, Mrs. Adams and Rebecca would sit on the porch of their home in Chatham, N.J., waiting for Mr. Adams, a 28-year-old vice president at Cantor Fitzgerald, to walk up the road from the train station. ''There's my girls,'' he would call out.</p>
+        <p>After dinner they would sometimes take a stroll through the neighborhood, sharing their day in the intimate short-hand of couples who are both lovers and best friends.</p>
+        <p>''I was H. He was D. Just the first letters. That's all we needed.''</p>
+        <p>JON GRABOWSKI  Love, Philosophy and Plato</p>
+        <p>It was a love story that began at a bagel shop in Maryland, over a conversation about Plato. Jon Grabowski, a student at the University of Maryland, managed to make sense of philosophy for the woman he later married, Erika Lutzner, a classmate and coworker at the bagel store, when her professors could not.</p>
+        <p>He was enigmatic, devilish, selfless ''too smart for his own good,'' -- as she wrote in his eulogy -- and he could always make sense of the world, of himself, of her, she said. His friends and colleagues said that too, in interviews and memorial e-mails filled with recollections of his wry wit, helpfulness and deep love for his wife, a chef.</p>
+        <p>Mr. Grabowski, 33, was vice president for technology information at Marsh &amp; McLennan, a job in the World Trade Center that he had begun only a week before the Sept. 11 terrorist attack.</p>
+        <p>Mr. Grabowski and Ms. Lutzner were together for 12 years. He won her over during their second week of dating, when he brought her Tylenol and orange juice after she came down with the flu.</p>
+        <p>''I felt like we were one soul,'' she said. ''Plato wrote about searching for your other half. Jon was my other half.''</p>
+        <p>JAMES LADLEY  Pleasure in the Mundane</p>
+        <p>Simple things made James Ladley happy. Things like little activities with the kids. He would take Elizabeth, 4, and James, 2, to pick up the mail. Or to get the newspaper. Or just run around the yard.</p>
+        <p>He was a soft target. He would be watching baseball, and his son would yell from his bed, ''Daddy, get me out of the crib. I want to watch the Yankees.'' Mr. Ladley would fetch James and plop him down beside him, where James would watch a few pitches and promptly fall asleep.</p>
+        <p>''It didn't take much to make Jimmy happy,'' said his wife, Sheri.</p>
+        <p>Mr. Ladley, 41, a bond broker at Cantor Fitzgerald, would not miss dinner with the family. ''We always waited for him,'' Sheri said. ''He got home at 7, and we always ate together and then he would help give the children a bath and he and I would read them stories. It was a group effort.''</p>
+        <p>He had succeeded enough at work that he was contemplating retiring within three years. ''He wanted to take the kids to school,'' Sheri said. ''He wanted to coach their sports. He wanted to spend more time with me. He wanted to downsize his load.''</p>
+        <p>Dinner at the Ladley home has not been the same. The meal never started until he was there. Every night, Elizabeth and James ask for Daddy.</p>
+        <p>WILLIAM ABRAHAMSON  The Linchpin of His Friends</p>
+        <p>In his 58 years, William Abrahamson generated enduring circles of friends. There was the Public School 8 schoolyard group, from his childhood in Brooklyn Heights. There were his colleagues from the Federal Reserve Bank, who met in the late 1960's and remained closest friends ever since.</p>
+        <p>As the men scattered to different states, it was Mr. Abrahamson, a business analyst at Marsh &amp; McLennan, who kept the group together.</p>
+        <p>''He was the quieter guy, very secure about who he was,'' said Ann Abrahamson, his wife of 25 years.</p>
+        <p>In a group of strong personalities, she said, ''he was the mediator, always above the squabbles.''</p>
+        <p>When their son, Erik, was born 11 years ago, Mr. Abrahamson, like many older fathers, looked upon the boy as a gift and a mission.</p>
+        <p>''Erik was his pride and joy,'' Mrs. Abrahamson said. ''All he wanted was to see him grow up.''</p>
+        <p>The Confirmed Dead</p>
+        <p>Following are the names of the people most recently confirmed to have died in the World Trade Center disaster, according to the New York City medical examiner's office, which said the victims' families had been notified.</p>
+        <p>ANAI, Kazuhiro  CRIFASI, Lucy  TREROTOLA, Lisa L</p>
+        <p>A NATION CHALLENGED: PORTRAITS OF GRIEF: THE VICTIMS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

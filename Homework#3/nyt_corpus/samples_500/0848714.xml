@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Mothers and Sons</title>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1996" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine Desk" name="dsk"/>
+    <meta content="56" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Magazine" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="848714"/>
+      <doc.copyright holder="The New York Times" year="1996"/>
+      <identified-content>
+        <person class="indexing_service">ISABEL ALLENDE</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19960505T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D00E5D81439F936A35756C0A960958260" item-length="626" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Mothers and Sons</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Isabel Allende and Nicolas Frias ISABEL ALLENDE, novelist: In 1992, my daughter Paula, died of a rare disease after a painful year. A few days later, Nicolas and I went ot ea gorest of wedwoods and scattered her ashes. Through a veil of tears, I saw that my son had suddenly grown six feet tall adn was wrapping me in his arms, and no words were  needed. Looking at this photograph, I realized that Nicolas has been holding me  much longer than I ever held him. Paul Kissinger and Henry Kissinger PUALA KISSINGER, avid reader: When Henry went to war, I wrote every other day, and he answered three times a week. When he finally returned, there were parties and, to crown it all, the visits to the White House to meet the various Presidents, the mother proud on the arm of her son. HENRY KISSINGER, former Secretary of State: The happiest times of my childhood were spent at her family's house. Much as been written about how traumatic a period this was supposed to have been in my life. But my mother shielded us from much of what was for her, in fact, traumatic. At every crucial stage of my life I have been lucky to have had my mother at my side.</p>
+      </block>
+      <block class="full_text">
+        <p>Isabel Allende and Nicolas Frias ISABEL ALLENDE, novelist: In 1992, my daughter Paula, died of a rare disease after a painful year. A few days later, Nicolas and I went ot ea gorest of wedwoods and scattered her ashes. Through a veil of tears, I saw that my son had suddenly grown six feet tall adn was wrapping me in his arms, and no words were  needed. Looking at this photograph, I realized that Nicolas has been holding me  much longer than I ever held him. Paul Kissinger and Henry Kissinger PUALA KISSINGER, avid reader: When Henry went to war, I wrote every other day, and he answered three times a week. When he finally returned, there were parties and, to crown it all, the visits to the White House to meet the various Presidents, the mother proud on the arm of her son. HENRY KISSINGER, former Secretary of State: The happiest times of my childhood were spent at her family's house. Much as been written about how traumatic a period this was supposed to have been in my life. But my mother shielded us from much of what was for her, in fact, traumatic. At every crucial stage of my life I have been lucky to have had my mother at my side.</p>
+        <p>Ruth Bader Ginsburg and James Ginsburg  JAMES GINSBURG, classical-record producer: As a child growing up, I always wondered why people only asked me what my father did for a living. Eventually, it dawned on me that having a mother as well established in her profession as her husband was unusual. Yet Mom managed to find the time to do all the things a mother was supposed to do. The main difference, I suppose, was that when other children woke up in the middle of the night, they probably didn't find their mothers at the dining-room table reading stacks of legal papers and sipping eight-hour-old coffee. Marian Wright Edelman and Joshua and Ezra Edelman JOSHUA EDELMAN, teacher: Growing up, I always wished that I had a normal mother. My perception was that my mom was always traveling around and speaking to strange people. She was also always strict with me. I wanted a mom who would allow me to hang out late and go to parties. In retrospect, I realize how lucky  I am to have had a moral exemplar to inculcate in me the ability to distinguish  between right and wrong, and the exigency to give back to those who often need the most guidance-children.</p>
+        <p>Laurie Williams and Robin Williams  LAURIE WILLIAMS, professional model: Robin was a delight as a child-kind, generous and, yes, funny. Not long ago a friend reminded me of how Robin would imitate people in the line at the checkout counter. His father was the fair but  strict disciplinarian, and I was more the playmate. ROBIN WILLIAMS, comedian and actor: My mother was my first audience. You know with mothers you have to "work  the womb." It's like Lenny Bruce said, "Most comedians are driven by 'Love me!'  " and mothers are the source.</p>
+        <p>Bette Bao Lord and Winston Bao Lord  BETTO BAO LORD, writer: Win is my heart. Don't get me wrong, he's no angel. An angel could have in a blink programmed the clock on our VCR and not left me seething for months. And yet, in an era in which the contented Brady Bunch seems outdated, he hugs his mom often. Only yesterday, attired in my silk gown and spike heels, I was chasing after a 4-year-old protesting his mother's imminent departure by racing form one neighbor's lawn to the next attired in nothing at all.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

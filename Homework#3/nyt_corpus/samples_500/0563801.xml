@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INSIDE A SOWETO HOSTEL</title>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1992" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Magazine; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="563801"/>
+      <doc.copyright holder="The New York Times" year="1992"/>
+      <identified-content>
+        <location class="indexing_service">SOUTH AFRICA</location>
+        <person class="indexing_service">KELLER, BILL</person>
+        <person class="indexing_service">JONES, NATHANIEL R</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Africa</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Africa/South Africa</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19921018T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CE2DF173CF93BA25753C1A964958260" item-length="112" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INSIDE A SOWETO HOSTEL</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Bill Keller has written a remarkable account of the violence surrounding the hostels in South Africa ("Island of Fear: Inside a Soweto Hostel," Sept. 20). But I was sorry to see him describe the violence as "black on black," which, as he says in the article, is something the South African Government likes to do.</p>
+      </block>
+      <block class="full_text">
+        <p>Bill Keller has written a remarkable account of the violence surrounding the hostels in South Africa ("Island of Fear: Inside a Soweto Hostel," Sept. 20). But I was sorry to see him describe the violence as "black on black," which, as he says in the article, is something the South African Government likes to do.</p>
+        <p>I have never seen the conflict between the Croats and Serbs characterized as "white on white" violence. Why must racial terms be used here? The South African Government may want to paint a picture principally in terms of skin color, but I wonder why the American news media must be a party to that effort. NATHANIEL R. JONES</p>
+        <p>Cincinnati</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

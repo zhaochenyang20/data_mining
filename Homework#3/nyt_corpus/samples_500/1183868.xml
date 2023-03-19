@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>One Eye On Ball, The Other On Inquiry</title>
+    <meta content="14STOR$01" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1183868"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="N.C.A.A. BASKETBALL TOURNAMENT"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000314T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C05E7D9103BF937A25750C0A9669C8B63" item-length="745" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>One Eye On Ball, The Other On Inquiry</hl1>
+      </hedline>
+      <byline class="print_byline">By JUDY BATTISTA</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The discussion was, for just a moment, only about basketball, merely a recitation of what Coach Mike Jarvis saw as the little weaknesses in his team's game. There had been lapses after all, and Jarvis attributes almost all of St. John's losses this season to be at its own hand.</p>
+        <p>''Our greatest weakness is we go to intermission before it's intermission,'' he said. ''Everybody gets to the point that, because of faith, they think you're good enough to relax for a few minutes and take a vacation. Other than that our enemy is something we have no control over -- an injury. Injury is our only enemy.</p>
+      </block>
+      <block class="full_text">
+        <p>The discussion was, for just a moment, only about basketball, merely a recitation of what Coach Mike Jarvis saw as the little weaknesses in his team's game. There had been lapses after all, and Jarvis attributes almost all of St. John's losses this season to be at its own hand.</p>
+        <p>''Our greatest weakness is we go to intermission before it's intermission,'' he said. ''Everybody gets to the point that, because of faith, they think you're good enough to relax for a few minutes and take a vacation. Other than that our enemy is something we have no control over -- an injury. Injury is our only enemy.</p>
+        <p>''And the N.C.A.A.''</p>
+        <p>There is no such thing as single-mindedness at St. John's right now, not as it tries to simultaneously wind its way through the tricky turns of the national tournament -- beginning with its first-round game against Northern Arizona in Tucson on Thursday night -- and the even more perilous terrain of a National Collegiate Athletic Association investigation that has focused on the Red Storm's best player, Erick Barkley.</p>
+        <p>Jarvis faces a bizarre confluence of events. He will think as much about how his team responds to pressure defense as to the pressures of scrutiny. He will remind his team about continuing to play its quick, workmanlike style. It is when St. John's abandons that style that the team falters.</p>
+        <p>There is no separating basketball from the murky circumstances of the investigation now, although Jarvis concedes that the trip west will do the team some good to ''get away from this madness.''</p>
+        <p>Jarvis will watch tape of the other teams and plan what defense to use to counter a 3-point-shooting machine that also features a 7-foot center in Northern Arizona. But when St. John's boards a flight this morning for Arizona, Jarvis will also tuck into his briefcase a plan for the worst case: if the N.C.A.A. finds cause to rule Barkley ineligible for a third time this season, right in the middle of the tournament.</p>
+        <p>''It's sick,'' Jarvis said. ''It just seems to go against what the organization should be about. You've got to keep looking straight ahead and you can't look over your shoulder. If you keep looking back, they're going to catch you. Someone will beat you. We've got to continue to deal with the realities of the whole thing. You hope to God it doesn't happen, but you prepare for the worst. We've been doing that for months, and we'll do it as long as Erick Barkley goes to school here.''</p>
+        <p>But St. John's has shown remarkable mental toughness for the last few weeks. Bootsy Thornton has even turned what is perceived as one of St. John's shortcomings -- its lack of size -- into a decided advantage. He figures that if St. John's can play only six, or occasionally seven, deep, it means that at least three of the starters will be on the floor all the time, so there will be no change in pace.</p>
+        <p>The players are convinced, as they have been since the N.C.A.A. began asking questions, that they can prevail, and that Barkley, in particular, can set aside his tumultuous weekend to lead them to the Final Four.</p>
+        <p>''We don't even talk about it,'' Thornton said of the controversy. ''We have no other choice. It's all we can do to shut it out. The games are a relief for me. Once we're on the court, we can straight-up focus on something. I hope the worst has passed.''</p>
+        <p>Center Anthony Glover concurred, although there is a note of resignation in his approach toward the N.C.A.A. investigators.</p>
+        <p>''If they're going to do something, they're going to do something,'' Glover said. ''It seems like every big game we have coming up, the N.C.A.A. comes up with something. Who knows what they'll bring up Thursday?''</p>
+        <p>N.C.A.A. BASKETBALL TOURNAMENT</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

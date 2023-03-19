@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Separate Schools for Black Males Might Work in New York City; Segregation Is the Issue</title>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="20" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="402584"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">EDUCATION AND SCHOOLS</classifier>
+        <classifier class="indexing_service" type="descriptor">BLACKS (IN US)</classifier>
+        <location class="indexing_service">NEW YORK CITY</location>
+        <org class="indexing_service">NATIONAL ASSN FOR THE ADVANCEMENT OF COLOR PEOPLE (NAACP)</org>
+        <person class="indexing_service">SMITH, NONA E</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Blacks</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19901120T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE4DE1E31F933A15752C1A966958260" item-length="197" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Separate Schools for Black Males Might Work in New York City; Segregation Is the Issue</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>The New York City branch of the National Association for the Advancement of Colored People is saying no to using public funds to establish schools that separate black boys from their female peers and other ethnic groups. Laws on segregation and integration are at issue here.</p>
+        <p>As a whole, children of African descent in our city's public schools are not progressing as well as they can; particularly black boys. There is no question that actions must be taken to remove the impediments in the school setting that prevent them from doing their best work. However, further segregation is not the way to do that. Effective educational models will work for all children and can be established for the population mix in the schools that serve our children.</p>
+        <p>As we focus on educational issues that relate to a global community, an international work force, a pluralistic society and multicultural education for the year 2000 and beyond, we see a disadvantage to greater segregation. Quick fixes frequently contain other problems that come back to haunt us down the road. NONA E. SMITH Director, Project Excellence New York City N.A.A.C.P. New York, Nov. 2, 1990</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>The New York City branch of the National Association for the Advancement of Colored People is saying no to using public funds to establish schools that separate black boys from their female peers and other ethnic groups. Laws on segregation and integration are at issue here.</p>
+        <p>As a whole, children of African descent in our city's public schools are not progressing as well as they can; particularly black boys. There is no question that actions must be taken to remove the impediments in the school setting that prevent them from doing their best work. However, further segregation is not the way to do that. Effective educational models will work for all children and can be established for the population mix in the schools that serve our children.</p>
+        <p>As we focus on educational issues that relate to a global community, an international work force, a pluralistic society and multicultural education for the year 2000 and beyond, we see a disadvantage to greater segregation. Quick fixes frequently contain other problems that come back to haunt us down the road. NONA E. SMITH Director, Project Excellence New York City N.A.A.C.P. New York, Nov. 2, 1990</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

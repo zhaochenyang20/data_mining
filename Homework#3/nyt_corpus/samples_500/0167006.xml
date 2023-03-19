@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Q&amp;A</title>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="1988" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Technology; Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="167006"/>
+      <doc.copyright holder="The New York Times" year="1988"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">SCIENCE AND TECHNOLOGY</classifier>
+        <object.title class="indexing_service">Q&amp;A (TIMES COLUMN)</object.title>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Columns/Q and A</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Science and Technology</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19880802T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DE1DB163CF931A3575BC0A96E948260" item-length="266" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Q&amp;A</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD:  Q. How fast do fingernails grow?</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD:  Q. How fast do fingernails grow?</p>
+        <p>Q. How fast do fingernails grow?</p>
+        <p>Do they grow faster in summer?  A. Fingernail growth averages out to about a tenth of a millimeter a day, according to Lawrence A. Norton, M.D., clinical professor of dermatology at the Boston University School of Medicine. Toenails are about a half to a third slower, he said, and drugs or disease can change the growth rate.</p>
+        <p>''There are differences from finger to finger,'' Dr. Norton went on. ''The middle and fourth finger tend to grow a little faster than than the fifth and the thumb. That's a Trivial Pursuit question, believe it or not.''</p>
+        <p>''Nails grow faster in summer, some research indicates, while winter and a cold environment tend to slow nail growth,'' he added.</p>
+        <p>''Other studies seem to find that the right-hand fingers grew faster than the left, which might be tied to handedness, and that stimulation, such as massage, helps them grow faster. People with the neurotic habit tic of rubbing a digit would find that the nail they rubbed grew faster.''</p>
+        <p>Contrary to childhood myth, nails do not continue to grow after death, he said. ''That is an optical illusion,'' he explained. ''Tissues around the nail tend to shrink away from the hard nail after death, giving the impression of something still growing.''</p>
+        <p>Readers are invited to submit questions about science to Questions, Science Times, The New York Times, 229 West 43d Street, New York, N.Y. 10036. Questions of general interest will be answered in this column, but requests for medical advice cannot be honored and unpublished letters cannot be answered individually.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

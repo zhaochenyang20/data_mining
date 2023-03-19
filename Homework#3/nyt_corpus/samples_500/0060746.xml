@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Kerkorian Plan On Expansion</title>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="19" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="60746"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">MERGERS, ACQUISITIONS AND DIVESTITURES</classifier>
+        <org class="indexing_service">TRACINDA CORP</org>
+        <org class="indexing_service">MGM/UA COMMUNICATIONS CO</org>
+        <person class="indexing_service">KERKORIAN, KIRK</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870729T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE6DD153BF93AA15754C0A961948260" item-length="148" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Kerkorian Plan On Expansion</hl1>
+      </hedline>
+      <byline class="print_byline">Special to the New York Times</byline>
+      <dateline>LOS ANGELES, July 28</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: The Tracinda Corporation, the parent company of MGM/UA Communications, said today that it planned to make a variety of acquisitions in an effort to become a more diversified company. Tracinda, wholly owned by</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: The Tracinda Corporation, the parent company of MGM/UA Communications, said today that it planned to make a variety of acquisitions in an effort to become a more diversified company. Tracinda, wholly owned by</p>
+        <p>The Tracinda Corporation, the parent company of MGM/UA Communications, said today that it planned to make a variety of acquisitions in an effort to become a more diversified company. Tracinda, wholly owned by</p>
+        <p>Kirk Kerkorian, the investor, is the majority owner of MGM/ UA, the film studio, and MGM Grand Air, an all-first-class airline that plans to begin flights between New York and Los Angeles next month. Tracinda is now forming a subsidiary, MGM Grand Inc., through which Mr. Kerkorian plans to make acquisitions in the entertainment industry, luxury hotels, travel and other activities, the company said.</p>
+        <p>As part of its plan, Tracinda named Terry Christensen to the new post of president. Mr. Christensen, 46 years old, had been a lawyer and consultant for Mr. Kerkorian. Tracinda also said it was moving its headquarters to Beverly Hills, Calif., from Las Vegas, Nev.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

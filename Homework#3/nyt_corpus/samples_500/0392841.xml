@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Expansion Is Not Taken Lightly</title>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="392841"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <series series.name="NOTEBOOK"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Terms not available</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19901018T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CEEDC1E3CF93BA25753C1A966958260" item-length="817" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Expansion Is Not Taken Lightly</hl1>
+      </hedline>
+      <byline class="print_byline">By JOE LAPOINTE</byline>
+    </body.head>
+    <body.content>
+      <block class="full_text">
+        <p>No final decisions are expected to be made today, but serious discussions are likely when the National Hockey League's franchise and market analysis committee meets in New York with representatives from nine prospective expansion franchises.</p>
+        <p>The meetings are expected to last all day with many top league executives scheduled to attend. The meeting comes amid posturing and saber-rattling in several quarters as the league plans to redefine its shape and size after a decade of prosperity and stability.</p>
+        <p>For example, the Winnipeg Jets, who joined the N.H.L. from the World Hockey Association in 1979, may be looking for a new home.</p>
+        <p>''The future depends on a new building,'' said Mike Smith, general manager of the Jets. ''If there is no new building, the Jets will not be in Winnipeg, perhaps as soon as next year.''</p>
+        <p>A feasibility study for a new arena is under way in Winnipeg. Last week, the Milwaukee application for an expansion franchise was withdrawn. Lloyd Pettit, who headed the bid, said the $50 million fee was too expensive.</p>
+        <p>He still wants to buy an existing team and move it to the new building in Milwaukee.</p>
+        <p>The N.H.L. hopes to expand from 21 to 28 teams in this decade and has already awarded a franchise to San Jose, to begin next season in a temporary home, the Cow Palace, San Francisco. The league said it wanted to award at least two franchises this December, so they could start play in 1992-93, but league sources say now that the December deadline is not a firm one.</p>
+        <p>Only nine groups remain in the bidding for the six available franchises. Four of those groups are situated in two market areas. The areas are southern California (Anaheim and San Diego) and the West Coast of Florida (Tampa and St. Petersburg). So, realistically, the league is considering seven market areas for six new teams. The other bids come from Seattle, Miami, Houston, Hamilton and Ottawa.</p>
+        <p>The league says the $50 million expansion fee is firm, although the Minnesota North Stars were sold last spring for $31.5 million. The Stars' former owners, the Gund brothers, had threatened to move the team to San Jose. Instead, they sold it and got an expansion franchise. The Stars' new owner, Norman Green, said he wanted to renegotiate the deal that will allow the Gunds to draft 30 players from the Minnesota organization after this season.  An Awkward Situation</p>
+        <p>When Jacques Demers goes to work Saturday night in Quebec, he will face an awkward situation rarely encountered by any coach or reporter. Demers is a color commentator for radio broadcasts of Nordiques games. He also does interviews with visiting players in their locker rooms. The visiting team this Saturday is the Detroit Red Wings, who dismissed Demers last summer after he spent four seasons as their coach.</p>
+        <p>''I don't know if I will go in their dressing room; I don't know if I would feel comfortable,'' Demers said in a telephone interview from his apartment in Quebec.</p>
+        <p>Does he feel comfortable looking over the shoulder of Dave Chambers, the first-year coach of the Nordiques?</p>
+        <p>''There is no problem,'' Demers said. ''I went in right away and I said, 'Dave, I am not looking for your job.' I'm not second-guessing him. He knows I'm not sniffing around.''</p>
+        <p>Not that Demers would turn down approaches from elsewhere. He was coach of the year with Detroit in 1987 and 1988.</p>
+        <p>''I've only been fired once in 18 years,'' he said. ''It's quite possible I could get one or two offers down the road.''</p>
+        <p>He says the toughest part of the job is speaking French. Although he grew up in Montreal in a French-speaking family, Demers has lived most of his adult life in English-speaking cities.</p>
+        <p>''There are some words I've forgotten,'' he said.  Messier Out Four Weeks</p>
+        <p>Mark Messier's knee injury is expected to keep the Edmonton star out for at least four weeks. . . . Ken Baumgartner, the Islanders' acting player representative, released a heavy-metal record called ''The Bomber'' this week on Metal Blade records. . . . Sergei Fedorov, Detroit's rookie center from the Soviet Union, has 4 points in seven games, works on the power play and is impressive on every shift. Also among this season's impressive rookies are Jaromir Jagr of Pittsburgh, Mike Richter of the Rangers, Mats Sundin of Quebec and Rob Blake of Los Angeles. It may be one of the league's best rookie crops in several seasons. . . . The Buffalo Sabres Wednesday night retired the No. 11 of Gilbert Perreault, who finished his career in 1986-87. . . . Eric Lindros, projected as the top draft choice next summer in the 18-year-old draft, has 10 goals and 14 assists in the first 10 games of the season for the Oshawa Generals, the defending Memorial Cup champions of Canada. The Generals, of the Ontario Hockey League, are 8-1-1. Lindros denies rumors that he will refuse to play for Quebec if the Nordiques get the first draft choice and choose him.</p>
+        <p>NOTEBOOK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Nissan Profit Up as Luxury Models Sell Well</title>
+    <meta content="27NISS$01" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="W" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2004/04/27/business/worldbusiness/27nissan.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1577277"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Automobiles</classifier>
+        <classifier class="indexing_service" type="descriptor">Company Reports</classifier>
+        <org class="indexing_service">Nissan Motor Co</org>
+        <org class="indexing_service">Toyota Motor Corp</org>
+        <person class="indexing_service">Ghosn, Carlos</person>
+        <person class="indexing_service">Zaun, Todd</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Road Trips</classifier>
+        <classifier class="online_producer" type="descriptor">Automobiles</classifier>
+        <classifier class="online_producer" type="general_descriptor">Company Reports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Automobiles</classifier>
+        <classifier class="online_producer" type="general_descriptor">Corporations</classifier>
+        <org class="online_producer">Nissan Motor Company Limited</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040427T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D01E2DF113AF934A15757C0A9629C8B63" item-length="887" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Nissan Profit Up as Luxury Models Sell Well</hl1>
+        <hl2 class="online_headline">Nissan Profit Up as Luxury Models Sell Well</hl2>
+      </hedline>
+      <byline class="print_byline">By TODD ZAUN</byline>
+      <byline class="normalized_byline">Zaun, Todd</byline>
+      <dateline>TOKYO, April 26</dateline>
+      <abstract>
+        <p>Nissan Motor Co posts small gain in net profit for fiscal year ened March 31; net income was 503.7 billion yen ($4.63 billion), up 1.7 percent from 495.2 billion yen year earlier; operating profit was 825 billion yen ($7.6 billion), up 11.9 percent from year ago; Toyota Motor posts revenue of 7.429 trillion yen ($68.3 billion) for fiscal year, up 8.8 percent from 6.829 trillion yen year ago; sales expanded 10.4 percent, to 3.06 million; Nissan chief Carlos Ghosn comments; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Nissan Motor Company on Monday posted a small gain in net profit for the fiscal year that just ended, as strong sales in the United States of its luxury Infiniti line and other Nissan vehicles helped offset the damage caused by a rising yen.</p>
+        <p>Nissan's net income for the year ended March 31 was 503.7 billion yen ($4.63 billion), up 1.7 percent from 495.2 billion yen in the period a year earlier, because of robust sales of the Infiniti G35 and the Altima sedans and the introduction of vehicles, like the Murano crossover sport utility vehicle, in segments where Nissan did not compete before.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Nissan posted a small gain in profit, as strong sales of its luxury Infiniti line and other Nissan vehicles helped offset the damage caused by a rising yen.</p>
+      </block>
+      <block class="full_text">
+        <p>The Nissan Motor Company on Monday posted a small gain in net profit for the fiscal year that just ended, as strong sales in the United States of its luxury Infiniti line and other Nissan vehicles helped offset the damage caused by a rising yen.</p>
+        <p>Nissan's net income for the year ended March 31 was 503.7 billion yen ($4.63 billion), up 1.7 percent from 495.2 billion yen in the period a year earlier, because of robust sales of the Infiniti G35 and the Altima sedans and the introduction of vehicles, like the Murano crossover sport utility vehicle, in segments where Nissan did not compete before.</p>
+        <p>Operating profit was 825 billion yen ($7.6 billion), up 11.9 percent from a year earlier. The figure showed that the company remained one of the most profitable of automakers, with an operating profit margin of 11.1 percent.</p>
+        <p>''We were able to absorb all the negative impact of the adverse change in exchange rates and still meet the numbers,'' said Carlos Ghosn, chief executive of Nissan.</p>
+        <p>The company forecast net profit of 510 billion yen for the fiscal year ending March 2005, which would be an increase of 1.25 percent from the year just ended.</p>
+        <p>The rising profits show that Nissan is building on a turnaround begun after the French automaker Renault bought a controlling stake in the Japanese company in 1999 and dispatched a team of executives, led by Mr. Ghosn, to lead a rigorous turnaround of the company.</p>
+        <p>Mr. Ghosn, who has become a corporate hero in Japan, announced a new set of company goals on Monday, among them expanding global vehicle sales to 4.2 million for the year ending March 2008 from just over 3 million in the year just ended. To reach the goal, Mr. Ghosn said that Nissan would expand sales in China, the Middle East and other developing markets and make its luxury Infiniti line a global brand. Currently, Infiniti is mostly a North American brand.</p>
+        <p>''Infiniti has demonstrated it's able to compete globally,'' Mr. Ghosn said.</p>
+        <p>Nissan, Japan's second-largest carmaker after Toyota Motor, posted revenue of 7.429 trillion yen ($68.3 billion) for the fiscal year that just ended, up 8.8 percent from 6.829 trillion yen in the period a year earlier, as the number of vehicles sold around the world expanded 10.4 percent, to 3.06 million.</p>
+        <p>This was the fourth consecutive year of record earnings for Nissan, which was skidding toward bankruptcy when Mr. Ghosn began carrying out his turnaround plan five years ago. Renault now owns 44 percent of Nissan.</p>
+        <p>In the first years of the turnaround, Nissan's profit growth was driven largely by cost cuts as Mr. Ghosn's team pushed suppliers to lower prices.</p>
+        <p>This time around, however, the biggest contribution to profit growth was Nissan's ability to sell more vehicles even as it reduced discounts, a sign that efforts to spice up the Nissan and Infiniti lines with bolder designs are paying off.</p>
+        <p>The sporty Infiniti G35 sedan and G35 coupe have been hits with American car buyers and the curvy Murano has been selling well in an area where Nissan previously did not offer a vehicle, the crossover segment of autos that share attributes of cars and sport utility vehicles.</p>
+        <p>Not all of Nissan's new vehicles have been successes. Sales of its Quest minivan, marketed as a vehicle for cool suburban mothers, are below the company's forecasts.</p>
+        <p>''You cannot expect that every product is going to be a hit,'' Mr. Ghosn said. He added, however, that he expected ''good surprises will more than offset bad surprises.''</p>
+        <p>The strength of Nissan's Infiniti line made a big contribution to the company's profit growth for the year just ended. While the luxury line accounted for just 4 percent of Nissan's global sales volume, it accounted for 8 percent of revenue and 12 percent of operating profit, Mr. Ghosn said.</p>
+        <p>And so it is no wonder that the company now plans to introduce the Infiniti line to more markets around the world. Nissan will first roll out Infiniti vehicles in South Korea and then in Japan, Russia, China and eventually in Europe. Some vehicles sold as Infinitis in the United States are already sold in Japan as Nissans.</p>
+        <p>The move to make Infiniti a global brand comes after Toyota announced last year that it would begin selling its Lexus line of luxury vehicles around the world. Lexus, too, began as a brand for the North American market.</p>
+        <p>Nissan forecast global auto sales of 3.38 million vehicles in the year ending in March 2005.</p>
+        <p>Nissan is the first Japanese carmaker to announce earnings for the fiscal year just ended. Toyota Motor is also expected to post a record net profit.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

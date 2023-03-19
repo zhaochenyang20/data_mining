@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>El Nino Is Blamed For Rio Beach Erosion</title>
+    <meta content="TRDZ0102" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Travel Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="5" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <docdata>
+      <doc-id id-string="998828"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <series series.name="TRAVEL ADVISORY"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">El Nino (Pacific Ocean Current)</classifier>
+        <classifier class="indexing_service" type="descriptor">Travel and Vacations</classifier>
+        <classifier class="indexing_service" type="descriptor">Beaches</classifier>
+        <classifier class="indexing_service" type="descriptor">Erosion</classifier>
+        <location class="indexing_service">Rio De Janeiro (Brazil)</location>
+        <location class="indexing_service">Brazil</location>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sunday Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Beaches</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Hospitality, Restaurant and Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Central and South America/Brazil/Rio de Janeiro</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Central and South America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Central and South America/Brazil</classifier>
+        <classifier class="online_producer" type="general_descriptor">Beaches</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Travel and Vacations</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980301T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0CE0D9123EF932A35750C0A96E958260" item-length="201" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>El Nino Is Blamed For Rio Beach Erosion</hl1>
+      </hedline>
+      <abstract>
+        <p>Oceanographers blame El Nino weather pattern for erosion of some famous Rio de Janeiro beaches (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Chalk up another point for El Nino -- maybe. Portions of Rio's famous beaches, mainly at Copacabana, Ipanema and Leblon, are being nibbled away, and at least some scientists think El Nino is the culprit.</p>
+        <p>David Zee, a coastal engineer and professor of oceanography at Rio's State University, said that about 10 percent of the two-and-a-half-mile Copacabana beach had shrunk in width by 100 to 150 feet, and in Ipanema a 985-foot section of Arpoador beach has lost more than half of its 100 feet of sandy width.</p>
+      </block>
+      <block class="full_text">
+        <p>Chalk up another point for El Nino -- maybe. Portions of Rio's famous beaches, mainly at Copacabana, Ipanema and Leblon, are being nibbled away, and at least some scientists think El Nino is the culprit.</p>
+        <p>David Zee, a coastal engineer and professor of oceanography at Rio's State University, said that about 10 percent of the two-and-a-half-mile Copacabana beach had shrunk in width by 100 to 150 feet, and in Ipanema a 985-foot section of Arpoador beach has lost more than half of its 100 feet of sandy width.</p>
+        <p>Beach erosion happens regularly during El Nino, the cyclical weather pattern, said Prakki Satymurty, chief of operations at the National Institute for Space Research. But the erosion of Rio's beaches may have started even before El Nino, according to Marcio Luis Vianna, an oceanographer at the National Institute for Space Research, and may have more to do with a gradual intensification of South Atlantic winds in recent years, bringing higher and heavier waves.</p>
+        <p>Mauricio Tostes Vieira, Secretary of Works for the city government, said that his office was observing the situation. ''But if necessary,'' he said, ''we will do a landfill.''</p>
+        <p>TRAVEL ADVISORY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

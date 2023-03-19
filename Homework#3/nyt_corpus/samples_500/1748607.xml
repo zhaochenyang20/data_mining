@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>National Briefing | Midwest: Illinois: Change In Handling Of Abuse Claims</title>
+    <meta content="21brfs-3" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1748607"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060321T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E04E0D61F31F932A15750C0A9609C8B63" item-length="124" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>National Briefing | Midwest: Illinois: Change In Handling Of Abuse Claims</hl1>
+      </hedline>
+      <byline class="print_byline">By GRETCHEN RUETHLING (NYT)</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Roman Catholic Archdiocese of Chicago announced initiatives to improve the handling of sexual abuse accusations against priests. The archdiocese released the names of 55 priests who had had substantiated claims of abuse made against them since 1950. Officials have also hired a child welfare expert to train staff members on abuse reporting requirements and have improved reporting protocols with the authorities, said Jimmy M. Lago, chancellor of the archdiocese. A committee has also been appointed to help enact recommendations made in two independent audits. An audit conducted by a forensic investigation firm said a lack of communication among archdiocese departments had been the most significant failure in the handling of recent sexual abuse accusations against two priests.</p>
+        <p>GRETCHEN RUETHLING (NYT)</p>
+      </block>
+      <block class="full_text">
+        <p>The Roman Catholic Archdiocese of Chicago announced initiatives to improve the handling of sexual abuse accusations against priests. The archdiocese released the names of 55 priests who had had substantiated claims of abuse made against them since 1950. Officials have also hired a child welfare expert to train staff members on abuse reporting requirements and have improved reporting protocols with the authorities, said Jimmy M. Lago, chancellor of the archdiocese. A committee has also been appointed to help enact recommendations made in two independent audits. An audit conducted by a forensic investigation firm said a lack of communication among archdiocese departments had been the most significant failure in the handling of recent sexual abuse accusations against two priests.</p>
+        <p>GRETCHEN RUETHLING (NYT)</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

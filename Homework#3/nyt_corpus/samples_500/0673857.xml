@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Oregon Concern's Workers Learn and Earn</title>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="37" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="673857"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <series series.name="COMPANY NEWS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">COMPANY AND ORGANIZATION PROFILES</classifier>
+        <org class="indexing_service">IPD CO</org>
+        <person class="indexing_service">GORDON, RICHARD</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Company and Organization Profiles</classifier>
+        <classifier class="online_producer" type="general_descriptor">Corporations</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19940312T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0DE1DD123DF931A25750C0A962958260" item-length="557" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Oregon Concern's Workers Learn and Earn</hl1>
+      </hedline>
+      <dateline>PORTLAND, Ore., March 11</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Many executives espouse the need for American businesses to provide better job-related training for their employees, but few deal with the issue as directly as Richard Gordon.</p>
+        <p>Mr. Gordon, the president of a small Portland auto parts company, pays his 22 employees to read books like M. Scott Peck's "The Road Less Traveled," listen to tapes by DePak Chopra or watch self-improvement videos.</p>
+      </block>
+      <block class="full_text">
+        <p>Many executives espouse the need for American businesses to provide better job-related training for their employees, but few deal with the issue as directly as Richard Gordon.</p>
+        <p>Mr. Gordon, the president of a small Portland auto parts company, pays his 22 employees to read books like M. Scott Peck's "The Road Less Traveled," listen to tapes by DePak Chopra or watch self-improvement videos.</p>
+        <p>The concern, the IPD Company, is the leading North American purveyor of after-market parts for Volvos and an innovator in suspension kits for big vehicles, like motor homes, buses and rescue vehicles.</p>
+        <p>In addition to devising the "Learn and Earn" program, Mr. Gordon added a library to the company's lunchroom to accommodate it. Hunger for Knowledge</p>
+        <p>"It isn't my job to force employees to learn, but to create an atmosphere that encourages continuous learning," Mr. Gordon said. "The more knowledge you have, the more knowledge you want." Still, some reading is required.</p>
+        <p>This year, for the first time, he has given the managers a list of required books and videos. "Managers have to set the example," he said. And "The Power of Ethical Management," for example, by the late Rev. Norman Vincent Peale, must be read by every new worker within 90 days of being hired.</p>
+        <p>The company has hundreds of books and tapes that employees can read or listen to on their own time, earning an average of $25 for each in their paychecks -- the payments range from $5 to $40, depending on the book or tape. Employees can also apply to go to approved seminars at company expense. The kicker is that they must write the equivalent of a book report, which is stored in a three-ring binder in the lunchroom. Mr. Gordon makes it a point to read each report.  Lack of Formal Education</p>
+        <p>Mr. Gordon emphasizes self-education because that is the path he took. Mr. Gordon and his wife, Judy, married the summer they were graduated from high school in 1960. By the time he started his business in 1963, they had three children. He took a number of short self-improvement courses like vocabulary, typing and speed reading, but he had no time for further formal education.</p>
+        <p>Few of his employees have had much formal education, either. In more than 30 years in business, he can recall only three workers who had college degrees.</p>
+        <p>Even so, many employees take advantage of the program. Mr. Gordon conceded that some do so without great enthusiasm, but one became so motivated that he enrolled in night school and wrote Mr. Gordon a glowing letter thanking him for putting him on a path of personal growth. Books Open Windows</p>
+        <p>"Stimulating brains works to the organization's benefit," Mr. Gordon said. "I found that my own ability to deal with people and handle my work improved through the reading I did. Every book I read gives me a different window to look through. It made sense that the others here could improve themselves and the company if they were exposed to the same information."</p>
+        <p>The books Mr. Gordon recommends to his employees include "The Seven Habits of Highly Effective People," by Steven Covey; "Notes to Myself," by Hugh Prather, and "The Empowered Manager," by Peter Block.</p>
+        <p>Mr. Gordon said a desire to learn, hard work, imagination and taking calculated risks could be more important than formal education in the business world.  COMPANY NEWS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

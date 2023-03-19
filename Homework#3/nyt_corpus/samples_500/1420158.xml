@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Elizabeth Rochlen, Jonathan Berger</title>
+    <meta content="01ROCH$01" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2002/09/01/fashion/weddings/01ROCH.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1420158"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">ROCHLEN, ELIZABETH JAYE</person>
+        <person class="indexing_service">BERGER, JONATHAN MOSES</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="descriptor">Weddings and Engagements</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20020901T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9400E7D9143FF932A3575AC0A9649C8B63" item-length="272" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Elizabeth Rochlen, Jonathan Berger</hl1>
+        <hl2 class="online_headline">Elizabeth Rochlen and Jonathan Berger</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Elizabeth Jaye Rochlen, the daughter of Arleen and Donald Rochlen of Birmingham, Mich., is to be married this evening to Jonathan Moses Berger, a son of Barbara and Arthur Berger of Bethesda, Md. Rabbi Daniel Nevins will officiate at Adat Shalom Synagogue in Farmington Hills, Mich.</p>
+        <p>The bride, 29, was until last week the director of training for the A.F.L.-C.I.O. in Washington, where she helped union members who were running for political office and provided support for political campaigns. She graduated from the University of Michigan. Her father is the chief executive of Cilex, a software development company in Troy, Mich. Her mother teaches fourth grade at the Academy of the Sacred Heart in Bloomfield Hills, Mich.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Elizabeth Rochlen, Jonathan Berger.</p>
+      </block>
+      <block class="full_text">
+        <p>Elizabeth Jaye Rochlen, the daughter of Arleen and Donald Rochlen of Birmingham, Mich., is to be married this evening to Jonathan Moses Berger, a son of Barbara and Arthur Berger of Bethesda, Md. Rabbi Daniel Nevins will officiate at Adat Shalom Synagogue in Farmington Hills, Mich.</p>
+        <p>The bride, 29, was until last week the director of training for the A.F.L.-C.I.O. in Washington, where she helped union members who were running for political office and provided support for political campaigns. She graduated from the University of Michigan. Her father is the chief executive of Cilex, a software development company in Troy, Mich. Her mother teaches fourth grade at the Academy of the Sacred Heart in Bloomfield Hills, Mich.</p>
+        <p>The bridegroom, 31, was until last month a legislative assistant for Senator Jack Reed, Democrat of Rhode Island. Later this month, he will begin work as a Foreign Service officer with the State Department in Washington. He graduated from Occidental College in Los Angeles. His mother coordinates awards ceremonies in Washington for the American Foreign Service Association, a professional organization for American diplomats. His father retired as a Foreign Service officer and the counselor for public affairs at the American Embassy in The Hague, the Netherlands, and is now director of communications and external affairs at the United States Holocaust Memorial Museum in Washington.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

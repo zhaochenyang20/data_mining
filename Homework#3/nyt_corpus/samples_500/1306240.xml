@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Way We Live Now; What They Were Thinking</title>
+    <meta content="WLN100947" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine Desk" name="dsk"/>
+    <meta content="28" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Education; Magazine" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2001/07/01/magazine/01WTWT.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1306240"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Education and Schools</classifier>
+        <classifier class="indexing_service" type="descriptor">Blindness</classifier>
+        <org class="indexing_service">Perkins School for the Blind</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine/Columns/What They Were Thinking</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Education</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Education</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Blindness</classifier>
+        <classifier class="online_producer" type="general_descriptor">Blindness</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diseases and Conditions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20010701T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9903E5DA1130F932A35754C0A9679C8B63" item-length="436" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Way We Live Now; What They Were Thinking</hl1>
+      </hedline>
+      <byline class="print_byline">By Catherine Saint Louis</byline>
+      <abstract>
+        <p>Photo of students at Perkins School for the Blind dress for prom night; three of them tell what they were thinking</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Dawn Kelly, Jaredd Mooney, Jessie Kremidas and Nate Peterkin, Perkins School for the Blind, Watertown, Mass., June 7, 2001</p>
+        <p>Dawn Kelly (left): ''We were just waiting to get our prom pictures taken. I already graduated from high school, but Jessie told me that Jaredd wanted to go to the prom with me. I think he likes me. Jaredd hasn't said anything to me, but his actions and other things imply it. He kept saying he's happy when I'm around. I'm partially blind. I can see some color and shapes, but no definition. I would have liked to go to a school that works well with the blind. My high school was totally lost.''</p>
+        <p>Jessie Kremidas (center): ''My boyfriend turned into a loser, so I asked my friend Ray to the prom. But Ray started being a real mean person, so I ended up asking Nate. Well, Nate and I both asked each other at almost the same time. We have been off and on together for months -- not boyfriend and girlfriend, but we're close. You know how it is in high school. The dance floor was crowded. Everybody bumped into everyone. I made my friends bump into people -- it's a great way to meet people. I can see, just not really good. I'd been in the mainstream my whole life, so they had to tie me down to bring me to this school. I felt superior, I guess, that I was better than people who were blind. But now I've been there two years. I'm going to miss a lot of my friends. But I have really bad times too. I would just rather be mainstream.''</p>
+        <p>Nate Peterkin (right): ''This is funny. I went to the prom with my friend's date because my friend backed out. They had a little fight before the prom. So 10 minutes before I went in, she asked me to go with her, and I said fine. You don't have to see to dance. You just dance. People tell me I'm an O.K. dancer. I fake it. I have absolutely no idea how to dance. But girls don't know you're faking it. They think you're good.''</p>
+        <p>Interviews by Catherine Saint Louis</p>
+      </block>
+      <block class="full_text">
+        <p>Dawn Kelly, Jaredd Mooney, Jessie Kremidas and Nate Peterkin, Perkins School for the Blind, Watertown, Mass., June 7, 2001</p>
+        <p>Dawn Kelly (left): ''We were just waiting to get our prom pictures taken. I already graduated from high school, but Jessie told me that Jaredd wanted to go to the prom with me. I think he likes me. Jaredd hasn't said anything to me, but his actions and other things imply it. He kept saying he's happy when I'm around. I'm partially blind. I can see some color and shapes, but no definition. I would have liked to go to a school that works well with the blind. My high school was totally lost.''</p>
+        <p>Jessie Kremidas (center): ''My boyfriend turned into a loser, so I asked my friend Ray to the prom. But Ray started being a real mean person, so I ended up asking Nate. Well, Nate and I both asked each other at almost the same time. We have been off and on together for months -- not boyfriend and girlfriend, but we're close. You know how it is in high school. The dance floor was crowded. Everybody bumped into everyone. I made my friends bump into people -- it's a great way to meet people. I can see, just not really good. I'd been in the mainstream my whole life, so they had to tie me down to bring me to this school. I felt superior, I guess, that I was better than people who were blind. But now I've been there two years. I'm going to miss a lot of my friends. But I have really bad times too. I would just rather be mainstream.''</p>
+        <p>Nate Peterkin (right): ''This is funny. I went to the prom with my friend's date because my friend backed out. They had a little fight before the prom. So 10 minutes before I went in, she asked me to go with her, and I said fine. You don't have to see to dance. You just dance. People tell me I'm an O.K. dancer. I fake it. I have absolutely no idea how to dance. But girls don't know you're faking it. They think you're good.''</p>
+        <p>Interviews by Catherine Saint Louis</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

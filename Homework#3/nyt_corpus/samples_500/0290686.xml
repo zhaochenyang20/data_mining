@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Hills, in Japan, Stirs a Baby-Bottle Dispute</title>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1989" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="35" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="290686"/>
+      <doc.copyright holder="The New York Times" year="1989"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">INTERNATIONAL TRADE AND WORLD MARKET</classifier>
+        <classifier class="indexing_service" type="descriptor">BABY FOODS</classifier>
+        <classifier class="indexing_service" type="descriptor">BABIES</classifier>
+        <location class="indexing_service">JAPAN</location>
+        <person class="indexing_service">HILLS, CARLA A</person>
+        <person class="indexing_service">SANGER, DAVID E</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/Japan</classifier>
+        <classifier class="online_producer" type="general_descriptor">Babies</classifier>
+        <classifier class="online_producer" type="general_descriptor">International Trade and World Market</classifier>
+        <classifier class="online_producer" type="general_descriptor">Food</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19891014T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950DE2D7103BF937A25753C1A96F948260" item-length="427" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Hills, in Japan, Stirs a Baby-Bottle Dispute</hl1>
+      </hedline>
+      <byline class="print_byline">By DAVID E. SANGER, Special to The New York Times</byline>
+      <byline class="normalized_byline">SANGER, DAVID E</byline>
+      <dateline>TOKYO, Oct. 13</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: In her first visit to Japan as the United States special trade representative, Carla A. Hills faced off today against Japan's hard-nosed bureaucrats. They argued about baby bottles.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: In her first visit to Japan as the United States special trade representative, Carla A. Hills faced off today against Japan's hard-nosed bureaucrats. They argued about baby bottles.</p>
+        <p>In her first visit to Japan as the United States special trade representative, Carla A. Hills faced off today against Japan's hard-nosed bureaucrats. They argued about baby bottles.</p>
+        <p>It began this morning when Mrs. Hills, in a speech, complained about the pettiness of Japanese regulations for imported products, which, she said, often block the sale of American consumer goods.</p>
+        <p>Reaching for a vivid example, she told a large audience of reporters that an American-made plastic baby bottle was barred from Japan by the powerful Ministry of International Trade and Industry ''because it had measurements in both the metric and English systems.'' The Japanese use only the metric system.</p>
+        <p>''As a mother of four,'' she continued, ''I can assure you that a hungry child does not care which way its formula is measured.''</p>
+        <p>No sooner had Mrs. Hills finished speaking than ministry officials began defending themselves. ''There was a concern about a baby bottle, because some people in MITI were afraid that consumers would confuse the measurements,'' an official of the ministry's Americas division said. In time, however, they determined that Japanese consumers were bright enough to tell the difference between milliliters and fluid ounces.</p>
+        <p>No change was made, shot back the economic division of the American Embassy here, which said it had confirmed that the imports were blocked. So officials of the Japanese ministry directed reporters to Meidi-ya, a major supermarket chain here. Sure enough, Meidi-ya stocks a Gerbers baby bottle with both measurement systems etched onto the side.</p>
+        <p>''We've had them since 1975,'' said a somewhat bewildered store manager.</p>
+        <p>Mrs. Hills is portrayed in the press here as a far tougher negotiator than Commerce Secretary Robert A. Mosbacher, who came to Japan last month on his first trade mission. Mr. Mosbacher, the Japanese have said, was unprepared for substantive talks, and a senior Commerce Department official said recently, ''The trip was not our most successful.''</p>
+        <p>Mrs. Hills, in contrast, has dominated the headlines here, described by the newspapers as an ''iron lady'' unlikely to sympathize with Japan's contentions that it needs more time to open the country's markets and unsnarl the distribution system.</p>
+        <p>On the evening news here tonight, the Tokyo Broadcasting System said she went from meeting to meeting ''as if she was President,'' and one Cabinet minister emerged from negotiations complaining that Mrs. Hills set schedules that were too tight. He added that she was far tougher than he had expected.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

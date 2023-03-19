@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Joint Venture In Computers</title>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1993" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="635910"/>
+      <doc.copyright holder="The New York Times" year="1993"/>
+      <series series.name="COMPANY NEWS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">DATA PROCESSING (COMPUTERS)</classifier>
+        <classifier class="indexing_service" type="descriptor">JOINT VENTURES AND CONSORTIUMS</classifier>
+        <org class="indexing_service">SUN MICROSYSTEMS INC</org>
+        <org class="indexing_service">AMDAHL CORP</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19930921T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE7D6103DF932A1575AC0A965958260" item-length="106" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Joint Venture In Computers</hl1>
+      </hedline>
+      <dateline>SAN FRANCISCO, Sept. 20</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Sun Microsystems Inc. and the Amdahl Corporation said today that they had reached a joint development agreement to allow customers to integrate Amdahl mainframe computers with Sun work stations and servers. The agreement includes product development, sales and service.</p>
+        <p>Under the agreement, Amdahl and Sun will jointly develop and produce extensions of Sun's Solaris software, which is a version of the Unix operating system, aimed at the high end of the commercial computing market.</p>
+      </block>
+      <block class="full_text">
+        <p>Sun Microsystems Inc. and the Amdahl Corporation said today that they had reached a joint development agreement to allow customers to integrate Amdahl mainframe computers with Sun work stations and servers. The agreement includes product development, sales and service.</p>
+        <p>Under the agreement, Amdahl and Sun will jointly develop and produce extensions of Sun's Solaris software, which is a version of the Unix operating system, aimed at the high end of the commercial computing market.</p>
+        <p>Initial products developed under the agreement are to be available in the second quarter of 1994 and will be marketed by both companies.</p>
+        <p>COMPANY NEWS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

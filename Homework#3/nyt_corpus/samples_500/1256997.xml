@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>New Privacy Rules Are Challenged</title>
+    <meta content="Y21PRI$01" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Health; U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/12/21/national/21PRIV.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1256997"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Medicine and Health</classifier>
+        <classifier class="indexing_service" type="descriptor">Law and Legislation</classifier>
+        <classifier class="indexing_service" type="descriptor">Privacy</classifier>
+        <classifier class="indexing_service" type="descriptor">Consumer Protection</classifier>
+        <classifier class="indexing_service" type="descriptor">Regulation and Deregulation of Industry</classifier>
+        <location class="indexing_service">United States</location>
+        <person class="indexing_service">Bush, George W (Gov)</person>
+        <person class="indexing_service">Clinton, Bill (Pres)</person>
+        <person class="indexing_service">Shalala, Donna E (Sec)</person>
+        <person class="indexing_service">Pear, Robert</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Health Care Policy</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2004/Candidates</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Legal</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Healthcare</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Medicine and Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="general_descriptor">Consumer Protection</classifier>
+        <classifier class="online_producer" type="general_descriptor">Privacy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Regulation and Deregulation of Industry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001221T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E00E7D61E39F932A15751C1A9669C8B63" item-length="944" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>New Privacy Rules Are Challenged</hl1>
+      </hedline>
+      <byline class="print_byline">By ROBERT PEAR</byline>
+      <byline class="normalized_byline">Pear, Robert</byline>
+      <dateline>WASHINGTON, Dec. 20</dateline>
+      <abstract>
+        <p>Health care industry will ask Pres-elect George W Bush to revise new rules issued by Pres Clinton to protect privacy of medical records; incoming adminstration promises review, while consumer advocates vow to defend rules that Clinton describes as most sweeping protections ever; photo with Sec Donna Shalala (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Leaders of the health care industry said today that they would immediately ask President-elect George W. Bush to revise new rules issued by President Clinton to protect the privacy of medical records.</p>
+        <p>But Clinton administration officials said broad public support for such safeguards would lead the Bush administration to accept the rules.</p>
+      </block>
+      <block class="full_text">
+        <p>Leaders of the health care industry said today that they would immediately ask President-elect George W. Bush to revise new rules issued by President Clinton to protect the privacy of medical records.</p>
+        <p>But Clinton administration officials said broad public support for such safeguards would lead the Bush administration to accept the rules.</p>
+        <p>The statements suggested that far from ending a five-year battle over personal privacy, the new rules would set off a new round in the struggle between privacy advocates and the health care industry, which will take its case to the new administration and to Congress.</p>
+        <p>Advisers to Mr. Bush said he supported the principle of medical privacy, but would want to review the new rules. Ari Fleischer, a spokesman for the Bush transition team, said, ''As with all last-minute regulations, we will review them upon assuming the presidency on Jan. 20.''</p>
+        <p>The new administration could delay or revise the privacy rules, but would need to solicit public comment before making major changes.</p>
+        <p>Consumer advocates vowed to defend the rules, which Mr. Clinton described as ''the most sweeping privacy protections ever written.'' But hospitals, health plans and other health care providers said they hoped the new administration would rewrite the rules to lessen the burden on their industry.</p>
+        <p>Mary R. Grealy, the president of the Health Care Leadership Council, an association of 50 chief executives from large health care companies, said: ''We definitely will be working with the new administration to seek a more balanced approach to protecting privacy. We are sending papers to the Bush transition team.''</p>
+        <p>Ms. Grealy expressed concern about a fundamental feature of the new rules requiring doctors, hospitals and other health care providers to obtain written consent from patients before disclosing their medical information even for routine purposes like treatment or the payment of claims. That requirement was not in the proposal issued by the White House in November 1999.</p>
+        <p>Health care providers will have to retain such consent forms for a minimum of six years. Ms. Grealy said she worried that health care providers would have the ''privacy police'' looking over their shoulders to make sure they had the necessary forms.</p>
+        <p>Lawrence A. Ponemon, global leader of the privacy practice at PricewaterhouseCoopers, which advises hundreds of health care institutions, said: ''Our clients in the health care industry need to be very alarmed. Most hospitals, pharmaceutical companies and insurance companies are light-years away from complying with these rules. They don't understand the magnitude of the rules.''</p>
+        <p>Two Democrats, Senator Patrick J. Leahy of Vermont and Representative Edward J. Markey of Massachusetts, applauded the rules, which are scheduled to take effect in two years, with civil and criminal penalties. Mr. Markey said he was pleased with the consent requirement and the fact that the government was covering paper records as well as electronic records.</p>
+        <p>''Requiring written consent is crucial to giving patients meaningful control over the most intimate details of their lives,'' Mr. Markey said.</p>
+        <p>Donna E. Shalala, secretary of health and human services, said Mr. Bush would probably not change the rules. After reviewing them, Dr. Shalala said, he will see that ''we have found a proper balance'' and ''these rules have broad support.''</p>
+        <p>Likewise, Sally Katzen, deputy director of the Office of Management and Budget, said Congress would probably not alter the rules.</p>
+        <p>Melinda R. Hatton, vice president of the American Hospital Association, said, ''We want patients to feel comfortable with how their information is used, but we will ask the Bush administration to help us deal with some flaws in the regulations.''</p>
+        <p>In an interview, Ms. Hatton said that at least two aspects of the consent requirement would be ''administratively cumbersome.'' Under the rules, patients may ask health care providers to restrict how medical information is used to carry out treatment, payment and ''health care operations.'' In addition, after authorizing the use of information for such purposes, patients may revoke their consent.</p>
+        <p>The Clinton administration said it would cost $17.6 billion over 10 years for the health care industry and employers to comply with the privacy rules. But Ms. Hatton said the cost just for hospitals could total $22 billion over five years.</p>
+        <p>John T. Bentivoglio, a lawyer who was chief privacy officer at the Justice Department from 1998 to last July, said: ''The new regulations are a tremendous step forward in protecting health privacy, but they are more complex than they need to be because of the underlying statute, passed in 1996. The rules cover online pharmacies like PlanetRx and drugstore.com. But they do not cover other Web sites that dispense health information over the Internet and collect data on the browsing habits of consumers.''</p>
+        <p>President Clinton said the rules would limit companies' ability to obtain sensitive medical information for the purpose of marketing. ''Recently,'' he said, ''expectant mothers who haven't even told their friends the good news are finding sales letters for baby products in their mailboxes. That's wrong. Under these new rules, it will also be illegal.''</p>
+        <p>Caryl F. Greaves, director of the medical records department at Montefiore Medical Center in the Bronx, said the rules would present an immense challenge. Some patients with chronic diseases, she said, have 10 volumes of records.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

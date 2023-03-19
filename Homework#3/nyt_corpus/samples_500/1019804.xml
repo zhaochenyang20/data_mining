@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>If Microsoft Loses, Consumers Will Win</title>
+    <meta content="LTR234226" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1019804"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and Information Systems</classifier>
+        <classifier class="indexing_service" type="descriptor">Antitrust Actions and Laws</classifier>
+        <org class="indexing_service">Justice Department</org>
+        <person class="indexing_service">Silbert, Gregory</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Antitrust Actions and Laws</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980525T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A0DE1DE1738F936A15756C0A96E958260" item-length="180" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>If Microsoft Loses, Consumers Will Win</hl1>
+      </hedline>
+      <abstract>
+        <p>Gregory Silbert letter sees benefits for consumers if Microsoft loses antitrust suit (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Robert E. Hall (''Antitrust Excess?'', Op-Ed, May 20) too hastily concludes that the antitrust suit against Microsoft may not benefit consumers.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Robert E. Hall (''Antitrust Excess?'', Op-Ed, May 20) too hastily concludes that the antitrust suit against Microsoft may not benefit consumers.</p>
+        <p>He neglects the possibility that Microsoft's tie-in of its Web browser is a means of preserving its monopoly on operating systems.</p>
+        <p>Windows has maintained its high market share in part because it supports more software applications than any potential rival. But competing browsers like Netscape can act as alternative ''platforms'' to which applications can be written. Consumers could soon choose an operating system other than Windows and still have access to a wide range of software.</p>
+        <p>GREGORY SILBERT  New Haven, May 20, 1998</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

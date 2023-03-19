@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>U.S. Helped to Prepare the Way for Kyrgyzstan's Uprising</title>
+    <meta content="30KYRG$01" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="World; Washington" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2005/03/30/international/asia/30kyrgyzstan.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1660925"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Politics and Government</classifier>
+        <classifier class="indexing_service" type="descriptor">United States International Relations</classifier>
+        <classifier class="indexing_service" type="descriptor">News and News Media</classifier>
+        <classifier class="indexing_service" type="descriptor">Public Opinion</classifier>
+        <location class="indexing_service">Kyrgyzstan</location>
+        <location class="indexing_service">Norway</location>
+        <location class="indexing_service">Netherlands</location>
+        <location class="indexing_service">Great Britain</location>
+        <person class="indexing_service">Akayev, Askar</person>
+        <person class="indexing_service">Smith, Craig S</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Kyrgyzstan</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Netherlands</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Norway</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/United Kingdom</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Russia and the Former Soviet Union</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Great Britain</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Asia Pacific</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Government, Philanthropy and NGO</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Netherlands</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/Kyrgyzstan</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Britain</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Norway</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Media</classifier>
+        <classifier class="online_producer" type="general_descriptor">Public Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">News and News Media</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <location class="online_producer">Kyrgyzstan</location>
+        <location class="online_producer">United States</location>
+        <location class="online_producer">Europe</location>
+        <org class="online_producer">Freedom House</org>
+        <org class="online_producer">National Endowment for Democracy</org>
+        <person class="online_producer">Akayev, Askar</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20050330T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9806E4D9123FF933A05750C0A9639C8B63" item-length="1226" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>U.S. Helped to Prepare the Way for Kyrgyzstan's Uprising</hl1>
+        <hl2 class="online_headline">U.S. Helped to Prepare the Way for Kyrgyzstan's Uprising</hl2>
+      </hedline>
+      <byline class="print_byline">By CRAIG S. SMITH</byline>
+      <byline class="normalized_byline">Smith, Craig S</byline>
+      <dateline>BISHKEK, Kyrgyzstan, March 29</dateline>
+      <abstract>
+        <p>Kyrgyzstan newspaper that gets US grants fueled opposition to country's deeply unpopular president, Askar Akayev, by publishing photos of his palatial home that touched off outrage in poor central Asian country; photo; map; Britain, Netherlands and Norway are among Western countries also underwritingprograms to develop democracy and civil society, effort that played crucial role in uprising that swept opposition politicians into power; US sponsors American University in country and printing press at American organization Freedom House (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Shortly before Kyrgyzstan's recent parliamentary elections, an opposition newspaper ran photographs of a palatial home under construction for the country's deeply unpopular president, Askar Akayev, helping set off widespread outrage and a popular revolt in this poor Central Asian country.</p>
+        <p>The newspaper was the recipient of United States government grants and was printed on an American government-financed printing press operated by Freedom House, an American organization that describes itself as ''a clear voice for democracy and freedom around the world.''</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The U.S. gave grants to a newspaper that helped set off outrage against Kyrgyzstan's president.</p>
+      </block>
+      <block class="full_text">
+        <p>Shortly before Kyrgyzstan's recent parliamentary elections, an opposition newspaper ran photographs of a palatial home under construction for the country's deeply unpopular president, Askar Akayev, helping set off widespread outrage and a popular revolt in this poor Central Asian country.</p>
+        <p>The newspaper was the recipient of United States government grants and was printed on an American government-financed printing press operated by Freedom House, an American organization that describes itself as ''a clear voice for democracy and freedom around the world.''</p>
+        <p>In addition to the United States, several European countries -- Britain, the Netherlands and Norway among them -- have helped underwrite programs to develop democracy and civil society in this country. The effort played a crucial role in preparing the ground for the popular uprising that swept opposition politicians to power.</p>
+        <p>''Of course, this infrastructure had an influence,'' said one European election observer. ''People now believe they have rights, and they were not scared because the repressive capacity of the system was weak.''</p>
+        <p>After the collapse of the Soviet Union, Kyrgyzstan quickly became an aid magnet with the highest per-capita foreign assistance level of any Central Asian nation. Among the hundreds of millions of dollars that arrived came a large slice focused on building up civil society and democratic institutions.</p>
+        <p>Most of that money came from the United States, which maintains the largest bilateral pro-democracy program in Kyrgyzstan because of the Freedom Support Act, passed by Congress in 1992 to help the former Soviet republics in their economic and democratic transitions. The money earmarked for democracy programs in Kyrgyzstan totaled about $12 million last year.</p>
+        <p>Hundreds of thousands more filter into pro-democracy programs in the country from other United States government-financed institutions like the National Endowment for Democracy. That does not include the money for the Freedom House printing press or Kyrgyz-language service of Radio Free Europe/Radio Liberty, a pro-democracy broadcaster.</p>
+        <p>''It would have been absolutely impossible for this to have happened without that help,'' said Edil Baisolov, who leads a coalition of nongovernmental organizations, referring to the uprising last week. Mr. Baisolov's organization is financed by the United States government through the National Democratic Institute.</p>
+        <p>American money helps finance civil society centers around the country where activists and citizens can meet, receive training, read independent newspapers and even watch CNN or surf the Internet in some. The N.D.I. alone operates 20 centers that provide news summaries in Russian, Kyrgyz and Uzbek.</p>
+        <p>The United States sponsors the American University in Kyrgyzstan, whose stated mission is, in part, to promote the development of civil society, and pays for exchange programs that send students and non-governmental organization leaders to the United States. Kyrgyzstan's new prime minister, Kurmanbek Bakiyev, was one.</p>
+        <p>All of that money and manpower gave the coalescing Kyrgyz opposition financing and moral support in recent years, as well as the infrastructure that allowed it to communicate its ideas to the Kyrgyz people.</p>
+        <p>The growing civil society, meanwhile, began to have an awakening effect on the country's population just as Mr. Akayev and his family grew increasingly enamored of their power. ''If none of this had been here, the family would have remained in power and people probably would have remained passive, as they have in other Central Asian countries,'' said Jeffrey Lilley, who runs the local office of the International Republican Institute, a United States-financed pro-democracy organization.</p>
+        <p>Alexander Kim, editor in chief of the opposition newspaper that printed the photos of the president's house, knows the problem well: in 1999, Mr. Akayev's son-in-law took control of Mr. Kim's first newspaper, which he and other employees had bought from the state during the privatizations earlier that decade.</p>
+        <p>He says the son-in-law used fraudulent means, but he was never able to prove it in court. So Mr. Kim went on to found another newspaper, which went through several incarnations as the government tried to prevent him from publishing. He has been helped by about $70,000 in American government grants, mostly to pay for newsprint.</p>
+        <p>The problem, though, was finding a press: they were all controlled by the government and refused to print newspapers from the opposition.</p>
+        <p>Then Mike Stone, Freedom House's representative in Kyrgyzstan, arrived.</p>
+        <p>''When Freedom House opened their printing press, it was the end of our problems,'' Mr. Kim said.</p>
+        <p>By January this year, Mr. Kim had begun national distribution of the newspaper, called MSN, for My Capital News. Opposition candidates in the parliamentary elections bought truckloads of the papers to distribute as campaign literature.</p>
+        <p>Those Kyrgyz who did not read Russian or have access to the newspaper listened to summaries of its articles on Kyrgyz-language Radio Azattyk, the local United States-government financed franchise of Radio Free Europe/Radio Liberty.</p>
+        <p>Other independent media carried the opposition's debates. Talk shows, like ''Our Times,'' produced in part with United States government grants, were broadcast over the country's few independent television stations, including Osh TV in the south, where the protests that led to Mr. Akayev's ouster began. Osh TV expanded its reach with equipment paid for by the State Department.</p>
+        <p>''The result is that the society became politicized, they were informed,'' Mr. Kim said. ''The role of the NGO's and independent media were crucial factors in the revolution.''</p>
+        <p>As corruption grew worse, the country's nongovernmental organizations began speaking out, and Mr. Akayev grew wary of the foreign pro-democracy assistance he had long allowed.</p>
+        <p>The published pictures of his house outraged him. Mr. Stone, who runs the printing press, was summoned to the Foreign Ministry and berated.</p>
+        <p>A week later, just before the press began printing a 200,000-copy special issue of MSN, the power at the press went out. Radio Liberty was also taken off the air, ostensibly because the government was putting its frequency up for auction.</p>
+        <p>Mr. Akayev began suggesting that the West was engaged in a conspiracy to destabilize the country. A crudely forged document, made to look like an internal report by the American ambassador, Stephen Young, began circulating among local news organizations. It cast American-financed pro-democracy activities as part of an American conspiracy. ''Our primary goal,'' the document read, ''is to increase pressure upon Akaev (sic) to make him resign ahead of schedule after the parliamentary elections.''</p>
+        <p>But Mr. Akayev, who had begun his presidential career as an advocate of democracy, did not go further.</p>
+        <p>The American Embassy sent Freedom House two generators the day after the power went out, allowing the press to print nearly all of the 200,000 copies of MSN's special issue. The power was restored on March 8, and Mr. Kim's newspaper became one of the primary sources of information for the mobilizing opposition.</p>
+        <p>MSN informed people in the north of the unrest in the south. The newspaper also played a critical role in disseminating word of when and where protesters should gather.</p>
+        <p>''There was fertile soil here, and the Western community planted some seeds,'' said one Western official. ''I'm hoping these events of the past week will be one of those moments when you see the fruits of your labors.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

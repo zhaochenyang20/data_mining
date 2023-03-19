@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Two Stories of Dead Brothers Give a Peek at Conrad's Heart</title>
+    <meta content="RV001851" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Arts; Theater" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1527234"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <series series.name="THEATER IN REVIEW"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Theater</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <classifier class="indexing_service" type="descriptor">Theater</classifier>
+        <classifier class="indexing_service" type="descriptor">Theater</classifier>
+        <org class="indexing_service">Fluid Motion Theater &amp; Film</org>
+        <org class="indexing_service">National Asian American Theater</org>
+        <person class="indexing_service">Bruckner, D J R</person>
+        <person class="indexing_service">Conrad, Joseph (1857-1924)</person>
+        <person class="indexing_service">Simpson, Christine</person>
+        <person class="indexing_service">Bank, Jonathan</person>
+        <object.title class="indexing_service">Tales of Unrest: Joseph Conrad On Stage (Play)</object.title>
+        <object.title class="indexing_service">Arsat (Play)</object.title>
+        <object.title class="indexing_service">One Day More (Play)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/Plays</classifier>
+        <classifier class="online_producer" type="general_descriptor">Theater</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20031014T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0CE7D6113FF937A25753C1A9659C8B63" item-length="461" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Two Stories of Dead Brothers Give a Peek at Conrad's Heart</hl1>
+      </hedline>
+      <byline class="print_byline">By D. J. R. BRUCKNER</byline>
+      <byline class="normalized_byline">Bruckner, D J R</byline>
+      <abstract>
+        <p>D J R Bruckner reviews Tales of Unrest: Joseph Conrad on Stage, two one-act plays by Joseph Conrad; Fluid Motion Theater &amp; Film production of Arsat is adapted from The Lagoon and directed by Christine Simpson; National Asian American Theater presentation of One Day More is directed by Jonathan Bank (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>'Tales of Unrest: Joseph Conrad on Stage'  Baruch Performing Arts Center</p>
+        <p>It would be a mistake to say that ''Tales of Unrest: Joseph Conrad on Stage'' is Conrad Lite, but its two one-acts from Conrad stories and presented by two companies rest easier in the imagination than his writing usually does.</p>
+      </block>
+      <block class="full_text">
+        <p>'Tales of Unrest: Joseph Conrad on Stage'  Baruch Performing Arts Center</p>
+        <p>It would be a mistake to say that ''Tales of Unrest: Joseph Conrad on Stage'' is Conrad Lite, but its two one-acts from Conrad stories and presented by two companies rest easier in the imagination than his writing usually does.</p>
+        <p>The first, produced by Fluid Motion Theater &amp; Film, is ''Arsat,'' adapted from ''The Lagoon'' by Christine Simpson, who directs it. Arsat, a South Pacific islander, sits at the bed of a woman dying of fever in a house haunted by Arsat's dead brother. An English plantation owner stops by for a farewell drink before he sails home, summoned by a dying father whom this coarse son ridicules and sneers at for having doubted he could succeed abroad.</p>
+        <p>As the men talk Arsat reveals a suffocating secret: Arsat, once a great warrior, had kidnapped this woman from a king's entourage, and his brother was cut down, with knives in both hands, in fighting off enraged courtiers while Arsat escaped with his captive. As he finishes his tale, he realizes the woman is dead, and her death releases the spirit of his brother, who leaves a knife on the floor as a sign.</p>
+        <p>Only the two men have spoken lines. The woman and the ghost are silent, but the eloquence of their gestures gives shape to the others' speech, and the ironic comment Arsat's story makes on the colonizer's vision of life resounds in our minds.</p>
+        <p>''One Day More'' is Conrad's own dramatization of his story ''To-Morrow.'' Here it is presented by the National Asian American Theater and directed by Jonathan Bank of the Mint Theater. In an English village a rich old man went mad after his son fled from the father's domestic tyranny 16 years ago to become a seaman, and the father now pleads for his return in London newspaper ads. One day the delinquent turns up, but the father does not recognize him and turns him away with dire threats.</p>
+        <p>A young woman next door, practically enslaved by her blind, frightened father, realizes who the son is and tries passionately to persuade him to stay for her sake. Their cautious debate over freedom and fate, and about their own desires, is nearly heartbreaking when one feels what it is really all about.</p>
+        <p>The sensitivity and restraint of all the actors is the key to the power of these two little plays. They last about 75 minutes together and amply fill an evening.</p>
+        <p>D. J. R. BRUCKNER</p>
+        <p>THEATER IN REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

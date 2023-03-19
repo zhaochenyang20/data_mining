@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Peggy Jacobs and Steven Learner</title>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="35" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="699821"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <series series.name="WEDDINGS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">JACOBS, PEGGY (PEGGY LEARNER)</person>
+        <person class="indexing_service">LEARNER, STEVEN</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19940717T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9505E4DE103FF934A25754C0A962958260" item-length="194" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Peggy Jacobs and Steven Learner</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Peggy Jacobs, the daughter of Rosalind G. Jacobs of New York and the late Melvin Jacobs, is to be married today to Steven Learner, a son of Judith L. Sollott of Beverly Hills, Calif., and Dr. Leonard R. Learner of Rowayton, Conn. Rabbi Richard Chapin is to perform the ceremony at Temple Emanu-El in New York.</p>
+        <p>The bride is an independent marketing and advertising specialist in New York. She graduated from Brown University and received an M.B.A. from New York University. Her father was the chairman and chief executive of Saks Fifth Avenue. Her mother, a former vice president and fashion director at R. H. Macy &amp; Company, is the merchandising and marketing adviser at Corporate Property Investors, a real estate investment company in New York.</p>
+      </block>
+      <block class="full_text">
+        <p>Peggy Jacobs, the daughter of Rosalind G. Jacobs of New York and the late Melvin Jacobs, is to be married today to Steven Learner, a son of Judith L. Sollott of Beverly Hills, Calif., and Dr. Leonard R. Learner of Rowayton, Conn. Rabbi Richard Chapin is to perform the ceremony at Temple Emanu-El in New York.</p>
+        <p>The bride is an independent marketing and advertising specialist in New York. She graduated from Brown University and received an M.B.A. from New York University. Her father was the chairman and chief executive of Saks Fifth Avenue. Her mother, a former vice president and fashion director at R. H. Macy &amp; Company, is the merchandising and marketing adviser at Corporate Property Investors, a real estate investment company in New York.</p>
+        <p>The bridegroom is a project architect at Richard Gluckman Architects in New York. He graduated from the Otis Art Institute of the Parsons School of Design in Los Angeles and received a master's degree in architecture from Harvard University. His mother owns Effective Communication Consultants in Beverly Hills. His father is the president of Learner Research Associates, a marketing company in Rowayton.  WEDDINGS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

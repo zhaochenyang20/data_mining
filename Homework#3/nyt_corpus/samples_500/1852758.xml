@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Arts, Briefly; Changing of the Guard At the Vienna State Opera</title>
+    <meta content="07arts-2" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1852758"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Columns/Arts Briefly</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070607T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F07E0D71E30F934A35755C0A9619C8B63" item-length="174" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Arts, Briefly; Changing of the Guard At the Vienna State Opera</hl1>
+      </hedline>
+      <byline class="print_byline">By DANIEL J. WAKIN; Compiled by Lawrence Van Gelder</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Austrian government said yesterday it had appointed Dominique Meyer, the director of the Théâtre des Champs-Élysées in Paris, to lead the Vienna State Opera starting in the 2010-11 season. Joining him then as music director will be the Austrian Franz Welser-Möst, who holds the same position with the Cleveland Orchestra. Mr. Welser-Möst, who is also music director of the Zurich Opera, will succeed Seiji Ozawa. Mr. Meyer, 51, will replace Ioan Holender, the long-serving director of the house, who has said that he will not renew his contract. The succession became embroiled in politics when the Austrian chancellor and opera fan Alfred Gusenbauer was perceived as lobbying for his favorite, the American opera singer Neil Shicoff. The appointment was announced by Claudia Schmied, the culture minister, who oversees the opera house. Mr. Meyer has been at the Paris theater since 1999. He is a past director general of the Lausanne and Paris National operas and has held a number of government posts.</p>
+        <p>DANIEL J. WAKIN</p>
+      </block>
+      <block class="full_text">
+        <p>The Austrian government said yesterday it had appointed Dominique Meyer, the director of the Théâtre des Champs-Élysées in Paris, to lead the Vienna State Opera starting in the 2010-11 season. Joining him then as music director will be the Austrian Franz Welser-Möst, who holds the same position with the Cleveland Orchestra. Mr. Welser-Möst, who is also music director of the Zurich Opera, will succeed Seiji Ozawa. Mr. Meyer, 51, will replace Ioan Holender, the long-serving director of the house, who has said that he will not renew his contract. The succession became embroiled in politics when the Austrian chancellor and opera fan Alfred Gusenbauer was perceived as lobbying for his favorite, the American opera singer Neil Shicoff. The appointment was announced by Claudia Schmied, the culture minister, who oversees the opera house. Mr. Meyer has been at the Paris theater since 1999. He is a past director general of the Lausanne and Paris National operas and has held a number of government posts.</p>
+        <p>DANIEL J. WAKIN</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

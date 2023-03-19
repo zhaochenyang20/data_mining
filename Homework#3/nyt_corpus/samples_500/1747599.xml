@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Brooklyn Officer's Shot Misses Suspect and Grazes Comrade</title>
+    <meta content="18shot" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2006/03/18/nyregion/18shot.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1747599"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Crime and Criminals</classifier>
+        <classifier class="indexing_service" type="descriptor">Children and Youth</classifier>
+        <location class="indexing_service">New York City</location>
+        <org class="indexing_service">Ingersoll Houses (Brooklyn)</org>
+        <person class="indexing_service">O'Connor, Anahad</person>
+        <person class="indexing_service">Raspanti, Giancarlo</person>
+        <person class="indexing_service">Givens, Clayton</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Family</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Law Enforcement and Security</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="descriptor">Attacks on Police</classifier>
+        <classifier class="online_producer" type="descriptor">Firearms</classifier>
+        <classifier class="online_producer" type="descriptor">Police</classifier>
+        <classifier class="online_producer" type="general_descriptor">Firearms</classifier>
+        <classifier class="online_producer" type="general_descriptor">Attacks on Police</classifier>
+        <classifier class="online_producer" type="general_descriptor">Police</classifier>
+        <classifier class="online_producer" type="general_descriptor">Crime and Criminals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Children and Youth</classifier>
+        <location class="online_producer">Brooklyn (NYC)</location>
+        <org class="online_producer">Police Department</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060318T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C05EFDA1E31F93BA25750C0A9609C8B63" item-length="567" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Brooklyn Officer's Shot Misses Suspect and Grazes Comrade</hl1>
+        <hl2 class="online_headline">Brooklyn Officer's Shot Misses Suspect and Grazes Comrade</hl2>
+      </hedline>
+      <byline class="print_byline">By ANAHAD O'CONNOR; Ann Farmer contributed reporting for this article.</byline>
+      <byline class="normalized_byline">O'Connor, Anahad</byline>
+      <abstract>
+        <p>Police Officer Giancarlo Raspanti is slightly wounded by fellow police officer during chase of teenager with gun in Fort Greene section of Brooklyn; residents of Ingersoll housing complex reported man firing gun around neighborhood; Clayton Givens is arrested; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A Brooklyn police officer accidentally shot another officer in the leg yesterday while trying to shoot at a teenager who was pointing a gun at him, the police said.</p>
+        <p>The shooting occurred at 2:15 p.m. on a busy street in Fort Greene after a group of officers, answering a call of shots being fired in the neighborhood, began chasing a teenager who a witness had seen with a gun, the police said.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A Brooklyn police officer accidentally shot another officer in the leg yesterday while trying to shoot at a teenager who was pointing a gun at him, the police said.</p>
+      </block>
+      <block class="full_text">
+        <p>A Brooklyn police officer accidentally shot another officer in the leg yesterday while trying to shoot at a teenager who was pointing a gun at him, the police said.</p>
+        <p>The shooting occurred at 2:15 p.m. on a busy street in Fort Greene after a group of officers, answering a call of shots being fired in the neighborhood, began chasing a teenager who a witness had seen with a gun, the police said.</p>
+        <p>At some point during the chase, the police said, the teenager pulled out a gun in front of the Ingersoll public housing complex on Myrtle Avenue and pointed it at the officers, prompting them to open fire.</p>
+        <p>The police said one of the officers, whose name was not released, fired three shots at the teenager, Clayton Givens, 17, who lives in the housing complex and has a criminal history, including convictions for resisting arrest and assaulting a police officer.</p>
+        <p>Mr. Givens was not hit, but Officer Giancarlo Raspanti, 30, who was responding separately to the call, was grazed in the leg as he was running toward Mr. Givens from the opposite end of the street.</p>
+        <p>Officer Raspanti was taken to New York Methodist Hospital in Park Slope, where he was treated for a flesh wound. Doctors at the hospital said he was not badly hurt but would remain at the hospital overnight for observation. He has been with the department for nine years.</p>
+        <p>Mr. Givens continued running after the shooting but was arrested by other officers 30 yards away in front of a car wash, said Raymond W. Kelly, the police commissioner. Mr. Kelly said the shooting was still under investigation and would be the focus of a customary review by a firearms discharge review committee. Charges were pending last night.</p>
+        <p>He said that the police found a gun on Mr. Givens, and that it was a .38-caliber Smith and Wesson that had been stolen in Prince Georges County, Md., in 2004.</p>
+        <p>Although Mr. Kelly said the police officers acted appropriately by firing at Mr. Givens, several witnesses questioned the Police Department's account, including James Green, 64, who lives in the housing complex and said he saw the shooting unfold.</p>
+        <p>''I didn't see him turn around at all,'' Mr. Green said. ''He was running too fast to turn around.''</p>
+        <p>Steven Givens, the teenager's father, said his son was a high school dropout who stayed home and baby-sat for his younger brother and sister and coached basketball each summer.</p>
+        <p>''I've never never ever seen my kid with a gun,'' he said. ''And if anybody started shooting, I'd run too.''</p>
+        <p>The police said someone reported hearing six shots fired at 177 Sands Street in Fort Greene about 2 p.m.</p>
+        <p>Fifteen minutes later, a woman who was taking a bus to work reported seeing a man holding a gun in front of a restaurant a few blocks away on Myrtle Avenue.</p>
+        <p>''Officers responded to the location and saw the individual fitting the description there,'' said Mr. Kelly, referring to Mr. Givens. They drove up to Mr. Givens in a van. ''They shouted for the suspect to stop, but he fled eastbound on Myrtle Avenue.''</p>
+        <p>The group of officers, who were all in street clothes, got out of the van and eventually fired six shots at Mr. Givens about two-thirds of the way down the block, the police said.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

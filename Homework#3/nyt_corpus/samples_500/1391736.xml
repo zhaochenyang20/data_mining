@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Stony Brook Tries to Shed The 'Neo-Penal' Label</title>
+    <meta content="12STON" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Long Island Weekly Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="14LI" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Health; Education; New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2002/05/12/nyregion/12STON.html" name="alternate_url"/>
+    <meta content="Correction Appended" name="banner"/>
+    <meta content="20020515T000000" name="correction_date"/>
+    <docdata>
+      <doc-id id-string="1391736"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Colleges and Universities</classifier>
+        <classifier class="indexing_service" type="descriptor">Restoration and Rehabilitation</classifier>
+        <org class="indexing_service">State University of New York at Stony Brook</org>
+        <person class="indexing_service">Ganeshram, Ramin</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Long Island</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Other Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Education</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Healthcare</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Doctors</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Surgery and Surgeons</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="descriptor">Roads and Traffic</classifier>
+        <classifier class="online_producer" type="descriptor">Surgery and Surgeons</classifier>
+        <classifier class="online_producer" type="descriptor">Athletics and Sports</classifier>
+        <classifier class="online_producer" type="descriptor">Day Care Centers</classifier>
+        <classifier class="online_producer" type="general_descriptor">Restoration and Rehabilitation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Day Care Centers</classifier>
+        <classifier class="online_producer" type="general_descriptor">Surgery and Surgeons</classifier>
+        <classifier class="online_producer" type="general_descriptor">Athletics and Sports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Roads and Traffic</classifier>
+        <classifier class="online_producer" type="general_descriptor">Colleges and Universities</classifier>
+        <classifier class="online_producer" type="general_descriptor">Child Care</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+        <classifier class="online_producer" type="general_descriptor">Children and Youth</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+        <location class="online_producer">New York City</location>
+        <org class="online_producer">State University of New York at Stony Brook</org>
+        <person class="online_producer">Wang, Charles B</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20020512T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C07EFDE1330F931A25756C0A9649C8B63" item-length="1732" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Stony Brook Tries to Shed The 'Neo-Penal' Label</hl1>
+        <hl2 class="online_headline">Stony Brook Tries to Shed the 'Neo-Penal' Label</hl2>
+      </hedline>
+      <byline class="print_byline">By RAMIN GANESHRAM</byline>
+      <byline class="normalized_byline">Ganeshram, Ramin</byline>
+      <dateline>STONY BROOK</dateline>
+      <abstract>
+        <p>Article on major reconstruction and renovation scheduled to begin this summer at State University of New York at Stony Brook; plans detailed; photos (L)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>FINAL exams end on Wednesday and students are packing up to head home. Commencement, which is scheduled for Friday, normally marks the end of the annual process by which the State University of New York at Stony Brook cocoons itself for the summer, re-emerging in September as a bustling campus with more than 34,000 students, faculty and staff.</p>
+        <p>But this year the summertime academic lull will not mean peace and quiet. While seniors try on graduation gowns and prepare to walk across the stage toward their futures, bulldozers and backhoes wait in the wings to change the look of their alma mater.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>STONY BROOK.</p>
+      </block>
+      <block class="full_text">
+        <p>FINAL exams end on Wednesday and students are packing up to head home. Commencement, which is scheduled for Friday, normally marks the end of the annual process by which the State University of New York at Stony Brook cocoons itself for the summer, re-emerging in September as a bustling campus with more than 34,000 students, faculty and staff.</p>
+        <p>But this year the summertime academic lull will not mean peace and quiet. While seniors try on graduation gowns and prepare to walk across the stage toward their futures, bulldozers and backhoes wait in the wings to change the look of their alma mater.</p>
+        <p>Projects to transform academic buildings, landscapes, roadways and leisure centers will turn SUNY-Stony Brook into a giant construction site. School officials say that when the students return in September, the notoriously gray and uninviting collection of buildings dating from the 60's, when the school opened, will be prettified. Or, if the projects fall behind schedule, there will be chaos.</p>
+        <p>Major construction plans include overhauling the front of the Staller Center for the Arts, a venue for university and professional concerts and theater events. The Humanities Building, which houses the school's English department, will be renovated and enlarged. The 100,000-square-foot Charles B. Wang Asian American Center, a gift of the Computer Associates executive and Islanders owner, is also scheduled for completion before school reopens in the fall.</p>
+        <p>''Quality of space is very important to learning,'' said Shirley Strum Kenny, the university's president. ''What we've achieved so far has already given students a greater sense of self-respect. The campus's ongoing transformation is already positively affecting the quality of students we attract.''</p>
+        <p>The school also plans to complete a new sports stadium to accommodate its football and lacrosse teams, which were moved up in the National Collegiate Athletic Association classification from Division II to Division I in 1999 and joined the America East Conference this year. The Sea Hawks' new home will seat 7,500.</p>
+        <p>Not everything is being done this summer. Recently completed additions include an ambulatory surgery center fronting Nicolls Road that opened in March as a new addition to the University Hospital. A child care center for university workers was opened last fall along Stony Brook Road.</p>
+        <p>Off campus, private donations are funding the restoration of Sunwood, the home of Ward Melville, the philanthropist whose 478-acre land donation brought SUNY to Stony Brook village. A new Sunwood, replacing the original home that burned in 1987, is to serve as a residence for the university president as well as a reception and meeting center for some university events.</p>
+        <p>Stony Brook University's expansion even extends into New York City. This year the college opened a Manhattan branch on Park Avenue South as a way to give students a taste of the city. School officials expect 800 students there in the fall.</p>
+        <p>The campus construction plans that are not big and ambitious have value beyond their size. The destruction of a footbridge over the school's main road that connects the library to a dead end on the second floor of the student union is eagerly awaited. Plagued by surface ruptures and stress cracks, the so-called ''bridge to nowhere'' is considered unsafe and is often closed in inclement weather.</p>
+        <p>''That bridge was symbol of the fame Stony Brook garnered in its early days as ugly and dysfunctional,'' said Aaron Godfrey, a lecturer in classics and European languages at the university for a quarter century. ''It represented the disconnect between the students and administration, and the administration and the state construction fund in Albany.''</p>
+        <p>Dr. Godfrey said the school's architectural style was often described as ''neo-penal.''</p>
+        <p>Robert Reuter, an architect and industrial engineer and Stony Brook native, says he remembers the school's early construction.</p>
+        <p>''I think that originally the community was quite excited about having the university here, but almost immediately it was universally derided for its architecture,'' he said. ''The quality of building and planning was seen as an unfortunate joke. It didn't adhere in any way to the wishes of Ward Melville.''</p>
+        <p>Mr. Melville, owner of the Thom McAn shoe stores, envisioned Stony Brook as a small liberal arts college with a colonial architecture in keeping with the Three Village area, which he did much to preserve through the Ward Melville Heritage Organization, which owns several historic buildings. But the only campus structure with a colonial architecture is the new day care center.</p>
+        <p>Dr. Kenny said that when she arrived in Stony Brook in 1995, ''there just wasn't money for major renovations, but something had to be done. We started with ornamental plantings on the mall area, which had never been anything but blacktop. We added grass and trees and benches to make the area more inviting.''</p>
+        <p>Today the mall features a large fountain and a manmade brook.</p>
+        <p>Dormitories had been another longstanding problem.</p>
+        <p>''The dorms were depressing and dark without any welcoming common areas,'' said Dallas Bauman, assistant vice president for campus residences. Mr. Bauman said residence halls had exposed piping in the ceilings, mismatched linoleum floor tiles and no security system.</p>
+        <p>An $81 million infusion of state money some five years ago allowed the school to renovate all existing dorms and build new ones. Today there are 8,000 resident beds, up nearly 2,000 from the 1980's.</p>
+        <p>''The new dorms are much bigger and nicer,'' said Veronique Antunez, a junior who transferred from Adelphi University in Garden City. ''There are a lot of living options here and the halls are stylish, not cramped and small.''</p>
+        <p>Millie Aponte is a junior who remembers visiting her older brother at Stony Brook years ago, before she also transferred to the school from the College of New Rochelle.</p>
+        <p>''It's much better here now,'' she said. ''There's less asphalt and a lot more grass. Now that they are fixing a lot of the buildings, it's a campus you can be proud of.''</p>
+        <p>But many of the neighbors are unimpressed. Valerie Vignona used to live in the Long Hill neighborhood adjacent to the school's new undergraduate apartments. Three years ago, the Vignona family moved to another part of Stony Brook in part because of problems they experienced living next to the university.</p>
+        <p>''When we moved into that community there was a nice stand of trees separating us from the school's residence halls, but when they started building new dorms they tore all the trees out,'' Ms. Vignona said. ''With the dorms so close we got rats and mice and noise.''</p>
+        <p>Ms. Vignona said that school-related congestion along Stony Brook Road, which borders the campus to the west and is the only access to the Long Hill area, makes traffic unbearable.</p>
+        <p>Dr. Kenny acknowledged that town-gown relations have not always been smooth.</p>
+        <p>''The university hasn't always been warmly received, whether because of architecture or scope or size,'' she said. ''Truthfully, I don't think anyone could have welcomed such large and massive construction in their backyard. We have made serious efforts to ameliorate that antipathy.''</p>
+        <p>President Kenny said she believed beautification efforts at the university pleased the surrounding community and encouraged interaction. Other plans with that goal in mind include cutting a straight thoroughfare from the university's main entrance on Nicolls Road to the central area of campus.</p>
+        <p>The road would feature ornamental plantings and culminate at the circular drive around administration buildings, the Staller Center and the Asian American Center, all of which would become visible from the main roadway. Currently trees block the view of the university center from the road.</p>
+        <p>Although money hasn't yet been allocated for this plan, Dr. Kenny said she hoped it would be started in the next few years.</p>
+        <p>''The new entrance will relieve current traffic congestion at the school's main entrance without widening Nicolls Road, which has been a matter of community concern,'' she said. ''I don't think people will object because there won't be more roadway, just better roadway.''</p>
+        <p>In fact, community resistance to the plan has already risen.</p>
+        <p>''When Ward Melville laid out this area, Nicolls Road was supposed to be a pristine corridor,'' said Ken Sunberg, president of the civic association in Setauket, which with Stony Brook and Poquott comprise the Three Villages. ''With ongoing university developments, Nicolls Road is in danger of becoming deforested into a large commercial strip, which is not in keeping with the feel of this area.''</p>
+        <p>Another longstanding sore point between SUNY and the community has been how the college disposes of its sewage. Currently, the school's waste is treated and dumped into Port Jefferson Harbor via a huge pipe running under 25A.</p>
+        <p>''Now that there are more buildings with more usage, there will be more sewage being dumped into the Sound,'' Mr. Sunberg said. ''They are maximizing use of that pipe already and they are not generally adding new pipes or facilities to treat the waste.''</p>
+        <p>Iva Kocijan, the university's spokeswoman, said the school was looking for different answers to sewage treatment. ''We don't plan to send any more to Port Jefferson,'' she said. ''We're exploring various solutions, one of which is containment and treatment on campus.''</p>
+        <p>Mr. Sunberg said university officials had informed his group of the school's intention to put a seven-floor hotel near the main entrance on Nicolls Road.</p>
+        <p>''We did talk about building a conference center-hotel complex, but at this point we have no plans to do so,'' Ms. Kocijan said.</p>
+        <p>Such mixed messages tend to set some neighbors' teeth on edge. ''We have no sense of stability since the school is not always forthright about their plans,'' Mr. Sunberg said.</p>
+        <p>Correction:  May 15, 2002, Wednesday  Because of a production error, two pages were interchanged on Sunday in the Long Island section and in Long Island copies of the Real Estate section. The continuations of three articles were affected -- one about capital improvements at the State University of New York at Stony Brook, another about the high cost of lawn service on the Island and a column offering tips for prospective buyers of apartments under construction. The articles may be read online today at nytimes.com/corrections.html. They may also be requested from Production Quality Control, The New York Times, 229 West 43rd Street, New York, N.Y. 10036; telephone (212) 556-1992. E-mail: quality@nytimes.com. (Include a postal address.)</p>
+      </block>
+      <block class="correction_text">
+        <p>Correction: May 15, 2002, Wednesday</p>
+        <p>Because of a production error, two pages were interchanged on Sunday in the Long Island section and in Long Island copies of the Real Estate section. The continuations of three articles were affected -- one about capital improvements at the State University of New York at Stony Brook, another about the high cost of lawn service on the Island and a column offering tips for prospective buyers of apartments under construction. The articles may be read online today at nytimes.com/corrections.html. They may also be requested from Production Quality Control, The New York Times, 229 West 43rd Street, New York, N.Y. 10036; telephone (212) 556-1992. E-mail: quality@nytimes.com. (Include a postal address.)</p>
+        <p>&lt;br&gt;</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Blacks Gain in Sports Jobs</title>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="706963"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">ATHLETICS AND SPORTS</classifier>
+        <classifier class="indexing_service" type="descriptor">BLACKS (IN US)</classifier>
+        <org class="indexing_service">NATIONAL COLLEGIATE ATHLETIC ASSN (NCAA)</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Other Sports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Blacks</classifier>
+        <classifier class="online_producer" type="general_descriptor">Athletics and Sports</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19940818T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A03E7DE1F30F93BA2575BC0A962958260" item-length="213" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Blacks Gain in Sports Jobs</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The hiring of black athletic administrators by the nation's colleges has grown but still has far to go to achieve racial parity.</p>
+        <p>Those are among the findings of a four-year study by a committee of the National Collegiate Athletic Association. According to the study, which excluded the nation's historically black colleges, 10.1 percent of the 5,889 new administrative positions created since June 1991 were filled by blacks, giving blacks 8.7 percent of the more than 29,000 positions in the 1993-94 academic year.</p>
+      </block>
+      <block class="full_text">
+        <p>The hiring of black athletic administrators by the nation's colleges has grown but still has far to go to achieve racial parity.</p>
+        <p>Those are among the findings of a four-year study by a committee of the National Collegiate Athletic Association. According to the study, which excluded the nation's historically black colleges, 10.1 percent of the 5,889 new administrative positions created since June 1991 were filled by blacks, giving blacks 8.7 percent of the more than 29,000 positions in the 1993-94 academic year.</p>
+        <p>Blacks have moved especially fast into the top positions, accounting for 12.3 percent, or 15 of the 122 the new athletic directors, and increasing their overall representation by almost two thirds, from 2.2 percent (17 of 775 positions) in 1991 to 3.6 percent (32 of 897) this year.</p>
+        <p>Black gains at the top may have come at the expense of those in the second and third tiers. Perhaps because of rapid promotions, the percentage of black associate and athletic directors actually fell during the last year, to 4.5 and 4.9 percent.</p>
+        <p>In one area, blacks seem to have achieved racial parity. According to the committee, 12.9 percent of the head coaches of revenue sports are now black. The 1990 census put the nation's black population at 12.1 percent.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

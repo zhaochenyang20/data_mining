@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>World News Briefs;Serbian Protesters Ask Delay in Croatia Rule</title>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="1996" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="868369"/>
+      <doc.copyright holder="The New York Times" year="1996"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">CIVIL WAR AND GUERRILLA WARFARE</classifier>
+        <location class="indexing_service">YUGOSLAVIA</location>
+        <location class="indexing_service">BOSNIA AND HERZEGOVINA</location>
+        <location class="indexing_service">VUKOVAR (CROATIA)</location>
+        <location class="indexing_service">CROATIA</location>
+        <location class="indexing_service">CROATIA</location>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Bosnia and Herzegovina</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Croatia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Serbia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Montenegro</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Croatia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Bosnia and Herzegovina</classifier>
+        <classifier class="online_producer" type="general_descriptor">Civil War and Guerrilla Warfare</classifier>
+        <classifier class="online_producer" type="general_descriptor">War and Revolution</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19960729T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9803E0DD1439F93AA15754C0A960958260" item-length="165" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>World News Briefs;Serbian Protesters Ask Delay in Croatia Rule</hl1>
+      </hedline>
+      <byline class="print_byline">Reuters</byline>
+      <dateline>VUKOVAR, Croatia, July 28</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Several thousand Serbs demonstrated today in the last Serbian-held enclave in Croatia, demanding a delay in a scheduled transition to Croatian rule.</p>
+        <p>The enclave, Eastern Slavonia, is to come under Croatian authority by January 1997, but the Serbian protesters appealed for the United Nations Security Council to extend the transition for another year.</p>
+      </block>
+      <block class="full_text">
+        <p>Several thousand Serbs demonstrated today in the last Serbian-held enclave in Croatia, demanding a delay in a scheduled transition to Croatian rule.</p>
+        <p>The enclave, Eastern Slavonia, is to come under Croatian authority by January 1997, but the Serbian protesters appealed for the United Nations Security Council to extend the transition for another year.</p>
+        <p>Their list of demands included calls for civil-rights guarantees for Serbs and for political and economic autonomy from the Croatian Government in Zagreb.</p>
+        <p>Diplomats have said that Serbian demands for autonomy are unrealistic since the former warring parties agreed to give Croatia control of the area, which falls within its recognized borders.</p>
+        <p>The rally today was held in the eastern town of Vukovar, the scene of some of the Yugoslav conflict's worst destruction. Serbian fighters backed by the Yugoslav Army pounded Vukovar with artillery until it fell in November 1991, then expelled non-Serbs from the area.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

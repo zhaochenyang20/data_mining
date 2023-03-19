@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>There's a Catch on Social Security; A Nickel a Share</title>
+    <meta content="LTR011033" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1999" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="20" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1097078"/>
+      <doc.copyright holder="The New York Times" year="1999"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Social Security (US)</classifier>
+        <classifier class="indexing_service" type="descriptor">Reform and Reorganization</classifier>
+        <person class="indexing_service">Hatcher, Edgar A</person>
+        <person class="indexing_service">Feldstein, Martin</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Social Security (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Reform and Reorganization</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19990402T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B03E1D61539F931A35757C0A96F958260" item-length="216" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>There's a Catch on Social Security; A Nickel a Share</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter from Edgar A Hatcher, prompted by Martin Feldstein's Mar 31 Op-Ed, says rather than invest Social Security funds in stocks, surer way to raise money would be to impose five-cent fee for each share bought and sold on markets each day and put that money in Social Security (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Martin Feldstein (Op-Ed, March 31) misses a critical point about Social Security: that it must be as certain as the taxes that pay for it and the death that puts an end to it. With the Social Security check in the bank each month, we can spend and plan.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Martin Feldstein (Op-Ed, March 31) misses a critical point about Social Security: that it must be as certain as the taxes that pay for it and the death that puts an end to it. With the Social Security check in the bank each month, we can spend and plan.</p>
+        <p>This is not possible if a portion depends upon certain stocks. It is possible, however, to invest in the market itself. Companies come and go, but the market keeps rolling.</p>
+        <p>The Government could collect a 5-cent fee for each share bought and sold each day. For example, yesterday the market was down over 100 points, but two billion shares were traded. That would amount to $200 million, or $50 billion a year.</p>
+        <p>With interest, we begin to achieve a modest supplement for those who may never see the inside of a  401(k).</p>
+        <p>EDGAR A. HATCHER  New York, April 1, 1999</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

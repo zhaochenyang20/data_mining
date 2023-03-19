@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths  SANGER, EDWINA CAMPBELL, M.D.</title>
+    <meta content="DN051202" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="33" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1391386"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <identified-content>
+        <person class="indexing_service">SANGER, EDWINA CAMPBELL, M.D.</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20020512T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0DE4DF1639F931A25756C0A9649C8B63" item-length="60" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths  SANGER, EDWINA CAMPBELL, M.D.</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>SANGER-Edwina Campbell, M.D. The Board and Staff of Planned Parenthood of New York City extend their deeepest sympathies to its former President and CEO, Alexander Sanger, upon the passing of his beloved mother. Dr. Edwina Sanger was a loyal supporter of PPNYC and will be missed. Our heartfelt condolences to the Sanger family. Cathy A. Cramer, Chair Joan Malin, CEO</p>
+      </block>
+      <block class="full_text">
+        <p>SANGER-Edwina Campbell, M.D. The Board and Staff of Planned Parenthood of New York City extend their deeepest sympathies to its former President and CEO, Alexander Sanger, upon the passing of his beloved mother. Dr. Edwina Sanger was a loyal supporter of PPNYC and will be missed. Our heartfelt condolences to the Sanger family. Cathy A. Cramer, Chair Joan Malin, CEO</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

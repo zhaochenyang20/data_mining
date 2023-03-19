@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Tax Law and Bond Market Head for Collision</title>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Desk" name="dsk"/>
+    <meta content="30" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="100560"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">TAXATION</classifier>
+        <classifier class="indexing_service" type="descriptor">STOCKS AND BONDS</classifier>
+        <classifier class="indexing_service" type="descriptor">FEDERAL TAXES (US)</classifier>
+        <classifier class="indexing_service" type="descriptor">INCOME TAX</classifier>
+        <classifier class="indexing_service" type="descriptor">LAW AND LEGISLATION</classifier>
+        <person class="indexing_service">TORRE, NICOLO G</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Federal Taxes (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Income</classifier>
+        <classifier class="online_producer" type="general_descriptor">Income Tax</classifier>
+        <classifier class="online_producer" type="general_descriptor">Taxation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19871210T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE2D81139F933A25751C1A961948260" item-length="674" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Tax Law and Bond Market Head for Collision</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: To the Editor:</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: To the Editor:</p>
+        <p>To the Editor:</p>
+        <p>There has been some discussion of the impact on the stock market of recent changes in the taxation of capital gains (letters, Nov. 3, 20). Of greater significance is the impact of the tax law on the bond market, with grave negative implications for very broad sectors of American society.</p>
+        <p>It should be realized first that bond prices are inherently unstable. Typically, a bond's price moves opposite to interest rates. However, the percentage price change is not strictly proportionate to the percentage rate change. Rather, the ratio of price change to rate change increases as the price moves below par. In other words, the farther the price falls, the faster it falls. This price behavior is quite different from stocks, where the real value of corporate assets puts a floor under the share price and so tends to brake a price fall.</p>
+        <p>Formerly, the instability of bonds was counteracted by tax law. Thus, an investor purchasing a bond below par could look forward to receiving the difference between purchase price and par at maturity. When this gain, the so-called market discount, was taxed at a more favorable capital-gain rate, investors had an incentive to purchase discounted bonds. Thus, tax law put a prop under the bond market.</p>
+        <p>Beginning in 1984, tax law reclassified market discount as ordinary income, not capital gain. However, investors still had some opportunity for capital gain in bonds if they could accurately predict the interest rate cycle. Thus, the tax prop was not abolished by the 1983 tax law change. But the new tax law, by raising the capital-gain rate, takes away this prop.</p>
+        <p>A new proposal before Congress goes on to destabilize the bond market further. The law would require the investor to accrue the market discount over the life of the bond. This represents an extension of the tax treatment formerly given only to bonds originally issued at a discount. The effect is to collect a tax in the absence of a cash income. Since bond investors are concerned with nothing if not the time value of money, the law creates a powerful incentive to avoid discount bonds. As a result, the bond's price will have to fall even farther than formerly to attract buyers.</p>
+        <p>For investors concerned with the purchasing power of money, the tax law provides a second incentive to avoid discount bonds. By requiring accrual taxation, the Government is collecting a tax in today's dollars on a benefit to be received only in future inflated dollars, perhaps as far as 30 years hence. Clearly, this is a gouging of the investor. Note that rising inflation and falling bond prices usually go together, so that this second effect will be added to the first. In short, where tax law formerly mitigated the instability of the bond market, it now amplifies that instability.</p>
+        <p>The implications are profound. Once investors realize their bond portfolios are riskier, they will doubtless demand a higher return. The cost of borrowing will go up. For American business, the bond market represents the principal source of external capital (unlike the stock market, which is not a major source of new capital). Industry will find its cost of capital increased, possibly hurting international competitiveness. For Government, higher borrowing costs will increase the cost of the national debt and lead to deeper budget deficits. The middle class will find mortgage costs higher.</p>
+        <p>Despite these negative implications, the Government will probably receive no real tax benefit from the new law. This conclusion follows from the ability of investors to shelter income behind the amortization of premiums on bonds purchased above par. Consequently, the revenue gain on discount bonds will be more or less offset by the revenue loss on premium bonds.</p>
+        <p>The interaction of the tax law and bond market is a disaster waiting to happen. This small but vital aspect of the law deserves rethinking from the ground up. NICOLO G. TORRE  San Francisco, Nov. 27, 1987  The writer, a mathematician, manages investment portfolios.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

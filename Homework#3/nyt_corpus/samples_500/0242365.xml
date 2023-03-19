@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Tennessee Is Honored</title>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1989" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="29" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="242365"/>
+      <doc.copyright holder="The New York Times" year="1989"/>
+      <series series.name="SPORTS PEOPLE: BASKETBALL"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">BASKETBALL</classifier>
+        <classifier class="indexing_service" type="descriptor">WOMEN</classifier>
+        <org class="indexing_service">TENNESSEE, UNIVERSITY OF</org>
+        <org class="indexing_service">NATIONAL COLLEGIATE ATHLETIC ASSN (NCAA)</org>
+        <person class="indexing_service">BUSH, GEORGE (PRES)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Basketball</classifier>
+        <classifier class="online_producer" type="general_descriptor">Basketball</classifier>
+        <classifier class="online_producer" type="general_descriptor">Women</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19890421T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950DE0DA1230F932A15757C0A96F948260" item-length="49" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Tennessee Is Honored</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: President Bush honored the National Collegiate Athletic Association champion University of Tennessee women's basketball team in a Rose Garden ceremony yesterday. The team presented the President and his wife, Barbara, with warmup jackets and gave Vice President Dan Quayle a T-shirt.(AP)</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: President Bush honored the National Collegiate Athletic Association champion University of Tennessee women's basketball team in a Rose Garden ceremony yesterday. The team presented the President and his wife, Barbara, with warmup jackets and gave Vice President Dan Quayle a T-shirt.(AP)</p>
+        <p>President Bush honored the National Collegiate Athletic Association champion University of Tennessee women's basketball team in a Rose Garden ceremony yesterday. The team presented the President and his wife, Barbara, with warmup jackets and gave Vice President Dan Quayle a T-shirt.(AP)  SPORTS PEOPLE: BASKETBALL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

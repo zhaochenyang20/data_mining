@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Minneapolis Youth 2d Victim of Violence at Film Showing</title>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Movies; U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="461189"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">MOTION PICTURES</classifier>
+        <classifier class="indexing_service" type="descriptor">VIOLENCE</classifier>
+        <location class="indexing_service">MINNEAPOLIS (MINN)</location>
+        <object.title class="indexing_service">BOYZ N THE HOOD (MOVIE)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Minnesota</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Midwest</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies/News and Features</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Minnesota/Minneapolis and St. Paul</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Minnesota</classifier>
+        <classifier class="online_producer" type="general_descriptor">Violence</classifier>
+        <classifier class="online_producer" type="general_descriptor">Motion Pictures</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19910719T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE5DF1E39F93AA25754C0A967958260" item-length="112" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Minneapolis Youth 2d Victim of Violence at Film Showing</hl1>
+      </hedline>
+      <byline class="print_byline">AP</byline>
+      <dateline>MINNEAPOLIS, July 18</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A teen-ager who was shot at the debut of "Boyz N the Hood" has died, becoming the second person in the nation to be killed in violence at theaters showing the film.</p>
+        <p>The youth, 17-year-old Jitu Jones of Minneapolis, died Wednesday evening at Hennepin County Medical Center of injuries he suffered when he was shot in the neck, a nursing supervisor said. He had been in critical condition after the shooting early Saturday.</p>
+      </block>
+      <block class="full_text">
+        <p>A teen-ager who was shot at the debut of "Boyz N the Hood" has died, becoming the second person in the nation to be killed in violence at theaters showing the film.</p>
+        <p>The youth, 17-year-old Jitu Jones of Minneapolis, died Wednesday evening at Hennepin County Medical Center of injuries he suffered when he was shot in the neck, a nursing supervisor said. He had been in critical condition after the shooting early Saturday.</p>
+        <p>The police say the bullet that struck Mr. Jones apparently was intended for someone else. No arrests were made.</p>
+        <p>One man was killed at a showing of "Boyz" in the Chicago area last weekend, and five people were shot in Los Angeles area.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

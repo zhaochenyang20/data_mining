@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Quick Escapes</title>
+    <meta content="18QUIK$07" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Escapes" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="http://www.nytimes.com/2004/06/18/travel/escapes/18QUIK.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1590233"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Travel and Vacations</classifier>
+        <location class="indexing_service">Washington (DC)</location>
+        <location class="indexing_service">Eugene (Ore)</location>
+        <person class="indexing_service">Romanko, J R</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Escapes</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Hospitality, Restaurant and Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Oregon</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Washington, D.C.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Oregon/Eugene</classifier>
+        <classifier class="online_producer" type="descriptor">Travel and Vacations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Travel and Vacations</classifier>
+        <location class="online_producer">Washington (DC)</location>
+        <location class="online_producer">Oregon</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040618T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990DE0D91639F93BA25755C0A9629C8B63" item-length="244" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Quick Escapes</hl1>
+        <hl2 class="online_headline">Quick Escapes</hl2>
+      </hedline>
+      <byline class="print_byline">By J. R. ROMANKO</byline>
+      <byline class="normalized_byline">Romanko, J R</byline>
+      <abstract>
+        <p>Quick Escapes column on visiting Washington, DC, and Eugene, Ore, next weekend (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Washington</p>
+        <p>WHEN  June 25-27</p>
+        <p>WHY  The Smithsonian Folklife Festival is an annual series of free events on the Mall. This year the focus is on music in Latino cultures, creativity in Haiti and the maritime communities of the Middle Atlantic states. There will be live music, workshops, demonstrations and more -- including a Haitian market. Information: www.folklife.si.edu. While in town, stop by the National Capital Barbecue Battle -- essentially the national championships of barbecuing -- along several blocks of Pennsylvania Avenue on Saturday and Sunday. More information is at www.barbecuebattle.com.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Washington.</p>
+      </block>
+      <block class="full_text">
+        <p>Washington</p>
+        <p>WHEN  June 25-27</p>
+        <p>WHY  The Smithsonian Folklife Festival is an annual series of free events on the Mall. This year the focus is on music in Latino cultures, creativity in Haiti and the maritime communities of the Middle Atlantic states. There will be live music, workshops, demonstrations and more -- including a Haitian market. Information: www.folklife.si.edu. While in town, stop by the National Capital Barbecue Battle -- essentially the national championships of barbecuing -- along several blocks of Pennsylvania Avenue on Saturday and Sunday. More information is at www.barbecuebattle.com.</p>
+        <p>(Below are travel and hotel deals that were available yesterday. Air fares were found at www.travelocity.com. Hotel rates, available through www.expedia.com, are for double occupancy.)</p>
+        <p>GETTING THERE  From New York: $121 (United);  $148 (Amtrak; www.amtrak.com).  From Atlanta: $183 (Delta).  From St. Louis: $298 (United).  From Houston: $290 (US Airways).</p>
+        <p>WHERE TO STAY  Ritz-Carlton, $199, (202) 835-0500.  Hay-Adams Hotel, $239, (202) 638-6600.</p>
+        <p>Eugene, Ore.</p>
+        <p>WHEN  June 25-26</p>
+        <p>WHY  The Oregon Bach Festival opens next weekend with a free opening ceremony on Friday featuring a 250-member children's choir, and Bach performances throughout the weekend, including the ''St. Matthew Passion,'' Baroque chamber works and pieces by other composers. Many tickets cost $27 to $49 and are available at (541) 682-5000 and at www.oregonbachfestival.com.</p>
+        <p>GETTING THERE  From New York: $550 (Alaska).  From Los Angeles: $426 (Alaska).  From Denver: $481 (America West).  From Orlando: $500 (Alaska).</p>
+        <p>WHERE TO STAY  Hilton Eugene, $114, (541) 342-2000.  Valley River Inn, $129, (541) 687-0123.</p>
+        <p>J. R. ROMANKO</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

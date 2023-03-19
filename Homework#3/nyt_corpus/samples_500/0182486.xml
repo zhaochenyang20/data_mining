@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>LOVERS WERE BESIDE THE POINT</title>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1988" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="38" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="182486"/>
+      <doc.copyright holder="The New York Times" year="1988"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">BOOK REVIEWS</classifier>
+        <person class="indexing_service">COALE, HOWARD</person>
+        <person class="indexing_service">DIEHL, MARGARET</person>
+        <object.title class="indexing_service">MEN (BOOK)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19880925T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DEEDD113AF936A1575AC0A96E948260" item-length="511" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>LOVERS WERE BESIDE THE POINT</hl1>
+      </hedline>
+      <byline class="print_byline">By HOWARD COALE; Howard Coale is a freelance writer.</byline>
+      <byline class="normalized_byline">COALE, HOWARD</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD:  MEN  By Margaret Diehl.  282 pp. New York:  Soho Press. $17.95.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD:  MEN  By Margaret Diehl.  282 pp. New York:  Soho Press. $17.95.</p>
+        <p>MEN  By Margaret Diehl.  282 pp. New York:  Soho Press. $17.95.</p>
+        <p>The erotic appeal of strangers tends to haunt us, if at all, when we are walking down a crowded street. There is something about the sensuality of an unknown body that causes old seams in the soul to creak with life.</p>
+        <p>Stella, the narrator and main character of Margaret Diehl's first novel, is a woman who sets out to tap this reservoir of strangers. With her boyfriend safely drunk at home, she goes into the night to pick up men solely to satisfy a desire that seems to go far beyond sex into a realm of intense loneliness. Her list of men is long: carpenters, architects, wounded Vietnam veterans. It almost becomes a 1980's version of the catalogue of ships in the ''Iliad.''</p>
+        <p>But when it comes right down to it, men, no matter how glorified they are in the title, are beside the point. Sex, for Stella, is like practicing for a revelation. Men offer themselves, but they don't make her happy. She is like a novitiate searching for the true religion. Ms. Diehl's characters in the early part of the book tend to be props around which the narrator moves, always disillusioned.</p>
+        <p>Ms. Diehl ranges back into Stella's memory, however, and there much of the richness of this book shines through. Stella's description of losing her virginity at 15 in a freezing New Hampshire backyard, after sitting nude in an orgone box, is particularly wonderful. At moments like this, Ms. Diehl achieves a higher plane of vision. It is when we forget the story that the story is at its best - disconnected afternoons with lovers, the view outside a window in San Francisco, a dinner party with a blind psychiatrist and his gorgeous lesbian ex-wife. Margaret Diehl has a poetic gift, and much of the novel is a vehicle for bursts of description.</p>
+        <p>Yet she never describes anyone with the intensity with which she depicts her narrator's thoughts. Stella's unhappiness and joy are central, but the other characters merely fly like moths against the page, never entering the story with any depth. Often Stella's awareness of herself is so high that it acts like a wall, preventing us from deeply believing in anyone else. It is as if their inability to make the narrator happy renders them inaccessible to the imagination.</p>
+        <p>From time to time, however, a few characters in ''Men'' become vivid, like Stella's stargazing grandmother. She is a carefully portrayed woman with shadings to her personality, but, interestingly, she is the most sexless person in the book. In fact, those who do not appeal to Stella sexually are generally the most sympathetic characters. It seems particularly odd that the man with whom Stella finally falls in love remains hazy, someone who is hard to see clearly and who tends to speak in the platitudes of the eternally nice.</p>
+        <p>Nevertheless, Margaret Diehl is a novelist of subtle gifts. She writes about sex without a trace of self-consciousness. She suggests that through sex one can win oneself back, not by the body's ability to satisfy, but by its capacity to cleanse the mind.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

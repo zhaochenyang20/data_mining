@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Leave Options Alone</title>
+    <meta content="05DOER$05" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="23" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2002/04/05/opinion/05DOER.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1381434"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Stocks and Bonds</classifier>
+        <classifier class="indexing_service" type="descriptor">Accounting and Accountants</classifier>
+        <classifier class="indexing_service" type="descriptor">Ethics</classifier>
+        <classifier class="indexing_service" type="descriptor">Stock Options and Purchase Plans</classifier>
+        <classifier class="indexing_service" type="descriptor">Bankruptcies</classifier>
+        <classifier class="indexing_service" type="descriptor">Company Reports</classifier>
+        <org class="indexing_service">Enron Corp</org>
+        <person class="indexing_service">Doerr, John</person>
+        <person class="indexing_service">Smith, Frederick W</person>
+        <classifier class="online_producer" type="types_of_material">Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Contributors</classifier>
+        <classifier class="online_producer" type="descriptor">Stock Options and Purchase Plans</classifier>
+        <classifier class="online_producer" type="descriptor">Reform and Reorganization</classifier>
+        <classifier class="online_producer" type="descriptor">Company Reports</classifier>
+        <classifier class="online_producer" type="descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Company Reports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ethics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stock Options and Purchase Plans</classifier>
+        <classifier class="online_producer" type="general_descriptor">Accounting and Accountants</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bankruptcies</classifier>
+        <classifier class="online_producer" type="general_descriptor">Reform and Reorganization</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Corporations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <org class="online_producer">Enron Corporation</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20020405T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9801E1D81F3AF936A35757C0A9649C8B63" item-length="640" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Leave Options Alone</hl1>
+        <hl2 class="online_headline">Leave Options Alone</hl2>
+      </hedline>
+      <byline class="print_byline">By John Doerr and Frederick W. Smith</byline>
+      <byline class="normalized_byline">Doerr, John; Smith, Frederick W</byline>
+      <abstract>
+        <p>John Doerr/Frederick W Smith Op-Ed article opposes plan being weighed by Congressional lawmakers, requiring companies to treat stock options as expenses on financial statements, to ensure that corporate debacles such as recent collapse of Enron Corp will never be repeated; says move addresses issue that had nothing to do with Enron's failure, and was never problem at all; says purpose of any reform should be clearer, more accurate picture of company's financial health, and that counting options as expenses would confuse and distort picture considerably; says it could also prevent millions of workers from sharing in success of their firms through employee ownership (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Political leaders in Washington are casting about for measures to ensure that the Enron debacle will never be repeated. Unfortunately, one of the main ideas being considered -- requiring companies to treat stock options as expenses on financial statements -- addresses an issue that not only had nothing to do with Enron's failure but is, in fact, not a problem at all.</p>
+        <p>The proper purpose of any reform should be a clearer, more accurate picture of a company's financial health. Instead, counting options as expenses -- ''expensing'' them -- would actually distort and confuse that picture considerably. It could also prevent millions of workers from sharing in the success of their firms through employee ownership.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Treating stock options as an expense would encourage misleading financial statements.</p>
+      </block>
+      <block class="full_text">
+        <p>Political leaders in Washington are casting about for measures to ensure that the Enron debacle will never be repeated. Unfortunately, one of the main ideas being considered -- requiring companies to treat stock options as expenses on financial statements -- addresses an issue that not only had nothing to do with Enron's failure but is, in fact, not a problem at all.</p>
+        <p>The proper purpose of any reform should be a clearer, more accurate picture of a company's financial health. Instead, counting options as expenses -- ''expensing'' them -- would actually distort and confuse that picture considerably. It could also prevent millions of workers from sharing in the success of their firms through employee ownership.</p>
+        <p>Stock options give employees the future right to purchase shares at a predetermined price. When employees exercise and sell options, they get the difference between the option price and the market price of the stock. When an option is exercised, a company's total number of shares increases, thereby reducing earnings per share. And while salaries reduce a company's cash, options do not. When options are exercised, cash actually increases by the exercise price paid by the worker. This debate is about how an employee's potential gain is recorded in financial statements.</p>
+        <p>Current accounting rules correctly require that companies report their earnings per share on a diluted basis (i.e., counting the potential decrease in the ownership of existing shareholders due to the granting and exercise of stock options). If expensing were also required, the impact of options would be counted twice in the earnings per share: first as a potential dilution of earnings, by increasing the shares outstanding, and second as a charge against reported earnings. The result would be inaccurate and misleading earnings per share.</p>
+        <p>Another difficulty with proposals to expense options is that there exists no remotely accurate way to calculate the expense. Some proposals would expense options when they are granted -- without knowing whether the worker will ever exercise the options or what the future stock price will be. Other proposals would expense options when exercised, with any increase in the stock price over the option price being subtracted from otherwise reported profits. Thus, the better the company's stock performs, the worse the company's earnings will look. Surely, this makes no sense.</p>
+        <p>Accounting rules already require companies to disclose detailed information about their stock option programs. If new stock option legislation were enacted, the misleading understatement of corporate earnings would make it prohibitively expensive for most firms to continue broad stock option programs.</p>
+        <p>This would be a terrible mistake. Stock options have been crucial to venture-capital-backed companies that have created more than seven million jobs over 30 years and generated more than $1.3 trillion in revenue in 2000 alone. Today 90 percent of large companies issue stock options.</p>
+        <p>Options embody a principle that the Enron scandal does nothing to diminish: that the financial interests and responsibility of workers, management and investors be aligned. Not only executives are rewarded with options; last year 10 million American workers got them, and according to a 2000 survey, 44 percent of the companies that have options programs make grants to all employees.</p>
+        <p>Proponents of legislation to expense stock options believe that Enron's cooked books had something to do with stock options. We disagree. Such legislation would only encourage misleading financial statements. There are legitimate public policy responses to the Enron debacle. Expensing stock options isn't one of them.</p>
+        <p>John Doerr is a partner in the venture capital firm of Kleiner Perkins Caufield Byers. Frederick W. Smith is chief executive of the FedEx Corporation.</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">John Doerr is a partner in the venture capital firm of Kleiner Perkins Caufield Byers. Frederick W. Smith is chief executive of the FedEx Corporation.</tagline>
+    </body.end>
+  </body>
+</nitf>

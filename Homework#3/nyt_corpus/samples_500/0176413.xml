@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Culp Inc reports earnings for Qtr to July 30</title>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1988" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="42" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="176413"/>
+      <doc.copyright holder="The New York Times" year="1988"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">COMPANY REPORTS</classifier>
+        <classifier class="online_producer" type="types_of_material">Statistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Company Reports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Corporations</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19880903T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9505EFD71038F930A3575AC0A96E948260" item-length="35" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Culp Inc reports earnings for Qtr to July 30</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD:</p>
+        <p>*3*** COMPANY REPORTS **</p>
+        <p>*3* Culp Inc (OTC)</p>
+        <p>Qtr to July 30</p>
+        <p>1988</p>
+        <p>1987</p>
+        <p>Sales</p>
+        <p>40,957,000</p>
+        <p>42,295,000</p>
+        <p>Net loss</p>
+        <p>677,000</p>
+        <p>b775,000</p>
+        <p>Share earns</p>
+        <p>-</p>
+        <p>.18</p>
+        <p>b-Net income</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD:</p>
+        <p>*3*** COMPANY REPORTS **</p>
+        <p>*3* Culp Inc (OTC)</p>
+        <p>Qtr to July 30</p>
+        <p>1988</p>
+        <p>1987</p>
+        <p>Sales</p>
+        <p>40,957,000</p>
+        <p>42,295,000</p>
+        <p>Net loss</p>
+        <p>677,000</p>
+        <p>b775,000</p>
+        <p>Share earns</p>
+        <p>-</p>
+        <p>.18</p>
+        <p>b-Net income</p>
+        <p>*3*** COMPANY REPORTS **</p>
+        <p>*3* Culp Inc (OTC)</p>
+        <p>Qtr to July 30</p>
+        <p>1988</p>
+        <p>1987</p>
+        <p>Sales</p>
+        <p>40,957,000</p>
+        <p>42,295,000</p>
+        <p>Net loss</p>
+        <p>677,000</p>
+        <p>b775,000</p>
+        <p>Share earns</p>
+        <p>-</p>
+        <p>.18</p>
+        <p>b-Net income</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

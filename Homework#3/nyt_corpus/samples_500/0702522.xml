@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Case of Bangladesh Writer Opens Old Wounds</title>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="702522"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">ISLAM</classifier>
+        <classifier class="indexing_service" type="descriptor">POLITICS AND GOVERNMENT</classifier>
+        <classifier class="indexing_service" type="descriptor">FREEDOM OF SPEECH</classifier>
+        <person class="indexing_service">KABIR, HUMAYUN (AMB)</person>
+        <person class="indexing_service">KABIR, NURUL</person>
+        <person class="indexing_service">NASRIN, TASLIMA</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Speech</classifier>
+        <classifier class="online_producer" type="general_descriptor">Freedom of Speech and Expression</classifier>
+        <classifier class="online_producer" type="general_descriptor">Islam</classifier>
+        <classifier class="online_producer" type="general_descriptor">Religion and Churches</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19940728T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A04E1DD1F3EF93BA15754C0A962958260" item-length="557" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Case of Bangladesh Writer Opens Old Wounds</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>"Bangladesh Court Will Rule on Writer" (letter, July 16) by Humayun Kabir, Ambassador of Bangladesh, ignores the concerns many Bangladeshis have about the controversy involving the writer Taslima Nasrin.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>"Bangladesh Court Will Rule on Writer" (letter, July 16) by Humayun Kabir, Ambassador of Bangladesh, ignores the concerns many Bangladeshis have about the controversy involving the writer Taslima Nasrin.</p>
+        <p>The essence of the problem is this: A writer is in hiding today in Bangladesh because certain people do not like what she says. No amount of shuffling and rearranging of legal points can alter this fact.</p>
+        <p>This is the first occurrence of such censorship of a writer in Bangladesh: censorship by independent political groups that the state has been unwilling or unable to control. The implications are serious, not just on account of the danger to Ms. Nasrin's life, grave as that is, but perhaps more critically, the dangerous precedent that is being set about discussion of ideas in Bangladeshi society.</p>
+        <p>The Ambassador tells us that Ms. Nasrin has the freedom to express her views on religion. It is difficult to determine the nature of this freedom, since Ms. Nasrin's "utterances" led to her being charged with section 295(a) of the Bangladesh Penal Code, as the Ambassador mentions.</p>
+        <p>Note that those who issued death threats against Ms. Nasrin and who organize demonstrations calling for her death have been given a "stern warning" by the Government; Ms. Nasrin, however, is issued a warrant of arrest on the basis of vestiges of British colonial law from 100 years ago. The partiality here is too crude to inspire any desire for debate.</p>
+        <p>In any case, debate focused on Ms. Nasrin can be misleading. It ignores what is beneath today's crisis in Bangladesh: the unequal status of women in that society and the rising tide of fundamentalism, perhaps as part of a wider phenomenon in the world.</p>
+        <p>In Bangladesh this has encouraged a reaction by religious forces against the empowerment of women by grass-roots organizations, and a return to political prominence of people who were until recently discredited for their association with the genocide conducted in the name of religion by the Pakistan Army in 1971 in what was then East Pakistan.</p>
+        <p>To this list one must add, sadly, the alienation of Hindu Bangladeshis from their country after Islam was made the state religion, an alienation the Ambassador does not seem aware of when he lauds the secular nature of the laws of Bangladesh. These are the issues Ms. Nasrin talked about. These are the issues the Ambassador chose not to talk about.</p>
+        <p>Is it possible, then, that Ms. Nasrin has touched on some of the problems of Bangladeshi society, raw problems that must be dealt with, not hidden under the shameful cover of British colonial laws? Is it possible to imagine that, instead of being the criminal she is made out to be, Ms. Nasrin represents, however imperfectly, the hopes and aspirations with which people welcomed the end of a horrible genocide and the birth of a new nation in South Asia a quarter-century ago?</p>
+        <p>Is it possible that they who ask for the death of a mere powerless writer represent the antithesis of the hope and courage that gave Bangladesh victory one wintry day in 1971? If so, then behind all the drivel of "deep anguish" for hurt religious feelings, the Nasrin issue is part of a grab for power by the same fundamentalists who sided with the perpetrators of genocide in 1971. NURUL KABIR  Cambridge, Mass., July 20, 1994</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

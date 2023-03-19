@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Sports of The Times; Nancy Smiles While Tonya Hits Town</title>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="669482"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">OLYMPIC GAMES (1994)</classifier>
+        <classifier class="indexing_service" type="descriptor">ICE SKATING</classifier>
+        <classifier class="indexing_service" type="descriptor">FIGURE SKATING</classifier>
+        <classifier class="indexing_service" type="descriptor">BIOGRAPHICAL INFORMATION</classifier>
+        <person class="indexing_service">KERRIGAN, NANCY</person>
+        <person class="indexing_service">HARDING, TONYA</person>
+        <person class="indexing_service">VECSEY, GEORGE</person>
+        <object.title class="indexing_service">SPORTS OF THE TIMES (TIMES COLUMN)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Columns/George Vecsey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Olympics 2004</classifier>
+        <classifier class="online_producer" type="general_descriptor">Games</classifier>
+        <classifier class="online_producer" type="general_descriptor">Olympic Games</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ice Skating</classifier>
+        <classifier class="online_producer" type="general_descriptor">Figure Skating</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19940218T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9501E2DC143BF93BA25751C0A962958260" item-length="763" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Sports of The Times; Nancy Smiles While Tonya Hits Town</hl1>
+      </hedline>
+      <byline class="print_byline">By GEORGE VECSEY</byline>
+      <byline class="normalized_byline">VECSEY, GEORGE</byline>
+      <dateline>HAMAR, Norway</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>WHY is this woman smiling? I mean, grinning from ear to ear. She smiles when she is warming up. She smiles when she is practicing. She smiles when her coaches loudly clap their hands after her every move.</p>
+        <p>Nancy Kerrigan was even smiling when her old friend Tonya Harding went down in a pile against the boards as if she had been forechecked by Bob Probert or Tie Domi or the big bopper from the Portland Kneewhackers, Shane Stant himself. But there was nobody in sight, just some invisible poltergeist maybe trying to even things up for the ugly event in the nationals in Detroit.</p>
+      </block>
+      <block class="full_text">
+        <p>WHY is this woman smiling? I mean, grinning from ear to ear. She smiles when she is warming up. She smiles when she is practicing. She smiles when her coaches loudly clap their hands after her every move.</p>
+        <p>Nancy Kerrigan was even smiling when her old friend Tonya Harding went down in a pile against the boards as if she had been forechecked by Bob Probert or Tie Domi or the big bopper from the Portland Kneewhackers, Shane Stant himself. But there was nobody in sight, just some invisible poltergeist maybe trying to even things up for the ugly event in the nationals in Detroit.</p>
+        <p>That did not necessarily mean Kerrigan was smiling at Harding's misfortune. She just smiles all the time, like a baby with gas. Who knew all this waiting was such giddy fun? But Kerrigan seems determined to have a grand old time here at the Winter Games, as if practice were an endless commercial shoot. And probably it is.</p>
+        <p>Kerrigan did her best not to notice the presence of her pal yesterday on the exact six-week anniversary of Kerrigan's being whacked on the knee by a thug hired by Harding's former husband. It was hard not to notice Harding flitting back and forth on the ice during the two practice sessions that were open to six skaters at a time.</p>
+        <p>Harding seemed much less inhibited than Kerrigan about where she could go. There was something primal about the way Harding staked out every corner of the rink, but wherever Kerrigan's averted gaze went, her face was curled up in a giant "aren't we having fun?" smile.</p>
+        <p>Now, anybody who has ever run a race knows the rush of positive energy that comes from willing the face muscles from a fatigued grimace to a joyous smile. There is a lot of smiling in this sport, or whatever it is. Figure skaters learn to smile in public after some judge has stuck it to them, when the logical thing would be to shake a fist and talk trash.</p>
+        <p>It is also true that skaters must display neat warm-up costumes and makeup and happy smiles during practice because the judges are making mental notes about who's got it and who doesn't. Kerrigan's support system -- her coaches, Evy and Mary Scotvold, two of the most positive and experienced people in the business -- are doing the right thing by smiling and clapping like some hired opera claque.</p>
+        <p>It's part of the game.</p>
+        <p>But smiling could become a chore for Nancy Kerrigan. Tonya's here. Tonya's not going away. Time is on Tonya's side. Tonya is a survivor. Tonya has survived her chaotic family life, and she has survived the legal skirmishes when the United States Olympic Committee tried to haul her in for questioning about her role in the most celebrated knee-whacking in sports history.</p>
+        <p>Harding even survived her long haul from Portland, performing the difficult Portland-Seattle-Copenhagen-Oslo triple axel, and after one night in Europe she went out to practice yesterday, nine time zones out of kilter. But Tonya is on record that she does not believe in jet lag. Her life seems uncluttered by awareness of many things. She probably wonders why everybody is making such a big fuss over a fourth-rate knee-whacking.</p>
+        <p>She never seemed to notice the hundreds of reporters and photographers milling about the tiny practice rink yesterday. Tonya knows what she needs. She needs a nasal inhalator for her asthma. She needs a smoke and a cold brew. And she needs to make some money. She doesn't smile much. Life's too hard.</p>
+        <p>Tonya was definitely not smiling at the end of her afternoon workout, when she tried a triple axel at the end of her short practice and wound up sprawled on the ice. She skated one-legged for a while, displaying no Kerriganesque smiles, and she even made a few jumps at the end of practice. The trainer scooped up a bucketful of snow from the endless supply just outside the door, to be applied to her "chronically sore ankle," as it was described. Tonya was limping when she left the building. She will be back. She's not going away -- certainly not easily.</p>
+        <p>That leaves Nancy Kerrigan with a smile on her face. Kerrigan did nothing to deserve being whacked in the knee on Jan. 6 -- nothing except be in Tonya Harding's way, at least in the twisted reasoning of the four louts who plotted and committed the attack. Harding insists she had nothing to do with the plot, and perhaps she will never be charged with anything. It may not be fair to make Kerrigan work out in the same sextet with her competitor who has links to the goons who whacked Nancy Kerrigan, but life is not fair. Tonya is in Norway. Tonya's at the Winter Games.</p>
+        <p>And Nancy Kerrigan is smiling.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

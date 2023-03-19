@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Lucent Again Cuts Offering Price for Agere Spinoff</title>
+    <meta content="Y23LUCE" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2001/03/23/technology/23LUCE.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1279980"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <series series.name="TECHNOLOGY"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="indexing_service" type="descriptor">Stocks and Bonds</classifier>
+        <org class="indexing_service">Lucent Technologies Inc</org>
+        <org class="indexing_service">Agere Systems Inc</org>
+        <person class="indexing_service">Gaither, Chris</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="descriptor">Credit</classifier>
+        <classifier class="online_producer" type="descriptor">Company and Organization Profiles</classifier>
+        <classifier class="online_producer" type="descriptor">Securities and Commodities Violations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Company and Organization Profiles</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Futures and Options Trading</classifier>
+        <classifier class="online_producer" type="general_descriptor">Securities and Commodities Violations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Credit</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Corporations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <location class="online_producer">Murray Hill</location>
+        <location class="online_producer">Allentown</location>
+        <org class="online_producer">Lucent Technologies Incorporated</org>
+        <org class="online_producer">Systems Inc.</org>
+        <org class="online_producer">Securities and Exchange Commission</org>
+        <org class="online_producer">Morgan Stanley Dean Witter &amp; Company</org>
+        <org class="online_producer">Morgan Stanley</org>
+        <org class="online_producer">Salomon Smith Barney</org>
+        <org class="online_producer">Citigroup Incorporated</org>
+        <org class="online_producer">ABN AMRO Holding NV</org>
+        <org class="online_producer">Blaylock &amp; Partners</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20010323T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9806E3DE143CF930A15750C0A9679C8B63" item-length="498" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Lucent Again Cuts Offering Price for Agere Spinoff</hl1>
+      </hedline>
+      <byline class="print_byline">By CHRIS GAITHER</byline>
+      <byline class="normalized_byline">Gaither, Chris</byline>
+      <abstract>
+        <p>Lucent Technologies again cuts offering price of its Agere Systems Inc division, by 40 percent, in effort to entice investors in sour market for initial public offerings; will sell 600 million Agere shares for $6 to $7 each (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Trying to entice investors in a sour market for initial public offerings, Lucent Technologies again cut the offering price of its Agere Systems  Inc. division yesterday, this time by 40 percent.</p>
+        <p>Lucent, the market-leading but struggling maker of telephone equipment, will sell 600 million Agere shares for $6 to $7 apiece, according to a filing with the Securities and Exchange Commission. At the highest price, Agere (pronounced a-GEAR) would raise $4.2 billion, sharply down from its expectations last month for a $7 billion offering.</p>
+      </block>
+      <block class="full_text">
+        <p>Trying to entice investors in a sour market for initial public offerings, Lucent Technologies again cut the offering price of its Agere Systems  Inc. division yesterday, this time by 40 percent.</p>
+        <p>Lucent, the market-leading but struggling maker of telephone equipment, will sell 600 million Agere shares for $6 to $7 apiece, according to a filing with the Securities and Exchange Commission. At the highest price, Agere (pronounced a-GEAR) would raise $4.2 billion, sharply down from its expectations last month for a $7 billion offering.</p>
+        <p>The price cut was Lucent's third. Last month, Lucent, based in Murray Hill, N.J., lowered the range twice -- first, to $16 to $19, and second to $12 to $14. The original offering price was $15 to $20. As the price has dropped, the number of shares issued has risen, from 370.3 million to 500 million to 600 million.</p>
+        <p>With 1.64 billion shares outstanding by the time the offering is completed, Agere, Lucent's microelectronics and optical components unit, based in Allentown, Pa., could have a market capitalization of as much as $11.48 billion. Lucent will hold 63.3 percent of Agere's stock, according to the S.E.C. filing.</p>
+        <p>The stock offering is imperative for Lucent's debt rating. Last month, the company avoided a possible downgrading of its debt to junk status by securing $4.5 billion in new credit lines. Lucent persuaded banks to promise $2 billion to extend a one-year line. Agere plans to assume the remaining $2.5 billion in debt by September, when Lucent expects the spinoff to be completed.</p>
+        <p>Moody's Investor Service rates Lucent's debt one notch above junk status. Bob Konefal, a managing director for Moody's, said the Agere offering was a ''critical liquidity event,'' a chance for Lucent to take some pressure off its troubled balance sheet. He said Lucent must carefully weigh its debt-rating needs with Agere's cash needs.</p>
+        <p>''It's probably not a do-it-at-all-costs I.P.O.,'' Mr. Konefal said, ''but there's a lot of pressure on both companies to capitalize themselves in a way that ensures decent balance sheets for both.''</p>
+        <p>The new offering also changes the way Lucent will repay its debt to its lead underwriter, Morgan Stanley Dean Witter, which had bought $2.3 billion in Lucent commercial paper. The two companies canceled a previous arrangement, in which Morgan Stanley would trade Lucent's debt for 200 million shares in the public offering. Now, Morgan Stanley has an option to buy as many as 90 million Agere shares if the offering is oversubscribed.</p>
+        <p>Lucent will probably repay Morgan Stanley out of cash on hand or from loan proceeds.</p>
+        <p>The debt reaches maturity next Thursday.</p>
+        <p>''As the debt matures, they will be repaid,'' Michelle Davidson, a Lucent spokeswoman, said of Morgan Stanley, which declined to comment.</p>
+        <p>Other underwriters in the Agere offering include Bear, Stearns; J. P. Morgan; Salomon Smith Barney, a unit of Citigroup; Deutsche Banc Alex. Brown; ABN Amro; Rothschild L.L.C.; SG Cowen; and Blaylock &amp; Partners.</p>
+        <p>TECHNOLOGY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

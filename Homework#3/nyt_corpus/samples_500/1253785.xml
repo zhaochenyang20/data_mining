@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Bookend; The Rising Sun Sets on Japanese Publishing</title>
+    <meta content="10BOOKENT" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="51" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1253785"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Electronics</classifier>
+        <classifier class="indexing_service" type="descriptor">Comic Books and Strips</classifier>
+        <location class="indexing_service">Japan</location>
+        <person class="indexing_service">French, Howard W</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/Japan</classifier>
+        <classifier class="online_producer" type="general_descriptor">Comic Books and Strips</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electronics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001210T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DE4D8133DF933A25751C1A9669C8B63" item-length="1185" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Bookend; The Rising Sun Sets on Japanese Publishing</hl1>
+      </hedline>
+      <byline class="print_byline">By Howard W. French</byline>
+      <byline class="normalized_byline">French, Howard W</byline>
+      <abstract>
+        <p>Howard W French article on decline in Japanese literature, apparently spurred by intense interest in consumer electronics; says real beginning of literature's decline may have been the boom in magna (comic books), whose readership exploded in 1970's and 1980's, spawning their own unique, and intensely popular, subculture; drawing</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Japan's popular love affair with books, though it began only in the 1880's, once more than made up in intensity whatever it lacked in longevity. A century ago, during the Meiji Restoration, a national drive to catch up to the West, literacy in Japan became universal and parents came to see producing well-schooled children as their duty to the state. Publishing for the masses took off. Japan's second great drive to excel began after the devastation of World War II, and once again book learning was at its center. Public libraries became common for the first time after the war, and during the rise to economic power the whole nation seemed to live by the maxim: save money, go to sleep early and read plenty.</p>
+        <p>That last injunction was promoted immeasurably by the explosive growth of rail travel. Commuting several hours every day, the Japanese reader, his book inevitably sheathed in a homemade cover, his head inclined slightly forward, fully absorbed in the text, became the second most common sight on a train -- after people snoozing, that is.</p>
+      </block>
+      <block class="full_text">
+        <p>Japan's popular love affair with books, though it began only in the 1880's, once more than made up in intensity whatever it lacked in longevity. A century ago, during the Meiji Restoration, a national drive to catch up to the West, literacy in Japan became universal and parents came to see producing well-schooled children as their duty to the state. Publishing for the masses took off. Japan's second great drive to excel began after the devastation of World War II, and once again book learning was at its center. Public libraries became common for the first time after the war, and during the rise to economic power the whole nation seemed to live by the maxim: save money, go to sleep early and read plenty.</p>
+        <p>That last injunction was promoted immeasurably by the explosive growth of rail travel. Commuting several hours every day, the Japanese reader, his book inevitably sheathed in a homemade cover, his head inclined slightly forward, fully absorbed in the text, became the second most common sight on a train -- after people snoozing, that is.</p>
+        <p>During the golden age of Japanese publishing, the 1950's and 60's, the number of books produced yearly soared. And authors like Yukio Mishima, Osamu Dazai, Junichiro Tanizaki and Yasunari Kawabata were not only broadly and avidly read but became important cultural icons. Literary magazines flourished too, with the influential Shincho Monthly routinely selling 100,000 copies. The debuts of new authors were occasions for national excitement. Japanese who remember this era say the measure of a person was as likely to be the books in his home as the kind of shiny new material possessions, from kitchen blenders to color televisions, that households acquired as the country grew rich.</p>
+        <p>Japan was already becoming known as the land of the gadget, though, and, almost inevitably, the country's love affair with literature began weakening under the relentless assault of every manner of diversion served up by consumer electronics. A train ride in Tokyo today is as good a place as any to witness the emergence of what is whimsically called the ''thumb tribe.'' These are the commuters who in the place of books now wield portable electronic games, digital assistants and, most of all, the ubiquitous cellular phone, which, both above ground and below, is used continually to send e-mail and surf the Net.</p>
+        <p>As electronic communications become part of everyday life around the world, the question is whether Japan and its thumb tribes are a harbinger of what lies in store for publishing elsewhere, or whether this island nation, always proud of its uniqueness, is a mere oddity.</p>
+        <p>In the last decade, according to publishing industry sources, total book sales in the country have fallen from 900 million copies to 700 million, while sales of ''pocket books,'' the popular paperbacks that were the staple of the commuter, have shrunk from 300 million to 230 million. ''Serious literature, that is where the sharpest decline is taking place,'' Toshiharu Sasaki, an industry expert with the Research Institute for Publications, told me. ''The publishing industry's health goes in line with the reading habits of the public, and people are reading 2 to 3 percent less every year. The way to success in this business these days is in writing easy-to-read books, with short sentences, lots of slang and easy plots.''</p>
+        <p>A sampling of recently successful titles speaks volumes about what has been happening to reading in Japan. The big hits of recent seasons have been books like ''Speak Better Japanese'' or ''Things You Shouldn't Buy,'' a scattershot review of consumer products that sensibly warns the public, for example, to be wary of the medicinal value of the ''energy drinks'' sold everywhere in Japan. (Elsewhere, the book warns that a popular brand of lip balm will cause elevated cholesterol levels if eaten.) Other huge sellers have been highly sentimental stories like ''No One's Perfect,'' the autobiography of Hirotada Ototake, a man born without limbs, or ''So Please Live On,'' a memoir by a woman who was bullied in grade school, attempted suicide in junior high and married a gangster as a teenager. The story becomes an inspirational tale after the author, Mitsuyo Ohira, tells how she overcame her low self-esteem to become a lawyer.</p>
+        <p>One publishing executive said that the only kinds of books that really work in Japan these days are mawkish tales of triumph against adversity or stories of tawdry sensationalism. ''The Japanese like to have tears brought to their eyes,'' he told me.</p>
+        <p>Of course there are serious novelists still to be found making a good living from their work in Japan. Among the most successful, Haruki Murakami, Ryu Murakami (no relation), Banana Yoshimoto and the Nobel laureate Kenzaburo Oe all regularly sell hundreds of thousands of copies of their books. But the publishing executive noted that while their novels have a devoted readership, they are often bought by others more out of a sense of obligation than to be read.</p>
+        <p>The real beginning of literature's decline in Japan may have been the boom in manga, the hefty comic books whose readership exploded in the 1970's and 80's, spawning their own unique, and intensely popular, subculture. In the 80's the most popular manga titles averaged weekly sales of well over two million copies. At the peak of the trend, between a quarter and a third of all published material in Japan consisted of comics, with titles for every niche audience from salarymen to schoolgirls.</p>
+        <p>Aficionados maintain that reading manga is a serious pursuit, and that the story lines and drawings involve true artistry and sophistication. Be that as it may, they too would seem to have been knocked off their perch. Now, according to Kazuto Yamaguchi, an editor at Kodansha, Japan's largest publisher, ''even the people who used to read manga are switching to electronic diversions.''</p>
+        <p>What is left in print, besides commercial books, are magazines offering young women fashion and beauty advice, as well as practical tips from finding clothing bargains to snagging that handsome office colleague who works at the distant workstation. Or, for mostly male readers, weeklies like The Shukan Post and The Shukan Gendai, which offer a strange mixture of gloss and pulp: nude pictorials, titillating social reporting and political scandal. Imagine a hybrid between Playboy and The National Enquirer, with some news coverage and People-magazine-style gossip thrown in, and you get the idea. Magazines like these have relegated the more serious journals about news and culture that once dominated postwar newsstands to the back of the racks.</p>
+        <p>''In Japan, literature is no longer mainstream culture,'' commented Yoshinori Shimizu, a professor of literature and a book critic for Asahi Shimbun, Toyko's leading newspaper. ''My students have done very little reading. For them, whether it is classics or mystery novels, they are equally unknown.''</p>
+        <p>Howard W. French is The Times's bureau chief in Tokyo.</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">Howard W. French is The Times's bureau chief in Tokyo.</tagline>
+    </body.end>
+  </body>
+</nitf>

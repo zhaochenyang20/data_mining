@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>RESULTS PLUS</title>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="24" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="351748"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19900509T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE5DF1538F93AA35756C0A966958260" item-length="460" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>RESULTS PLUS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD:</p>
+        <p>CYCLING</p>
+        <p>Bishop Is Winner of Seventh Stage</p>
+        <p>In a bravado performance, Andy Bishop of Tucson, Ariz., rode far in front for the last 70 miles yesterday and won the seventh stage of the Tour de Trump race. The 11-day race will end Sunday in Boston. For the fourth consecutive day, Vycheslav Bobrik, a 19-year-old Soviet amateur, was the overall leader.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD:</p>
+        <p>CYCLING</p>
+        <p>Bishop Is Winner of Seventh Stage</p>
+        <p>In a bravado performance, Andy Bishop of Tucson, Ariz., rode far in front for the last 70 miles yesterday and won the seventh stage of the Tour de Trump race. The 11-day race will end Sunday in Boston. For the fourth consecutive day, Vycheslav Bobrik, a 19-year-old Soviet amateur, was the overall leader.</p>
+        <p>CYCLING</p>
+        <p>Bishop Is Winner of Seventh Stage</p>
+        <p>In a bravado performance, Andy Bishop of Tucson, Ariz., rode far in front for the last 70 miles yesterday and won the seventh stage of the Tour de Trump race. The 11-day race will end Sunday in Boston. For the fourth consecutive day, Vycheslav Bobrik, a 19-year-old Soviet amateur, was the overall leader. He remained 2 minutes 43 seconds ahead of Raul Alcala of Mexico and PDM, and 2:59 ahead of Steve Bauer of Fenwick, Ontario, and 7-Eleven. The day's race covered 141.8 miles from Winchester, Va., to Harrisburg, Pa. A stiff tailwind helped Bishop cover the final 200 kilometers (124.8 miles) in 5 hours 2 minutes 27 seconds. The 24-year-old Bishop rides for the Spago team, sponsored by Wolfgang Puck, a Los Angeles restaurateur. He finished 3:39 ahead of Philippe Casado of France and the Z/Kickers team. Third place went to Nate Reiss, an amateur from Boulder, Colo., and the Subaru-Montgomery team.</p>
+        <p>TENNIS</p>
+        <p>Chang Loses His Opening Match</p>
+        <p>Michael Chang, who is preparing to defend his French Open title in three weeks, lost his opening match for the second time in two weeks yesterday when he was eliminated from the German Open in Hamburg, West Germany. Juan Aguilera of Spain scored a 6-3, 6-2 victory over Chang, who was playing in only his sixth match since recovering from a hip injury. The match lasted 80 minutes. ''Aguilera played well and I missed a few shots, and on clay sometimes that's all it takes,'' said Chang, who lost to Petr Korda of Czechoslovakia in the opening round of the BMW Open in Munich, West Germany, last week. Top-seeded Boris Becker struggled early but recovered and rolled past Paolo Cane of Italy, 7-5, 6-1, to reach the third round of the $1 million tournament.(AP)</p>
+        <p>Sabatini Advances: Gabriela Sabatini of Argentina displayed championship form at the Italian Open in Rome, where she has won the title for two consecutive years. Sabatini, down by 5-6 in the opening set, rebounded for a 7-6, 6-0 victory yesterday over Ann Grossman of Grove City, Ohio. Monica Seles, seeded second, joined Sabatini in the third round by defeating Radka Zrubakova of Czechoslovakia, 6-4, 6-1. Top-seeded Martina Navratilova teamed with 14-year-old Jennifer Capriati in doubles to beat Tracy Morton and Kate McDonald of Australia, 6-2, 5-7, 6-4.(AP)</p>
+        <p>Kaplan Upsets Goldie: Fifth-seeded Dan Goldie became another first-round upset victim yesterday at the $230,000 United States clay-court championships at Kiawah Island, S.C. Unseeded Mark Kaplan beat Goldie, 6-3, 3-6, 6-3. Three of the tournament's top eight playerrs have been eliminated in the first round. Kaplan is ranked No. 168 in the world and Goldie is the highest-ranked player he has defeated.(AP)</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>From the Economic Doctors, Diagnoses and Some Cures</title>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1992" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="570340"/>
+      <doc.copyright holder="The New York Times" year="1992"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">UNITED STATES ECONOMY</classifier>
+        <person class="indexing_service">SINAI, ALLEN</person>
+        <person class="indexing_service">CHIMERINE, LAWRENCE</person>
+        <person class="indexing_service">LEVY, MICKEY D</person>
+        <person class="indexing_service">CLINTON, BILL (GOV)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Economy</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19921115T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CE6DC1339F936A25752C1A964958260" item-length="435" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>From the Economic Doctors, Diagnoses and Some Cures</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>ALLEN SINAI Chief economist, the Boston Company in Boston</p>
+      </block>
+      <block class="full_text">
+        <p>ALLEN SINAI Chief economist, the Boston Company in Boston</p>
+        <p>There are several important statistics to watch, according to Mr. Sinai, and none of them give much comfort. Though the employment rolls are growing, they are increasing at only 30 percent to 40 percent of the average rate after a recession, with temporary workers accounting for most of the gains. "The economy is still underperforming," Mr. Sinai said. "Payrolls in particular are growing at an unsatisfactory rate." Though new business incorporations have increased since the depths of the recession, they are also doing so at about half the rate normal after a recession, Mr. Sinai said. As a precaution, the new administration should be ready to put off balancing the budget to concentrate on growth. To do that, first-year spending on the infrastructure should be increased to $50 billion "if the economy flattens out."</p>
+        <p>LAWRENCE CHIMERINE Senior economic adviser, DRI/McGraw Hill in Philadelphia</p>
+        <p>President-elect Bill Clinton has a tough road ahead, said Lawrence Chimerine. To get the economy moving, Mr. Clinton's proposed $20 billion investment in the nation's infrastructure next year should be increased to about $50 billion. But Mr. Clinton is not the only one with a difficult future. Workers have been losing ground and will continue to do so. Real wages did not grow in the last two years and will fall further. That has hurt consumers, who, rather than spending, have been sitting tight.Without spending, the economy will remain sluggish. Though hiring is expected to creep up, layoffs haven't hit bottom yet. And there is likely to be further downward pressure on wages as military suppliers cut back. "Clinton's plan has to be a massive defense conversion plan." MICKEY D. LEVY  Chief economist, CRT Government Securities in New York</p>
+        <p>For Mr. Levy, even without any new proposals from Washington, the trend is up on the job front, albeit modestly. The "numbers are clearly pointing to a turnaround, with most of the losses in employment behind us," he said. The wrenching restructuring undergone by corporate America since the recession began has resulted in big increases in productivity. That has boosted bottom lines with five quarters in a row of steadily increasing profits. Mr. Levy forecasts profits will continue to increase through the end of 1993. But while cost cutting has made businesses leaner and more competitive, painful memories of layoffs will serve to keep companies' optimism in check. "Companies will continue to keep a lid on expenses. I don't expect any hiring sprees."</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

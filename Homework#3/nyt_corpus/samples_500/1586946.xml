@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Mayor Scolds Security Chief On U.S. Funds To Protect City</title>
+    <meta content="05AID" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2004/06/05/nyregion/05aid.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1586946"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Terrorism</classifier>
+        <classifier class="indexing_service" type="descriptor">Finances</classifier>
+        <classifier class="indexing_service" type="descriptor">Budgets and Budgeting</classifier>
+        <classifier class="indexing_service" type="descriptor">States (US)</classifier>
+        <location class="indexing_service">New York City</location>
+        <location class="indexing_service">United States</location>
+        <location class="indexing_service">New York State</location>
+        <person class="indexing_service">Hu, Winnie</person>
+        <person class="indexing_service">Bloomberg, Michael R (Mayor)</person>
+        <person class="indexing_service">Ridge, Tom (Dir)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="descriptor">Terrorism</classifier>
+        <classifier class="online_producer" type="general_descriptor">States (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Budgets and Budgeting</classifier>
+        <classifier class="online_producer" type="general_descriptor">Terrorism</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <location class="online_producer">New York City</location>
+        <org class="online_producer">Congress</org>
+        <person class="online_producer">Bloomberg, Michael R</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040605T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9800E0DD1031F936A35755C0A9629C8B63" item-length="454" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Mayor Scolds Security Chief On U.S. Funds To Protect City</hl1>
+        <hl2 class="online_headline">Mayor Scolds Security Chief on U.S. Funds to Protect City</hl2>
+      </hedline>
+      <byline class="print_byline">By WINNIE HU</byline>
+      <byline class="normalized_byline">Hu, Winnie</byline>
+      <abstract>
+        <p>New York City Mayor Michael Bloomberg calls on Homeland Security Sec Tom Ridge to stand up to Congress over what he characterizes as its efforts to shortchange city on antiterrorism money; charges that Congress has turned distribution of homeland security money into slush fund, in which small states receive far more per capita than those at greater risk like New York (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Mayor Michael R. Bloomberg called yesterday on the homeland security secretary, Tom Ridge, to stand up to Congress over what the mayor has repeatedly characterized as its efforts to shortchange New York City on anti-terrorism money.</p>
+        <p>The mayor, appearing on his weekly radio program on WABC-AM, charged that Congress had turned the distribution of homeland security money into a political ''slush fund,'' in which small states receive far more dollars per capita than those states at greater risk, like New York.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Mayor Michael Bloomberg, appearing on his weekly radio program Friday, criticized Congress for turning distribution of homeland security money into a political "slush fund."</p>
+      </block>
+      <block class="full_text">
+        <p>Mayor Michael R. Bloomberg called yesterday on the homeland security secretary, Tom Ridge, to stand up to Congress over what the mayor has repeatedly characterized as its efforts to shortchange New York City on anti-terrorism money.</p>
+        <p>The mayor, appearing on his weekly radio program on WABC-AM, charged that Congress had turned the distribution of homeland security money into a political ''slush fund,'' in which small states receive far more dollars per capita than those states at greater risk, like New York.</p>
+        <p>''This is a time for Tom Ridge to stand up and say, 'Enough of this craziness,''' the mayor said. ''He has got to be out there screaming. If we are going to protect this country, we've got to send the money where the threat is, and I don't think there's any question that the No. 1 targets for anybody overseas would be New York and, arguably, Washington.''</p>
+        <p>In recent months, Mr. Bloomberg has directed his criticisms only at Congress, but after coming under attack from some of its members, he has begun to focus more on the Bush administration. Yesterday, the mayor said that he had placed a call to Mr. Ridge.</p>
+        <p>''Everybody is at fault here, and everybody's got to get together and stop this craziness. This is not a pork barrel slush fund -- or shouldn't be,'' he said.</p>
+        <p>Brian Roehrkasse, a spokesman for the Homeland Security Department, said New York City had received more homeland security money -- about $300 million since 2002 -- than any other city. He added that the president's 2005 budget request allocated additional money to urban areas with greater security needs.</p>
+        <p>''We believe that every state needs a minimum level of homeland security funding,'' he said. ''However, we recognize that areas with greater homeland security needs require more funds.''</p>
+        <p>Mr. Bloomberg, expressing his frustration with Congress, said yesterday that its members ''all feel they have to deliver something for the hometown crowd, and sometimes, the leaders need a little prodding from the rest of us.'' He said that since terrorist threats were not distributed evenly across states, the money should not be, either.</p>
+        <p>''People that don't have a great threat should feel relieved, but they shouldn't be getting the money,'' he said. ''People that do have the threat should be worried, but that's where the money should go.''</p>
+        <p>The mayor also objected to proposed federal legislation that would allow a portion of the homeland security money to be spent on responding to natural disasters.</p>
+        <p>''Somebody said to me, 'Well, we have to protect our crops because we need food supplies,''' the mayor said. ''Yes, you need food supplies, but I don't think there's many Al Qaeda members walking around with maps of cornfields.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

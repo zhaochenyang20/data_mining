@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Japan Is to Use an Old Law To Combat Food Poisoning</title>
+    <meta content="01JAPA$02" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="1996" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="868841"/>
+      <doc.copyright holder="The New York Times" year="1996"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Food Contamination and Poisoning</classifier>
+        <classifier class="indexing_service" type="descriptor">Law and Legislation</classifier>
+        <classifier class="indexing_service" type="descriptor">Quarantine</classifier>
+        <classifier class="indexing_service" type="descriptor">Epidemics</classifier>
+        <classifier class="indexing_service" type="descriptor">Meat</classifier>
+        <classifier class="indexing_service" type="descriptor">E Coli (Bacteria)</classifier>
+        <location class="indexing_service">Japan</location>
+        <person class="indexing_service">Pollack, Andrew</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Japan</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Asia Pacific</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Legal</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Epidemics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Food Contamination and Poisoning</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/Japan</classifier>
+        <classifier class="online_producer" type="general_descriptor">E Coli (Bacteria)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Meat</classifier>
+        <classifier class="online_producer" type="general_descriptor">Epidemics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Food Contamination and Poisoning</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bacteria</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Food</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diseases and Conditions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19960801T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0DE4DE143FF932A3575BC0A960958260" item-length="751" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Japan Is to Use an Old Law To Combat Food Poisoning</hl1>
+      </hedline>
+      <byline class="print_byline">By ANDREW POLLACK</byline>
+      <byline class="normalized_byline">Pollack, Andrew</byline>
+      <dateline>TOKYO, July 31</dateline>
+      <abstract>
+        <p>Japanese Health Ministry steps up fight against serious outbreaks of food poisoning; invokes century-old law that gives Government emergency powers to set up quarantines and take other stringent steps to fight epidemics; nearly 7,000 people have been infected since May, and seven have died in one of nation's worst cases of food contamination (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Stepping up its fight against serious outbreaks of food poisoning, Japan's Health and Welfare Ministry decided today to invoke a century-old law that gives the Government emergency powers to set up quarantines and take other stringent steps to fight epidemics.</p>
+        <p>Government officials stressed that they had no intention of isolating people who have been infected with the bacterium, E. coli O157:H7, which causes bloody diarrhea and can lead to kidney failure and death.</p>
+      </block>
+      <block class="full_text">
+        <p>Stepping up its fight against serious outbreaks of food poisoning, Japan's Health and Welfare Ministry decided today to invoke a century-old law that gives the Government emergency powers to set up quarantines and take other stringent steps to fight epidemics.</p>
+        <p>Government officials stressed that they had no intention of isolating people who have been infected with the bacterium, E. coli O157:H7, which causes bloody diarrhea and can lead to kidney failure and death.</p>
+        <p>However, by designating the bacterial infection as a serious communicable disease under the anti-epidemic law, the Government will be able to compel people deemed to be at risk to be tested for infection. The Government will also be able to disinfect homes and workplaces and to require people who are infected to stay away from certain jobs, like food preparation.</p>
+        <p>Nearly 9,000 people have been infected since May and 7 have died, according to Government figures. The cases have occurred throughout Japan, though the most serious outbreak was in Sakai, a city near Osaka where more than 6,000 elementary school children were sickened, presumably by contaminated school lunches. But even as they announced the sterner measures, some health officials were hopeful that the outbreaks are subsiding.</p>
+        <p>''I think we will soon have passed the peak,'' Tomohisa Shimoda, director of the health sciences division at the Ministry of Health and Welfare, said in an interview today. He warned, though, that the situation must continue to be watched closely.</p>
+        <p>The number of new cases is climbing slowly now. The number of people hospitalized nationwide has dropped to 440, from a peak of 595 on Saturday. In Sakai, the number of elementary school children in serious condition has dropped to 17, from more than 90 a week ago.</p>
+        <p>One lingering concern is that people who are infected can infect others. In addition, Sakai officials, by offering free tests, have found more than 284 people who are infected but show few or no symptoms, suggesting that there might be healthy carriers of the infection.</p>
+        <p>The national Government and some local governments, such as in Sakai, have been criticized by citizens for not reacting quickly enough when the first food-poisoning cases were reported, and the Government is now becoming more aggressive.</p>
+        <p>Still, there were concerns raised today that the invoking of the 1897  law, intended to battle epidemics like cholera and dysentery, would lead to discrimination against infected people and abuse of their rights.</p>
+        <p>''The law doesn't take much account of human rights and is concerned only with prevention,'' Health and Welfare Minister Naoto Kan was quoted as saying by Kyodo News Service. ''We must be very careful in applying the law.'' The official invoking of the law is expected as early as next week.</p>
+        <p>The bacterium, first recognized as a pathogen in the United States in 1982, lives in the intestines of cattle. Many infections are caused by under-cooked ground beef.</p>
+        <p>Japanese officials have been unable to find the source of most of the outbreaks, including the one in Sakai. But today, officials reported some clues from analysis of the genetic makeup of the bacteria. Officials said the bacteria involved in outbreaks in seven prefectures, mainly in western Japan, were genetically similar, suggesting there might be a common cause to those outbreaks. But the bacteria found in Sakai were different, suggesting a different source. There were also bacteria found that seemed genetically different from the other two groups.</p>
+        <p>Experts on the bacterial infection from the United States Government conferred today in Tokyo with Japanese authorities. The American officials had come to Kyoto over the weekend for a previously scheduled international conference.</p>
+        <p>Dr. Stephen M. Ostroph, an epidemiologist at the Centers for Disease Control and Prevention, told the Japanese experts that there were no ''magic bullets'' for treating the infections and noted that food products are distributed widely, so that contamination can affect a lot of people quickly. ''This is the future of food-borne disease,'' he said.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

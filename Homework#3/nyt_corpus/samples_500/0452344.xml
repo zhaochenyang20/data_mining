@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>More Exemptions at Open Needed</title>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="17" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="452344"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <series series.name="SPORTS OF THE TIMES"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">GOLF</classifier>
+        <org class="indexing_service">UNITED STATES GOLF ASSN</org>
+        <person class="indexing_service">ANDERSON, DAVE</person>
+        <object.title class="indexing_service">UNITED STATES OPEN (GOLF)</object.title>
+        <object.title class="indexing_service">SPORTS OF THE TIMES (TIMES COLUMN)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Columns/Dave Anderson</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Golf</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Golf</classifier>
+        <classifier class="online_producer" type="general_descriptor">Golf</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19910613T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE7DB153FF930A25755C0A967958260" item-length="762" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>More Exemptions at Open Needed</hl1>
+      </hedline>
+      <byline class="print_byline">By DAVE ANDERSON</byline>
+      <byline class="normalized_byline">ANDERSON, DAVE</byline>
+      <dateline>CHASKA, Minn.</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>TO understand how the United States Open assembles the 156 golfers who will tee off today at Hazeltine National, you need only to know the story of the resigning United States Golf Association official who wondered what to do with his blue blazer.</p>
+        <p>"You can keep the blazer," he was informed, "but you have to send the buttons back."</p>
+      </block>
+      <block class="full_text">
+        <p>TO understand how the United States Open assembles the 156 golfers who will tee off today at Hazeltine National, you need only to know the story of the resigning United States Golf Association official who wondered what to do with his blue blazer.</p>
+        <p>"You can keep the blazer," he was informed, "but you have to send the buttons back."</p>
+        <p>At the Open, the buttons seem more important than the blazer. Ever since Francis Ouimet stunned Harry Vardon and Ted Ray in a 1913 playoff, the Open has thought of itself as the world's most prestigious golf tournament. But judging by the absence of a few winning touring pros from around the world and the PGA Tour, if the Open is to sustain its reputation, the United States Golf Association needs to increase its number of exempt players.</p>
+        <p>Yes, all the marquee names are here. But most of those marquee names now are Europeans: Nick Faldo, Ian Woosnam, Seve Ballesteros. Of the 10 leading Americans on the PGA Tour's money list, only Hale Irwin, the three-time Open champion who will be defending the championship he won at Medinah last year, won a major title in the 80's.</p>
+        <p>Faldo, Woosnam, Ballesteros and Irwin each emerged from at least one of the 12 categories of golfers exempt from local and sectional qualifying for various reasons, notably, winning the Open in the last 10 years, winning the Masters, British Open or Professional Golfers Association Championship in the last five years, the 15 leading finishers and ties in last year's Open.</p>
+        <p>But three winners on this year's PGA Tour are not here: Kenny Perry (the Memorial), Ted Schulz (Los Angeles Open), Jay Don Blake (Shearson Lehman San Diego Open). Also missing are several of the European PGA Tour's best players, notably Steve Richardson and Sam Torrance of England, Eduardo Romero of Argentina and David Feherty of Ireland.</p>
+        <p>Blake, the 10th leading money-winner on the PGA Tour, and Schultz failed in the sectional qualifying. Perry chose not to file an Open entry by the April 24 deadline.</p>
+        <p>If a touring pro is good enough to win a PGA Tour event this year, he's certainly good enough to win the Open or at least contend, as Blake did at Oak Hill two years ago. And a winning touring pro surely deserves a spot in the Open more than, say, an assistant pro from the Metal Woods Country Club who happens to qualify, then shoots 78-78 to miss the cut.</p>
+        <p>Of the 156 golfers here, at least 50 are virtual no-names whose chances of winning are slim and none.</p>
+        <p>Yes, the Open should be open to an assistant pro, but a spot should be preserved for a winner of a PGA Tour event who is not otherwise exempt from qualifying. At the Masters, the winner of any PGA Tour event during the previous 12 months is awarded an automatic invitation.</p>
+        <p>For the Open, the U.S.G.A. reserves the right to issue up to three special exemptions. This year only Jack Nicklaus, whose various exemptions had finally expired, was invited.</p>
+        <p>As for foreign golfers, the U.S.G.A. issued all seven of its exemptions this year. But with the dominance of European golfers lately, that's not enough. As the U.S.G.A. is aware.</p>
+        <p>"We're thinking about changing some of the exempt categories for foreign golfers, but not about increasing the overall total of exemptions," said David Fay, the U.S.G.A. executive director. "There's been no thought of adding PGA Tour winners to the exempt list. We have 64 exempt players in this year's Open and any more than that would be troubling to us. We want the Open to remain open."</p>
+        <p>But unless changes occur, it will remain more difficult for an American to compete in the United States Open than the British Open. In the British Open, any American in the top 50 in the Sony world rankings is exempt from qualifying, along with anybody among the PGA Tour's top 10 money winners not otherwise exempt.</p>
+        <p>Until recently, the British Open needed to attract as many American golfers as possible. But now Europe has most of the marquee players. As the golfers themselves know better than anyone.</p>
+        <p>According to Tom Watson, whose current Open exemption expires after next year's return to his triumph at Pebble Beach, "10 or 15 more exemptions for players around the world and in the U.S. would still allow plenty of open spots." Faldo suggested that the four major tournaments (United States Open, British Open, Masters and PGA Championship) get together on exemptions.</p>
+        <p>"If you finish high in one major," Faldo said, "maybe you should be exempt in all the majors."</p>
+        <p>But for the U.S.G.A., that might be too much like saying you can keep the blazer and the buttons.</p>
+        <p>SPORTS OF THE TIMES</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

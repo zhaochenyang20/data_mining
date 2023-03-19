@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Briefing | New Jersey: Trenton: Corrections Chief Nominated</title>
+    <meta content="MB022949" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1375255"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Appointments and Executive Changes</classifier>
+        <location class="indexing_service">New Jersey</location>
+        <person class="indexing_service">Brown, Devon</person>
+        <person class="indexing_service">Mcgreevey, James E (Gov)</person>
+        <person class="indexing_service">Mansnerus, Laura</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New Jersey</classifier>
+        <classifier class="online_producer" type="general_descriptor">Appointments and Executive Changes</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20020312T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C05E4D61439F931A25750C0A9649C8B63" item-length="128" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Briefing | New Jersey: Trenton: Corrections Chief Nominated</hl1>
+      </hedline>
+      <byline class="print_byline">By Laura Mansnerus (NYT) (Compiled by Anthony Ramirez)</byline>
+      <byline class="normalized_byline">Mansnerus, Laura</byline>
+      <abstract>
+        <p>Gov James E McGreevey nominates Devon Brown to be commissioner of New Jersey Department of Corrections (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Gov. James E. McGreevey has made his last cabinet selection, nominating a corrections official from the District of Columbia as commissioner of the New Jersey Department of Corrections. The nominee, Devon Brown, 52, began his career in New Jersey, as a prison psychologist. He worked in Maryland later, becoming the head of the Montgomery County correction department before he was named deputy trustee of corrections, a federal post, in Washington. He also has a law degree.</p>
+        <p>Laura Mansnerus (NYT)</p>
+      </block>
+      <block class="full_text">
+        <p>Gov. James E. McGreevey has made his last cabinet selection, nominating a corrections official from the District of Columbia as commissioner of the New Jersey Department of Corrections. The nominee, Devon Brown, 52, began his career in New Jersey, as a prison psychologist. He worked in Maryland later, becoming the head of the Montgomery County correction department before he was named deputy trustee of corrections, a federal post, in Washington. He also has a law degree.</p>
+        <p>Laura Mansnerus (NYT)</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

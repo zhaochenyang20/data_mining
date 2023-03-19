@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Sports of The Times; Venus's Mom Delivers Hard Truth</title>
+    <meta content="03VECS$02" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1021761"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Tennis</classifier>
+        <classifier class="indexing_service" type="descriptor">Biographical Information</classifier>
+        <classifier class="indexing_service" type="descriptor">French Open (Tennis)</classifier>
+        <person class="indexing_service">Vecsey, George</person>
+        <person class="indexing_service">Williams, Venus</person>
+        <person class="indexing_service">Hingis, Martina</person>
+        <object.title class="indexing_service">Sports of the Times (Times Column)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Columns/George Vecsey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Tennis</classifier>
+        <classifier class="online_producer" type="general_descriptor">French Open (Tennis)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tennis</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980603T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F01E2D9153BF930A35755C0A96E958260" item-length="825" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Sports of The Times; Venus's Mom Delivers Hard Truth</hl1>
+      </hedline>
+      <byline class="print_byline">By GEORGE VECSEY</byline>
+      <byline class="normalized_byline">Vecsey, George</byline>
+      <dateline>PARIS</dateline>
+      <abstract>
+        <p>George Vecsey Sports of The Times column on Venus Williams in view of her loss to Martina Hingis at French Open; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>IN theory, this was the match that might have nudged Martina Hingis closer to accepting Venus Williams as a rival. It turned out to be the match that forced Williams to accept Hingis as a role model.</p>
+        <p>''Some people are willing to make sacrifices,'' Williams said after her 6-3, 6-4 drubbing in the French Open. ''The top players do it. I'm not there. She's probably doing it.'' The result brought out a trace of humility from Williams, downright touching from any teen-ager, much less a teen-age millionaire athlete.</p>
+      </block>
+      <block class="full_text">
+        <p>IN theory, this was the match that might have nudged Martina Hingis closer to accepting Venus Williams as a rival. It turned out to be the match that forced Williams to accept Hingis as a role model.</p>
+        <p>''Some people are willing to make sacrifices,'' Williams said after her 6-3, 6-4 drubbing in the French Open. ''The top players do it. I'm not there. She's probably doing it.'' The result brought out a trace of humility from Williams, downright touching from any teen-ager, much less a teen-age millionaire athlete.</p>
+        <p>''I think I didn't play as well as I should have,'' Williams volunteered in her interview after the match. ''I think she played better.''</p>
+        <p>This is high respect indeed for a player who exists in her own private Compton with her sister and her parents, who all seem to feel that every tournament is Williams versus World. The inner focus has helped Venus become the seventh-ranked female player in the world, but it may have dawned on her yesterday that the top-ranked player with the fixed smile may also have inner focus, plus strokes, plus a game plan.</p>
+        <p>And if Williams missed the point, she had somebody willing to deliver it to her, right after the match. The messenger was her mother, Oracene, who now serves as coach. As she left the court, Venus displayed a wide smile that seemed to bespeak embarrassment. She later described her body language to her mother and sister as a visual version of ''Dude.'' Her mother may not have been so casual when they met in the locker room.</p>
+        <p>''We talked about it,'' Venus admitted. ''I don't need somebody soft to pet you, to say you tried. It's true. I didn't try hard enough. Now I'd like to try the right thing.''</p>
+        <p>Would Venus have liked her mother to whisper some soft things to her? ''I'm too old for petting,'' she said. ''I just need the truth.''</p>
+        <p>The truth was that Hingis outplayed Williams, despite the Williams service cannonades that are now rocketing into the guy-stuff 120-mile-an-hour range.</p>
+        <p>The world is waiting for the next great female rivalry, maybe something like Evert and that other Martina back in the old days. A renovated Monica Seles is back in this Grand Slam semifinal after the long ordeal of her father's terminal illness, but Steffi Graf is dropping out of the computer ranking and, presumably, out of tennis. There is time for a great rivalry that might stick into the next millennium. Williams is two weeks shy of 18 and Hingis is three months shy of 18, and they walk around each other with the sense that they -- and we -- will be counting the notches on their pistols for years to come. Right now it's six for Hingis and two for Williams, the last two on clay.</p>
+        <p>''She grew up on clay,'' Williams said. ''I grew up on hard courts. She probably plays better here. I've only played three times on clay.''</p>
+        <p>It showed, as Williams sometimes hit off the wrong foot, or with her long legs splayed, even once playing a lob off her backhand, but some of the confusion could be allayed to the winds.</p>
+        <p>''You have to change your strategy,'' Hingis said. ''Today I did it better than her.''</p>
+        <p>All great athletes become control freaks, and these two indulged in personal forms of gamesmanship -- Hingis complained of bad calls (she won three of four inspections of alleged ball marks by the chair umpire), Williams dashed to the players' bathroom just when Hingis was about to serve for the match.</p>
+        <p>This is a trend, following the demand for a break from Anna Kournikova earlier in this tournament, but Williams was not claiming a natural urgency for the quick rush. She said she had to change clothing because she had fallen in the previous game.</p>
+        <p>''I was dirty,'' she said. ''I don't like to appear that way. I had to change my skirt.''</p>
+        <p>Hingis was pretty sanguine about the break, perhaps because she has taken a strategic walk in her time -- two during her upset to Iva Majoli on these very grounds last year.</p>
+        <p>''When somebody takes a break, it usually helps me,'' Hingis explained later. ''She had to walk there. It made her tired.''</p>
+        <p>Right. But when Hingis takes a walk, that is the right move to collect her wits. She has the ability to want it both ways, which most champions learn at an early age. Williams, who has been competitive and quick-witted in her short professional career, is now getting a glimpse of the higher education needed to turn this into a real rivalry.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Drug Industry Sues Over Limiting Medicaid Costs</title>
+    <meta content="02DRUG" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="17" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Health; U.S.; Washington" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2002/07/02/politics/02DRUG.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1405251"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Medicine and Health</classifier>
+        <classifier class="indexing_service" type="descriptor">Suits and Litigation</classifier>
+        <classifier class="indexing_service" type="descriptor">States (US)</classifier>
+        <classifier class="indexing_service" type="descriptor">Medicaid</classifier>
+        <classifier class="indexing_service" type="descriptor">Drugs (Pharmaceuticals)</classifier>
+        <classifier class="indexing_service" type="descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="indexing_service" type="descriptor">Discount Selling</classifier>
+        <org class="indexing_service">Pharmaceutical Research and Manufacturers of America</org>
+        <org class="indexing_service">Health and Human Services Department</org>
+        <person class="indexing_service">Pear, Robert</person>
+        <person class="indexing_service">Bush, George W (Pres)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Midwest</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Medicaid</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2004/Candidates</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2004/Candidates/George W Bush</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Healthcare</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Medicine and Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Government, Philanthropy and NGO</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Pharmaceutical, Biotechnology and Science</classifier>
+        <classifier class="online_producer" type="descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="descriptor">Suits and Litigation</classifier>
+        <classifier class="online_producer" type="descriptor">Drugs (Pharmaceuticals)</classifier>
+        <classifier class="online_producer" type="general_descriptor">States (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicaid</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Discount Selling</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suits and Litigation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Drugs (Pharmaceuticals)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <org class="online_producer">Pharmaceutical Research and Manufacturers of America</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20020702T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9901E7DF1731F931A35754C0A9649C8B63" item-length="661" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Drug Industry Sues Over Limiting Medicaid Costs</hl1>
+        <hl2 class="online_headline">Drug Industry Sues Over Limiting Medicaid Costs</hl2>
+      </hedline>
+      <byline class="print_byline">By ROBERT PEAR</byline>
+      <byline class="normalized_byline">Pear, Robert</byline>
+      <dateline>WASHINGTON, July 1</dateline>
+      <abstract>
+        <p>Pharmaceutical Research and Manufacturers of America, trade association for drug companies, sues Bush administration, challenging its approval of state Medicaid laws that try to save money by restricting access to higher-cost prescription drugs; at issue is Michigan program approved by Health and Human Services Department that penalizes drug companies unless they give state extra discounts beyond 15 percent reduction ordinarily required under Medicaid (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The pharmaceutical industry has sued the Bush administration, challenging its approval of state Medicaid laws that try to save money by restricting access to higher-cost prescription drugs.</p>
+        <p>At issue is a Michigan program approved in January by Tommy G. Thompson, the secretary of health and human services. A major purpose of the program is to extract discounts from prescription drug manufacturers.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The pharmaceutical industry has sued the Bush administration, challenging its approval of state laws that try to save money by restricting access to higher-cost prescription drugs.</p>
+      </block>
+      <block class="full_text">
+        <p>The pharmaceutical industry has sued the Bush administration, challenging its approval of state Medicaid laws that try to save money by restricting access to higher-cost prescription drugs.</p>
+        <p>At issue is a Michigan program approved in January by Tommy G. Thompson, the secretary of health and human services. A major purpose of the program is to extract discounts from prescription drug manufacturers.</p>
+        <p>The plaintiff in the lawsuit, the Pharmaceutical Research and Manufacturers of America, a trade association for drug companies, said the Michigan program ''restricts access to medicines for America's most vulnerable patients,'' in violation of the federal Medicaid law.</p>
+        <p>Jan Faiks, a lawyer at the association, said 11 other states had passed laws or announced plans to restrict access to medicines for Medicaid recipients in similar ways.</p>
+        <p>In the lawsuit, filed on Friday in Federal District Court here, drug companies sought a preliminary injunction to halt the programs in Michigan and the other states.</p>
+        <p>The lawsuit highlights a growing conflict between drug companies and many states.</p>
+        <p>Medicaid, the insurance program for 44 million low-income people, is financed with federal and state money. Medicaid spending on prescription drugs has been rising 15 percent to 20 percent a year, but state revenues have been flat or declining.</p>
+        <p>President Bush and other administration officials have promised to give states greater leeway in controlling costs.</p>
+        <p>The Michigan program penalizes drug companies unless they give the state extra discounts, beyond the 15 percent reduction ordinarily required under Medicaid. The penalty reduces drug sales for any company that refuses to give Michigan the extra discounts. Doctors who want to prescribe drugs made by such a company must get approval from the state.</p>
+        <p>Doctors find this authorization requirement onerous, so sales of drugs subject to the requirement decline precipitously.</p>
+        <p>Nationwide, Medicaid accounts for at least $20 billion a year in prescription drug sales, or about 15 percent of total sales.</p>
+        <p>The drug industry often prefers Republican candidates for public office. But the lawsuit puts the industry in the position of attacking Republicans, including the Bush administration; the governor of Michigan, John Engler; and the governor of Florida, Jeb Bush.</p>
+        <p>Geralyn A. Lasher, a spokeswoman for the Michigan Department of Community Health, said Michigan spent $1 billion a year, more than $19 million a week, on prescription drugs for low-income people and the elderly. The discount program, Ms. Lasher said, saves $600,000 a week.</p>
+        <p>''It is not surprising that the pharmaceutical lobbyists have filed a lawsuit to stop states from prudently managing the cost of care,'' she said.</p>
+        <p>William A. Pierce, a spokesman for the Department of Health and Human Services, said: ''Our lawyers have reviewed the lawsuit. We firmly believe that Secretary Thompson had the authority to take the action he took.''</p>
+        <p>But Ms. Faiks, the lawyer for the drug companies, said: ''States are putting bureaucrats and bean counters in charge of their Medicaid drug programs. They are forcing Medicaid patients to settle for older, less expensive, less effective medicines.''</p>
+        <p>Ray Hanley, the Medicaid director in Arkansas, who is also chairman of the National Association of State Medicaid Directors, said: ''The implication that states are trying to push Medicaid recipients onto the cheapest, oldest drugs to save money is outrageous. In developing lists of preferred drugs, states have put a lot of time and effort into determining what is clinically appropriate. Cost has been secondary.''</p>
+        <p>Under the federal Medicaid law, states can exclude medications from a list of preferred drugs only if they offer no ''therapeutic advantage'' over products already on the list.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

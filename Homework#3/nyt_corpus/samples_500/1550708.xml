@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Technology Briefing | Software: SAP Revenue Falls</title>
+    <meta content="MB235103" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1550708"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <org class="indexing_service">Sap Ag</org>
+        <person class="indexing_service">Kappl, Petra</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040114T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9407E6DF1030F937A25752C0A9629C8B63" item-length="96" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Technology Briefing | Software: SAP Revenue Falls</hl1>
+      </hedline>
+      <byline class="print_byline">By Petra Kappl (NYT)</byline>
+      <byline class="normalized_byline">Kappl, Petra</byline>
+      <abstract>
+        <p>German software maker SAP warns that its revenue declined 3 percent in fourth quarter compared with period year earlier, but that it is slightly better than analysts expected (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The software maker SAP warned yesterday that its revenue declined 3 percent in the fourth quarter compared with the period a year earlier, but that it was slightly better than analysts had expected. On a preliminary basis, revenue fell to 930 million euros ($1.2 billion) as a result of weak corporate demand and currency effects, the company said. SAP, which is based in Germany, said it had expected its operating margin to exceed the previously forecast 25 percent for 2003.</p>
+        <p>Petra Kappl (NYT)</p>
+      </block>
+      <block class="full_text">
+        <p>The software maker SAP warned yesterday that its revenue declined 3 percent in the fourth quarter compared with the period a year earlier, but that it was slightly better than analysts had expected. On a preliminary basis, revenue fell to 930 million euros ($1.2 billion) as a result of weak corporate demand and currency effects, the company said. SAP, which is based in Germany, said it had expected its operating margin to exceed the previously forecast 25 percent for 2003.</p>
+        <p>Petra Kappl (NYT)</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

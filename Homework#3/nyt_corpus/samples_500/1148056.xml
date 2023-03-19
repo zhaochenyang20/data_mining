@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths  LOBSTEIN, ALIX GRACE</title>
+    <meta content="DN102499" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1999" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="45" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1148056"/>
+      <doc.copyright holder="The New York Times" year="1999"/>
+      <identified-content>
+        <person class="indexing_service">LOBSTEIN, ALIX GRACE</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19991024T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9802E3D91130F937A15753C1A96F958260" item-length="82" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths  LOBSTEIN, ALIX GRACE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LOBSTEIN-Alix Grace, on October 22, 1999 in Geneva, Switzerland. She was the daughter of the late Mr. and Mrs. Albert Labouchere of Paris, and granddaughter of the late philanthropist Grace Whitney-Hoff of Detroit and Paris. Survivors include her 4 children, Elaine deWitt Tournesac, and Emmanuel, Francois and Jean-Louis deWitt, all of Paris, several grandchildren and great-grandchildren. A private burial will be held Monday in Geneva. A memorial service will be held Thursday, Nov. 4th at the Eglise Protestante de l'Etoile, Paris 17.</p>
+      </block>
+      <block class="full_text">
+        <p>LOBSTEIN-Alix Grace, on October 22, 1999 in Geneva, Switzerland. She was the daughter of the late Mr. and Mrs. Albert Labouchere of Paris, and granddaughter of the late philanthropist Grace Whitney-Hoff of Detroit and Paris. Survivors include her 4 children, Elaine deWitt Tournesac, and Emmanuel, Francois and Jean-Louis deWitt, all of Paris, several grandchildren and great-grandchildren. A private burial will be held Monday in Geneva. A memorial service will be held Thursday, Nov. 4th at the Eglise Protestante de l'Etoile, Paris 17.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

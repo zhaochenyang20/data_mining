@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Review/Music; A Chorus Out on Its Own</title>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="1993" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Cultural Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="655194"/>
+      <doc.copyright holder="The New York Times" year="1993"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">MUSIC</classifier>
+        <classifier class="indexing_service" type="descriptor">CONCERTS AND RECITALS</classifier>
+        <classifier class="indexing_service" type="descriptor">REVIEWS</classifier>
+        <classifier class="indexing_service" type="descriptor">MUSIC</classifier>
+        <classifier class="indexing_service" type="descriptor">CONCERTS AND RECITALS</classifier>
+        <classifier class="indexing_service" type="descriptor">REVIEWS</classifier>
+        <org class="indexing_service">WESTMINSTER CHOIR</org>
+        <org class="indexing_service">WESTMINSTER CHOIR</org>
+        <person class="indexing_service">FLUMMERFELT, JOSEPH</person>
+        <person class="indexing_service">KOZINN, ALLAN</person>
+        <person class="indexing_service">FLUMMERFELT, JOSEPH</person>
+        <person class="indexing_service">KOZINN, ALLAN</person>
+        <object.title class="indexing_service">WESTMINSTER CHOIR</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19931211T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE2DF113AF932A25751C1A965958260" item-length="337" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Review/Music; A Chorus Out on Its Own</hl1>
+      </hedline>
+      <byline class="print_byline">By ALLAN KOZINN</byline>
+      <byline class="normalized_byline">KOZINN, ALLAN</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>When the New York Philharmonic and the Philadelphia Orchestra perform choral works, they generally call on the services of the Westminster Choir. But although the performances have given the choir considerable visibility, its director, Joseph Flummerfelt, is usually left sitting on the sidelines, having trained his singers in the works at hand and then passed them over to the orchestra's conductor for the performance.</p>
+        <p>Mr. Flummerfelt was on the podium at Carnegie Hall on Tuesday evening to conduct his remarkably well-polished chorus in a Christmas concert. Yet he did not keep the spotlight to himself. Among his soloists was Jennifer Larmore, a mezzo-soprano who was once a member of the choir and who has lately become a hot property in the worlds of opera and recital. Inevitably, attention was focused on her, and Mr. Flummerfelt gave her ample opportunity to shine in arias from Bach's "Christmas Oratorio," Handel's "Messiah," the Brahms Alto Rhapsody and Adolphe Adam's "O Holy Night."</p>
+      </block>
+      <block class="full_text">
+        <p>When the New York Philharmonic and the Philadelphia Orchestra perform choral works, they generally call on the services of the Westminster Choir. But although the performances have given the choir considerable visibility, its director, Joseph Flummerfelt, is usually left sitting on the sidelines, having trained his singers in the works at hand and then passed them over to the orchestra's conductor for the performance.</p>
+        <p>Mr. Flummerfelt was on the podium at Carnegie Hall on Tuesday evening to conduct his remarkably well-polished chorus in a Christmas concert. Yet he did not keep the spotlight to himself. Among his soloists was Jennifer Larmore, a mezzo-soprano who was once a member of the choir and who has lately become a hot property in the worlds of opera and recital. Inevitably, attention was focused on her, and Mr. Flummerfelt gave her ample opportunity to shine in arias from Bach's "Christmas Oratorio," Handel's "Messiah," the Brahms Alto Rhapsody and Adolphe Adam's "O Holy Night."</p>
+        <p>Miss Larmore's sound is dark, beautifully focused and powerful enough to project in the hall with little apparent effort. Her style, at least in this music, was elegant and sober, closer to the reasoned maturity of Janet Baker than to the brighter, more overtly dramatic approach of Cecilia Bartoli or Marilyn Horne. Her Brahms was ravishing, and her accounts of Handel's "But Who May Abide" and "O Thou That Tellest Good Tidings to Zion" were invigorating not for their assertiveness but for their inner serenity.</p>
+        <p>There were also fine solo contributions from Mark Bleeke, a tenor, in the Bach, and William Powers, a baritone, in the Handel. In seasonal favorites ("O Come All Ye Faithful," "Silent Night" and "The First Noel") as well as excerpts from more ambitious works (including Berlioz's "Enfance du Christ," Mendelssohn's "Christus" and Bach's Mass in B minor), Mr. Flummerfelt drew a velvety, perfectly blended sound from his 40-voice choir. The Orchestra of St. Luke's provided vigorous support.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

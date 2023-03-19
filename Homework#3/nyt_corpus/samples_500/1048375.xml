@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths  SCOPP, DR. IRWIN W.</title>
+    <meta content="DN092298" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="23" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1048375"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <identified-content>
+        <person class="indexing_service">SCOPP, DR. IRWIN W.</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980922T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9507E5D61230F931A1575AC0A96E958260" item-length="122" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths  SCOPP, DR. IRWIN W.</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>SCOPP-Dr. Irwin W. On September 20, 1998. Beloved husband of Edith, cherished father of Alfred, loving father-in-law of Fredrika, dear grandfather of David. Also devoted brother-in-law of Pearl and Natalie, cherished brother of the late Clara, Harry and Rose. His distinguished career includes positions as Clinical Professor, Periodontics and Director of Continuing Dental Education, New York University College of Dentistry; Chief, Dental Services, New York Department of Veteran's Affairs Medical Center. Also author of textbooks and scientific research articles. Biographical listings include: Who's Who in America, Who's Who in the World, Who's Who in Science and Engineering, Who's Who in the East, Who's Who in Medicine and Healthcare. Funeral service, Tuesday, September 22, 1:30PM, at Riverside Memorial Chapel, 180 West 76th Street.</p>
+      </block>
+      <block class="full_text">
+        <p>SCOPP-Dr. Irwin W. On September 20, 1998. Beloved husband of Edith, cherished father of Alfred, loving father-in-law of Fredrika, dear grandfather of David. Also devoted brother-in-law of Pearl and Natalie, cherished brother of the late Clara, Harry and Rose. His distinguished career includes positions as Clinical Professor, Periodontics and Director of Continuing Dental Education, New York University College of Dentistry; Chief, Dental Services, New York Department of Veteran's Affairs Medical Center. Also author of textbooks and scientific research articles. Biographical listings include: Who's Who in America, Who's Who in the World, Who's Who in Science and Engineering, Who's Who in the East, Who's Who in Medicine and Healthcare. Funeral service, Tuesday, September 22, 1:30PM, at Riverside Memorial Chapel, 180 West 76th Street.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

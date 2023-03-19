@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>World Briefing | Europe: Ireland: J.F.K.'S Boxers</title>
+    <meta content="MB013959" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Technology; World" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1508343"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Apparel</classifier>
+        <classifier class="indexing_service" type="descriptor">Memorabilia</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <location class="indexing_service">Dublin (Ireland)</location>
+        <location class="indexing_service">Ireland</location>
+        <org class="indexing_service">Kennedy, John F, Library and Museum (Boston)</org>
+        <person class="indexing_service">Kennedy, John Fitzgerald (1917-63)</person>
+        <person class="indexing_service">Lavery, Brian</person>
+        <person class="indexing_service">Copeland, Louis</person>
+        <person class="indexing_service">Allen, Paul (Irish Businessman)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Fashion, Beauty and Fitness</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Ireland/Dublin</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Ireland</classifier>
+        <classifier class="online_producer" type="general_descriptor">Memorabilia</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Apparel</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20030730T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C06EFDC173EF933A05754C0A9659C8B63" item-length="105" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>World Briefing | Europe: Ireland: J.F.K.'S Boxers</hl1>
+      </hedline>
+      <byline class="print_byline">By Brian Lavery (NYT)</byline>
+      <byline class="normalized_byline">Lavery, Brian</byline>
+      <abstract>
+        <p>John F Kennedy's Navy-issue boxer shorts are on display in Louis Copeland's Dublin shop window after Irish businessman Paul Allen purchased them online for $5,000; boxers, along with dress shirt of Kennedy's, will be sent to John F Kennedy Library and Museum in Boston; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A Dublin tailor, Louis Copeland, left, is displaying a pair of boxer shorts that belonged to John F. Kennedy in the window of his Capel Street shop. The Navy-issue boxers, with a ''Jack Kennedy'' label stitched into the waistband, were worn by Kennedy in World War II. An Irish businessman, Paul Allen, bought the underwear for $5,000 in an online auction this month, along with one of Kennedy's dress shirts, which is also on display. The clothing can be viewed for three more days before the items are shipped to the John F. Kennedy Library and Museum in Boston.</p>
+        <p>Brian Lavery (NYT)</p>
+      </block>
+      <block class="full_text">
+        <p>A Dublin tailor, Louis Copeland, left, is displaying a pair of boxer shorts that belonged to John F. Kennedy in the window of his Capel Street shop. The Navy-issue boxers, with a ''Jack Kennedy'' label stitched into the waistband, were worn by Kennedy in World War II. An Irish businessman, Paul Allen, bought the underwear for $5,000 in an online auction this month, along with one of Kennedy's dress shirts, which is also on display. The clothing can be viewed for three more days before the items are shipped to the John F. Kennedy Library and Museum in Boston.</p>
+        <p>Brian Lavery (NYT)</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

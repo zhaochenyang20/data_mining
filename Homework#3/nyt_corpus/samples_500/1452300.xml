@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>No Second Acts in Punk? Says Who?</title>
+    <meta content="29WARD" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Week in Review Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Week in Review" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2002/12/29/weekinreview/29WARD.html" name="alternate_url"/>
+    <meta content="Correction Appended" name="banner"/>
+    <meta content="20030105T000000" name="correction_date"/>
+    <docdata>
+      <doc-id id-string="1452300"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Music</classifier>
+        <location class="indexing_service">Great Britain</location>
+        <org class="indexing_service">Clash (Music Group)</org>
+        <person class="indexing_service">Ward, Ed</person>
+        <person class="indexing_service">Strummer, Joe</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Week in Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Music, Theater and Dance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Britain</classifier>
+        <classifier class="online_producer" type="descriptor">Rock Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Rock Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+        <org class="online_producer">Clash, The</org>
+        <person class="online_producer">Strummer, Joe</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20021229T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CE2DD1F3CF93AA15751C1A9649C8B63" item-length="743" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>No Second Acts in Punk? Says Who?</hl1>
+        <hl2 class="online_headline">No Second Acts in Punk?</hl2>
+      </hedline>
+      <byline class="print_byline">By ED WARD</byline>
+      <byline class="normalized_byline">Ward, Ed</byline>
+      <abstract>
+        <p>Ed Ward comments on heritage of British punk rock in light of death of Joe Strummer, of British punk band the Clash, at age 50; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>AFTER the news came last week that Joe Strummer of the first-wave British punk band the Clash had died of a heart attack at the age of 50, some people probably thought, ''He was still around?'' But a few others, those who still read the pop music press and listen to minority-niche music, knew it meant more than the passing of an icon from their youth.</p>
+        <p>A 25-year-old today wasn't even conceived the night the Sex Pistols, the best-known of the punk Class of '76, broke up. But most young people know what punk rock is. Thanks to the Ramones, the Sex Pistols and the Clash, punk rock established itself as a template for youth rebellion, and countless bands have followed in their footsteps, sometimes so closely that the concept of creativity doesn't enter the picture.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>With the news of Joe Strummer's death, the nostalgics are now denied the possibility of a Clash reunion when the band is inducted into the Rock and Roll Hall of Fame this spring.</p>
+      </block>
+      <block class="full_text">
+        <p>AFTER the news came last week that Joe Strummer of the first-wave British punk band the Clash had died of a heart attack at the age of 50, some people probably thought, ''He was still around?'' But a few others, those who still read the pop music press and listen to minority-niche music, knew it meant more than the passing of an icon from their youth.</p>
+        <p>A 25-year-old today wasn't even conceived the night the Sex Pistols, the best-known of the punk Class of '76, broke up. But most young people know what punk rock is. Thanks to the Ramones, the Sex Pistols and the Clash, punk rock established itself as a template for youth rebellion, and countless bands have followed in their footsteps, sometimes so closely that the concept of creativity doesn't enter the picture.</p>
+        <p>The British milieu that the Clash emerged from called out for punk. When the Sex Pistols' Johnny Rotten, draped on his microphone, intoned, ''No future,'' it was the cry of youth coming out of school to discover that there were no jobs in Margaret Thatcher's Britain and refusing to accept that as reality. Punk, in its most narrowly defined form, was a kid banging his head on a wall labeled NO. It had its own fashion, its own art and its own music.</p>
+        <p>It was a bohemia in the classic sense, a neutral ground where rebels from all social classes become equal by rejecting the values around them. It is also a transition, as Jerrold Seigel asserts in his 1986 book ''Bohemian Paris.'' There comes a time when most participants in any bohemian movement either put on a suit and get a job in a bank or declare themselves professionals at painting, dance, literature or whatever. Put another way, you can only bang your head on the wall of NO for so long before you either get a blinding headache or the wall crumbles and the room on the other side is labeled YES.</p>
+        <p>That room, though, is only available to the most talented and dedicated. It takes a lot of work to get to it and even more to stay there. For the punks, the equivalent of the day job at the bank was mooching around the record business; two of the original four Sex Pistols are session players today. The other, John Lydon (Johnny Rotten), puts out the occasional album and continues to be a media provocateur. Sid Vicious is famously dead. Others from the original London punk cohort of the Clash have become social workers, civil servants, artists. The former Clash bassist Paul Simenon is a successful painter.</p>
+        <p>And Joe Strummer? He stayed Joe Strummer. He had come to the Clash with a full knowledge of American rockabilly and soul music, and shared with the others a love of reggae. Unlike many of their contemporaries, the Clash were overtly political, and attracted black bohemians like the filmmaker Don Letts and DJ Mikey Dread into their circle.</p>
+        <p>Once they had the power to do so, they had their heroes open their shows: Bo Diddley in the United States, and in Britain Joe Ely, the not-quite-rock-not-quite-country songwriter from Texas. These were their roots.</p>
+        <p>The Clash's breakup in the mid-1980's was Mr. Strummer's graduation. He got roles in films like Jim Jarmusch's ''Mystery Train''; the director Alex Cox used him as both an actor and a soundtrack composer. But Mr. Strummer must have longed for that fusion of styles the Clash tried but never really achieved, because after many years he put together another band, the Mescaleros, all musical polymaths. It is difficult for such an unclassifiable band to succeed these days, but not impossible. Mr. Strummer quite likely knew he had a long haul in front of him, but it's just as likely that he didn't mind.</p>
+        <p>The nostalgics are now denied the possibility of a Clash reunion when the band is inducted into the Rock and Roll Hall of Fame next spring. But fans are also denied Mr. Strummer's vision of many kinds of music bringing people together.</p>
+        <p>So which one of you punks is going to pick up the torch, huh?</p>
+        <p>Ed Ward is the rock historian for NPR's ''Fresh Air'' and is based in Berlin.</p>
+        <p>Correction:  January 5, 2003, Sunday  An article last Sunday about the legacy of the Clash and other punk rock bands in the 1970's referred incorrectly to the social climate from which the Sex Pistols emerged. It was not the Britain of Margaret Thatcher: she became prime minister in 1979, and the Sex Pistols disbanded in 1978.</p>
+        <p>A picture with the article was published in error. It showed Mick Jones of the Clash -- not Joe Strummer, who died earlier in the week.</p>
+      </block>
+      <block class="correction_text">
+        <p>Correction: January 5, 2003, Sunday</p>
+        <p>An article last Sunday about the legacy of the Clash and other punk rock bands in the 1970's referred incorrectly to the social climate from which the Sex Pistols emerged. It was not the Britain of Margaret Thatcher: she became prime minister in 1979, and the Sex Pistols disbanded in 1978.</p>
+        <p>A picture with the article was published in error. It showed Mick Jones of the Clash -- not Joe Strummer, who died earlier in the week.</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">Ed Ward is the rock historian for NPR's ''Fresh Air'' and is based in Berlin.</tagline>
+    </body.end>
+  </body>
+</nitf>

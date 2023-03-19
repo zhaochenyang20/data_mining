@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>METROPOLITAN DIARY</title>
+    <meta content="04diary" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/04/nyregion/04diary.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1852143"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Metropolitan Diary"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Columns/Metropolitan Diary</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070604T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F05E6DE1130F937A35755C0A9619C8B63" item-length="772" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>METROPOLITAN DIARY</hl1>
+        <hl2 class="online_headline">Dear Diary</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>DEAR DIARY:</p>
+        <p>Recently on the No. 1 train, I rode downtown from West 72nd Street in a car packed with tourists. Sitting near me was a group of college-age women, chirpy and seemingly normal in every way.</p>
+        <p>One of them, however, was holding a woman's shoe in one hand while the other hand dipped into the shoe to pull out pretzels, which she then munched.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A young woman eats pretzels out of a shoe and a middle-aged pedestrian wistfully remembers his jaywalking days.</p>
+      </block>
+      <block class="full_text">
+        <p>DEAR DIARY:</p>
+        <p>Recently on the No. 1 train, I rode downtown from West 72nd Street in a car packed with tourists. Sitting near me was a group of college-age women, chirpy and seemingly normal in every way.</p>
+        <p>One of them, however, was holding a woman's shoe in one hand while the other hand dipped into the shoe to pull out pretzels, which she then munched.</p>
+        <p>Lots of people got off and on at the subsequent stops, while this pretzel woman kept dipping and eating. Finally, after she and her group departed at 34th Street, I just had to ask out loud, ''Did anyone notice that that woman was eating pretzels out of a shoe?''</p>
+        <p>The people within earshot suddenly looked uncomfortable and averted their eyes. No one answered my question, and one man actually moved from our shared pole to the other end of the car.</p>
+        <p>But, really, I'd like to know, has anyone else ever seen someone eating pretzels out of a shoe?</p>
+        <p>Pietro Allar</p>
+        <p>Dear Diary:</p>
+        <p>I'm a very senior citizen in a wheelchair,</p>
+        <p>Waiting at the curb to cross 72nd Street.</p>
+        <p>At my side is a stroller.</p>
+        <p>I'm eye to eye with a 6-month-old boy in a blue bunting,</p>
+        <p>Flirting with me.</p>
+        <p>I enjoyed the attention.</p>
+        <p>Lucille Lee Jason</p>
+        <p>Dear Diary:</p>
+        <p>A friend of mine lives in an apartment with a kitchen even smaller than most minimally functional New York cooking spaces.</p>
+        <p>He is so tired of trying to cook and get ice from the freezer and talk to guests that he has put up a sign intended to facilitate traffic flow. It reads:</p>
+        <p>''Occupancy by more than one-half person(s) is unlawful.''</p>
+        <p>Nat Benchley</p>
+        <p>Dear Diary:</p>
+        <p>I wasn't too surprised when a nearby Columbus Avenue restaurant closed up shop. The fliers that they distributed in the neighborhood when they first opened had, after all, boasted of ''Chicken to Die From!''</p>
+        <p>Maureen Manning</p>
+        <p>Dear Diary:</p>
+        <p>About 9:30 on a Wednesday morning, I emerged from the subway station at Times Square to find about a dozen police cars in the street and a large group of officers massed on the corner, all wearing helmets and carrying rifles.</p>
+        <p>I stared as I walked by, and a young handsome policeman (about the age of my grandchildren) caught my eye, smiled and said, ''Good morning!''</p>
+        <p>I returned the smile and the greeting and asked with some concern: ''What's going on here? Is anything special happening?''</p>
+        <p>He replied, with another enchanting smile, ''We heard you were coming back.''</p>
+        <p>Deborah Krasnow</p>
+        <p>Dear Diary:</p>
+        <p>My wife and I were walking through the cavernous Columbus Circle subway station and witnessed this scene, which requires no comment:</p>
+        <p>A disabled subway performer was playing his guitar and harmonica, guitar case open at his feet to accept donations. An elderly, stooped man walked by him, dragging a huge sack of empty soda cans.</p>
+        <p>The performer stopped playing, called out, ''Sir!,'' pulled two dollar bills from the guitar case and gave it to the old man, who said, ''Thanks,'' and walked on.</p>
+        <p>Jack Levitt</p>
+        <p>Dear Diary:</p>
+        <p>While waiting to pick up my dog, Lulu, at NYC Veterinary Specialists, I overheard two young men talking to the receptionist. It was obvious by the look on her face that she wasn't quite sure who they were.</p>
+        <p>The mystery was solved when one of the men, in a loud voice, announced:</p>
+        <p>''We're here to pick up Sherman, and yes, Sherman has two daddies.''</p>
+        <p>Cecille Seewald</p>
+        <p>Dear Diary:</p>
+        <p>I'm part of the army that marches every morning from Grand Central to the forest of office towers that now disguise Times Square.</p>
+        <p>One recent morning as I strode westward, I accelerated when I saw the ''Don't Walk'' light flashing. Having reached the corner of Avenue of the Americas just as it stopped flashing, I abruptly stopped at the curb.</p>
+        <p>Just then, a man about my age (mid-50s), with pedestrian tendencies obviously similar to mine, took two steps into the street, intending to race across.</p>
+        <p>As the northbound cars started to rev their engines in anticipation of the green light, he retreated to the curb. Our eyes met, and he sighed, ''Maybe 20 years ago''</p>
+        <p>Stephen Banker</p>
+        <p>Dear Diary:</p>
+        <p>At a party at the Museum of the City of New York for the opening of the exhibition celebrating the 110th anniversary of The Jewish Daily Forward, I wandered downstairs to see the museum's two other shows, one on Robert Moses and the other on New Yorkers and the Spanish Civil War.</p>
+        <p>Overheard in the museum's shop:</p>
+        <p>A customer asking the cashier: ''Do you have the fascism T-shirt in extra-large?''</p>
+        <p>Raphael Mostel</p>
+        <p>Metropolitan Diary</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

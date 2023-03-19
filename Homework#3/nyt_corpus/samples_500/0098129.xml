@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>NASA Study Pays a Man to Rest</title>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="98129"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">ASTRONAUTICS</classifier>
+        <classifier class="indexing_service" type="descriptor">RESEARCH</classifier>
+        <classifier class="indexing_service" type="descriptor">GRAVITATION AND GRAVITY</classifier>
+        <classifier class="indexing_service" type="descriptor">BONES</classifier>
+        <org class="indexing_service">NATIONAL AERONAUTICS AND SPACE ADMINISTRATION (NASA)</org>
+        <person class="indexing_service">FITZPATRICK, RICHARD</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Gravitation and Gravity</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bones</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19871201T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE2D81530F932A35751C1A961948260" item-length="334" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>NASA Study Pays a Man to Rest</hl1>
+      </hedline>
+      <byline class="print_byline">AP</byline>
+      <dateline>HOUSTON, Nov. 30</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Richard Fitzpatrick has become a full-time couch potato, courtesy of the National Aeronautics and Space Administration.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Richard Fitzpatrick has become a full-time couch potato, courtesy of the National Aeronautics and Space Administration.</p>
+        <p>Richard Fitzpatrick has become a full-time couch potato, courtesy of the National Aeronautics and Space Administration.</p>
+        <p>Mr. Fitzpatrick is spending 17 weeks in bed as part of a study to determine the effects of long-term weightlessness and the extent of progressive loss of bone mass suffered by astronauts.</p>
+        <p>The 45-year-old man, a former purchasing agent for a local business who was recruited for the study, has been on his feet only a few times since the third week of August. He said standing up has caused dizziness, leg cramps and a funny feeling in his feet. Low Pay, Little Work</p>
+        <p>For reading library books, watching television, eating snacks and taking it easy on his hospital bed, Mr. Fitzpatrick is paid $187.60 a week.</p>
+        <p>For NASA, the study is a vital to its effort to learn about the ability of humans to adapt to space, particularly for the long periods envisioned under the agency's planned space station program.</p>
+        <p>''It's one of the important questions for the space station right now,'' said Dr. Victor Schneider, co-director of the study. ''If you have astronauts up for three months, you want to know if they recover and the effects over their careers.''</p>
+        <p>The longest period United States astronauts have spent in space was 84 days during the Skylab 4 mission in 1974. In their time in orbit, the astronauts lost 4.5 percent to 7 percent of their bone mass, Dr. Schneider said.</p>
+        <p>''All those who lost bone in Skylab were still down about that amount of bone five to seven years later,'' he said. Questions on Bone Loss</p>
+        <p>Researchers believe long-term bed rest affects bones in much the same way space flight does, but remain unsure what causes bone mass loss over time.</p>
+        <p>Scientists also say they are not sure whether humans ever regain bone mass lost in space.</p>
+        <p>Dr. Schneider believes recovery is possible through exercise, although a 10-week study at Methodist Hospital with one astronaut, William E. Thornton, has indicated that stretching or bicycle riding does not help.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

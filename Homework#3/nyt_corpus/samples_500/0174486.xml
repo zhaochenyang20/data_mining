@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Making a Safer Blow-Dryer: Progress, but at a Snail's Pace</title>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="1988" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Style Desk" name="dsk"/>
+    <meta content="50" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="174486"/>
+      <doc.copyright holder="The New York Times" year="1988"/>
+      <series series.name="CONSUMER'S WORLD"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">HAIR DRYERS</classifier>
+        <classifier class="indexing_service" type="descriptor">CONSUMER PROTECTION</classifier>
+        <classifier class="indexing_service" type="descriptor">ACCIDENTS AND SAFETY</classifier>
+        <org class="indexing_service">CONAIR CORP</org>
+        <org class="indexing_service">UNDERWRITERS LABORATORIES</org>
+        <person class="indexing_service">HINDS, MICHAEL DECOURCY</person>
+        <person class="indexing_service">LACEY, JAMES</person>
+        <object.title class="indexing_service">CONSUMER'S WORLD PAGE (NYT)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hair</classifier>
+        <classifier class="online_producer" type="general_descriptor">Home Appliances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Consumer Protection</classifier>
+        <classifier class="online_producer" type="general_descriptor">Accidents and Safety</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19880827T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DE6DB173AF934A1575BC0A96E948260" item-length="1111" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Making a Safer Blow-Dryer: Progress, but at a Snail's Pace</hl1>
+      </hedline>
+      <byline class="print_byline">By MICHAEL deCOURCY HINDS</byline>
+      <byline class="normalized_byline">HINDS, MICHAEL DECOURCY</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: At a time when people are grumbling about the quality of small electric appliances, many manufacturers are not listening. Or so it seems, judging by the flimsy toasters, corn poppers, hair dryers and other disposable appliances that have given plastic and tin a bad name.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: At a time when people are grumbling about the quality of small electric appliances, many manufacturers are not listening. Or so it seems, judging by the flimsy toasters, corn poppers, hair dryers and other disposable appliances that have given plastic and tin a bad name.</p>
+        <p>At a time when people are grumbling about the quality of small electric appliances, many manufacturers are not listening. Or so it seems, judging by the flimsy toasters, corn poppers, hair dryers and other disposable appliances that have given plastic and tin a bad name.</p>
+        <p>Companies contend that, considering the low prices, product quality is actually high and that market forces discourage innovation.</p>
+        <p>''Profit margins are very small and do not permit much advertising,'' said Wayne R. Smith, a spokesman for the Sunbeam Appliance Company in Downers Grove, Ill., a subsidiary of Allegheny International. ''So if you can't tell the consumer about product improvements, you do not do much research and development into safety or any other area.''</p>
+        <p>The evolution of hand-held hair dryers, the kind known as blow-dryers that were first marketed 17 years ago by the Conair Corporation of Stamford, Conn., provides troubling insights into the slow pace of safety improvements. 172 Deaths in 11 Years ''There are 15 to 20 electrocutions a year involving hair dryers, and half involve children who pull hair dryers into the tub with their rubber ducks,'' said James V. Lacey, the general counsel to the Consumer Product Safety Commission, a Federal agency. In the past 11 years, hair dryers have been associated with 172 deaths and 88 severe injuries.</p>
+        <p>On Aug. 10, the commission voted to start working with Underwriters Laboratories, the nonprofit organization that writes safety standards for manufacturers, to make blow-dryers completely safe when immersed in water. If manufacturers do not voluntarily improve their products, the commission's next step will be to consider mandatory standards, Mr. Lacey said.</p>
+        <p>Joe Bhatia, a spokesman for Underwriters Laboratories in Northbrook, Ill., said in an interview that safety improvements could come as early as 1990, if engineers can agree on a design that can be mass-produced.</p>
+        <p>Blow-dryers have twice presented unexpected dangers. In 1979, the safety commission recalled 18 million dryers after it was discovered that they spewed potentially carcinogenic asbestos fibers.</p>
+        <p>By 1982, another health hazard had become clearly associated with blow-dryers: electrocution. The 110 deaths and 50 injuries reported between 1977 and 1982 fell into two categories: adults who accidentally knocked the dryers into a sink or tub of water, and children under 10 years old who tried to play with the dryers while bathing. The commission found that most adults erroneously believed the dryers were safe around water so long as the power switch was off.</p>
+        <p>A typical case, reported in 1982, involved 3-year-old Scott Cayton of Elyria, Ohio, who was electrocuted after he pulled a dryer into the bathtub. The dryer was plugged in but turned off.</p>
+        <p>Dr. R. David Pittle, the technical director of Consumer Reports magazine and a member of the safety commission from 1973 to 1982, said: ''Hair dryer manufacturers would come to commission meetings and say, 'We don't want to talk about electrocutions.' '' They didn't want to scare people anymore about their products.''</p>
+        <p>Manufacturers, who sell about 15 million hair dryers a year, preferred warning labels to costlier safety features. Essentially, the labels told people not to drop the dryers into water accidentally.</p>
+        <p>In June 1982, Dr. Pittle wrote to manufacturers, suggesting that they could save 20 lives a year with such simple improvements as waterproofing blow-dryer switches. The letter drew attention, and ''several months later,'' Dr. Pittle recalled, ''some major manufacturers and Underwriters Laboratories had a meeting in which they agreed to upgrade the U.L. standard to include two of four fixes I suggested in my letter.''</p>
+        <p>But he added: ''They gave themselves an incredible lead time before the standard would become effective: Oct. 1, 1987. It was very, very disappointing.''</p>
+        <p>The industry maintains that the time was needed for retooling.</p>
+        <p>The new U.L. standard requires that blow-dryers have waterproof switches and cords, which makes them safe when immersed with the operating switch turned off. But the new features will not prevent electrocutions when dryers are immersed when the switch is turned on.</p>
+        <p>Some manufacturers contend that they are being penalized for consumers' carelessness. ''Manufacturers were dragged kicking and screaming to the altar on this change,'' said one company official who agreed to be quoted only if his name was not used. ''We probably would not have have made the change without a new industry standard.''</p>
+        <p>But two companies - Sunbeam and Clairol, a division of Bristol-Myers -were shipping dryers that met the new standard before last fall's deadline. Under U.L. rules, companies can continue selling older models manufactured before Oct. 1, 1987.</p>
+        <p>Sunbeam's Safe Idea hair dryer, which sells for about $16 and was introduced a year ahead of the deadline, exceeds the U.L. standard because its switch is difficult for children to operate. But the safety features added $2 to $4 to the retail price, and that apparently hurt sales. Sunbeam has now withdrawn from the personal-care-product market and is selling off its inventory of Safe Idea dryers.</p>
+        <p>Conair, the industry leader, is preparing to manufacture a new dryer, Model LS1, that will be safe when immersed, whether the switch is on or off, said Frank Lindsey, the company's vice president for marketing. The dryer, which will have a water-sensitive device that will shut off the power, will sell for about $25 and will be available in about six months, Mr. Lindsey said.  NEW MODEL OR OLD? CLUES ARE FEW</p>
+        <p>Shopping for a safer blow-dryer, one that meets the Underwriters Laboratories standards that went into effect last Oct. 1, may be frustrating.</p>
+        <p>Only Sunbeam promotes this improvement on its packaging, but its Safe Idea dryer is no longer being produced, so remaining models may be difficult to find.</p>
+        <p>The boxes for Conair's new models carry three lines of tiny print, shown magnified here.</p>
+        <p>Other manufacturers give no clues on their packaging about whether the dryer is a new or older model, and you can't tell by looking whether electrical parts have been waterproofed.</p>
+        <p>The U.L. logo on the package won't help shoppers distinguish between models, either. Manufacturers are allowed to sell the blow-dryers they produced before the standard went into effect, and they too carry the U.L. logo.</p>
+        <p>Why the reticence about the new features? Experts say companies tend to downplay safety improvements, partly because such improvements may imply that earlier models were defective and partly because the makers don't want to be stuck with inventories of older designs.</p>
+        <p>CONSUMER'S WORLD</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

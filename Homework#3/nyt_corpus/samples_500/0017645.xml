@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>POSTINGS: Circa 1821; The Vinyl Goes</title>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Real Estate Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="8" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Real Estate" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="17645"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">OFFICE BUILDINGS</classifier>
+        <classifier class="indexing_service" type="descriptor">RESTORATION AND REHABILITATION</classifier>
+        <classifier class="indexing_service" type="descriptor">HISTORIC BUILDINGS AND SITES</classifier>
+        <location class="indexing_service">WEST ORANGE (NJ)</location>
+        <org class="indexing_service">TOUCHSTONE PROPERTIES INC</org>
+        <person class="indexing_service">FODERARO, LISA W</person>
+        <object.title class="indexing_service">CONDIT HOUSE (WEST ORANGE, NJ)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Real Estate</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Real Estate/Locations/New Jersey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Real Estate/Locations/Regions</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New Jersey</classifier>
+        <classifier class="online_producer" type="general_descriptor">Restoration and Rehabilitation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Office Buildings and Commercial Properties</classifier>
+        <classifier class="online_producer" type="general_descriptor">Historic Buildings and Sites</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870301T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE4DC1E3CF932A35750C0A961948260" item-length="200" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>POSTINGS: Circa 1821; The Vinyl Goes</hl1>
+      </hedline>
+      <byline class="print_byline">By Lisa Foderaro</byline>
+      <byline class="normalized_byline">FODERARO, LISA W</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: The Condit House has a lot going for it. The three-story, Federal-style structure in West Orange, N.J., thought to be built in 1821, has four marble fireplaces, hand-carved woodwork, a fieldstone foundation and wavy window panes. ''But it has been bastardized,'' said Richard Polton, a developer specializing in historic restoration, referring to the white vinyl siding that now sheathes the original scallop-edged clapboards.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: The Condit House has a lot going for it. The three-story, Federal-style structure in West Orange, N.J., thought to be built in 1821, has four marble fireplaces, hand-carved woodwork, a fieldstone foundation and wavy window panes. ''But it has been bastardized,'' said Richard Polton, a developer specializing in historic restoration, referring to the white vinyl siding that now sheathes the original scallop-edged clapboards.</p>
+        <p>The Condit House has a lot going for it. The three-story, Federal-style structure in West Orange, N.J., thought to be built in 1821, has four marble fireplaces, hand-carved woodwork, a fieldstone foundation and wavy window panes. ''But it has been bastardized,'' said Richard Polton, a developer specializing in historic restoration, referring to the white vinyl siding that now sheathes the original scallop-edged clapboards.</p>
+        <p>Mr. Polton, president of Touchstone Properties in Montclair, N.J., has a contract to buy the house, at 7 Main Street, for $350,000 from St. Mark's Episcopal Church next door, which has owned it since 1885. Upon taking title, Mr. Polton plans to restore and convert the 14-room property into 7,000 square feet of professional office space, to be leased for $12 a foot.</p>
+        <p>Touchstone Properties, together with Brawer &amp; Hauptman Architects of Philadelphia, will restore the exterior to its original state, peeling off the vinyl and determining historic color schemes. The interior, whose first floor was recently refurbished by a local preservationist, Louise Dixon Schickhaus, will be done as well. The house was put on the National Register of Historic Places in 1977.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

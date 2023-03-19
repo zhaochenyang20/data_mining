@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Ex-WorldCom Chief Pleads Not Guilty to Fraud</title>
+    <meta content="04TELE$03" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2004/03/04/business/04tele.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1563763"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="descriptor">Frauds and Swindling</classifier>
+        <classifier class="online_producer" type="descriptor">Suits and Litigation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Frauds and Swindling</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suits and Litigation</classifier>
+        <org class="online_producer">WorldCom Incorporated</org>
+        <person class="online_producer">Ebbers, Bernard J</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040304T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B06E3D9133FF937A35750C0A9629C8B63" item-length="1147" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Ex-WorldCom Chief Pleads Not Guilty to Fraud</hl1>
+        <hl2 class="online_headline">Ex-WorldCom Chief Pleads Not Guilty to Fraud</hl2>
+      </hedline>
+      <byline class="print_byline">By BARNABY J. FEDER</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Bernard J. Ebbers, the former chief executive of WorldCom, pleaded not guilty yesterday to charges of conspiracy and fraud growing out of the accounting scandal that drove the company into bankruptcy protection in 2002.</p>
+        <p>Mr. Ebbers, 62, was brought to Federal District Court in Manhattan in handcuffs after turning himself in to the F.B.I. yesterday morning, a day after the charges against him were announced at a news conference led by Attorney General John Ashcroft.</p>
+        <p>Mr. Ebbers is accused of conspiring with Scott D. Sullivan, WorldCom's former chief financial officer, to conceal the company's weakening performance starting in 2000 and participating in fraudulent reports to Wall Street and regulators about its finances.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Bernard J. Ebbers, the former chief of WorldCom, pleaded not guilty to charges of conspiracy and fraud growing out of the accounting scandal.</p>
+      </block>
+      <block class="full_text">
+        <p>Bernard J. Ebbers, the former chief executive of WorldCom, pleaded not guilty yesterday to charges of conspiracy and fraud growing out of the accounting scandal that drove the company into bankruptcy protection in 2002.</p>
+        <p>Mr. Ebbers, 62, was brought to Federal District Court in Manhattan in handcuffs after turning himself in to the F.B.I. yesterday morning, a day after the charges against him were announced at a news conference led by Attorney General John Ashcroft.</p>
+        <p>Mr. Ebbers is accused of conspiring with Scott D. Sullivan, WorldCom's former chief financial officer, to conceal the company's weakening performance starting in 2000 and participating in fraudulent reports to Wall Street and regulators about its finances.</p>
+        <p>Legal experts said his determination to fight the criminal charges set the stage for what was likely to be the single most dramatic confrontation in the sprawling and still expanding array of legal battles linked to the $11 billion accounting fraud and bankruptcy protection case at WorldCom.</p>
+        <p>''These aren't going to be easy cases,'' said Jill Fisch, director of the Fordham Center for Corporate, Securities and Finance Law, referring to the charges against Mr. Ebbers and Jeffrey K. Skilling, the former chief executive of Enron, who has pleaded not guilty to charges of fraud, insider trading and conspiracy.</p>
+        <p>Until recently, she said, it was rare for the government to attempt to tie chief executives to misconduct by their financial subordinates.</p>
+        <p>In addition to Mr. Ebbers and WorldCom, which is planning to emerge from bankruptcy protection this spring and be renamed MCI, the WorldCom legal landscape is crowded with investors, underwriters, lenders, insurers, accountants, current and former employees, former directors and state and federal regulators.</p>
+        <p>Just this week, the Securities and Exchange Commission announced that it was filing a new civil suit against Mr. Sullivan. And a coalition of states will soon decide whether to file claims seeking hundreds of millions of dollars in taxes from WorldCom, based on records suggesting that it improperly reduced taxable earnings in their states -- and increased overall net income -- by classifying billions of dollars of revenue as nontaxable royalty payments to the parent company.</p>
+        <p>Judge Barbara S. Jones, who on Tuesday accepted a guilty plea from Mr. Sullivan on the same criminal charges filed against Mr. Ebbers, set a Nov. 9 trial date for Mr. Ebbers. But William Johnson, an assistant United States attorney, said that the government planned to file a new indictment adding additional charges and naming other defendants, which would most likely lead to a postponement of the trial.</p>
+        <p>Mr. Ebbers's bail was set at $10 million. He was released after offering his home in Brookhaven, Miss., as security, along with the co-signature of his wife, Kristie Ebbers.</p>
+        <p>Mr. Ebbers also agreed to a ban on traveling outside of Mississippi, Louisiana, Washington, D.C., and New York City.</p>
+        <p>Speaking for Mr. Ebbers, his lawyer, Reid H. Weingarten, said that Mr. Ebbers had never sought to mislead investors and had ''never received a dime he is not entitled to.''</p>
+        <p>The travel restrictions could create a conflict for Mr. Ebbers if Oklahoma's attorney general, W.A. Drew Edmondson, filed criminal charges against him in the next few weeks, as he has pledged to do.</p>
+        <p>Mr. Edmondson filed a criminal securities fraud case last summer against WorldCom, Mr. Ebbers, Mr. Sullivan and four other former executives, contending that their illegal conduct had cost the state's pension funds $64 million.</p>
+        <p>Mr. Edmondson later dropped the charges against Mr. Ebbers to avoid interfering with the federal investigation of him and the government's plans to prosecute Mr. Sullivan. But he pledged to reindict Mr. Ebbers by the end of March, and a spokesman for Mr. Edmondson said yesterday that the federal charges against Mr. Ebbers had not affected those plans.</p>
+        <p>Federal authorities moved quickly in 2002 as the lawsuits involving WorldCom mushroomed to consolidate as many of the disputes as possible in the Southern District of New York, where WorldCom's bankruptcy case had begun. Scores of class-action suits by investors against individuals and companies that may have played roles in the securities fraud, the cases filed on behalf of WorldCom's employees' pension funds and numerous suits filed by individuals have been assigned to Judge Denise L. Cote.</p>
+        <p>WorldCom itself has been protected from most of the private civil lawsuits because it has been operating under bankruptcy protection. But it has been drawn into battles over issues like the right of former shareholders of its MCI tracking stock to sue its former directors for failing to pay them promised dividends.</p>
+        <p>Some cases are extremely complex. The class-action complaint filed on behalf of New York State Common Retirement Fund, the nation's second-largest pension fund, runs 257 pages, names more than 35 defendants and cites suspected accounting misconduct as far back as the beginning of 1999, a year and a half before the earliest wrongdoing mentioned in the criminal charges against Mr. Ebbers.</p>
+        <p>That class-action lawsuit -- and many others -- also delves into conduct ignored in the criminal case, like Mr. Ebbers's mutually beneficial financial links with Salomon Brothers and other units of its parent, Citigroup. Richard Thornburgh, the examiner appointed by Judge Arthur J. Gonzalez in WorldCom's bankruptcy, has said those links generated millions of dollars of extra income for Mr. Ebbers and later helped him prop up his sagging finances but violated his duty to put the interests of WorldCom and its shareholders ahead of his own.</p>
+        <p>Judge Cote has set Jan. 10, 2005, as the first day of trial on the consolidated securities fraud lawsuits and March 14, 2005, as the opening trial date for the employee funds.</p>
+        <p>Meanwhile, other private lawsuits that have not been consolidated in New York are continuing in several states. In one recently filed case in Florida, Jack and Elaine Holtsberg, a couple who decided not to join the class action in New York, sued Mr. Sullivan, Citigroup, and its subsidiaries who employed Jack Grubman, WorldCom's most influential supporter on Wall Street. The couple said the company had used fraud to induce them to buy WorldCom stock in the late 1990's, 2000 and 2001, and lost nearly $2 million.</p>
+        <p>Still to come is WorldCom's decision whether to seek compensation from Mr. Ebbers, other former employees, former directors and others who might be liable for conduct that contributed to the companies woes. WorldCom has said it has no intention of suing KPMG, the accounting firm that designed the tax reduction plan now being questioned by many states.</p>
+        <p>''We have no comment on the other possibilities,'' said Peter Lucht, a spokesman.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

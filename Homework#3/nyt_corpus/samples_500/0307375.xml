@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Review/Film; Spoofing the Unity of Art and Agony</title>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="1989" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Weekend Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Movies; Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="307375"/>
+      <doc.copyright holder="The New York Times" year="1989"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">MOTION PICTURES</classifier>
+        <classifier class="indexing_service" type="descriptor">REVIEWS</classifier>
+        <person class="indexing_service">JAMES, CARYN</person>
+        <object.title class="indexing_service">FEAR, ANXIETY AND DEPRESSION (MOVIE)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="general_descriptor">Motion Pictures</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19891208T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950DEEDA1E39F93BA35751C1A96F948260" item-length="558" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Review/Film; Spoofing the Unity of Art and Agony</hl1>
+      </hedline>
+      <byline class="print_byline">By CARYN JAMES</byline>
+      <byline class="normalized_byline">JAMES, CARYN</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: ''Dear Samuel Beckett,'' a wild-haired, whiny-voiced, starving young dramatist writes to his idol. In view of the ''uncanny kinship'' between ''Waiting for Godot'' and ''Despair,'' the young man's own play about life and death (''Life, life, life, death, death, death,'' chants a black-robed chorus), perhaps the two men might collaborate on a future project?</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: ''Dear Samuel Beckett,'' a wild-haired, whiny-voiced, starving young dramatist writes to his idol. In view of the ''uncanny kinship'' between ''Waiting for Godot'' and ''Despair,'' the young man's own play about life and death (''Life, life, life, death, death, death,'' chants a black-robed chorus), perhaps the two men might collaborate on a future project?</p>
+        <p>''Dear Samuel Beckett,'' a wild-haired, whiny-voiced, starving young dramatist writes to his idol. In view of the ''uncanny kinship'' between ''Waiting for Godot'' and ''Despair,'' the young man's own play about life and death (''Life, life, life, death, death, death,'' chants a black-robed chorus), perhaps the two men might collaborate on a future project? He signs off: ''Hoping your next play is a hit. Sincerely, Ira Ellis.''</p>
+        <p>Ira is the persona adopted by Todd Solondz, the 30-year-old writer, director and star of ''Fear, Anxiety and Depression,'' an amiable, uninspired spoof of the notion that agony and art go together. Nothing that follows is quite as fresh as this opening notion of the stern, reclusive Beckett hooked up with the eager-to-please and quick-to-suffer Ira, the latest addition to the lengthening list of characters inspired by Woody Allen. (Why else would Mr. Solondz ape Mr. Allen's black-rimmed glasses, rumpled plaid shirts and stammering delivery?) Instead, Mr. Solondz's first film goes on to parody the pretensions of the East Village art world, an easy target whose time has passed.</p>
+        <p>Mr. Solondz, who just a couple of years ago was a student at the New York University Film School, uses his film's episodic structure to good advantage. As Ira drifts through encounters with his best friend and with assorted girlfriends manque, Mr. Solondz keeps his eye on loopy, revealing details. His friend Jack is a handsome, pretentious artist who uses white paint to write ''This is not white'' on a canvas, then calls Ira derivative. Ira's sometime girlfriend is Sharon, a chubby mass of insecurities with a lime-green cape and a Snoopy on her handbag; they seem made for each other and dance through a romantic montage in which they gaze over a bridge into heavy traffic and sit in the rubble of an abandoned building. But Sharon (played with comic flair by Jill Wisoff) can discover her great gifts as a mime only after Ira leaves her for Junk, a performance artist who wears blue, green or yellow lipstick and whose art involves hammering nails into a corpse at the Palladium.</p>
+        <p>Each of the set pieces is clever without being strikingly sharp or original. Mr. Solondz slyly acknowledges his debts to other film makers; Junk works in a copy shop, like the heroine of ''Smithereens,'' Susan Seidelman's own first film about down-and-out downtown. And Sharon's plaintive love song to ''I, I, I'' (her pet name for Ira) echoes ''Suddenly Seymour'' from ''Little Shop of Horrors.'' But that wry self-awareness is no substitute for the distinctive voice or vision that Mr. Solondz does not yet have. ''Fear, Anxiety and Depression,'' which opens today at the Quad Cinema, is the work of a gifted and still glib film maker.  WAITING FOR BECKETT - FEAR, ANXIETY AND DEPRESSION, directed and written by Todd Solondz; edited by Peter Austin, Emily Paine and Barry Rubinow; director of photography, Stefan Czapsky; production designer, Marek Dobrowolski; produced by Stanley J. Wlodkowski, Steve Golin and Sigurjorn Sighvatsson; released by Samuel Goldwyn Company. At the Quad Cinema, 13th Street, west of Fifth Avenue. Running time: 94 minutes. This film has no rating.  Ira Ellis...Todd Solondz  Sharon...Jill Wisoff  Janice...Alexandra Gersten  Jack...Max Cantor  Junk...Jane Hamper  Donny...Stanley Tucci</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

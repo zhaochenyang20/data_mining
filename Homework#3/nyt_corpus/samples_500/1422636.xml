@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>In a Stricken Big City, a Small Town Sees Itself</title>
+    <meta content="11NYC.$02" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="A Nation Challenged" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="http://www.nytimes.com/2002/09/11/nationchallenged/11NYC.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1422636"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <series series.name="REACTIONS FROM AFAR"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Terrorism</classifier>
+        <classifier class="indexing_service" type="descriptor">Airlines and Airplanes</classifier>
+        <classifier class="indexing_service" type="descriptor">Hijacking</classifier>
+        <classifier class="indexing_service" type="descriptor">World Trade Center (NYC)</classifier>
+        <classifier class="indexing_service" type="descriptor">Public Opinion</classifier>
+        <location class="indexing_service">New York City</location>
+        <location class="indexing_service">Wabash (Ind)</location>
+        <person class="indexing_service">Harden, Blaine</person>
+        <person class="indexing_service">France, Emily</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Manufacturing, Operations and Logistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Indiana</classifier>
+        <classifier class="online_producer" type="descriptor">World Trade Center (NYC)</classifier>
+        <classifier class="online_producer" type="descriptor">Terrorism</classifier>
+        <classifier class="online_producer" type="general_descriptor">World Trade Center (NYC)</classifier>
+        <classifier class="online_producer" type="general_descriptor">World Trade Center (NYC)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hijacking</classifier>
+        <classifier class="online_producer" type="general_descriptor">Public Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Airlines and Airplanes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Terrorism</classifier>
+        <classifier class="online_producer" type="general_descriptor">Office Buildings and Commercial Properties</classifier>
+        <classifier class="online_producer" type="general_descriptor">Crime and Criminals</classifier>
+        <location class="online_producer">Indiana</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20020911T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9902E7DA1E3EF932A2575AC0A9649C8B63" item-length="975" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>In a Stricken Big City, a Small Town Sees Itself</hl1>
+        <hl2 class="online_headline">In a Stricken Big City, a Small Town Sees Itself</hl2>
+      </hedline>
+      <byline class="print_byline">By BLAINE HARDEN</byline>
+      <byline class="normalized_byline">Harden, Blaine</byline>
+      <dateline>WABASH, Ind.</dateline>
+      <abstract>
+        <p>Emily France, piano teacher in Wabash, Ind, says she breast-fed her daughter while watching and weeping over television images of wounded New York City last Sept 11; after that day, she and others in Wabash and across America began seeing New Yorkers as neither faraway, nor intimidating, nor all that different from themselves; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>NEW YORK has a way of making small-town people feel small. For those who grow up here in northern Indiana, where towns like Wabash seem stranded in a limitless sea of corn, the city can be overwhelming.</p>
+        <p>Emily France, a piano teacher and former cheerleader at Wabash High, remembers that during her one trip to New York she kept looking at people who stared right through her. The longer she stayed, she said, the smaller she felt.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>WABASH, Ind. NEW YORK has a way of making small-town people feel small. For those who grow up here in northern Indiana, where towns like Wabash seem stranded in a limitless sea of corn, the city can be overwhelming.</p>
+      </block>
+      <block class="full_text">
+        <p>NEW YORK has a way of making small-town people feel small. For those who grow up here in northern Indiana, where towns like Wabash seem stranded in a limitless sea of corn, the city can be overwhelming.</p>
+        <p>Emily France, a piano teacher and former cheerleader at Wabash High, remembers that during her one trip to New York she kept looking at people who stared right through her. The longer she stayed, she said, the smaller she felt.</p>
+        <p>''New York was just this huge dream of a place,'' Mrs. France said. ''You really couldn't touch it, even if you went there.''</p>
+        <p>Then, on a crisp September morning, hijacked airplanes smashed into the two tallest buildings in the untouchable city. As the towers collapsed, so did the perceived distance between big town and small.</p>
+        <p>That day, New York seemed terrifyingly close to rural Indiana. At Riverview Elementary in Marion, a town south of Wabash, a second grader named Katlyn Sirk asked to be excused. ''I want to go to the moon,'' Katlyn told her teacher. ''I think I could be safe on the moon. I don't feel safe here anymore.''</p>
+        <p>In the days and weeks that followed, fear ebbed away. Taking its place was empathy, as people in Wabash and Marion and across America began seeing New Yorkers as neither faraway, nor intimidating, nor all that different from themselves. A New York Times poll in late September of last year found that 84 percent of Americans had a good image of the city. That compared with 61 percent in 1998 and 40 percent in 1996.</p>
+        <p>''I have come to think of New York as a nice neighborhood just outside of Wabash,'' said Mrs. France, 27.</p>
+        <p>The piano teacher, who breast-fed her daughter, Isabel, last fall while watching and weeping over television images of the wounded city, said she still saw tormented faces in her mind's eye. They belong to women whose husbands and brothers disappeared. For several days after the attack, these women appeared on network TV morning programs, holding up photos of missing loved ones and pleading for help in finding them.</p>
+        <p>''They could just as easily have been from Wabash,'' she said. ''When I think now of what makes New York strong, I think of its people, not its buildings. New York seems like a hometown. I could go there and stop and talk to somebody.''</p>
+        <p>In the small towns of northern Indiana, crime is low, church attendance is high and many high school graduates attend local Christian colleges. People here remember what the Rev. Jerry Falwell and Pat Robertson had to say last fall about why New York was made the target of the attack: that God was angry at the city's abortionists, feminists and gays.</p>
+        <p>When asked about the views of Mr. Falwell and Mr. Robertson, Jack Brady, a chaplain at Indiana Wesleyan University in Marion, shook his head. Since last September, Mr. Brady has made three trips to New York, where he has helped counsel firefighters, police officers and construction workers traumatized by the search for body parts at ground zero.</p>
+        <p>On his trips, Mr. Brady worked the night shift at the recovery site. Some nights, he handed out letters of encouragement written by elementary school children from Marion. Other nights, he distributed cheesecake and chocolates bought with money raised by students at nearby Huntington North High School.</p>
+        <p>As in many parts of the country, New York City firefighters are celebrities here. Mr. Brady invited three New York firefighters to Marion to give speeches. They received standing ovations.</p>
+        <p>''After this year, I can say that we just feel closer to New York,'' Mr. Brady said. ''We feel sorry, we feel loyalty and we feel a lot of racial, geographical and political walls have come down.''</p>
+        <p>BESIDES being sympathetic, people around this part of Indiana have become more curious about New York. At the Wabash Carnegie Public Library, the women who dominate the book discussion group agreed that their spring topic would be ''New York Reflections.''</p>
+        <p>''The city is a place that they normally wouldn't go,'' said Katherine Tinsley, a professor of American history at Manchester College nearby, who led the book group.</p>
+        <p>Before Sept. 11, more than a few people in Wabash believed the city to be infested with crime and tormented by traffic. New Yorkers were often thought of as fast-talking, aggressive and rude.</p>
+        <p>''The attitude here was one of uneasiness with big-city people,'' Professor Tinsley said. ''People would assume they did not have the same values or interests. But 9/11 changed all that.''</p>
+        <p>What seemed to impress book group members from Wabash was how New Yorkers, after the attacks, pulled together. ''This is what people here see as a small-town virtue,'' she said.</p>
+        <p>Richard Edwin Ford, whose family owns Ford Meter Box Company, based in Wabash and one of the world's largest manufacturers of water meters, agreed that in the last year many people in town had overcome a lifetime's worth of wariness about the city. Still, he says, there are limits.</p>
+        <p>''We out in the Midwest now think of New York City as a collection of humans, far more than we ever did before,'' Mr. Ford said. ''We still wonder, though, why in the world would they want to live there?''</p>
+        <p>REACTIONS FROM AFAR</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

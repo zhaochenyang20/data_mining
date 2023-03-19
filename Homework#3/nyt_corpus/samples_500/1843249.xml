@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Criminal Charges Are Expected Against Marines, Official Says</title>
+    <meta content="27abuse" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="World; Washington" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/27/world/asia/27abuse.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1843249"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="THE REACH OF WAR"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Bombs and Explosives</classifier>
+        <classifier class="indexing_service" type="descriptor">Terrorism</classifier>
+        <classifier class="indexing_service" type="descriptor">United States International Relations</classifier>
+        <classifier class="indexing_service" type="descriptor">United States Armament and Defense</classifier>
+        <classifier class="indexing_service" type="descriptor">War Crimes, Genocide and Crimes Against Humanity</classifier>
+        <location class="indexing_service">Afghanistan</location>
+        <person class="indexing_service">Von Zielbauer, Paul</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Afghanistan</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Asia Pacific</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/Afghanistan</classifier>
+        <classifier class="online_producer" type="descriptor">United States Armament and Defense</classifier>
+        <classifier class="online_producer" type="descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">War Crimes, Genocide and Crimes Against Humanity</classifier>
+        <classifier class="online_producer" type="general_descriptor">International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Armament and Defense</classifier>
+        <classifier class="online_producer" type="general_descriptor">Terrorism</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bombs and Explosives</classifier>
+        <classifier class="online_producer" type="general_descriptor">Armament, Defense and Military Forces</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <location class="online_producer">Afghanistan</location>
+        <org class="online_producer">Marine Corps</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070427T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E04E1DE123EF934A15757C0A9619C8B63" item-length="503" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Criminal Charges Are Expected Against Marines, Official Says</hl1>
+        <hl2 class="online_headline">Criminal Charges Are Expected Against Marines, Official Says</hl2>
+      </hedline>
+      <byline class="print_byline">By PAUL von ZIELBAUER</byline>
+      <byline class="normalized_byline">Von Zielbauer, Paul</byline>
+      <abstract>
+        <p>Marine Corps is expecting criminal charges against at least five marines from Special Operations unit that killed 10 civilians in eastern Afghanistan in March after suicide bomb attack on their patrol convoy; no marines were killed in attack, but several, believing they were under fire, shot at bystanders along road for several miles; investigation finds no evidence marines were fired upon (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Marine Corps is expecting criminal charges against at least five marines from a Special Operations unit that killed 10 civilians in eastern Afghanistan last month after a suicide bomb attack on their patrol convoy, a marine official said yesterday.</p>
+        <p>Marine and civilian lawyers involved in the case have been told to expect charges against five to seven marines involved in the shootings, possibly including one officer, said the marine official, who spoke on condition of anonymity.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>At least five marines from a Special Operations unit are expected to be charged for killing 10 civilians in Afghanistan last month.</p>
+      </block>
+      <block class="full_text">
+        <p>The Marine Corps is expecting criminal charges against at least five marines from a Special Operations unit that killed 10 civilians in eastern Afghanistan last month after a suicide bomb attack on their patrol convoy, a marine official said yesterday.</p>
+        <p>Marine and civilian lawyers involved in the case have been told to expect charges against five to seven marines involved in the shootings, possibly including one officer, said the marine official, who spoke on condition of anonymity.</p>
+        <p>The official added that a formal inquiry by naval investigators is continuing and could result in fewer or no marines being charged. The official declined to provide the names or ranks of those likely to be charged.</p>
+        <p>At least two marines have hired civilian lawyers, said a government official with knowledge of the developing case.</p>
+        <p>The Marine unit involved in the shootings arrived in Afghanistan in February, the first to be deployed from a new Special Operations Command formed by the Marine Corps last year to carry out specialized reconnaissance, intelligence and commando missions.</p>
+        <p>Several marines among about 30 who were on patrol began firing at civilians along a stretch of road near Jalalabad, in eastern Afghanistan, after a suicide bomber in a vehicle rammed their convoy and detonated his explosives, according to a preliminary investigation by the American military.</p>
+        <p>No marines were killed in the attack, but several marines, believing they were under small arms fire, began firing at bystanders near the scene and along the roadside as the convoy sped away, the military investigation found.</p>
+        <p>Over several miles, marines killed at least 10 civilians and wounded 33 others, including women and elderly men, according to the military investigation, which was ordered by Maj. Gen. Frank Kearney of the Army, the commander of all American Special Operations forces in the region. The investigation found no evidence that the marines were being fired upon.</p>
+        <p>A separate investigation by the Afghanistan Independent Human Rights Commission said the marines had killed 12 civilians and injured 35 others.</p>
+        <p>The killings recall a similarly violent reaction by marines in Haditha, Iraq, in 2005, after a roadside bomb killed one of their comrades. In that incident, in the heart of a region rife with Sunni Arab insurgents, marines killed 24 unarmed Iraqis, including women and children in their beds, in a sweep of homes near the road.</p>
+        <p>After the killings in Afghanistan last month, General Kearney ordered the marines' whole company to leave the country and referred the matter to the Naval Criminal Investigative Service.</p>
+        <p>The unit remains stationed somewhere in the Middle East but is expected to return to its base at Camp Lejeune, N.C., in coming weeks. A second Marine Special Operations company, at Camp Pendleton, Calif., is to deploy soon, said a marine spokesman, who would not say where the unit is headed.</p>
+        <p>Maj. Cliff Gilmore, a spokesman for the Marine Special Operations Command, known as Marsoc, said the group's commanders had not been advised about any impending charges against marines in the incident.</p>
+        <p>THE REACH OF WAR</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>McCain Upbraids Bush On Concept of Presidency</title>
+    <meta content="Y11DEB$02" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="23" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <meta content="Correction Appended" name="banner"/>
+    <meta content="20000112T000000" name="correction_date"/>
+    <docdata>
+      <doc-id id-string="1167797"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Presidential Election of 2000</classifier>
+        <classifier class="indexing_service" type="descriptor">Taxation</classifier>
+        <classifier class="indexing_service" type="descriptor">Federal Taxes (US)</classifier>
+        <classifier class="indexing_service" type="descriptor">Election Issues</classifier>
+        <classifier class="indexing_service" type="descriptor">Debating</classifier>
+        <location class="indexing_service">Grand Rapids (Mich)</location>
+        <person class="indexing_service">Bush, George W (Gov)</person>
+        <person class="indexing_service">Mccain, John (Sen)</person>
+        <person class="indexing_service">Forbes, Steve (Malcolm S Forbes Jr)</person>
+        <person class="indexing_service">Bauer, Gary L</person>
+        <person class="indexing_service">Bruni, Frank</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Michigan</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Midwest</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2004/Candidates</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2004/Candidates/George W Bush</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2004/States/Michigan</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2008</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2008/Candidates</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Michigan/Grand Rapids</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Michigan</classifier>
+        <classifier class="online_producer" type="general_descriptor">Election Issues</classifier>
+        <classifier class="online_producer" type="general_descriptor">Federal Taxes (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Debating</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Election of 2000</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Election of 2000</classifier>
+        <classifier class="online_producer" type="general_descriptor">Taxation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Elections (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Elections (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Elections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidents and Presidency (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000111T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9401EFD91F3BF932A25752C0A9669C8B63" item-length="1306" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>McCain Upbraids Bush On Concept of Presidency</hl1>
+      </hedline>
+      <byline class="print_byline">By FRANK BRUNI</byline>
+      <byline class="normalized_byline">Bruni, Frank</byline>
+      <dateline>GRAND RAPIDS, Mich., Jan. 10</dateline>
+      <abstract>
+        <p>Gov George W Bush and Sen John McCain spar in Republican presidential debate, Grand Rapids, Mich, over kind and size of tax cut; Steve Forbes and Gary L Bauer also attack Bush; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Gov. George W. Bush and Senator John McCain sparred tensely in a Republican debate here tonight over what kind and what size of tax cut the country could afford, with Mr. McCain ridiculing Mr. Bush's stated fear that Washington would gorge itself on the growing surplus if the money was not returned to taxpayers.</p>
+        <p>''You don't understand the role of the president of the United States,'' Mr. McCain told Mr. Bush, turning to face him. ''The president of the United States will veto bills -- will veto bills -- that spend too much.''</p>
+      </block>
+      <block class="full_text">
+        <p>Gov. George W. Bush and Senator John McCain sparred tensely in a Republican debate here tonight over what kind and what size of tax cut the country could afford, with Mr. McCain ridiculing Mr. Bush's stated fear that Washington would gorge itself on the growing surplus if the money was not returned to taxpayers.</p>
+        <p>''You don't understand the role of the president of the United States,'' Mr. McCain told Mr. Bush, turning to face him. ''The president of the United States will veto bills -- will veto bills -- that spend too much.''</p>
+        <p>In a voice that seemed to chide and belittle Mr. Bush, Mr. McCain added, ''That's what being president of the United States is all about.''</p>
+        <p>Mr. Bush and Mr. McCain have been feuding over taxes for days now, their language growing increasingly intense. Mr. Bush, the Texas governor, has proposed a $483 billion tax cut over five years that reduces tax rates for people at all income levels; Mr. McCain, of Arizona, maintains that saving some of that money to pay down the national debt is more important than giving wealthy Americans relief.</p>
+        <p>Mr. McCain is scheduled to lay out his own detailed tax plan on Tuesday.</p>
+        <p>Their quarrel on the topic tonight was actually one of the few instances that Mr. McCain, the principal challenger to Mr. Bush for the Republican presidential nomination, sharply criticized the front-runner, but Mr. Bush's other rivals took additional swipes at him on a variety of fronts.</p>
+        <p>Steve Forbes attacked Mr. Bush for a broken pledge, made in his 1994 campaign for governor, not to raise sales taxes in Texas. Gary L. Bauer repeatedly pressed Mr. Bush to defend his desire to promote freer trade with China, given its history of human rights abuses.</p>
+        <p>And Mr. Forbes, setting his sights on Mr. Bush for a second time, challenged him to make three pledges about what he would do if he became the Republican nominee and, beyond that, the American president.</p>
+        <p>Mr. Forbes wanted Mr. Bush to promise that he would select a running mate who opposed legal abortion, appoint Supreme Court justices with that same position and keep that position intact and undiminished in the party platform.</p>
+        <p>Mr. Bush declined, but without ever using that word, in one of several answers that sought to evade conflict or specificity.</p>
+        <p>''I'm going to pick a vice president who can be the president,'' Mr. Bush said. ''I'll pick judges who strictly interpret the Constitution.'' He added that he would ''work to keep the Republican Party pro-life.''</p>
+        <p>Mr. Forbes responded: ''It's a typical hedge. Where's the pledge, not a hedge?''</p>
+        <p>Mr. Bush said, ''I don't know how I can be more clear.''</p>
+        <p>Mr. Bush frequently tried to defuse the attacks on him with humor, getting off a number of good jokes that drew robust laughter from the audience at Calvin College, where the debate was held. For example, he thanked Mr. Forbes for a question that assumed that Mr. Bush would be the nominee.</p>
+        <p>With time ticking rapidly away before the Iowa caucuses on Jan. 24 touch off a rapid-fire series of state contests that could well yield a nominee by early March, Mr. Bush's rivals were in part looking to inflict some last-minute damage.</p>
+        <p>But they also seemed, at times, to be trying to lock him into conservative positions before he proceeded to a general election contest. Mr. Bush would not let that happen, carefully avoiding any commitment or statement that might come back to haunt him.</p>
+        <p>Except for their squabbling over taxes, Mr. Bush and Mr. McCain demonstrated remarkable amity toward each other. Twice Mr. Bush answered a question by praising, and agreeing with, the response Mr. McCain had just given, including Mr. McCain's vow never to negotiate with terrorists.</p>
+        <p>And at one point, they clasped hands and held them aloft as they agreed not to run any negative advertisements about each other. That gesture followed Mr. Forbes's refusal to make a similar resolve.</p>
+        <p>''If being negative is telling the truth, I will continue to tell the truth,'' Mr. Forbes said. ''People deserve it.''</p>
+        <p>Mr. Bush replied, ''I'll run positive ads. And I'm darned sure not going to do to candidates what this man did to Bob Dole in 1996.''</p>
+        <p>The pledge that Mr. Forbes mentioned, and which is highlighted in a television commercial that he began airing last week, concerns a document from 1994 that bears Mr. Bush's signature and promises not to raise the sales tax in Texas. The debate opened with a discussion of that commercial.</p>
+        <p>Mr. Bush's advisers have not denied the document's authenticity, nor did Mr. Bush. Mr. Bush indeed raised the sales tax in Texas, but he explained tonight that the overall changes in the tax codes in Texas in his years as governor amounted to a $3 billion cut, not an increase.</p>
+        <p>Mr. Forbes said to him, ''A pledge should not be used as a trinket to win the election.</p>
+        <p>''I think that's what makes American people cynical about politics: pledges are made and then quickly forgotten after the election.''</p>
+        <p>Mr. Bush replied, '' One thing that makes the American people cynical is negative advertising on TV.</p>
+        <p>''I am a tax-cutting person,'' said Mr. Bush, whose proposal for a tax cut has become the centerpiece of his campaign in New Hampshire, which holds its primary on Feb. 1. ''I know how to get it done.''</p>
+        <p>For much of the first third of the 90-minute debate, which featured all six of the Republican candidates for their party's nomination, it was all taxes all the time, regardless of what the question was, to the point where it became a running joke.</p>
+        <p>There was an even sharper exchange between Mr. Bush and Mr. Bauer on the subject of American trade with China.</p>
+        <p>Mr. Bush had said he did not support trade with Cuba because of the repressive, Communist government of its leader, Fidel Castro. Mr. Bauer countered, saying Chinese officials were equally repressive.</p>
+        <p>''Governor, you just made the case for withdrawing most-favored-nation status for China,'' Mr. Bauer said.</p>
+        <p>Mr. Bush shot back, ''I did not.''</p>
+        <p>Mr. Bauer said, ''Everything you just said about Cuba applies to China.''</p>
+        <p>Mr. Bush, however, insisted there was a ''huge difference between trading with an entrepreneurial class, like that which is growing in China, and allowing a Fidel Castro government to skim capital monies off the top of capital investment.''</p>
+        <p>One of Mr. Bush's funniest comments, but also one of his oddest, came when he was asked about the professional baseball player who made racist comments and the decision by the Atlanta Braves to give him psychological counseling.</p>
+        <p>Mr. Bush said he agreed with that action. And when the questioner started to pose a follow-up that began by citing a Harvard University professor, Mr. Bush cut her off.</p>
+        <p>''Consider the source,'' he said mischievously, to copious laughter. ''If she had said a Calvin professor, I would have been listening.''</p>
+        <p>Mr. Bush attended the business school at Harvard University several years after he graduated from Yale University.</p>
+        <p>The debate, broadcast nationally on MSNBC, was the third time in just five days that the suddenly debate-mad Republicans had shared a stage. The dense cluster of encounters reflected the intensifying pace of the campaign for the nomination, with the first state contest, the Iowa caucuses, just two weeks away.</p>
+        <p>But this was the first Republican debate in Michigan, which holds its primary, a potentially pivotal one, on Feb. 22.</p>
+        <p>Correction:  January 12, 2000, Wednesday  An article yesterday about the Republican presidential primary debate in Grand Rapids, Mich., referred incorrectly to an action by Gov. George W. Bush on a Texas sales tax. Mr. Bush proposed an increase as part of an overall plan for a tax cut, but the sales tax proposal was not passed and Mr. Bush did not raise the tax.</p>
+      </block>
+      <block class="correction_text">
+        <p>Correction: January 12, 2000, Wednesday</p>
+        <p>An article yesterday about the Republican presidential primary debate in Grand Rapids, Mich., referred incorrectly to an action by Gov. George W. Bush on a Texas sales tax. Mr. Bush proposed an increase as part of an overall plan for a tax cut, but the sales tax proposal was not passed and Mr. Bush did not raise the tax.</p>
+        <p>&lt;br&gt;</p>
+        <p>&lt;br&gt;</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>JOHNSON'S 39 LEAD LAKERS PAST CELTICS</title>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="41" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="13911"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <series series.name="N.B.A."/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">BASKETBALL</classifier>
+        <org class="indexing_service">NATIONAL BASKETBALL ASSN (NBA)</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Basketball/National Basketball Association/Boston Celtics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Basketball/National Basketball Association/Los Angeles Lakers</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Basketball</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Basketball/National Basketball Association</classifier>
+        <classifier class="online_producer" type="general_descriptor">Basketball</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870216T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE6DD1038F935A25751C0A961948260" item-length="262" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>JOHNSON'S 39 LEAD LAKERS PAST CELTICS</hl1>
+      </hedline>
+      <byline class="print_byline">AP</byline>
+      <dateline>INGLEWOOD, Calif., Feb. 15</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Earvin (Magic) Johnson scored 39 points and led Los Angeles back from a 17-point third-quarter deficit to a 106-103 victory over the Boston Celtics, giving the Lakers the best record in the National Basketball Association.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Earvin (Magic) Johnson scored 39 points and led Los Angeles back from a 17-point third-quarter deficit to a 106-103 victory over the Boston Celtics, giving the Lakers the best record in the National Basketball Association.</p>
+        <p>Earvin (Magic) Johnson scored 39 points and led Los Angeles back from a 17-point third-quarter deficit to a 106-103 victory over the Boston Celtics, giving the Lakers the best record in the National Basketball Association.</p>
+        <p>Johnson scored 8 points over the final three and a half minutes, including two clinching free throws with four seconds to play, to lift the Lakers to their 38th victory in 50 games this season, one game better than the Celtics.</p>
+        <p>After the teams exchanged baskets, Johnson sank an 18-footer with 23 seconds to play to put the Lakers ahead, 102-99.</p>
+        <p>After Robert Parish scored on a dunk, Kareem Abdul-Jabbar made two free throws to put the Lakers up by 104-101 with 16 seconds to play. The free throws gave Abdul-Jabbar 10 points, keeping alive his streak of 743 consecutive games in double figures. CROWD MARK</p>
+        <p>PONTIAC, Mich., Feb. 15 (AP) -Buyers of $2 tickets furnished by an oil company accounted for nearly half of the record crowd for a regular-season National Basketball Association game, a Detroit Pistons spokesman said today.</p>
+        <p>Attendance for Saturday night's game at the Pontiac Silverdome, in which the Pistons defeated Philadelphia, 125-107, was 52,745, club spokesman Matt Dobek said.</p>
+        <p>The N.B.A.'s previous regular-season record was 44,180, set a year ago at a Silverdome game in which Detroit defeated Philadelphia, 134-133, in overtime.</p>
+        <p>Attendance at both of those games, including an estimated 25,000 tickets sold for Saturday's contest, was swollen by $2 tickets sold at Marathon Oil Company service stations, Dobek said.</p>
+        <p>N.B.A.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

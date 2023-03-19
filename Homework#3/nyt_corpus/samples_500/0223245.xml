@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>O'Sullivan Gets Record</title>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="1989" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="223245"/>
+      <doc.copyright holder="The New York Times" year="1989"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Terms not available</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19890214T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950DE6DE163FF937A25751C0A96F948260" item-length="398" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>O'Sullivan Gets Record</hl1>
+      </hedline>
+      <byline class="print_byline">By The Associated Press</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Marcus O'Sullivan will get credit for an indoor world record for the time it took him to run 1,500 meters Friday night even though he was running a mile race.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Marcus O'Sullivan will get credit for an indoor world record for the time it took him to run 1,500 meters Friday night even though he was running a mile race.</p>
+        <p>Marcus O'Sullivan will get credit for an indoor world record for the time it took him to run 1,500 meters Friday night even though he was running a mile race.</p>
+        <p>The Irishman was timed in 3 minutes 35.6 seconds en route to winning the mile in 3:51.66 at the Meadowlands Invitational.</p>
+        <p>O'Sullivan's clocking bettered the accepted world record of 3:36.03, set by Jose-Luis Gonzalez of Spain on March 1, 1986, at Oviedo, Spain.</p>
+        <p>Last year, O'Sullivan ran a faster time for 1,500 meters - 3:35.4 - in the mile race at the Meadowlands, but that time wasn't accepted as a record because there were an insufficient number of official timers for the intermediate distance. For record purposes, there must be at least three official watches.</p>
+        <p>In addition, Eamonn Coghlan ran a 3:35.6 and Steve Scott a 3:36.0 at San Diego on Feb. 20, 1981. But neither time was accepted because of insufficient timers.</p>
+        <p>Bob Hersh, records chairman of The Athletics Congress, the national governing body for track and field, said yesterday that because of what occurred in O'Sullivan's case in 1988, ''We were alert to get the record documented this year.''</p>
+        <p>''The record will definitely be accepted,'' Hersh said of O'Sullivan's performance Friday.</p>
+        <p>Before last week's race, O'Sullivan was not concentrating on breaking the 1,500 record. His mind was set on smashing Coghlan's mile mark of 3:49.78.</p>
+        <p>''The 1,500 record was some consolation,'' O'Sullivan said yesterday. O'Sullivan Gets Record By The Associated Press Marcus O'Sullivan will get credit for an indoor world record for the time it took him to run 1,500 meters Friday night even though he was running a mile race.</p>
+        <p>The Irishman was timed in 3 minutes 35.6 seconds en route to winning the mile in 3:51.66 at the Meadowlands Invitational.</p>
+        <p>O'Sullivan's clocking bettered the accepted world record of 3:36.03, set by Jose-Luis Gonzalez of Spain on March 1, 1986, at Oviedo, Spain.</p>
+        <p>Last year, O'Sullivan ran a faster time for 1,500 meters -3:35.4 - in the mile race at the Meadowlands, but that time wasn't accepted as a record because there was an insufficient number of official timers for the intermediate distance. For record purposes, there must be at least three official watches.</p>
+        <p>Bob Hersh, records chairman of The Athletics Congress, the national governing body for track and field, said yesterday ''The record will definitely be accepted.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

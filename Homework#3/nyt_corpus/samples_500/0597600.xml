@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Schwab Brokerage Plans Special Project</title>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="1993" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="23" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="597600"/>
+      <doc.copyright holder="The New York Times" year="1993"/>
+      <series series.name="THE MEDIA BUSINESS: ADVERTISING -- ADDENDA"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">ADVERTISING</classifier>
+        <classifier class="indexing_service" type="descriptor">BROKERS AND BROKERAGE FIRMS</classifier>
+        <org class="indexing_service">SCHWAB, CHARLES, CORP</org>
+        <org class="indexing_service">GOLDBERG MOSER O'NEILL</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Addenda</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Marketing, Advertising and PR</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Brokers and Brokerage Firms</classifier>
+        <classifier class="online_producer" type="general_descriptor">Advertising and Marketing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19930323T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE6DD173CF930A15750C0A965958260" item-length="67" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Schwab Brokerage Plans Special Project</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Charles Schwab &amp; Company of San Francisco said yesterday that it had awarded a special creative project for its Financial Advisors Service division to Goldberg Moser O'Neill in San Francisco, after an informal review. Tom Taggart, a spokesman for Schwab, said the review included two other San Francisco shops, Citron Haligman Bedecarre and Mandelbaum Mooney Ashley. Billings were not disclosed.</p>
+      </block>
+      <block class="full_text">
+        <p>Charles Schwab &amp; Company of San Francisco said yesterday that it had awarded a special creative project for its Financial Advisors Service division to Goldberg Moser O'Neill in San Francisco, after an informal review. Tom Taggart, a spokesman for Schwab, said the review included two other San Francisco shops, Citron Haligman Bedecarre and Mandelbaum Mooney Ashley. Billings were not disclosed.</p>
+        <p>THE MEDIA BUSINESS: ADVERTISING -- ADDENDA</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

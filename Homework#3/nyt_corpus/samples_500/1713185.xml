@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Sounds of Faith, Starting at a Distance and Coming Closer and Stronger</title>
+    <meta content="29luke" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2005/10/29/arts/music/29luke.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1713185"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <series series.name="CLASSICAL MUSIC REVIEW"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Music</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <org class="indexing_service">Atlanta Symphony Orchestra Chamber Chorus</org>
+        <org class="indexing_service">Orchestra of St Luke's</org>
+        <person class="indexing_service">Holland, Bernard</person>
+        <person class="indexing_service">Mozart, Wolfgang Amadeus (1756-91)</person>
+        <person class="indexing_service">Runnicles, Donald</person>
+        <person class="indexing_service">Shafer, Celena</person>
+        <person class="indexing_service">Tessier, John</person>
+        <person class="indexing_service">Berg, Nathan</person>
+        <person class="indexing_service">Jepson, Kristine</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music/Reviews/Classical</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="descriptor">Classical Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Classical Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+        <org class="online_producer">Orchestra of St Luke's</org>
+        <org class="online_producer">Atlanta Symphony Orchestra Chamber Chorus</org>
+        <person class="online_producer">Runnicles, Donald</person>
+        <person class="online_producer">Berg, Nathan</person>
+        <person class="online_producer">Jepson, Kristine</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20051029T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9407E4D91E3FF93AA15753C1A9639C8B63" item-length="429" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Sounds of Faith, Starting at a Distance and Coming Closer and Stronger</hl1>
+        <hl2 class="online_headline">Sounds of Faith, Starting at a Distance and Coming Closer and Stronger</hl2>
+      </hedline>
+      <byline class="print_byline">By BERNARD HOLLAND</byline>
+      <byline class="normalized_byline">Holland, Bernard</byline>
+      <abstract>
+        <p>Bernard Holland reviews concert featuring Mozart's Requiem by Atlanta Symphony Orchestra Chamber Chorus and Orchestra of St Luke's, conducted by Donald Runnicles and featuring soloists Celena Shafer, John Tessier, Nathan Berg and Kristine Jepson; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Mozart's ''Ave Verum Corpus,'' chaste and touching, followed by Arvo Pärt's ''Fratres,'' sparse and ascetic, served as quiet introductions to the Mozart Requiem on Thursday night at Carnegie Hall. The Orchestra of St. Luke's played. Donald Runnicles conducted. The Atlanta Symphony Orchestra Chamber Chorus sang splendidly. There were also four well-matched vocal soloists.</p>
+        <p>Running the three pieces together -- uninterrupted by applause and separated only by general throat clearing and some reseating of orchestra members -- did reasonably well at sustaining a mood. It also solved the problem of how to present the Requiem on a normal one-and-a-half-to-two-hour concert program otherwise divided by an intermission.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Mozart's "Ave Verum Corpus," chaste and touching, followed by Arvo Pärt's "Fratres," sparse and ascetic, served as quiet introductions to the Mozart Requiem.</p>
+      </block>
+      <block class="full_text">
+        <p>Mozart's ''Ave Verum Corpus,'' chaste and touching, followed by Arvo Pärt's ''Fratres,'' sparse and ascetic, served as quiet introductions to the Mozart Requiem on Thursday night at Carnegie Hall. The Orchestra of St. Luke's played. Donald Runnicles conducted. The Atlanta Symphony Orchestra Chamber Chorus sang splendidly. There were also four well-matched vocal soloists.</p>
+        <p>Running the three pieces together -- uninterrupted by applause and separated only by general throat clearing and some reseating of orchestra members -- did reasonably well at sustaining a mood. It also solved the problem of how to present the Requiem on a normal one-and-a-half-to-two-hour concert program otherwise divided by an intermission.</p>
+        <p>Given the quality of the playing and singing, the practical solutions were of minor interest. I was very taken by the Atlanta singers, prepared by Norman Mackenzie, whose members I am sure are amateur or semiprofessional at best. Beautifully trained and absolutely focused, they offered in particular a soprano section singing with a purity unmuddied by vibrato and individual excess.</p>
+        <p>The St. Luke's players played handsomely as a full orchestra and just as well as an all-cello octet in Mr. Pärt's piece. What a pleasure it was, as well, to hear a vocal quartet so mutually aware and free of competitiveness. One sensed the strong, wise hand of Mr. Runnicles. Celena Shafer was the heartfelt soprano and Nathan Berg the elegant and substantial bass-baritone. John Tessier, tenor, and Kristine Jepson, mezzo-soprano, were scarcely less good.</p>
+        <p>The brief, unadorned ''Ave Verum Corpus'' worked its usual magic. ''Fratres'' repeats an expanding and contracting, chantlike theme. The musical term lontano describes its methodology: music beginning at a distance and becoming nearer and stronger. The unfinished Requiem has regularly attracted completers, some presumptuous, and also touch-up artists like Robert Levin, whose edition was used on Thursday.</p>
+        <p>Mr. Levin's work is a little like dealing with old furniture. Discreet repair of damaged detail may enhance quality and value. Refinishing surfaces at the expense of accumulated patina, on the other hand, is usually disastrous. As a restorer, Mr. Levin is wise enough to fix little things and leave bigger ones as they are.</p>
+        <p>CLASSICAL MUSIC REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

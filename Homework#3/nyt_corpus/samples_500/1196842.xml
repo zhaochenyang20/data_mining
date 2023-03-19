@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Grants Awarded For New Fields</title>
+    <meta content="PL023009" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1196842"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="PLUS: SOCCER -- U.S. SOCCER FOUNDATION"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000504T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B01E3DB1F39F937A35756C0A9669C8B63" item-length="165" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Grants Awarded For New Fields</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The United States Soccer Foundation announced yesterday that it was giving more than $2.3 million to 46 groups around the country. The foundation was established in 1993 in advance of expected profits when the United States played host to the men's World Cup in 1994.</p>
+        <p>This round of grants includes the awarding of $91,400 to two New York City organizations for the construction and improvement of soccer fields. The Manhattan Kickers Soccer Club's grant will cover the renovation of the East 6th Street field in Manhattan and the installation of FieldTurf, an artificial playing surface that is similar to AstroTurf.</p>
+      </block>
+      <block class="full_text">
+        <p>The United States Soccer Foundation announced yesterday that it was giving more than $2.3 million to 46 groups around the country. The foundation was established in 1993 in advance of expected profits when the United States played host to the men's World Cup in 1994.</p>
+        <p>This round of grants includes the awarding of $91,400 to two New York City organizations for the construction and improvement of soccer fields. The Manhattan Kickers Soccer Club's grant will cover the renovation of the East 6th Street field in Manhattan and the installation of FieldTurf, an artificial playing surface that is similar to AstroTurf.</p>
+        <p>The other grant was awarded to the City of New York Parks and Recreation Department for the construction of a field with artificial turf at Flushing Meadows-Corona Park in Queens.</p>
+        <p>PLUS: SOCCER -- U.S. SOCCER FOUNDATION</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

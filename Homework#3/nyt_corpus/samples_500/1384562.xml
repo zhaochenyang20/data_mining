@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Unapproved Canola Seed May Be on Farms, Makers Say</title>
+    <meta content="Y16SEE$01" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2002/04/16/business/16SEED.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1384562"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Food Contamination and Poisoning</classifier>
+        <classifier class="indexing_service" type="descriptor">Canola</classifier>
+        <classifier class="indexing_service" type="descriptor">Regulation and Deregulation of Industry</classifier>
+        <classifier class="indexing_service" type="descriptor">Seeds</classifier>
+        <classifier class="indexing_service" type="descriptor">Genetics and Heredity</classifier>
+        <classifier class="indexing_service" type="descriptor">Agriculture</classifier>
+        <classifier class="indexing_service" type="descriptor">International Trade and World Market</classifier>
+        <classifier class="indexing_service" type="descriptor">Consumer Protection</classifier>
+        <location class="indexing_service">Canada</location>
+        <org class="indexing_service">Monsanto Co</org>
+        <org class="indexing_service">Aventis Cropscience</org>
+        <org class="indexing_service">Food and Drug Administration</org>
+        <person class="indexing_service">Pollack, Andrew</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Canada</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Americas</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Genetics and Heredity</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Food Contamination and Poisoning</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/Canada</classifier>
+        <classifier class="online_producer" type="descriptor">Food</classifier>
+        <classifier class="online_producer" type="descriptor">Agriculture</classifier>
+        <classifier class="online_producer" type="descriptor">Genetic Engineering</classifier>
+        <classifier class="online_producer" type="general_descriptor">Consumer Protection</classifier>
+        <classifier class="online_producer" type="general_descriptor">Flowers and Plants</classifier>
+        <classifier class="online_producer" type="general_descriptor">Genetic Engineering</classifier>
+        <classifier class="online_producer" type="general_descriptor">Regulation and Deregulation of Industry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Food Contamination and Poisoning</classifier>
+        <classifier class="online_producer" type="general_descriptor">International Trade and World Market</classifier>
+        <classifier class="online_producer" type="general_descriptor">Agriculture</classifier>
+        <classifier class="online_producer" type="general_descriptor">Genetics and Heredity</classifier>
+        <classifier class="online_producer" type="general_descriptor">Food</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+        <org class="online_producer">Aventis</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20020416T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F05E6D8113CF935A25757C0A9649C8B63" item-length="655" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Unapproved Canola Seed May Be on Farms, Makers Say</hl1>
+        <hl2 class="online_headline">Unapproved Canola Seed May Be on Farms, Makers Say</hl2>
+      </hedline>
+      <byline class="print_byline">By ANDREW POLLACK</byline>
+      <byline class="normalized_byline">Pollack, Andrew</byline>
+      <abstract>
+        <p>Monsanto and Aventis CropScience say that some genetically modified canola seeds that have not been approved in US might have found their way to farmers' fields; two companies are seeking regulatory approval of those seeds to prevent possible recalls of seeds or food; canola does not appear to present health threat; while Aventis canola has not been approved for planting in US, it is approved for food use when imported directly to food processing factories from Canada; Monsanto crop has not been approved for food use, but Food and Drug Administration says that it deems canola safe (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Monsanto and Aventis CropScience said yesterday that some genetically modified canola seeds that have not been approved in the United States might have found their way to farmers' fields. The two companies are now seeking regulatory approval of those seeds to prevent possible recalls of seeds or food.</p>
+        <p>The canola does not appear to present a health threat. While the Aventis canola has not been approved for planting in the United States, it is approved for food use when imported directly to food processing factories from Canada. The Monsanto crop has not been approved for food use, but the Food and Drug Administration said yesterday that it deemed the canola safe.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Monsanto and Aventis CropScience said that some genetically modified canola seeds that have not been approved in the United States might have found their way to farmers' fields.</p>
+      </block>
+      <block class="full_text">
+        <p>Monsanto and Aventis CropScience said yesterday that some genetically modified canola seeds that have not been approved in the United States might have found their way to farmers' fields. The two companies are now seeking regulatory approval of those seeds to prevent possible recalls of seeds or food.</p>
+        <p>The canola does not appear to present a health threat. While the Aventis canola has not been approved for planting in the United States, it is approved for food use when imported directly to food processing factories from Canada. The Monsanto crop has not been approved for food use, but the Food and Drug Administration said yesterday that it deemed the canola safe.</p>
+        <p>Still, the incidents are expected to raise further concerns about the difficulty of isolating genetically modified crops from others because of cross-pollination or the mixing of seeds in processing or during shipment. The biotechnology and agriculture industries are still reeling from the costly food recalls that ensued when a type of genetically engineered corn not approved for human consumption found its way into taco shells and other foods in 2000.</p>
+        <p>A Monsanto spokesman said the company had not detected the unapproved canola seeds in the seeds it sells in the United States. Aventis CropScience, which developed the corn involved in the recalls two years ago, would not say whether it had found its unapproved canola in the seeds it was selling in this country.</p>
+        <p>The Monsanto canola, known as GT-200, is resistant to its Roundup herbicide, enabling farmers to spray herbicide on the crop to kill weeds without harming the crop. Monsanto decided not to commercialize GT-200 in favor of a slightly different version of Roundup Ready canola.</p>
+        <p>But the GT-200 seeds keep showing up anyway. In 1997, Monsanto recalled thousands of bags of canola seed in Canada, which grows far more canola than the United States, because they contained GT-200. By last year, GT-200 had been approved in Canada, but not in overseas markets, potentially hurting Canadian exports, so Monsanto recalled more canola seed in Canada because it contained GT-200.</p>
+        <p>At that time, Monsanto said it would work to get GT-200 approved in other markets. It is now following through, asking the Department of Agriculture to allow the seeds to be planted, not because Monsanto intends to market them but to prevent disruptions to the food system. Monsanto's actions were first reported yesterday by The Wall Street Journal.</p>
+        <p>Aventis CropScience, which is being sold by Aventis to Bayer, has also applied for approval for its canola. The Agriculture Department is studying public comments and has not made a decision, but it has proposed approving both companies' crops.</p>
+        <p>Joseph Mendelson III, legal director for the Center for Food Safety in Washington, a consumer group critical of genetically modified foods, said the companies were ''seeking post-hoc approval, to cover liability, I think.'' He said that since the seed was showing up in Canada, the companies ''should have known that this is probably making it onto the U.S. market, too.''</p>
+        <p>The presence of the Monsanto canola in food, if it were to be found, would not necessarily prompt recalls because there is no federal approval required for food use of genetically modified crops that do not contain pesticides. The corn that led to the food recalls two years ago contained a pesticide and was therefore subject to regulation by the Environmental Protection Agency.</p>
+        <p>Laura Tarantino, deputy director of the F.D.A. office of food additive safety, said the agency had reviewed safety data submitted voluntarily by Monsanto and had ''no safety questions and no safety issues with it.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

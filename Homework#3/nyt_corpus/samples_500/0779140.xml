@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Battle By the River Drags On</title>
+    <meta content="31" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="779140"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">ROADS AND TRAFFIC</classifier>
+        <classifier class="indexing_service" type="descriptor">RIVERSIDE SOUTH PROJECT (NYC)</classifier>
+        <location class="indexing_service">NEW YORK CITY</location>
+        <location class="indexing_service">WEST SIDE HIGHWAY (NYC)</location>
+        <org class="indexing_service">REGIONAL PLAN ASSN</org>
+        <person class="indexing_service">TRUMP, DONALD J</person>
+        <person class="indexing_service">NADLER, JERROLD L (REPR)</person>
+        <person class="indexing_service">MESSINGER, RUTH W (BORO PRES)</person>
+        <person class="indexing_service">SHOSTA, H CLAUDE</person>
+        <person class="indexing_service">MOYNIHAN, DANIEL PATRICK (SEN)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="general_descriptor">Roads and Traffic</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19950731T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CEFDF1239F932A05754C0A963958260" item-length="759" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Battle By the River Drags On</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Donald Trump's long delayed plan for Riverside South, a $2 billion cluster of apartments and park land on the West Side of Manhattan, hit another snag last week when the House of Representives blocked the use of Federal funds to reconstruct part of the West Side Highway.</p>
+        <p>The measure, sponsored by Representative Jerrold L. Nadler, a West Side Democrat who fiercely opposes the project, provoked a barrage of criticism. The funds were to submerge the elevated section of the highway, between 59th Street and 72d Street, making way for a park with unimpeded access to the Hudson.</p>
+      </block>
+      <block class="full_text">
+        <p>Donald Trump's long delayed plan for Riverside South, a $2 billion cluster of apartments and park land on the West Side of Manhattan, hit another snag last week when the House of Representives blocked the use of Federal funds to reconstruct part of the West Side Highway.</p>
+        <p>The measure, sponsored by Representative Jerrold L. Nadler, a West Side Democrat who fiercely opposes the project, provoked a barrage of criticism. The funds were to submerge the elevated section of the highway, between 59th Street and 72d Street, making way for a park with unimpeded access to the Hudson.</p>
+        <p>Mr. Trump claimed victory, saying he intended to build in any case.</p>
+        <p>But an assortment of civic organizations, in an unusual coalition with Mr. Trump, complained that the city risks losing a historic opportunity.</p>
+        <p>Despite Mr. Nadler's bill, money could be restored by the Senate or by the House itself. But that would be a tough sell because $72 million has just been spent on the highway. Here are some views on what should come next. Jerrold L. Nadler United States Representative</p>
+        <p>The project is now in serious trouble. Mr. Trump said keeping the highway in place will make the project easier for him to build. That is not true. Relocating the highway is essential so the apartments are marketable. With the highway in its current location, the apartments will look out on highway girders instead of the Hudson River. Riverside South would simply be too massive for the West Side. The infrastructure just can't handle a project of this size. And any park adjacent to this project would be overshadowed and cut off from the West Side by a wall of 45-story buildings, rendering it little more than a small, private front yard for those living in Riverside South. This project is being backed by coalition of arrogant, unrepresentative civic groups that came into the West Side, decided what was best, and imposed it on us. Ruth W. Messinger Manhattan Borough President</p>
+        <p>Would an elevated highway running through the park be fatal? No. I've seen great parks with worse obstacles. The area would remain one of the longest expanses in Manhattan where we can really experience the waterfront. But I continue to believe an at-grade inland highway would make an even better park. Under the restrictions we imposed on this project, the park is to be designed in consultation with the community, emphasizing waterfront access and active recreation. I hope we acheve those goals with a flexible design so that some day, after the just-completed refurbishing of the highway has served its purpose, we might return more of the waterfront to the people and keep less for the road. H. Claude Shostal President, Regional Plan Association</p>
+        <p>The highway relocation is not a dead issue and we will continue to fight for it. I refuse to accept that irresponsible political grandstanding could kill the most important addition of open space in Manhattan since Central Park. Riverside South represents a new way of doing public business, sensible cooperation and compromise instead of conflict and litigation. And the rest of the country is watching to see if it will work. The civic organizations made a deal to withdraw their litigation in exchange for city and state support for the redesigned project. If the new administrations walk away from this agreement, then we will be back to bitter business as usual. Daniel Patrick Moynihan United States Senator</p>
+        <p>In February 1977, I stood the remains of a West Side pier and listened to Secretary of Transportation Brock Adams reaffirm a commitment made in the waning hours of the Ford Administration. A Federal interstate highway would be built at river's edge from 43d to the Battery. It would be dug into the bank and a park extending to the river would be built on top. All the way. The equal in our century of Central Park in the last. But then, a Federal judge in a truly baffling decision held that demolishing the piers -- which were already visibly floating out to sea -- would interfere with the spawning grounds of the striped bass. The Federal judge and the Environmental Protection Agency killed Westway. Years have gone by and we now have something of a second chance. In the 1991 Intermodal Surface Transportation Efficiency Act, I provided $15 million to sink the elevated West Side highway and build a park over it out to the river's edge. A small sector of what Westway would have been. Possibly an inspiration for more. But, once again, the litigation commences and the future clouds over.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Consolidated Rail reports earnings for Qtr to June 30</title>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="1993" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="623136"/>
+      <doc.copyright holder="The New York Times" year="1993"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">COMPANY EARNINGS</classifier>
+        <classifier class="online_producer" type="types_of_material">Statistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19930722T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B05E4D61F3AF931A15754C0A965958260" item-length="114" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Consolidated Rail reports earnings for Qtr to June 30</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="full_text">
+        <p>*3*** COMPANY REPORTS **</p>
+        <p>*3*Consolidated Rail (NYSE)</p>
+        <p>Qtr to June 30</p>
+        <p>1993</p>
+        <p>1992</p>
+        <p>Revenue</p>
+        <p>873,000,000</p>
+        <p>843,000,000</p>
+        <p>Net inc</p>
+        <p>85,000,000</p>
+        <p>77,000,000</p>
+        <p>Share earns</p>
+        <p>1.01</p>
+        <p>.90</p>
+        <p>6mo rev</p>
+        <p>1,689,000,000</p>
+        <p>1,641,000,000</p>
+        <p>Net inc</p>
+        <p>b57,000,000</p>
+        <p>115,000,000</p>
+        <p>Share earns</p>
+        <p>.62</p>
+        <p>1.31</p>
+        <p>b-After a charge of $ 74,000,000 from adoption of FASB 106 and 109. Year-ago share earnings are restated to reflect a 2-for-1 stock split in September 1992 for both the quarter and 6 months, and earnings for the quarter and 6 months were reduced by 5 cents a share and 7 cents a share, respectively, due to a two-day work stoppage because of a national rail labor dispute.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

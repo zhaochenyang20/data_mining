@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Corrections; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="678563"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">COURTS</classifier>
+        <classifier class="indexing_service" type="descriptor">JUDGES</classifier>
+        <classifier class="indexing_service" type="descriptor">CORRECTION STORIES</classifier>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Courts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Judges</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19940405T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9500E7DA113FF936A35757C0A962958260" item-length="57" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>An article yesterday about judicial vacancies on the Federal bench in the Second Circuit misstated the 1983 backlog of district-court cases in some editions and referred incompletely in those editions to the area covered. The number of cases pending was 27,167, not 22,964; the figure included Connecticut and Vermont, not just New York.</p>
+      </block>
+      <block class="full_text">
+        <p>An article yesterday about judicial vacancies on the Federal bench in the Second Circuit misstated the 1983 backlog of district-court cases in some editions and referred incompletely in those editions to the area covered. The number of cases pending was 27,167, not 22,964; the figure included Connecticut and Vermont, not just New York.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

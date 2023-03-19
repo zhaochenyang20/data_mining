@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>'Antoni Tàpies at 80'</title>
+    <meta content="RV005851" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Leisure/Weekend Desk" name="dsk"/>
+    <meta content="41" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1472333"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <series series.name="ART IN REVIEW"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Art</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Tapies, Antoni</person>
+        <person class="indexing_service">Glueck, Grace</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Art</classifier>
+        <classifier class="online_producer" type="general_descriptor">Art</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20030314T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950CE3DB113EF937A25750C0A9659C8B63" item-length="361" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>'Antoni Tàpies at 80'</hl1>
+      </hedline>
+      <byline class="print_byline">By GRACE GLUECK</byline>
+      <byline class="normalized_byline">Glueck, Grace</byline>
+      <abstract>
+        <p>Grace Glueck reviews work of Spanish artist Antoni Tapies at PaceWildenstein gallery (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>PaceWildenstein  32 East 57th Street, Manhattan  Through March 29</p>
+        <p>Steeped in a brew of ancient Catalan and avant-garde European art, particularly Surrealism, the Spanish artist Antoni Tàpies's paintings have retained their emblematic power over the years. But their arcane symbols, thickly encrusted surfaces and sober colors, sometimes vivified by blood-red, now seem less provocative than evocative of past work.</p>
+      </block>
+      <block class="full_text">
+        <p>PaceWildenstein  32 East 57th Street, Manhattan  Through March 29</p>
+        <p>Steeped in a brew of ancient Catalan and avant-garde European art, particularly Surrealism, the Spanish artist Antoni Tàpies's paintings have retained their emblematic power over the years. But their arcane symbols, thickly encrusted surfaces and sober colors, sometimes vivified by blood-red, now seem less provocative than evocative of past work.</p>
+        <p>Conditioned in his youth by the somber spectacle of the Spanish Civil War, the artist takes a less-than-rosy view of the human condition, and his imagery sometimes suggests body parts and bandages in hardscrabble contexts. In ''Perforated Hands,'' one of the grimmer and more realistic of these paintings on wood, we look down on a headless body in thickly encrusted paint. The neck where the head once sat is covered by a bandage; the hands, which seem to be playing a form of cat's cradle, are punctured by stigmata like those of Christ. This allegory of suffering rests on a dark ground, in which glimmer two painted moundlike humps.</p>
+        <p>But most of his paintings tell less. They are rife with Christian symbols or emblems of more ancient beliefs, along with arrows, holes, gouges and small piles of inscrutable substances. A very large canvas called ''Your Face'' is a desert of sand-colored canvas and bandagelike pieces, strung together by wire and marked on one side by three black X's, on the other by a crescent.</p>
+        <p>Mr. Tàpies sometimes -- not always convincingly -- attaches battered objects to his surfaces, the better to bring his work more in line with material reality, like the wooden slats and rolls of paper and canvas in ''Broken Pallet.'' Still, the strength of this work lies in the tension between earthy and spiritual, the ''real'' and the symbolic, even if the artist's ability to bring it off sometimes wavers.</p>
+        <p>GRACE GLUECK</p>
+        <p>ART IN REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

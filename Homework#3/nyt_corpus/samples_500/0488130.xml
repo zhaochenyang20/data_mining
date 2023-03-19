@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Wolves Sign Longley To Four-Year Contract</title>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="488130"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <series series.name="SPORTS PEOPLE: PRO BASKETBALL"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">BASKETBALL</classifier>
+        <org class="indexing_service">MINNESOTA TIMBERWOLVES</org>
+        <person class="indexing_service">LONGLEY, LUC</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Basketball/National Basketball Association/Minnesota Timberwolves</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Basketball</classifier>
+        <classifier class="online_producer" type="general_descriptor">Basketball</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19911120T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE4DE1E38F933A15752C1A967958260" item-length="121" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Wolves Sign Longley To Four-Year Contract</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LUC LONGLEY, the seventh pick in the National Basketball Association draft, became the last first-round choice to come to terms yesterday when he signed a four-year contract with the Minnesota Timberwolves that will pay him approximately $1.6 million a year.</p>
+      </block>
+      <block class="full_text">
+        <p>LUC LONGLEY, the seventh pick in the National Basketball Association draft, became the last first-round choice to come to terms yesterday when he signed a four-year contract with the Minnesota Timberwolves that will pay him approximately $1.6 million a year.</p>
+        <p>After four months of negotiations, Longley's agent, LEE FENTRESS, and BOB STEIN, the Timberwolves' president, reached agreement on the basics of the deal Sunday night, The Star Tribune of Minneapolis reported yesterday.</p>
+        <p>Longley, a 7-foot-2-inch center, signed the contract yesterday then worked out with his new team. Longley, who will become the first native Australian to play in the N.B.A., will not be activated for tonight's game at San Antonio. (AP)  SPORTS PEOPLE: PRO BASKETBALL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

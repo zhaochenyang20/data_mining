@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Tencor Instruments reports earnings for Qtr to Mar 31</title>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="761230"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">COMPANY EARNINGS</classifier>
+        <classifier class="online_producer" type="types_of_material">Statistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19950508T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9905E2D6143CF93BA35756C0A963958260" item-length="70" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Tencor Instruments reports earnings for Qtr to Mar 31</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="full_text">
+        <p>*3*** COMPANY REPORTS **</p>
+        <p>*3*Tencor Instruments</p>
+        <p>Qtr to Mar 31</p>
+        <p>1995</p>
+        <p>1994</p>
+        <p>Revenue</p>
+        <p>67,608,000</p>
+        <p>34,298,000</p>
+        <p>Net inc</p>
+        <p>12,876,000</p>
+        <p>b1,929,000</p>
+        <p>Share earns</p>
+        <p>.88</p>
+        <p>.15</p>
+        <p>Shares outst</p>
+        <p>14,583,000</p>
+        <p>12,610,000</p>
+        <p>b-Included one-time merger expenses of $ 2.3 million from the acquisition of Prometrix Corp. in February 1994. Net income excluding merger costs was $ 3.3 million, or 26 cents a share.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

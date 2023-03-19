@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>WNYC Advertises On Buses and Kiosks</title>
+    <meta content="14BBRF" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="Metro Business" name="column_name"/>
+    <docdata>
+      <doc-id id-string="929776"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <series series.name="Metro Business"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Radio</classifier>
+        <classifier class="indexing_service" type="descriptor">Advertising</classifier>
+        <org class="indexing_service">Wnyc (Radio Station)</org>
+        <person class="indexing_service">Chen, David W</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Marketing, Advertising and PR</classifier>
+        <classifier class="online_producer" type="general_descriptor">Radio</classifier>
+        <classifier class="online_producer" type="general_descriptor">Advertising and Marketing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19970514T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E07E6DC1F39F937A25756C0A961958260" item-length="242" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>WNYC Advertises On Buses and Kiosks</hl1>
+      </hedline>
+      <byline class="print_byline">By DAVID W. CHEN</byline>
+      <byline class="normalized_byline">Chen, David W</byline>
+      <abstract>
+        <p>Public radio station WNYC starts its biggest advertising campaign to recruit more listeners and assert its newly acquired independence from New York City government (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>WNYC, the public radio station that offers classical music on its FM band and news and talk on its AM band, has started its biggest advertising campaign ever to recruit more listeners and assert its newly acquired independence from New York City government.</p>
+        <p>The campaign features posters on 250 buses and 50 telephone kiosks around the city with slogans such as ''Did you hear what they said on WNYC?'' and ''Your home for NPR News.'' There are similar WNYC promotions running on Channel 13.</p>
+      </block>
+      <block class="full_text">
+        <p>WNYC, the public radio station that offers classical music on its FM band and news and talk on its AM band, has started its biggest advertising campaign ever to recruit more listeners and assert its newly acquired independence from New York City government.</p>
+        <p>The campaign features posters on 250 buses and 50 telephone kiosks around the city with slogans such as ''Did you hear what they said on WNYC?'' and ''Your home for NPR News.'' There are similar WNYC promotions running on Channel 13.</p>
+        <p>The campaign comes at a critical time for WNYC, which became independent earlier this year. While its audience has been increasing -- the  FM band (93.9) now has 500,000 listeners, the AM band (820) 400,000 -- its future is more vulnerable to the vagaries of the market without the safety net of city financing.</p>
+        <p>''It's an extremely competitive, changing world,'' said Laura Walker, president of WNYC. ''And part of the challenge is to let people know that we're not a sleepy municipal broadcaster, that we have two vibrant radio stations which reflect the diversity and richness and humor of New York.''</p>
+        <p>The campaign for WNYC is scheduled to run two months. Part of the estimated cost of $350,000 is being financed by the Corporation for Public Broadcasting and TIG Holdings Inc. WNYC also received pro bono assistance from Jerry &amp; Ketchum, an ad agency.</p>
+        <p>DAVID W. CHEN</p>
+        <p>Metro Business</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

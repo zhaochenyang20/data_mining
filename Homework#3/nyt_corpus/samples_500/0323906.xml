@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Nets' Blaylock Sidelined With Broken Finger</title>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="26" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="323906"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <series series.name="SPORTS PEOPLE: PRO BASKETBALL"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">BASKETBALL</classifier>
+        <classifier class="indexing_service" type="descriptor">ACCIDENTS AND SAFETY</classifier>
+        <org class="indexing_service">NEW JERSEY NETS</org>
+        <person class="indexing_service">BLAYLOCK, MOOKIE</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Basketball/National Basketball Association/New Jersey Nets</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Basketball</classifier>
+        <classifier class="online_producer" type="general_descriptor">Basketball</classifier>
+        <classifier class="online_producer" type="general_descriptor">Accidents and Safety</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19900206T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE5DA1331F935A35751C0A966958260" item-length="123" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Nets' Blaylock Sidelined With Broken Finger</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: The Nets not only lost their ninth game in a row Sunday night when they were beaten by the Lakers by 121-105 at the Forum, but they also lost Mookie Blaylock. The point guard fractured the little finger on his left hand in two places in the second quarter when it got caught inside Michael Cooper's jersey while he was fouling the Los</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: The Nets not only lost their ninth game in a row Sunday night when they were beaten by the Lakers by 121-105 at the Forum, but they also lost Mookie Blaylock. The point guard fractured the little finger on his left hand in two places in the second quarter when it got caught inside Michael Cooper's jersey while he was fouling the Los</p>
+        <p>The Nets not only lost their ninth game in a row Sunday night when they were beaten by the Lakers by 121-105 at the Forum, but they also lost Mookie Blaylock. The point guard fractured the little finger on his left hand in two places in the second quarter when it got caught inside Michael Cooper's jersey while he was fouling the Los Angeles swingman.</p>
+        <p>There was no immediate estimate of how long Blaylock will be sidelined, but he will definitely miss tomorrow night's game against the Utah Jazz at Byrne Meadowlands Arena.</p>
+        <p>Roy Hinson, the Nets' power forward and second-leading scorer, was lost for the season last week. Hinson, who was averaging 15 points and 6.9 rebounds a game, underwent arthroscopic surgery last Thursday.</p>
+        <p>SPORTS PEOPLE: PRO BASKETBALL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

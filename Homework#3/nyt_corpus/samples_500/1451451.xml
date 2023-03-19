@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>BEIJING RELEASES LEADING DISSIDENT</title>
+    <meta content="25CHIN" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="World; Front Page; Washington" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2002/12/25/international/asia/25CHIN.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1451451"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Political Prisoners</classifier>
+        <classifier class="indexing_service" type="descriptor">United States International Relations</classifier>
+        <location class="indexing_service">China</location>
+        <person class="indexing_service">Xu Wenli</person>
+        <person class="indexing_service">Eckholm, Erik</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/China</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Asia Pacific</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/China</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+        <classifier class="online_producer" type="descriptor">Political Prisoners</classifier>
+        <classifier class="online_producer" type="descriptor">Freedom and Human Rights</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Freedom and Human Rights</classifier>
+        <classifier class="online_producer" type="general_descriptor">Political Prisoners</classifier>
+        <classifier class="online_producer" type="general_descriptor">Political Prisoners</classifier>
+        <classifier class="online_producer" type="general_descriptor">International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prisons and Prisoners</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <location class="online_producer">China</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20021225T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9906EFDA133CF936A15751C1A9649C8B63" item-length="1051" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>BEIJING RELEASES LEADING DISSIDENT</hl1>
+        <hl2 class="online_headline">Beijing Releases Leading Dissident</hl2>
+      </hedline>
+      <byline class="print_byline">By ERIK ECKHOLM</byline>
+      <byline class="normalized_byline">Eckholm, Erik</byline>
+      <dateline>BEIJING, Dec. 24</dateline>
+      <abstract>
+        <p>China releases Xu Wenli, its most prominent pro-democracy prisoners, sending him to exile and medical treatment in US; Wenli, who spent more than 16 of last 21 years in prison for his irrepressible advocacy of civil liberties, suffers from chronic and progressive infection with hepatitis B; his release signals China's strong desire for good relations with US; photo of Xu being greeted by his daughter at O'Hare Airport in Chicago (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>China released its most prominent pro-democracy prisoner today, sending him to exile and medical treatment in the United States.</p>
+        <p>The Christmas-eve release of Xu Wenli, 59, who spent more than 16 of the last 21 years in prison for his irrepressible advocacy of civil liberties, came one week after a visiting American diplomat made pleas on his behalf. The release signaled China's strong desire for good relations with the United States.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>China released its most prominent pro-democracy prisoner, sending him to exile and medical treatment in the U.S.</p>
+      </block>
+      <block class="full_text">
+        <p>China released its most prominent pro-democracy prisoner today, sending him to exile and medical treatment in the United States.</p>
+        <p>The Christmas-eve release of Xu Wenli, 59, who spent more than 16 of the last 21 years in prison for his irrepressible advocacy of civil liberties, came one week after a visiting American diplomat made pleas on his behalf. The release signaled China's strong desire for good relations with the United States.</p>
+        <p>Since late 1998, when Mr. Xu received a 13-year prison sentence on charges of subversion after he helped organize an independent political party, American officials and human rights groups abroad have repeatedly sought his release. The appeals grew more urgent after 1999, when doctors discovered that Mr. Xu suffers from chronic and progressive infection with hepatitis B.</p>
+        <p>While other prominent dissidents have been released over the years on what often appeared to be trumped-up medical grounds, Mr. Xu's liver disease is serious and worsening, family members said. Officially, he was granted medical parole today so he can seek advanced treatments for the viral disease in the United States, said John Kamm, the leader of an American human-rights foundation who said he was authorized by the Chinese to announce the release.</p>
+        <p>''This was directly related to the Chinese government's desire to improve relations with the United States,'' said Mr. Kamm, executive director of the Dui Hua Foundation in San Francisco, which monitors Chinese political and religious prisoners. In Washington, the State Department spokesman, Philip Reeker, said the United States was ''pleased that China has released Xu Wenli on medical parole.'' Mr. Reeker said the case of Mr. Xu had been pressed by the United States, other countries, various private groups and members of Congress.</p>
+        <p>This evening, with no publicity here, Mr. Xu and his wife, He Xintong, boarded a plane for Chicago, where their daughter, who teaches at a high school in Rhode Island, planned to meet them and accompany them to New York City.</p>
+        <p>[The couple arrived Tuesday evening at O'Hare International Airport in Chicago, where Mr. Xu was reunited with his daughter, Xu Jin. He declined interviews and just offered ''a big thank you,'' said Mickey Spiegel, a friend of the daughter, The Associated Press reported.]</p>
+        <p>Last week, during a meeting here, Lorne Craner, the assistant secretary of state for human rights, had placed Mr. Xu at the top of a list of political prisoners whose release the United States considered a priority. Afterward, Mr. Craner said in Beijing that the Chinese had promised to issue unconditional invitations to United Nations rights monitors exploring issues related to torture and religious freedom.</p>
+        <p>While welcoming Mr. Xu's freedom, rights advocates abroad noted that dozens of others who pushed for a new political party in 1998 remain imprisoned and that overall, thousands of people are in jail for peaceful expressions of dissent or efforts to organize. Among them are Qin Yongmin, 49, who was a close associate of Mr. Xu and who was sentenced to 12 years in prison in December 1998, and Wang Youcai, 36, who was the main founder that year of the ill-fated China Democracy Party. He was sentenced to 11 years.</p>
+        <p>American officials have also sought the release of Rebiya Kadeer, a prominent Uighur Muslim businesswoman who is imprisoned on weakly substantiated charges of fomenting an independence movement in Xinjiang province.</p>
+        <p>Mr. Xu, who was born in 1943, described himself as an idealistic Marxist during the 1960's. In the revolutionary spirit of that era, he decided to get his education in society rather than at a university.</p>
+        <p>He spent time in the Chinese Navy, then was an electrician with the Beijing railroads. But in the late 1970's he emerged as a leader of the ''democracy wall'' movement, a brief outpouring of calls for political rights that was soon dealt with harshly.</p>
+        <p>Mr. Xu spent 12 years in prison, with long stretches in solitary confinement, before his release in 1993.</p>
+        <p>Mr. Xu could be a prickly figure and he publicly feuded with another democracy wall activist, Wei Jingsheng, who was sent into exile in the United States in 1997 after spending much of his adult life in prison.</p>
+        <p>But Mr. Xu's single-minded devotion to democratic principles never flagged, and he was known for his steely analyses of what he saw as the Communist government's half-measures and frequent flouting of its own Constitution.</p>
+        <p>In 1998, during what appeared to be a political softening around the time of a friendly visit to China by President Bill Clinton, Mr. Xu and Mr. Qin together made open calls for free labor unions and independent political parties. In the face of intense surveillance and repeated brief detentions, they tried to set up a domestic human-rights monitoring network using e-mail and faxes.</p>
+        <p>Then, as the fledgling China Democracy Party attracted followers and attention, the two joined forces with Mr. Wang -- a younger rights advocate who had cut his teeth in the 1989 Tiananmen Square protests.</p>
+        <p>Late in 1998, the party was formally banned and the police rounded up scores of its followers around the country. The quick, harsh sentences dealt to Mr. Xu, Mr. Qin and Mr. Wang brought angry words from the United States and other Western governments.</p>
+        <p>When he received his 13-year sentence after a three-and-a-half hour secret trial in December 1998, Mr. Xu was allowed a half hour with his wife.</p>
+        <p>''He told me he'd be able to handle the pain,'' Ms. He said in an interview at the time. ''He said that this would give him time to think things over and calmly reflect on what has happened.''</p>
+        <p>Earlier, Mr. Xu had rejected proposals to go into exile. But his worsening medical condition as well as his lengthy new sentence apparently led him to change his mind.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

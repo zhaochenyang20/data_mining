@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Sports of The Times; Richman's Love-In With the Game</title>
+    <meta content="07ANDE" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="1999" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="8" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1083427"/>
+      <doc.copyright holder="The New York Times" year="1999"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Baseball</classifier>
+        <classifier class="indexing_service" type="descriptor">News and News Media</classifier>
+        <classifier class="indexing_service" type="descriptor">Awards, Decorations and Honors</classifier>
+        <org class="indexing_service">New York Yankees</org>
+        <person class="indexing_service">Richman, Arthur</person>
+        <person class="indexing_service">Anderson, Dave</person>
+        <object.title class="indexing_service">Sports of the Times (Times Column)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Columns/Dave Anderson</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball/Major League/New York Yankees</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball/Major League/New York Mets</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball</classifier>
+        <classifier class="online_producer" type="general_descriptor">Media</classifier>
+        <classifier class="online_producer" type="general_descriptor">News and News Media</classifier>
+        <classifier class="online_producer" type="general_descriptor">Awards, Decorations and Honors</classifier>
+        <classifier class="online_producer" type="general_descriptor">Baseball</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19990207T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9905EEDC143BF934A35751C0A96F958260" item-length="970" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Sports of The Times; Richman's Love-In With the Game</hl1>
+      </hedline>
+      <byline class="print_byline">By DAVE ANDERSON</byline>
+      <byline class="normalized_byline">Anderson, Dave</byline>
+      <abstract>
+        <p>Sports of The Times interview with Arthur Richman, 72-year-old former sportswriter and Mets executive who is now senior adviser for New York Yankees; Richman will receive achievement award at New York Baseball WritersDinner; photo with baseball memorabilia in his office at Yankee Stadium (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>WHEN the premiere of the official 1998 World Series video ended not long ago and the lights went on, Joe Torre turned toward a balding, bespectacled man in the back of the room.</p>
+        <p>''I love you, Arthur Richman,'' the Yankee manager said.</p>
+      </block>
+      <block class="full_text">
+        <p>WHEN the premiere of the official 1998 World Series video ended not long ago and the lights went on, Joe Torre turned toward a balding, bespectacled man in the back of the room.</p>
+        <p>''I love you, Arthur Richman,'' the Yankee manager said.</p>
+        <p>Joe Torre's banker, along with George Steinbrenner and every Yankee fan, should love Arthur Richman, too. And all that love will hug Richman at the New York Baseball Writers Dinner tonight when he is honored with the William J. Slocum Award for long and meritorious service.</p>
+        <p>The 72-year-old Richman, once a sportswriter with The Daily Mirror and a Mets executive for nearly three decades, is now a senior adviser in the Yankee hierarchy.</p>
+        <p>''George Steinbrenner and I fight all the time,'' he was saying, surrounded by more than a hundred photos on the walls of his Yankee Stadium office. ''An hour later, we go out to dinner together.''</p>
+        <p>But when the Yankees needed a new manager for the 1996 season, they didn't fight. Instead, Steinbrenner asked Richman to recommend replacements for Buck Showalter.</p>
+        <p>''George told me, 'Make me up a list,' '' Richman recalled.</p>
+        <p>His list had four names: Tony La Russa, Davey Johnson, Sparky Anderson and Torre. But La Russa was about to sign a $1.5 million contract with the St. Louis Cardinals, Johnson was about to be hired as the Baltimore Orioles' manager, and Anderson was content in retirement in California.</p>
+        <p>''George interviewed Joe for the general manager's job, but Joe didn't want it,'' Richman said. ''I told George that Joe really would prefer to manage.''</p>
+        <p>When the Yankees announced Torre as the new dugout manager, skeptics pounced. One tabloid headline described him as Clueless Joe. In 14 seasons as a manager with the Mets, the Atlanta Braves and the Cardinals, Torre had had only one first-place team.</p>
+        <p>''When George saw the papers, he asked me, 'Do you know what you're doing?' '' Richman said. ''I told him, 'If I don't, fire me.' ''</p>
+        <p>Richman knew Torre with the Mets for five years, when Richman was the traveling secretary and Torre was the manager. He knew Torre as a New Yorker from Brooklyn who understood New York. He knew that Torre's quiet toughness wouldn't wilt under Steinbrenner's tyranny. And with two World Series rings in three seasons, Torre has fulfilled Richman's faith.</p>
+        <p>''Joe should love me,'' Richman said with a laugh. ''He's going to be making $2 million this year. Whenever he stops managing, he'll never have to work again.''</p>
+        <p>Richman would tell you that he has never really worked at all, dating to 1942 when he was hired as a copy boy by The Daily Mirror's legendary sports editor, Dan Parker.</p>
+        <p>''Who else would work for $11.88 a week when older guys were making $90 a week in war plants?'' he said. ''But when Dan Parker hired me, that started my whole life.''</p>
+        <p>It's been a long and meritorious life shared for decades with his late brother, Milton, a renowned sportswriter with United Press International; with his wife, Martha, since 1979; and with thousands of baseball people, notably Don Larsen, the Yankee right-hander who pitched a perfect game in the 1956 World Series.</p>
+        <p>''I hung out with Donnie then,'' he said. ''Everybody thinks he was drunk the night before, but we just went to Billy Taylor's bar on West 57th Street, had a few toddies and went back to the Grand Concourse Hotel, where he was living. He went out for a pizza, came back and told me, 'I might pitch a no-hitter tomorrow.' ''</p>
+        <p>When Larsen was married, Richman was his best man. And when Richman was married, his best man was Willie Mays.</p>
+        <p>''Several other guys stood up for me, too,'' Richman said. ''Ernie Banks, Ralph Kiner, Joe Torre, Dick Williams, Lee Mazzilli, Joe Pignatano, Ted Sizemore and Doug Flynn.''</p>
+        <p>Richman joined the Yankees in 1989 as a vice president of media relations, a job that, in the Steinbrenner regime, had never been known for its longevity. But he's still there.</p>
+        <p>''I've been fired 15 times and I've quit 20 times,'' Richman said with a laugh. ''George will see me and say, 'I thought you left,' and I'll tell him, 'How can I leave?' George gets on me for having a toddy now and then, but I tell him, 'My doctors told me I have to drink to relieve the stress that you cause me.' ''</p>
+        <p>For all his Yankee loyalty now, Richman hasn't forgotten his first baseball love: the St. Louis Browns of the early 1940's.</p>
+        <p>''As a Bronx kid hanging around the Stadium, I'd see the Yankee players come down from the Grand Concourse Hotel and walk right by me,'' he said. ''But the visiting players always came by subway. I was virtually adopted by some of those Browns. They took me into the ball park. Sometimes they even took me on their train trips. When the conductor came around, they'd hide me in an upper berth.''</p>
+        <p>Arthur Richman turned to a photo of the 1944 Browns celebrating their clinching of the American League pennant.</p>
+        <p>''See the white cap they're wearing; there's no insignia on it, just a few brown and gold stripes,'' he said. ''I've got one of those caps. I told Martha: 'At my funeral, I want that cap buried with me. Just be sure no collector steals it before they close the coffin.' ''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Time to Rethink the Freedom Tower</title>
+    <meta content="LTR214147" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1670990"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20050508T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D06E0D91530F93BA35756C0A9639C8B63" item-length="241" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Time to Rethink the Freedom Tower</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Pataki and Bloomberg Endorse Changes in Ground Zero Tower'' (front page, May 5):</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Pataki and Bloomberg Endorse Changes in Ground Zero Tower'' (front page, May 5):</p>
+        <p>I'm glad that the construction of the Freedom Tower is profoundly delayed. Let's keep ground zero as it is for a while longer.</p>
+        <p>Rudolph W. Giuliani, in his one shining moment as mayor, led us through the tragedy, kept his calm (and ours), and reminded us that we are New Yorkers.</p>
+        <p>Before he left his job, he instructed New York City to build a ''soaring monumental'' memorial in the space of the World Trade Center. He meant a memorial to the innocent victims of the worst attack on the United States since Pearl Harbor.</p>
+        <p>The design for the Freedom Tower, which was quickly shoved down the public's throat, never impressed me as being a ''soaring monumental'' memorial to anything.</p>
+        <p>On the contrary, it looked like many of the recent grotesque glass towers that have sprouted up around Times Square -- only taller.</p>
+        <p>More important, I and a great many other New Yorkers are not in the mood for something really tall in that area -- yet. We have more mourning to do.</p>
+        <p>Thomas Lyons McHugh  New York, May 5, 2005</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   WILE, JULIUS</title>
+    <meta content="dn121405" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="17" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1724962"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <identified-content>
+        <person class="indexing_service">WILE, JULIUS</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20051214T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C02E2DC1F31F937A25751C1A9639C8B63" item-length="104" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   WILE, JULIUS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>WILE--Julius. Wine expert and educator, on December 12, 2005 at home in Scarsdale, NY. Loving husband of the late Ruth Wile. Beloved father of Barbara Wile Schwarz and Andrew Wile, and fatherin-law of Paul Schwarz, Kathleen Wile and Regina Burg. Devoted grandfather of Susan Schwarz, Stephen Schwarz and wife Kristen Couse, and Max Julius Wile. Adoring great grandfather of Wile Taylor Schwarz-Couse. Donations to the Ruth &amp; Julius Wile Endowed Scholarship Fund of the Culinary Institute of America, Hyde Park, NY, or to White Plains Hospital Center. Services at Congregation Kol Ami, 252 Soundview Ave, White Plains Friday, December 16, 11am</p>
+        <p>$(6$)WILEJULIUS ST#</p>
+      </block>
+      <block class="full_text">
+        <p>WILE--Julius. Wine expert and educator, on December 12, 2005 at home in Scarsdale, NY. Loving husband of the late Ruth Wile. Beloved father of Barbara Wile Schwarz and Andrew Wile, and fatherin-law of Paul Schwarz, Kathleen Wile and Regina Burg. Devoted grandfather of Susan Schwarz, Stephen Schwarz and wife Kristen Couse, and Max Julius Wile. Adoring great grandfather of Wile Taylor Schwarz-Couse. Donations to the Ruth &amp; Julius Wile Endowed Scholarship Fund of the Culinary Institute of America, Hyde Park, NY, or to White Plains Hospital Center. Services at Congregation Kol Ami, 252 Soundview Ave, White Plains Friday, December 16, 11am</p>
+        <p>$(6$)WILEJULIUS ST#</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

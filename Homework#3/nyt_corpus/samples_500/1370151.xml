@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Thoroughbred Crazies</title>
+    <meta content="24BRUBACT" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Health; Books" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2002/02/24/books/review/24BRUBACT.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1370151"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Brubach, Holly</person>
+        <person class="indexing_service">Beam, Alex</person>
+        <object.title class="indexing_service">Gracefully Insane (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Mental Health and Behavior</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="descriptor">Mental Health and Disorders</classifier>
+        <classifier class="online_producer" type="descriptor">Books and Literature</classifier>
+        <classifier class="online_producer" type="descriptor">Reviews</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mental Health and Disorders</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+        <person class="online_producer">Beam, Alex</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20020224T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9403E5DB143FF937A15751C0A9649C8B63" item-length="1499" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Thoroughbred Crazies</hl1>
+        <hl2 class="online_headline">'Gracefully Insane': The Thoroughbred Crazies</hl2>
+      </hedline>
+      <byline class="print_byline">By Holly Brubach</byline>
+      <byline class="normalized_byline">Brubach, Holly</byline>
+      <abstract>
+        <p>Holly Brubach reviews book Gracefully Insane: The Rise and Fall of America's Premier Mental Hospital by Alex Beam; drawing (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>GRACEFULLY INSANE</p>
+        <p>The Rise and Fall of America's</p>
+        <p>Premier Mental Hospital.</p>
+        <p>By Alex Beam.</p>
+        <p>Illustrated. 273 pp. New York:</p>
+        <p>PublicAffairs. $26.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Alex Beam has written a history of McLean Hospital, which has cared for the mental health of a discriminating clientele for most of two centuries.</p>
+      </block>
+      <block class="full_text">
+        <p>GRACEFULLY INSANE</p>
+        <p>The Rise and Fall of America's</p>
+        <p>Premier Mental Hospital.</p>
+        <p>By Alex Beam.</p>
+        <p>Illustrated. 273 pp. New York:</p>
+        <p>PublicAffairs. $26.</p>
+        <p>''CLAYMOORE is a top-notch place,'' the psychiatrist tells a suicidal Winona Ryder at the start of the movie ''Girl, Interrupted,'' urging her to commit herself to a nearby asylum with a national reputation. ''A lot of people go there -- even writers. Like you!'' Now that depression has become a literary subgenre, with confessional memoirs of the self-consciously despondent topping the charts, it would be hard to think of a more persuasive marketing campaign for a mental hospital. Claymoore is in fact McLean, in Belmont, Mass., where Susanna Kaysen, author of the best-selling book on which the film is based, spent nearly two years in the late 60's. Other illustrious alumni (to name only the writers) include Robert Lowell, Sylvia Plath and Anne Sexton, who, before being admitted herself, taught a Tuesday night poetry seminar in the hospital library. On the basis of literary achievement alone, McLean would seem to have a better track record than many institutions of higher learning.</p>
+        <p>McLean figures in the biographies of these and other famous patients, among them, the mathematician John Forbes Nash, winner of the Nobel in economic science; Ray Charles (following a drug bust); the Taylors -- James, Livingston and Kate; and several analysands notorious in psychiatric circles, to say nothing of Frederick Law Olmsted, who, having planned the hospital's new campus after its move from nearby Charlestown in 1895, lived out his last years there in a single-patient home, the victim of a series of brain hemorrhages. Now we have the biography of the place itself, its title taken from what Sexton admiringly said of Lowell: ''You are so gracefully insane.''</p>
+        <p>A columnist for The Boston Globe, Alex Beam succeeds in telling several stories simultaneously, weaving an account of changing attitudes toward mental illness, the methods employed in its treatment and the shifting context of the larger culture into an entertaining narrative that centers on the hospital and its history. McLean was founded in the early 19th century, the product of an idea born in Europe -- that a bucolic setting might prove beneficial to the mentally ill. The only hospital of its kind in Boston at the time, McLean catered to patients from every level of society until 1833, when the Worcester State Asylum opened its doors and siphoned off those too poor to pay their own way. From then on, McLean specialized in the treatment of a clientele that Lowell called ''the thoroughbred mental cases.'' Indeed, the accommodations and services seem to have been modeled on those of a five-star hotel: fireplaces, private bathrooms and ample closet space; two tennis courts, two indoor gymnasiums and a nine-hole golf course, plus croquet, ice skating and cross-country skiing on the grounds; room service and restaurant-quality food; silver tea sets, antique furniture and Oriental rugs. On behalf of the patients, the nursing staff wrote thank-you notes, sent flowers and, with the arrival of warm weather each spring, arranged for the transfer of their furs into cold storage. Upham Memorial, a men's residence, was nicknamed ''the Harvard Club'' because at one time its four corner suites were all said to be occupied by Harvard graduates.</p>
+        <p>Over the years, as one seemingly arbitrary theory of mental illness gave way to another, so did its hypothetical cures, and Beam describes the harrowing array of treatments to which this hapless population was subjected -- not only electric shock but lobotomy, insulin coma and hypothermia, reducing the patient's body temperature to a near-death state. The indulgence inherent in the service was offset during the 50's by an approach called ''total push,'' which obliged residents to get out of their pajamas, get dressed and go for walks, as if a strong dose of Calvinist rigor could cure patients who traced their lineage to the Mayflower.</p>
+        <p>Beam remarks on Olmsted's layout, which ''relegated deeply disturbed patients to the periphery of the grounds, where their rantings resounded offstage.'' The same might be said for ''Gracefully Insane,'' which depicts McLean's patients as charmingly eccentric, harmful primarily to themselves. Even Louis Agassiz Shaw, a murderer and a snob who inhabited a book-lined suite in Upham Memorial, and Carl Liebman, a paranoid schizophrenic unsuccessfully analyzed by Freud, are cheerfully presented in the context of a cast straight out of a 30's screwball comedy. Shaw, who had strangled his maid, acquires a sidekick, ''a Bible-thumping companion'' by the name of Joan Tunney Wilkinson, daughter of the famous boxer Gene Tunney and sister of Senator John Tunney, accused of killing her husband on Easter Sunday, 1970. ''At McLean,'' Beam writes, she ''came under the sway of the Christian revival group the Way. . . . At hall meetings . . . Wilkinson was wont to say, 'Louis, we must confess our sins.' His inevitable answer: 'Oh, Joan, no.' '' Liebman, whose conviction that he was being followed by detectives was cited by his doctors as evidence of his incurable paranoia, was in fact being followed by detectives, who had been hired by his family.</p>
+        <p>However tragic the circumstances, there is no lack of humor here, some of it in Beam's wry asides, much of it implicit in the deadpan choice of material and in a penchant for understatement on the part of the authorities. Even the patients themselves, it seems, recognized the entertainment value in their surroundings. In 1958, they wrote and staged a musical, ''Close to Home,'' an hourlong parody of life at the Belmont Hill Bettering House, where Andy, a protagonist with a drinking problem, undergoes the psychoanalytic scrutiny of the staff and in the end finds romance with another patient, culminating in a lyrical duet, ''In Love, Sort Of.'' The show was a triumph, playing to packed houses on three evenings, and was taken on the road to the Austen Riggs sanitarium in Stockbridge, Mass. The librettist, Beam tells us, later committed suicide.</p>
+        <p>These high jinks are a far cry from Lowell's experience, judging from the plaintive references to McLean that made their way into his work and from accounts by members of the staff and fellow inmates. In his manic phases, he devoted himself to fruitless exercises like rewriting famous poems in the Norton Anthology; in the throes of depression, he underwent electroshock treatments. Plath commemorated her stay at McLean in her autobiographical novel, ''The Bell Jar.'' Four years after her release, she noted in her journal that a recent issue of Cosmopolitan contained two articles about mental health: ''I must write one about a college girl suicide,'' she wrote. ''And a story, a novel even. . . . There is an increasing market for mental-hospital stuff. I am a fool if I don't relive, recreate it.'' Little did she know just how large that market would become. Kaysen, Andrew Solomon, Emily Fox Gordon, Elizabeth Wurtzel and others have lately documented their journey to the brink of despair and back in accounts influenced by Plath's, Lowell's and Sexton's examples, even when those examples are not invoked.</p>
+        <p>This new generation of memoirs, and to a certain degree this book, promulgates an idea of madness more becoming and more easily digestible than the confounding, occasionally horrific reality. It's hard to reconcile the setting of ''Gracefully Insane'' -- the luxurious appointments, the pastoral surroundings, the lovable eccentrics -- with the desolate interior landscape of the mentally ill, which Beam makes no attempt to convey. For that, the reader must turn to William Styron, whose brutally straightforward ''Darkness Visible'' manages to capture the full force of the suffering: the isolation, the tedium, the life gone stale. Beam's guided tour bypasses the schizophrenics, the drug addicts and any number of other less picturesque patients, like those prone to violence and in need of restraining. On the basis of ''Gracefully Insane,'' the reader might conclude that bluebloods make a better class of mental patient: even with a few screws loose, their manners are intact.</p>
+        <p>Strapped for cash and grappling for market share in the era of managed care, McLean is now headed the way of other once-august American institutions, its decline hastened by the advent of new drugs, most famously Prozac, that have shortened hospital stays and relegated certain mental illnesses to the outpatient clinics. At the start, Beam reports the board of directors' decision to sell off half of McLean's 250 acres in order to survive, and coming to the end of this lively account the reader can't help feeling a certain nostalgia and regret.</p>
+        <p>Holly Brubach has written for The Atlantic Monthly, The New Yorker and The Times.</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">Holly Brubach has written for The Atlantic Monthly, The New Yorker and The Times.</tagline>
+    </body.end>
+  </body>
+</nitf>

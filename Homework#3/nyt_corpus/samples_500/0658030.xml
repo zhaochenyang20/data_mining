@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Leetch an All-Star Starter</title>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="1993" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="658030"/>
+      <doc.copyright holder="The New York Times" year="1993"/>
+      <series series.name="HOCKEY"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">HOCKEY, ICE</classifier>
+        <classifier class="indexing_service" type="descriptor">ALL-STAR GAMES</classifier>
+        <classifier class="indexing_service" type="descriptor">HOCKEY, ICE</classifier>
+        <classifier class="indexing_service" type="descriptor">ALL-STAR GAMES</classifier>
+        <org class="indexing_service">NEW YORK RANGERS</org>
+        <org class="indexing_service">NATIONAL HOCKEY LEAGUE (NHL)</org>
+        <org class="indexing_service">NEW YORK RANGERS</org>
+        <org class="indexing_service">NATIONAL HOCKEY LEAGUE (NHL)
+NATIONAL HOCKEY LEAGUE</org>
+        <person class="indexing_service">LEETCH, BRIAN</person>
+        <person class="indexing_service">LEETCH, BRIAN</person>
+        <object.title class="indexing_service">NEW YORK RANGERS</object.title>
+        <object.title class="indexing_service">NATIONAL HOCKEY LEAGUE (NHL)
+NATIONAL HOCKEY LEAGUE</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Hockey/National Hockey League/New York Rangers</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Hockey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Hockey/National Hockey League</classifier>
+        <classifier class="online_producer" type="general_descriptor">Games</classifier>
+        <classifier class="online_producer" type="general_descriptor">All Star Games</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hockey, Ice</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19931224T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE0D71631F937A15751C1A965958260" item-length="188" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Leetch an All-Star Starter</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Brian Leetch of the Rangers was voted a starting spot on the Eastern Conference team for the National Hockey League All-Star Game, which will be played on Jan. 22 at Madison Square Garden.</p>
+        <p>Leetch was elected to play in the fourth All-Star Game of his career (he missed last year's game because of an injury) with a total of 176,129 votes. He will be paired on defense with Ray Bourque of the Boston Bruins, who led all players in the balloting by fans with 227,601 votes. Bourque will be making his 13th All-Star appearance. Darius Kasparaitis of the Islanders was the third among defensemen with 114,108 votes.</p>
+      </block>
+      <block class="full_text">
+        <p>Brian Leetch of the Rangers was voted a starting spot on the Eastern Conference team for the National Hockey League All-Star Game, which will be played on Jan. 22 at Madison Square Garden.</p>
+        <p>Leetch was elected to play in the fourth All-Star Game of his career (he missed last year's game because of an injury) with a total of 176,129 votes. He will be paired on defense with Ray Bourque of the Boston Bruins, who led all players in the balloting by fans with 227,601 votes. Bourque will be making his 13th All-Star appearance. Darius Kasparaitis of the Islanders was the third among defensemen with 114,108 votes.</p>
+        <p>The other starters for the Eastern Conference will be Jaromir Jagr of Pittsburgh (209,147 votes), Alexander Mogilny of Buffalo (186,000) and Eric Lindros of Philadelphia (132,622), who beat out Pittsburgh's Mario Lemieux (120,675) for the starting center position.</p>
+        <p>Patrick Roy of the Montreal Canadiens (213,452) will start in goal. The remaining players on the roster will be chosen by the East coach, Montreal Jacques Demers. The balloting for the Western Conference will be released on Monday.</p>
+        <p>HOCKEY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

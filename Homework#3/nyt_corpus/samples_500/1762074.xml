@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>To Save a Shorebird, Horseshoe Crabbing Is Banned in New Jersey</title>
+    <meta content="16birds" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2006/05/16/nyregion/16birds.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1762074"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Birds</classifier>
+        <classifier class="indexing_service" type="descriptor">Horseshoe Crabs</classifier>
+        <classifier class="indexing_service" type="descriptor">Red Knot (Bird)</classifier>
+        <classifier class="indexing_service" type="descriptor">Endangered and Extinct Species</classifier>
+        <classifier class="indexing_service" type="descriptor">Fishing, Commercial</classifier>
+        <classifier class="indexing_service" type="descriptor">Fish and Other Marine Life</classifier>
+        <classifier class="indexing_service" type="descriptor">Migration</classifier>
+        <location class="indexing_service">New Jersey</location>
+        <person class="indexing_service">Kelley, Tina</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New Jersey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Wildlife</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Fishing</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Birds</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Eco-tourism</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New Jersey</classifier>
+        <classifier class="online_producer" type="descriptor">Endangered and Extinct Species</classifier>
+        <classifier class="online_producer" type="descriptor">Birds</classifier>
+        <classifier class="online_producer" type="descriptor">Environment</classifier>
+        <classifier class="online_producer" type="descriptor">Fishing, Commercial</classifier>
+        <classifier class="online_producer" type="descriptor">Fishing, Sport</classifier>
+        <classifier class="online_producer" type="descriptor">Animals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Fishing, Commercial</classifier>
+        <classifier class="online_producer" type="general_descriptor">Migration</classifier>
+        <classifier class="online_producer" type="general_descriptor">Fishing, Sport</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Fish and Other Marine Life</classifier>
+        <classifier class="online_producer" type="general_descriptor">Endangered and Extinct Species</classifier>
+        <classifier class="online_producer" type="general_descriptor">Birds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Animals</classifier>
+        <location class="online_producer">New Jersey</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060516T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D05E1DC153EF935A25756C0A9609C8B63" item-length="514" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>To Save a Shorebird, Horseshoe Crabbing Is Banned in New Jersey</hl1>
+        <hl2 class="online_headline">To Save a Shorebird, Horseshoe Crabbing Is Banned in New Jersey</hl2>
+      </hedline>
+      <byline class="print_byline">By TINA KELLEY</byline>
+      <byline class="normalized_byline">Kelley, Tina</byline>
+      <abstract>
+        <p>New Jersey bans fishing of horseshoe crabs for two years in effort to save threatened migratory shorebird red knot; horseshoe crabs are red knot's main food source (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>In an effort to save a wide-ranging shorebird from extinction, the New Jersey Department of Environmental Protection has banned all fishing of horseshoe crabs, the bird's main food source, for the next two years. The moratorium, put in place yesterday, affects about 30 commercial fishermen in New Jersey.</p>
+        <p>The red knot, a robin-size bird that the state has listed as threatened, migrates annually from Tierra del Fuego, at the southern tip of South America, to the Canadian Arctic. When flying north from Brazil, the birds make only one stop, along the Delaware Bay, where they eat enough protein- and fat-rich horseshoe crab eggs to double their weight. Then the birds take off for the last leg of their 10,000 mile journey, a nonstop flight north to Southampton Island in Canada, just below the Arctic Circle.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>In an effort to save the red knot, the state has banned all fishing of horseshoe crabs, the bird's main food source, for the next two years.</p>
+      </block>
+      <block class="full_text">
+        <p>In an effort to save a wide-ranging shorebird from extinction, the New Jersey Department of Environmental Protection has banned all fishing of horseshoe crabs, the bird's main food source, for the next two years. The moratorium, put in place yesterday, affects about 30 commercial fishermen in New Jersey.</p>
+        <p>The red knot, a robin-size bird that the state has listed as threatened, migrates annually from Tierra del Fuego, at the southern tip of South America, to the Canadian Arctic. When flying north from Brazil, the birds make only one stop, along the Delaware Bay, where they eat enough protein- and fat-rich horseshoe crab eggs to double their weight. Then the birds take off for the last leg of their 10,000 mile journey, a nonstop flight north to Southampton Island in Canada, just below the Arctic Circle.</p>
+        <p>In 1998, about 50,360 birds made the journey. But by 2004, after a large increase in the horseshoe crab harvest during the 1990's, only 13,315 birds were counted. Last year about 17,000 landed on the shores of Delaware Bay. Some scientists estimate that the birds could become extinct in five years.</p>
+        <p>''New Jersey has taken the position that we're going to do everything we can, everything within our authority, to make sure that doesn't happen,'' said John Watson, deputy commissioner of the state's Department of Environmental Protection.</p>
+        <p>But last week, the Atlantic States Marine Fisheries Commission, which coordinates the management of ocean resources in the 15 Atlantic coast states, stopped short of imposing a regionwide moratorium on horseshoe crabbing. The commission instead limited the harvesting of the crabs during the spring breeding season in some states.</p>
+        <p>Fishermen in New York are allowed to take up to 366,000 crabs, but took only 142,279 in 2004, according to the commission. In Connecticut, where crabbers were allowed to take 48,689 crabs, they took 23,788 in 2004.</p>
+        <p>A bill in the New Jersey Assembly's Agriculture and Natural Resources Committee calls for a moratorium on horseshoe crabbing that would last until the red knot population reached 240,000 and the supply of crab eggs returned to a level that could sustain them. The bill also seeks to appropriate $168,300 to compensate licensed harvesters of horseshoe crabs and eggs, based on their harvests three years ago.</p>
+        <p>Eric Stiles, vice president for conservation at the New Jersey Audubon Society, said that the shorebird migration generated at least $15.9 million in tourism for New Jersey in 1998, and from 1996 to 2001, wildlife-related recreation grew 43 percent. ''We're looking at an industry that's exploding in New Jersey,'' he said. Meanwhile, he added, the conch and eel fisheries, which use horseshoe crabs for bait, are in decline.</p>
+        <p>Scot C. Mackey, a lobbyist for the Garden State Seafood Association, said 32 or 33 fishermen still have commercial licenses to catch horseshoe crabs. He said he was disappointed with the state's moratorium, and would have liked to have seen the state allow the harvesting of male crabs. Compensating the fishermen for their lost harvests would not help conch fishermen, who use the horseshoe crabs for bait, he said.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

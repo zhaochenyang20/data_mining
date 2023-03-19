@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   ALEXANDER, GRACE GEORGE</title>
+    <meta content="dn092505" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="44" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1705124"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <identified-content>
+        <person class="indexing_service">ALEXANDER, GRACE GEORGE</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20050925T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B00E1DF1530F936A1575AC0A9639C8B63" item-length="102" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   ALEXANDER, GRACE GEORGE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>ALEXANDER -- Grace George. The Board of Directors, staff, and artists of Studio in a School note with sorrow the passing of Georgie Alexander. A tireless and dedicated advocate for children and the arts, Georgie was instrumental in helping to choose the artists and teachers with whom Studio initially worked and has continued to be supportive both in spirit and financially. Studio is as much Georgie's legacy, as it is anyone's. We extend our sympathies to her daughter Jane and to her entire family. Agnes Gund, Founder Richard Roob, Chairman Thomas Cahill Executive Director The Studio in a School Association, Inc.</p>
+      </block>
+      <block class="full_text">
+        <p>ALEXANDER -- Grace George. The Board of Directors, staff, and artists of Studio in a School note with sorrow the passing of Georgie Alexander. A tireless and dedicated advocate for children and the arts, Georgie was instrumental in helping to choose the artists and teachers with whom Studio initially worked and has continued to be supportive both in spirit and financially. Studio is as much Georgie's legacy, as it is anyone's. We extend our sympathies to her daughter Jane and to her entire family. Agnes Gund, Founder Richard Roob, Chairman Thomas Cahill Executive Director The Studio in a School Association, Inc.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Subpoena Jolts Black Mayors' Meeting</title>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="441173"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">BLACKS (IN US)</classifier>
+        <classifier class="indexing_service" type="descriptor">MAYORS</classifier>
+        <classifier class="indexing_service" type="descriptor">DISCRIMINATION</classifier>
+        <classifier class="indexing_service" type="descriptor">POLITICS AND GOVERNMENT</classifier>
+        <classifier class="indexing_service" type="descriptor">ETHICS</classifier>
+        <location class="indexing_service">CLEVELAND (OHIO)</location>
+        <org class="indexing_service">NATIONAL CONFERENCE OF BLACK MAYORS</org>
+        <person class="indexing_service">HICKS, JONATHAN P</person>
+        <person class="indexing_service">WHITE, MICHAEL R (MAYOR)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Ohio</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Midwest</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Government, Philanthropy and NGO</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Ohio/Cleveland</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Ohio</classifier>
+        <classifier class="online_producer" type="general_descriptor">Blacks</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mayors</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ethics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Discrimination</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19910427T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE5DE1238F934A15757C0A967958260" item-length="904" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Subpoena Jolts Black Mayors' Meeting</hl1>
+      </hedline>
+      <byline class="print_byline">By JONATHAN P. HICKS,</byline>
+      <byline class="normalized_byline">HICKS, JONATHAN P</byline>
+      <dateline>CLEVELAND, April 26</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A gathering of the nation's black mayors was jolted Thursday night when most of the guests learned that their host, Mayor Michael R. White of Cleveland, had been summoned before a county grand jury investigating a real estate investment he made eight years ago.</p>
+        <p>While many local political leaders, including Mr. White, had expected the Mayor to be subpoenaed, most were caught off guard by the timing. The subpoena was served Wednesday, the opening day of the meeting.</p>
+      </block>
+      <block class="full_text">
+        <p>A gathering of the nation's black mayors was jolted Thursday night when most of the guests learned that their host, Mayor Michael R. White of Cleveland, had been summoned before a county grand jury investigating a real estate investment he made eight years ago.</p>
+        <p>While many local political leaders, including Mr. White, had expected the Mayor to be subpoenaed, most were caught off guard by the timing. The subpoena was served Wednesday, the opening day of the meeting.</p>
+        <p>Coming as it did during the National Conference of Black Mayors, one of the largest annual gatherings of black elected officials in the nation, the incident reinforced the feeling among many of the mayors that black public officials were being selected for investigation. Hottest Issue at Meeting</p>
+        <p>The conference has drawn abut 400 people to discuss issues like municipal finance and housing for people with low incomes. But the most talked about issue has been the investigation.</p>
+        <p>Mr. White, who took office a little more than a year ago, was a partner in two real estate projects that are being investigated for possible charges of theft and unlawful interest in a public contract.</p>
+        <p>The projects, involving the conversion of school buildings into apartments for the disabled and the elderly, and Mr. White's involvement with them were the subject of news reports shortly after Mr. White was elected.</p>
+        <p>The investigation centers on whether Mr. White, who was a member of the City Council and chairman of its community development committee at the time, improperly used his position to indirectly assist the development projects in which he was an investor, people involved in the case say.</p>
+        <p>The County Attorney Stephanie Tubbs Jones, a Democrat, said today that the grand jury proceedings were secret. She declined to comment on the timing of the subpoena or other matters relating to the case. Racial Motivation Discounted</p>
+        <p>That Ms. Jones is black has led some local politicians to discount the theory that the investigation and the timing of the subpoena were racially motivated. Indeed, some political leaders here have suggested that the investigation was proper and that the timing was merely an unfortunate, albeit embarrassing, coincidence.</p>
+        <p>The investigation was begun by Ms. Jones's predecessor, John T. Corrigan, a Democrat who is white.</p>
+        <p>Nonetheless, many here suggested that the timing of Mr. White's subpoena was at the very least designed to embarrass the Mayor at a time when he was in the spotlight. Mr. White will also be the host of the Democratic Leadership Council, a group of Democrats who say they are seeking to move the party to the center and which will begin a three-day meeting here on May 5.</p>
+        <p>Mr. White, who has never suggested that the investigation or the grand jury action was racially motivated, said that he did nothing wrong. He also said that he had secured an opinion from the Ohio Ethics Commission, a state agency, that there were no improprieties in his dealings in the projects in 1983 and 1984.</p>
+        <p>At an impromptu news conference at the reception, Mr. White read a statement saying, "Given all the publicity that has surrounded this particular case, this subpoena is not completely unexpected."</p>
+        <p>He said he was "in close consultation with legal counsel and will consult them as to an appropriate response." 'Tacky as It Gets'</p>
+        <p>Among those who expressed dismay over the service of the subpoena was the newly elected Mayor of Kansas City, Emanuel Cleaver.</p>
+        <p>"I thought the timing of the subpoena was as tacky as it gets," Mr. Cleaver said. "Every black mayor I have talked with, and many of my white supporters, have told me enough about black officials becoming targeted for investigation that I have become as paranoid as I can get."</p>
+        <p>Walter R. Tucker, the Mayor of Compton, Calif., expressed a similar sentiment. "The timing of this subpoena certainly has a suspicious nature to it," he said. "When you consider that the event being investigated occurred eight years ago and that the investigation has been going on for several months, you have to ask: why have they decided to do this in the middle of the National Conference of Black Mayors?"</p>
+        <p>The mayors gave Mr. White a standing ovation today at a luncheon that featured Louis W. Sullivan, the Secretary of Health and Human Services.Senator Edward M. Kennedy, Democrat of Massachusetts, was also presented a service award at the luncheon.</p>
+        <p>Many of the mayors said the standing ovation was designed to show solidarity with Mr. White.  Other Cases Cited</p>
+        <p>Some said in interviews here that Mr. White's situation was reminiscent of other recent investigations of black officials.</p>
+        <p>Some cited the recent tax evasion and embezzlement case against Representative Floyd H. Flake, Democrat of Queens. The charges were dropped at the request of prosecutors earlier this month.</p>
+        <p>Others cited a Federal Grand Jury indictment of 10 legislators in South Carolina, four of whom were black, on charges involving bribery and drugs as part of a Federal Bureau of Investigation inquiry of vote buying in that state's legislature.</p>
+        <p>Mayor Johnny Ford of Tuskegee, Ala., said that when a black official is elected, "you get yourself in a fish bowl."</p>
+        <p>"To me, as a black mayor," he said, "it is obvious that there are efforts to discredit African-American officials. We all know that and it's real and we have to be careful."</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

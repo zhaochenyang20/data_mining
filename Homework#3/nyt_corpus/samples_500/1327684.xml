@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Left Bank Fulfills Lofty Expectations</title>
+    <meta content="23HRACE" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="8" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1327684"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <series series.name="HORSE RACING: ROUNDUP"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Horse Racing</classifier>
+        <classifier class="indexing_service" type="descriptor">Vosburgh Handicap</classifier>
+        <person class="indexing_service">Drape, Joe</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Horse Racing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20010923T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D04EFDB173AF930A1575AC0A9679C8B63" item-length="516" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Left Bank Fulfills Lofty Expectations</hl1>
+      </hedline>
+      <byline class="print_byline">By Joe Drape</byline>
+      <byline class="normalized_byline">Drape, Joe</byline>
+      <abstract>
+        <p>Left Bank wins Vosburgh Handicap at Belmont Park (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>It was February 1999 in north Miami and the trainer Todd Pletcher remembers the moment vividly: Demi O'Byrne handed Pletcher a sales slip showing they had just purchased a son of French Deputy for $600,000.</p>
+        <p>''All I expect is a Grade I victory,'' said O'Byrne, who manages the racing stable for Michael Tabor.</p>
+      </block>
+      <block class="full_text">
+        <p>It was February 1999 in north Miami and the trainer Todd Pletcher remembers the moment vividly: Demi O'Byrne handed Pletcher a sales slip showing they had just purchased a son of French Deputy for $600,000.</p>
+        <p>''All I expect is a Grade I victory,'' said O'Byrne, who manages the racing stable for Michael Tabor.</p>
+        <p>It took two years, but in the Vosburgh Stakes at Belmont yesterday, Left Bank finally brought home that Grade I victory. He blew past Squirtle Squirt in the final yards of the seven-furlong sprint to post a half-length victory in 1:20.73, the second-fastest running in the race's 62 years. He paid $9.50 for a $2 bet to win and earned $180,000 for Tabor.</p>
+        <p>''He was in the bridle the whole way; it was pretty easy,'' said John Velazquez, Left Bank's jockey.</p>
+        <p>Even though it was his 10th victory in 18 starts, Left Bank had struggled against top sprinters. He finished a desultory eighth in the Metropolitan Mile in May and a lazy fifth in last year's Cigar Mile, and he was nettled by heavy traffic in the Forego at Saratoga.</p>
+        <p>In the Forego, at least, Left Bank ran a close second and demonstrated he could unleash a finishing kick. It was a new dimension to the usually front-running colt. It was little wonder that Pletcher waited until the 11th hour to enter Left Bank to take on a field of six -- including the odds-on favorite, Squirtle Squirt -- after drawing an outside post.</p>
+        <p>''He was training good and acting right; we were thinking about the Breeders' Cup Sprint and needed points to make the field,'' said Pletcher, referring to the $1 million Sprint that will be run at Belmont on Oct. 27.</p>
+        <p>Tactically, we thought we were in a good spot on the outside. The main thing we were trying to do was not use our horse too much and not let Squirtle Squirt get away. It wasn't the fact that Squirtle Squirt was stopping. It was that Left Bank really finished well today.</p>
+        <p>Left Bank cruised behind an eager Squirtle Squirt, who ticked off rapid fractions of 22 3/5 for a quarter mile and 44 2/5 for a half.</p>
+        <p>''I wanted to wait to make my move,'' Velazquez said.</p>
+        <p>The gamble worked, according to Jerry Bailey, Squirtle Squirt's jockey, because his 3-year-old colt was going longer against older horses.</p>
+        <p>''He ran hard,'' Bailey said. ''Going seven-eighths against older horses was a lot to ask of him. I'm glad the Breeders' Cup Sprint is six furlongs.''</p>
+        <p>It was the second straight stakes victory on the afternoon for Pletcher, who won the off-the-turf Noble Damsel a race earlier with Tugger.</p>
+        <p>Earlier, Velazquez guided Express Tour to an upset victory in the $150,000 Jerome Handicap. Express Tour, trained by Saeed bin Suroor, paid $18.</p>
+        <p>Joe Drape</p>
+        <p>HORSE RACING: ROUNDUP</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

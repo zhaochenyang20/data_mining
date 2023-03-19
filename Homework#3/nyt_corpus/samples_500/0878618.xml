@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Sojourner's World</title>
+    <meta content="22BERLINL" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1996" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="29" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="878618"/>
+      <doc.copyright holder="The New York Times" year="1996"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Berlin, Ira</person>
+        <person class="indexing_service">Painter, Nell Irvin</person>
+        <object.title class="indexing_service">Sojourner Truth (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19960922T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A0DE6DB1E3AF931A1575AC0A960958260" item-length="1108" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Sojourner's World</hl1>
+      </hedline>
+      <byline class="print_byline">By Ira Berlin</byline>
+      <byline class="normalized_byline">Berlin, Ira</byline>
+      <abstract>
+        <p>Ira Berlin reviews book Sojourner Truth: A Life, a Symbol by Nell Irvin Painter (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Sojourner Truth  A Life, a Symbol.  By Nell Irvin Painter.  Illustrated. 370 pp. New York:  W. W. Norton &amp; Company. $28.</p>
+        <p>Sojourner Truth strides through American history larger than life. Tall, husky-voiced, stern-visaged and midnight black, she peers out at us from popular etchings and photographs as the very embodiment of the Strong Black Woman. Her most famous utterance -- ''Ar'n't I a woman?'' -- defines the contested terrain between the races and the sexes and demands that we consider the special place of black women in our racially divided, sex-segregated past.</p>
+      </block>
+      <block class="full_text">
+        <p>Sojourner Truth  A Life, a Symbol.  By Nell Irvin Painter.  Illustrated. 370 pp. New York:  W. W. Norton &amp; Company. $28.</p>
+        <p>Sojourner Truth strides through American history larger than life. Tall, husky-voiced, stern-visaged and midnight black, she peers out at us from popular etchings and photographs as the very embodiment of the Strong Black Woman. Her most famous utterance -- ''Ar'n't I a woman?'' -- defines the contested terrain between the races and the sexes and demands that we consider the special place of black women in our racially divided, sex-segregated past.</p>
+        <p>If Sojourner Truth seems somewhat larger than life, it is because she was. Like her name, taken to replace the rather ill-fitting Isabella Van Wagenen, her persona was carefully constructed by herself; this shrewd, illiterate former slave understood that her life was her only capital. But self-invention, so characteristic of the 19th century, was only one dimension of Sojourner Truth's story. Others also saw value in her person and joined in the construction of Sojourner Truth, sometimes without invitation, often with her silent consent. The result was part shameless self-promotion, part astute politics and part idealistic wish fulfillment. The job of disentangling these convoluted layers of identity is taken up by Nell Irvin Painter, Edwards Professor of History at Princeton University, in her sweeping biography ''Sojourner Truth: A Life, a Symbol.'' As Ms. Painter makes clear, nothing is simple about Sojourner Truth, from her birth in the late 18th century to her death nearly 90 years later. Although she came to represent the horrors of Southern slavery, Truth endured her captivity just north of New York City, in a so-called free state where chattel bondage lasted well into the third decade of the 19th century. While she presented herself as a straight-talking, no-nonsense independent black woman, Truth leaned on white patrons throughout her life. She challenged them cautiously, careful not to break ties that might yield some advantage. Even after she fled a physically abusive owner and his sexually abusive wife, she remained on good terms with them and their family, fulfilling one of the oldest proslavery stereotypes by returning to care for her dying mistress.</p>
+        <p>Moreover, while Truth gloried in representing the disadvantaged -- ''the niggers of de South and de women at de Norf,'' as her words were transcribed in 1861 -- her closest associates were middle-class white people, and her formative experiences were in institutions directed by white men and women. Her early religious life took shape not within the walls of the African-American church but first in a stiff-backed Dutch Reformed congregation, then among perfectionist Methodist evangelicals and, perhaps most prominently, in a fringe, even lunatic cult led by one Prophet Matthias.</p>
+        <p>Her friendships also tacked toward the white rather than the black community. In the 1830's, during her residence in New York City, it was not the nascent black community of Peter Williams Sr., Samuel Cornish or Henry Highland Garnet who formed her social circle, but the weird assortment of middle-class millennialists of Matthias's cult. When she left New York for the Berkshires and the Northampton Association for Education and Industry in Massachusetts, a radical commune of socialist leanings, the white Garrisonian George W. Benson, not David Ruggles, the black conductor of the Underground Railroad, became her confidant.</p>
+        <p>Sojourner Truth found advantages in communities of dissent, but the unorthodox religious and secular institutions to which she lent her voice and her muscle rarely accorded her more than second-class citizenship. While the Prophet Matthias's followers awaited the demise of this world and the birth of another, she cleaned up after the prophet and his serial lovers, accepting his blows and their sexual abuse much as she had taken the lash of her former owners. In the Northampton Association, she was assigned to the laundry room, a painful playing out of yet another all too common stereotype.</p>
+        <p>''The Narrative of Sojourner Truth'' (1850), ghostwritten by Olive Gilbert, an unsympathetic amanuensis, reflected unfavorably on her children and her record as a mother. But she hawked it enthusiastically, and it became her most dependable source of income. Similarly, the best-known formulation of Truth's historic query respecting the place of black women in the woman's rights movement came not from her lips but from the pen of the white reformer Frances Gage, who improved on Truth's remarks at the 1851 Woman's Rights Convention in Akron, Ohio, for her own polemical purposes. Truth never contradicted Gage's rendering.</p>
+        <p>The picture that emerges from this forthright biography is hardly that of an uncompromised standard-bearer of black womanhood. But as Ms. Painter points out, Sojourner Truth was no patsy. When she was needed, she was there for herself, her family and her people. The great strength of Ms. Painter's biography is its understanding of how Isabella slowly, if incompletely, sloughed off the weight of slavery, mastered herself and employed the camouflage of race -- native wit rather than book learning, quaint dialect rather than fine elocution, ramrod posture rather than feminine demeanor, severe dress rather than fashionable attire -- to make herself a symbol of black womanhood of a certain sort. As she did so she found that she had numerous co-conspirators: women, both black and white, who wanted to insert ''blackness into feminism and gender into racial identity.'' Her critical interjection -- ''Ar'n't I a woman?'' -- at the Woman's Rights Convention elevated Sojourner Truth to her historic role. But was it the real Sojourner Truth?</p>
+        <p>Perhaps. After sorting through a thin historical record, in which her spoken words are always mediated through the pens of others, Ms. Painter concludes that it is impossible to know, but possibly the symbolic Sojourner Truth had swallowed up the real one. She bends her efforts to tracing the process by which the two became one, and the one took on a life of her own.</p>
+        <p>Ms. Painter moves to firmer ground as she follows the development of the legend who now appears on T-shirts and lapel pins as she once appeared on photo prints and popular etchings, and whose words -- whose words? -- are quoted with authority by those in need of a feminist who is authentically black or a black woman who is authentically feminist.</p>
+        <p>Ira Berlin is a professor of history at the University of Maryland. ''Families and Freedom: A History of African American Families in the Civil War Era'' will be published later this year.</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">Ira Berlin is a professor of history at the University of Maryland. ''Families and Freedom: A History of African American Families in the Civil War Era'' will be published later this year.</tagline>
+    </body.end>
+  </body>
+</nitf>

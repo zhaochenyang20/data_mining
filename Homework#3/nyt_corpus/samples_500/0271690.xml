@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Coast Savings Financial Inc.  reports earnings for Qtr to June 30</title>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="1989" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="19" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="271690"/>
+      <doc.copyright holder="The New York Times" year="1989"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">COMPANY REPORTS</classifier>
+        <classifier class="online_producer" type="types_of_material">Statistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Company Reports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Corporations</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19890803T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9405EED71038F930A3575BC0A96F948260" item-length="66" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Coast Savings Financial Inc.  reports earnings for Qtr to June 30</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD:</p>
+        <p>*3*** COMPANY REPORTS **</p>
+        <p>*3* Coast Savings Financial Inc.</p>
+        <p>Qtr to June 30</p>
+        <p>1989</p>
+        <p>1988</p>
+        <p>Net inc</p>
+        <p>4,622,000</p>
+        <p>10,058,000</p>
+        <p>Per share</p>
+        <p>.33</p>
+        <p>.66</p>
+        <p>6mo net inc</p>
+        <p>9,504,000</p>
+        <p>20,512,000</p>
+        <p>Per share</p>
+        <p>.68</p>
+        <p>1.34</p>
+        <p>The latest periods included tax credits of $15,020,000 for the quarter and $13,122,000 for the 6 months.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD:</p>
+        <p>*3*** COMPANY REPORTS **</p>
+        <p>*3* Coast Savings Financial Inc.</p>
+        <p>Qtr to June 30</p>
+        <p>1989</p>
+        <p>1988</p>
+        <p>Net inc</p>
+        <p>4,622,000</p>
+        <p>10,058,000</p>
+        <p>Per share</p>
+        <p>.33</p>
+        <p>.66</p>
+        <p>6mo net inc</p>
+        <p>9,504,000</p>
+        <p>20,512,000</p>
+        <p>Per share</p>
+        <p>.68</p>
+        <p>1.34</p>
+        <p>The latest periods included tax credits of $15,020,000 for the quarter and $13,122,000 for the 6 months.</p>
+        <p>*3*** COMPANY REPORTS **</p>
+        <p>*3* Coast Savings Financial Inc.</p>
+        <p>Qtr to June 30</p>
+        <p>1989</p>
+        <p>1988</p>
+        <p>Net inc</p>
+        <p>4,622,000</p>
+        <p>10,058,000</p>
+        <p>Per share</p>
+        <p>.33</p>
+        <p>.66</p>
+        <p>6mo net inc</p>
+        <p>9,504,000</p>
+        <p>20,512,000</p>
+        <p>Per share</p>
+        <p>.68</p>
+        <p>1.34</p>
+        <p>The latest periods included tax credits of $15,020,000 for the quarter and $13,122,000 for the 6 months.</p>
+        <p>Per share earnings are fully diluted.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>M.B.A. Programs That Look a Lot Like Work</title>
+    <meta content="Y04MBA$04" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Education; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2001/04/04/business/04MBAS.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1283019"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <series series.name="MANAGEMENT"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Executives and Management</classifier>
+        <classifier class="indexing_service" type="descriptor">Colleges and Universities</classifier>
+        <classifier class="indexing_service" type="descriptor">Business Schools</classifier>
+        <org class="indexing_service">Texas Instruments Inc</org>
+        <org class="indexing_service">General Motors Corp</org>
+        <org class="indexing_service">Intel Corp</org>
+        <person class="indexing_service">Weidlich, Thom</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Texas</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Southwest</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Executive</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Education</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Education</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Texas</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Texas/Dallas</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Minnesota/Minneapolis and St. Paul</classifier>
+        <classifier class="online_producer" type="descriptor">Education and Schools</classifier>
+        <classifier class="online_producer" type="descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="descriptor">Marketing and Merchandising</classifier>
+        <classifier class="online_producer" type="descriptor">Computer Chips</classifier>
+        <classifier class="online_producer" type="general_descriptor">Executives and Management</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Business Schools</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Chips</classifier>
+        <classifier class="online_producer" type="general_descriptor">Colleges and Universities</classifier>
+        <classifier class="online_producer" type="general_descriptor">Advertising and Marketing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Graduate Schools and Students</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+        <location class="online_producer">Plano</location>
+        <location class="online_producer">Texas</location>
+        <location class="online_producer">America</location>
+        <location class="online_producer">Morristown</location>
+        <location class="online_producer">Minneapolis</location>
+        <location class="online_producer">Santa Clara</location>
+        <location class="online_producer">Wellesley</location>
+        <location class="online_producer">Dallas</location>
+        <location class="online_producer">Moline</location>
+        <location class="online_producer">San Jose</location>
+        <org class="online_producer">Texas Instruments Incorporated</org>
+        <org class="online_producer">Corporate University</org>
+        <org class="online_producer">General Motors Corporation</org>
+        <org class="online_producer">G.M.</org>
+        <org class="online_producer">Indiana University</org>
+        <org class="online_producer">Honeywell International Incorporated</org>
+        <org class="online_producer">Capella University</org>
+        <org class="online_producer">Intel Corporation</org>
+        <org class="online_producer">Babson College</org>
+        <org class="online_producer">Deere &amp; Company</org>
+        <org class="online_producer">Arizona State University</org>
+        <org class="online_producer">Cadence Design Systems Incorporated</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20010404T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE4D91F3FF937A35757C0A9679C8B63" item-length="1159" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>M.B.A. Programs That Look a Lot Like Work</hl1>
+      </hedline>
+      <byline class="print_byline">By THOM WEIDLICH</byline>
+      <byline class="normalized_byline">Weidlich, Thom</byline>
+      <abstract>
+        <p>Customized MBA programs are being offered by major corporations, giving them another carrot for luring and retaining talent--priority as baby boomers retire and corporations face looming management shortage; programs offered by Texas Instruments, GM and Intel Corp discussed; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Every other Thursday after work, rather than go home to her family in Plano, Tex., Dannellia Gladden-Green drives to the Omni hotel in Richardson, seven miles away, and cracks the books for her M.B.A. course the next day.</p>
+        <p>Much of the discussion in the classroom, she knows, will focus on the activities of a single company, Texas Instruments, which happens to be her employer. That is because Texas Instruments worked with the University of Texas to create a special M.B.A. curriculum for its up-and-coming managers.</p>
+      </block>
+      <block class="full_text">
+        <p>Every other Thursday after work, rather than go home to her family in Plano, Tex., Dannellia Gladden-Green drives to the Omni hotel in Richardson, seven miles away, and cracks the books for her M.B.A. course the next day.</p>
+        <p>Much of the discussion in the classroom, she knows, will focus on the activities of a single company, Texas Instruments, which happens to be her employer. That is because Texas Instruments worked with the University of Texas to create a special M.B.A. curriculum for its up-and-coming managers.</p>
+        <p>Ms. Gladden-Green, 34, a trained engineer with a Ph.D. in electronic materials, says the classes are giving her a keener understanding of basic business principles. She hopes her degree, which she expects to earn in December, will enable her to move from her present position as a marketing manager to a more senior position.</p>
+        <p>''I come from a technical background and there were a couple of things I wanted to get from the program, such as strategic thinking and business acumen,'' she said. ''Ultimately, I want to drive the strategic direction of an emerging business.''</p>
+        <p>Texas Instruments is an early player in a fledgling trend: the customized M.B.A. While only a handful of such programs appear to exist (and they were not unheard-of in years past), corporate education experts predict they will become more common. ''We're seeing a huge uptick in interest in these programs,'' said Jeanne Meister, executive director of the New York-based Corporate University Exchange, a research firm.</p>
+        <p>Aside from its educational value, the customized M.B.A. offers corporations another carrot for luring and retaining talent -- a priority these days as baby boomers retire and corporations face a looming management shortage.</p>
+        <p>''To become the employer of choice, we have to be very aggressive in offering educational opportunities to our employees,'' said Jay Wetzel, who retired this month as vice president and general manager of General Motors Technical Centers in Warren, Mich. G.M.'s North America engineering division plans a new joint technical degree program beginning next January that will include a G.M.-customized M.B.A. from Indiana University.</p>
+        <p>Rather than simply reimbursing their employees' tuition costs for a standard executive M.B.A., companies are finding that collaborating with a business school to create a program tailored to their industry and markets is well worth the extra cost.</p>
+        <p>No one expects the practice to sweep the country; only major corporations with big work forces can afford it, and even their programs are likely to be limited in size and duration. ''I don't think you're going to see hundreds, but 25 or so of these programs will spring up'' over the next few years, said Philip Zerrillo, graduate dean of the University of Texas at Austin business school.</p>
+        <p>Companies typically send managers to weekend classes at a nearby university, as Texas Instruments does. A few, though, sponsor Internet courses. Honeywell International in Morristown, N.J., started a pilot Internet program for 15 students in September 1999 with Capella University, an online school in Minneapolis.</p>
+        <p>The Intel Corporation in Santa Clara, Calif., is taking a mixed approach. Starting in May, it will fly business professors from Babson College in Wellesley, Mass., once a month to five Intel locations in Western states to teach courses to more than 30 employees. Other course work will be handled over the Internet. The tuition for each employee for the 27-month program is $52,500.</p>
+        <p>''Babson is going to gear the homework towards the needs of Intel,'' said Alan Fisher, the company's manager for extended education programs. ''Instead of having homework, they'll have real work to do. It's not only an opportunity to learn, but an opportunity to problem-solve for Intel.''</p>
+        <p>Texas Instruments, which is based in Dallas, began thinking about establishing its own M.B.A. program four years ago. The company knew it had great engineers, but also that it was going to need a lot of people with business knowledge to lead it in the future, said James M. Szot, who oversees the effort for his company.</p>
+        <p>Members of the first class began their studies in January 1999, and 49 graduated last December. The second slate of students numbers about half that.</p>
+        <p>First-year courses in the basics of accounting and finance are fairly general, but second-year electives chosen by Texas Instruments are more closely tailored to its own activities. That enables students to become de facto consultants to their own company, with a professor as adviser. ''Each team is assigned to work with a sponsor in Texas Instruments to examine a real business issue and come up with some recommendations,'' Mr. Szot said. ''Those can be pretty powerful.''</p>
+        <p>Ross Teggatz, 37, a design engineering manager who graduated with the first M.B.A. class, says the courses changed how he does his job. ''In the past, I would design a part and if it didn't sell I'd blame the marketing people,'' he said. ''Now I understand that I have to design the part to help it sell.''</p>
+        <p>Another benefit of such exclusive programs is that they allow executives at the sponsoring company to influence the curriculum and even become involved in it. Take Deere &amp; Company, a maker of farm and other machinery in Moline, Ill.</p>
+        <p>Last fall, Deere collaborated with Arizona State University to begin a customized M.B.A. program that combined the traditional classroom with the Internet. When the students studied economics, in addition to hearing from the professor, they were able to click on a video of Robert W. Lane, the chairman and chief executive, and hear his economic views and his thoughts about Deere's markets.</p>
+        <p>The benefits of such a program to employees are fairly obvious: they get to work toward a degree without giving up their jobs to advance their careers.</p>
+        <p>To make sure the programs do not become too insular, some companies open them to employees from noncompeting concerns. From the start, Intel's will include five such people. ''We have a concern for our proprietary information but also a concern not to inbreed the culture,'' Mr. Fisher said.</p>
+        <p>A more prosaic reason for inviting outsiders is to fill slots. Texas Instruments opened this year's class, its third, to an employee of Cadence Design Systems Inc. in San Jose, Calif. Eventually people from other high-technology companies will be included, Mr. Szot said. ''Texas Instruments is not going to have enough candidates to support it.''</p>
+        <p>MANAGEMENT</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

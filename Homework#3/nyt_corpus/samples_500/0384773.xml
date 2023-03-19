@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Amy M. Gelman,An Editor, Weds</title>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="384773"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">HAUGESAG, ERIC DARTH</person>
+        <person class="indexing_service">GELMAN, AMY MIRIAM (AMY MIRIAM HAUGESAG)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19900917T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CEEDE1531F934A2575AC0A966958260" item-length="134" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Amy M. Gelman,An Editor, Weds</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Amy Miriam Gelman, the daughter of Mr. and Mrs. David G. Gelman of New York, was married yesterday to Eric Darth Haugesag, a son of Mr. and Mrs. Dentley M. Haugesag of Minneapolis. Rabbi Charles Lippman performed the ceremony at the Parker Meridien in New York.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Amy Miriam Gelman, the daughter of Mr. and Mrs. David G. Gelman of New York, was married yesterday to Eric Darth Haugesag, a son of Mr. and Mrs. Dentley M. Haugesag of Minneapolis. Rabbi Charles Lippman performed the ceremony at the Parker Meridien in New York.</p>
+        <p>Amy Miriam Gelman, the daughter of Mr. and Mrs. David G. Gelman of New York, was married yesterday to Eric Darth Haugesag, a son of Mr. and Mrs. Dentley M. Haugesag of Minneapolis. Rabbi Charles Lippman performed the ceremony at the Parker Meridien in New York.</p>
+        <p>Mrs. Haugesag, 29 years old, graduated from Barnard College and is an editor and translator of children's books at Carolrhoda Books in Minneapolis. Her father is a senior writer for Newsweek in New York. Her mother, Elaine Gelman, is a pediatric nurse practitioner. The bridegroom, 28, attended the University of Minnesota. He is a rock guitarist and an audio-visual technician with Lighthouse Inc., a film and video company in Minneapolis. His father is a wood products specialist in the Minnesota Department of Economic Development.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

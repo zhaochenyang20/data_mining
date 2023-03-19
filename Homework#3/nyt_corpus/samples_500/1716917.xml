@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>World Briefing | Africa: Sudan: U.S. Opens Southern Consulate</title>
+    <meta content="12briefs-2" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1716917"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20051112T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D07E2DC133EF931A25752C1A9639C8B63" item-length="156" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>World Briefing | Africa: Sudan: U.S. Opens Southern Consulate</hl1>
+      </hedline>
+      <byline class="print_byline">By Joel Brinkley (NYT)</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The United States opened a consulate in Juba, the primitive, hardscrabble town that is the capital of Southern Sudan. Robert B. Zoellick, the deputy secretary of state, officiated. The United States helped broker the peace agreement this year that ended a 21-year civil war between the mainly Muslim north and the Christian and animist south. It calls for power sharing, and Mr. Zoellick has been pushing the Sudanese government to implement its terms. Officials said the new consulate was intended to demonstrate that the United States will remain engaged. A senior official said two diplomats had so far applied to be consul general in Juba, where there is no indoor plumbing.</p>
+        <p>Joel Brinkley (NYT)</p>
+      </block>
+      <block class="full_text">
+        <p>The United States opened a consulate in Juba, the primitive, hardscrabble town that is the capital of Southern Sudan. Robert B. Zoellick, the deputy secretary of state, officiated. The United States helped broker the peace agreement this year that ended a 21-year civil war between the mainly Muslim north and the Christian and animist south. It calls for power sharing, and Mr. Zoellick has been pushing the Sudanese government to implement its terms. Officials said the new consulate was intended to demonstrate that the United States will remain engaged. A senior official said two diplomats had so far applied to be consul general in Juba, where there is no indoor plumbing.</p>
+        <p>Joel Brinkley (NYT)</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

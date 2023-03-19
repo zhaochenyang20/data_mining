@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   KRANZ, MANIA</title>
+    <meta content="dn102705" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1712915"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <identified-content>
+        <person class="indexing_service">KRANZ, MANIA</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20051027T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9807EED6113FF934A15753C1A9639C8B63" item-length="105" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   KRANZ, MANIA</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>KRANZ--Mania. The Jewish Center mourns the passing of the mother and mother-inlaw of our members, Fran and Jonah Kupietzky. May their entire family be comforted among all who mourn for Zion &amp; Jerusalem. Ari Berman, Rabbi Joseph S. Kaplan, President Paulette Papilsky, Sisterhood</p>
+        <p>$(6$)KRANZ--Mirla, 89, on October 23. Beloved wife of the late David Kranz, cherished mother of Fran (Jonah) Kupietzky and Rachel (Jerry, deceased) Lipsitz, adored grandmother of Steven, Stuart (Robin), Rona (Allan), and Denise (Alan), proud great-grandmother of eight. Ever loving, generous and elegant, she will be missed by all who knew her. Shiva observed Thurs-Tues morning, at the Kupietzky residence.</p>
+      </block>
+      <block class="full_text">
+        <p>KRANZ--Mania. The Jewish Center mourns the passing of the mother and mother-inlaw of our members, Fran and Jonah Kupietzky. May their entire family be comforted among all who mourn for Zion &amp; Jerusalem. Ari Berman, Rabbi Joseph S. Kaplan, President Paulette Papilsky, Sisterhood</p>
+        <p>$(6$)KRANZ--Mirla, 89, on October 23. Beloved wife of the late David Kranz, cherished mother of Fran (Jonah) Kupietzky and Rachel (Jerry, deceased) Lipsitz, adored grandmother of Steven, Stuart (Robin), Rona (Allan), and Denise (Alan), proud great-grandmother of eight. Ever loving, generous and elegant, she will be missed by all who knew her. Shiva observed Thurs-Tues morning, at the Kupietzky residence.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

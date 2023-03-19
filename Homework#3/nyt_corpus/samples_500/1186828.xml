@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Mary Adickes, Guy Van Pelt</title>
+    <meta content="26ADIC" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1186828"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="WEDDINGS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">ADICKES, MARY MCGILL DUBOSE (MARY MCGILL DUBOSE VAN PELT)</person>
+        <person class="indexing_service">VAN PELT, GUY FAIRFAX CARY</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000326T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C00E4D9143DF935A15750C0A9669C8B63" item-length="218" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Mary Adickes, Guy Van Pelt</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Mary McGill duBose Adickes, the daughter of Mrs. Thomas Walter Blake and David Pryor Adickes, both of Houston, was married on Thursday to Guy Fairfax Cary Van Pelt, a son of Mrs. Edwin Fairman Russell of Locust Valley, N.Y. and Charles Bingham Penrose Van Pelt of Radnor, Pa. The Rev. C. Hugh Hildesley performed the ceremony at All Saints Episcopal Church in New York.</p>
+        <p>Mrs. Van Pelt, 28, is an assistant director in the department of special programming and events at the Museum of Modern Art in New York. She graduated from Washington and Lee University. Her father is a painter and sculptor in Houston.</p>
+      </block>
+      <block class="full_text">
+        <p>Mary McGill duBose Adickes, the daughter of Mrs. Thomas Walter Blake and David Pryor Adickes, both of Houston, was married on Thursday to Guy Fairfax Cary Van Pelt, a son of Mrs. Edwin Fairman Russell of Locust Valley, N.Y. and Charles Bingham Penrose Van Pelt of Radnor, Pa. The Rev. C. Hugh Hildesley performed the ceremony at All Saints Episcopal Church in New York.</p>
+        <p>Mrs. Van Pelt, 28, is an assistant director in the department of special programming and events at the Museum of Modern Art in New York. She graduated from Washington and Lee University. Her father is a painter and sculptor in Houston.</p>
+        <p>Mr. Van Pelt, 43, is a project superintendent at RD Rice Inc., a contractor for residential interiors in New York. He graduated from Boston University. His father, a lawyer specializing in trusts and estates law, retired as a partner in Hepburn, Wilcox, Hamilton &amp; Putnam, a law firm in Philadelphia.</p>
+        <p>The couple met in 1994 at a dinner-dance benefiting the Preservation Society of Newport County in Newport R.I., of which his grandmother, Mrs. Guy Fairfax Cary, was a founder.</p>
+        <p>WEDDINGS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Inter-Regional Fincl Gr reports earnings for Qtr to Dec 31</title>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="324304"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">COMPANY REPORTS</classifier>
+        <classifier class="online_producer" type="types_of_material">Statistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Company Reports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Corporations</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19900207T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E05E7D6143DF934A35751C0A966958260" item-length="129" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Inter-Regional Fincl Gr reports earnings for Qtr to Dec 31</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD:</p>
+        <p>*3*** COMPANY REPORTS **</p>
+        <p>*3* Inter-Regional Fincl Gr (NYSE)</p>
+        <p>Qtr to Dec 31</p>
+        <p>1989</p>
+        <p>1988</p>
+        <p>Revenue</p>
+        <p>86,475,000</p>
+        <p>67,563,000</p>
+        <p>Net inc</p>
+        <p>b287,000</p>
+        <p>c4,343,000</p>
+        <p>Share earns</p>
+        <p>.03</p>
+        <p>-</p>
+        <p>Shares outst</p>
+        <p>7,841,000</p>
+        <p>7,560,000</p>
+        <p>Yr rev</p>
+        <p>319,936,000</p>
+        <p>254,763,000</p>
+        <p>Net inc</p>
+        <p>b3,564,000</p>
+        <p>c6,838,000</p>
+        <p>Share earns</p>
+        <p>.43</p>
+        <p>-</p>
+        <p>Shares outst</p>
+        <p>7,717,000</p>
+        <p>7,554,000</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD:</p>
+        <p>*3*** COMPANY REPORTS **</p>
+        <p>*3* Inter-Regional Fincl Gr (NYSE)</p>
+        <p>Qtr to Dec 31</p>
+        <p>1989</p>
+        <p>1988</p>
+        <p>Revenue</p>
+        <p>86,475,000</p>
+        <p>67,563,000</p>
+        <p>Net inc</p>
+        <p>b287,000</p>
+        <p>c4,343,000</p>
+        <p>Share earns</p>
+        <p>.03</p>
+        <p>-</p>
+        <p>Shares outst</p>
+        <p>7,841,000</p>
+        <p>7,560,000</p>
+        <p>Yr rev</p>
+        <p>319,936,000</p>
+        <p>254,763,000</p>
+        <p>Net inc</p>
+        <p>b3,564,000</p>
+        <p>c6,838,000</p>
+        <p>Share earns</p>
+        <p>.43</p>
+        <p>-</p>
+        <p>Shares outst</p>
+        <p>7,717,000</p>
+        <p>7,554,000</p>
+        <p>*3*** COMPANY REPORTS **</p>
+        <p>*3* Inter-Regional Fincl Gr (NYSE)</p>
+        <p>Qtr to Dec 31</p>
+        <p>1989</p>
+        <p>1988</p>
+        <p>Revenue</p>
+        <p>86,475,000</p>
+        <p>67,563,000</p>
+        <p>Net inc</p>
+        <p>b287,000</p>
+        <p>c4,343,000</p>
+        <p>Share earns</p>
+        <p>.03</p>
+        <p>-</p>
+        <p>Shares outst</p>
+        <p>7,841,000</p>
+        <p>7,560,000</p>
+        <p>Yr rev</p>
+        <p>319,936,000</p>
+        <p>254,763,000</p>
+        <p>Net inc</p>
+        <p>b3,564,000</p>
+        <p>c6,838,000</p>
+        <p>Share earns</p>
+        <p>.43</p>
+        <p>-</p>
+        <p>Shares outst</p>
+        <p>7,717,000</p>
+        <p>7,554,000</p>
+        <p>b-After extraordinary credits of $78,000, or 1 cent a share, for the quarter and $686,000, or 9 cents a share, for the year.</p>
+        <p>c-Net loss and after extraordinary credits of $112,000, or 2 cents a share, and $881,000, or 12 cents a share, for quarter and year, respectively.</p>
+        <p>The extraordinary credits were due to gains from debt repurchases and tax-loss carryforwards.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Mae West, Still There for Us to Come Up and See</title>
+    <meta content="13CANB$04" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Arts and Leisure Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="2" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Theater" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1175997"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="THEATER"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Theater</classifier>
+        <org class="indexing_service">New York Theater Workshop</org>
+        <org class="indexing_service">Hourglass Group</org>
+        <person class="indexing_service">West, Mae (1893-1980)</person>
+        <person class="indexing_service">Shear, Claudia</person>
+        <person class="indexing_service">Canby, Vincent</person>
+        <object.title class="indexing_service">Dirty Blonde (Play)</object.title>
+        <object.title class="indexing_service">Sex (Play)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/News and Features</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/Plays</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Music, Theater and Dance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Theater</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000213T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0DE4DE153EF930A25751C0A9669C8B63" item-length="2315" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Mae West, Still There for Us to Come Up and See</hl1>
+      </hedline>
+      <byline class="print_byline">By Vincent Canby</byline>
+      <byline class="normalized_byline">Canby, Vincent</byline>
+      <abstract>
+        <p>Vincent Canby comment on Mae West, portrayed by Claudia Shear in play Dirty Blonde at New York Theater Workshop; photo; season's second Mae West tribute is Hourglass Group's revival of her 1926 comedy-melodrama Sex (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>IMAGINE, if you can, the spectacle of Mae West playing Norma Desmond in ''Sunset Boulevard.''</p>
+        <p>That possibility, reported by Cameron Crowe in his book ''Conversations With Billy Wilder,'' must seem incomprehensible to anyone who treasures Gloria Swanson's sinuously macabre performance in the 1950 classic. Was Mae West some kind of joke? Apparently not. But even if Mr. Wilder initially intended ''Sunset Boulevard'' to be an outright comedy, it is difficult to see how he might have used an actress who possessed such a limited, if vivid, professional persona.</p>
+      </block>
+      <block class="full_text">
+        <p>IMAGINE, if you can, the spectacle of Mae West playing Norma Desmond in ''Sunset Boulevard.''</p>
+        <p>That possibility, reported by Cameron Crowe in his book ''Conversations With Billy Wilder,'' must seem incomprehensible to anyone who treasures Gloria Swanson's sinuously macabre performance in the 1950 classic. Was Mae West some kind of joke? Apparently not. But even if Mr. Wilder initially intended ''Sunset Boulevard'' to be an outright comedy, it is difficult to see how he might have used an actress who possessed such a limited, if vivid, professional persona.</p>
+        <p>We'll never know. Mae wasn't interested in the Wilder project because, it seems, she didn't want to play a faded movie star. She knew her fans would never believe it. Though she was then in her mid-50's, and no longer in demand by the film studios, she felt she was still in the bloom of her youth, successfully touring with ''Diamond Lil'' from time to time and discovering new fans on the nightclub circuit.</p>
+        <p>She was then someone recognized and/or sought out by such as Cecil Beaton, Colette and Sacheverell Sitwell. In his admiring review of her 1949 revival of ''Diamond Lil,'' Brooks Atkinson of The New York Times was moved to acknowledge what he called, in an uncharacteristically poetic effusion, ''the sublime fatalism of the entire business,'' going on to ask, ''Is she kidding or is she serious?''</p>
+        <p>Mae West had become an institution, which is dangerous.</p>
+        <p>Today it seems that Mr. Wilder's vision of Norma Desmond in the stout form of Mae West was nothing less than prescient. Gloria Swanson may have acted Norma Desmond, but Mae West lived the character, far longer and far more successfully than Mr. Wilder, in the late 1940's, might have imagined.</p>
+        <p>That's one of the subsidiary revelations of ''Dirty Blonde,'' the nervy, exceptionally entertaining Off Broadway production that contemplates the legacy of Mae West in a format that mixes comedy and song to suggest that life, after all, is very much like a revue. Unfortunately, ''Dirty Blonde'' plays its last performance today at New York Theater Workshop, but don't despair. There are expectations it will soon transfer either to Broadway or to another Off Broadway house. It deserves an afterlife.</p>
+        <p>So does the season's second Mae West tribute: the Hourglass Group's pocket-size but exuberant Off Off Broadway revival of ''Sex,'' West's 1926 comedy-melodrama, which ends its run tomorrow in the tiny theater at the Gershwin Hotel.</p>
+        <p>''Sex'' is notorious in Broadway history for having been labeled ''a public nuisance'' by the New York police and closed down, even though it had already played 41 weeks of sold-out performances without incident. In the trial that followed, Mae was found guilty and sentenced to serve 10 days in the Women's Workhouse on Welfare (now Roosevelt) Island. She received great publicity from the trial, but at a certain cost. The publicity also scared New York theater owners from booking her latest production, ''The Drag,'' a male drag show that, reportedly, was the real target of the attack on ''Sex.''</p>
+        <p>''Dirty Blonde'' is wise and moving and seemingly effortless in the way that it evokes the life, times and manners of Mae West. The work is a seamless collaboration between Claudia Shear, the star and author of her own autobiographical play, ''Blown Sideways Through Life,'' and James Lapine, the playwright, director and frequent theatrical partner of Stephen Sondheim. Ms. Shear and Mr. Lapine together ''devised'' the show, which was written by Ms. Shear, directed by Mr. Lapine, and is being acted by Ms. Shear, Kevin Chamberlin and Bob Stillman.</p>
+        <p>The result is a comic enchantment about two klutzy New Yorkers: Jo (Ms. Shear) and Charlie (Mr. Chamberlin), whose unusual relationship begins when they meet at Mae West's mausoleum in the Cypress Hills Cemetery in Brooklyn. Each is a seriously dedicated fan, though Charlie has the edge over Jo.</p>
+        <p>AS a teenager on a summer vacation in Los Angeles, he came to know the ancient Mae in her Ravenswood apartment, her home from the early 1930's until her death in 1980. Briefly, Charlie was accepted into her small, sealed world, where she lived her days in perpetual twilight (the sun did terrible things to her skin), attended by hangers-on from the old days.</p>
+        <p>Mae liked nothing better than to spend hours leafing through Charlie's Mae West scrapbooks; on a special occasion, the queenly bee and her drones might go out to eat Chinese, being driven to and from in her Bentley.</p>
+        <p>''Dirty Blonde'' moves swiftly in and out of the lives of Mae (also played by Ms. Shear) and her various male attendants (played by Mr. Chamberlin and Mr. Stillman), and the contemporary trials of Jo and Charlie. One of Jo's comic/sad epiphanies about Mae: ''She never saw Paris . . . but she could have.''</p>
+        <p>At first, Mae's obsession with self and climbing to the top is seen as funny, as when we're told that her mother once advised her, ''Don't be selfish, think of your career.'' Only later, as Jo and Charlie gain some understanding of their own lives, do they begin to see Mae in perspective. The show's final image, which shouldn't be described, is as eccentric as it is triumphant, though in a very unusual way.</p>
+        <p>The Hourglass Group's production of ''Sex'' is something else: a chance to see the three-act play more or less as it was presented with music interludes in 1926, but also framed with quotations taken from the court proceedings against it. Elyse Singer is the director of the first-rate cast headed by Carolyn Baeumler in the Mae West role.</p>
+        <p>Mae not only starred in ''Sex'' as Margy LaMont, an upwardly mobile whore with a heart of gold, but she also took credit as the playwright. According to Emily Wortis Leider's biography ''Becoming Mae West,'' ''Sex'' has its origins in ''Following the Fleet,'' a play by J. J. Byrne that Mae bought and rewrote in collaboration with the uncredited Adeline Leitzbach -- Mae never shared credit easily. What distinguishes ''Sex'' from other so-called exploitation plays of the time is Margy LaMont's brazenly untroubled attitude toward her profession.</p>
+        <p>Mae always said she was too nervous to read, so it is unlikely that she ever had contact with George Bernard Shaw's ''Mrs. Warren's Profession.'' Yet she would seem to agree with Shaw that prostitution, while not something to be celebrated, should be understood as a natural consequence in a society that denies women their economic rights and encourages their ignorance.</p>
+        <p>In the introduction to ''Three Plays by Mae West,'' published by Routledge, Lillian Schlissel, the editor, notes that at the end of ''Sex,'' Margy LaMont ''is neither saved or reborn.''</p>
+        <p>She continues, ''There is no spiritual redemption . . . The ethical arithmetic is redrawn -- the wages of sin are reduced from mortal transgression to misdemeanor.''</p>
+        <p>This is what scared Broadway and then delighted the movie audiences in the early years of the Great Depression.</p>
+        <p>When Mae went to Hollywood, her good humor and bold assumption of sexual authority, coupled with her raunchy aphorisms of Wildean balance, transformed her into one of the world's biggest box-office attractions. She was also the reason Hollywood overhauled the Production Code, the apparatus by which the industry censored its own material, in this way to combat the new licentiousness represented by little Mae.</p>
+        <p>Her first three movies, ''Night After Night'' (1932), ''She Done Him Wrong'' (1933) and ''I'm No Angel'' (1933), are stuffed with the grand doubles-entendres that she never tired of recycling for the rest of her life. It's in ''I'm No Angel'' that she plays a lion tamer who sticks her head into the big cat's mouth, prompting an admirer to say significantly, ''She's safer in that cage than she is in bed.'' This is the same movie in which she enunciated as her dictum about men: ''Find 'em, fool 'em, 'n forget 'em.'' Which, in 1933, was her variation on what men, especially the sort whom Mae admired most, were supposed to say about women.</p>
+        <p>Yet by the end of the 1930's, Mae's movies were no longer sure-fire box-office hits. It wasn't only because the Production Code was sanitizing her material. Her range was limited and she was repeating herself. She might have gone on forever as the supporting character actress she was in ''Night After Night,'' but she couldn't resist playing the star. When she hogs the screen a certain monotony creeps into her work; it soon seems as if she is imitating herself.</p>
+        <p>A further problem was her age. Mae started late in Hollywood; she had her 40th birthday while shooting ''I'm No Angel.'' Her ample figure was less easily disguised in contemporary clothes than in the sort of gowns worn by Lillian Russell, but she couldn't confine her films to tales set in the Gay Nineties.</p>
+        <p>Mae West isn't forgotten today, but she is probably best remembered in oblique ways, in association with other things, like the busty life jackets that World War II servicemen nicknamed for her. She is still recalled by occasional impersonators, some of whom are more bizarre than others. Following the murder of JonBenet Ramsey, there was a news photograph of the child wearing the sort of feather boa and cartwheel hat that Mae sported in ''She Done Him Wrong.''</p>
+        <p>Mae's films still can be found in video rental shops, of course. Yet I suspect that the one rented most frequently is ''My Little Chickadee.'' This 1940 comedy-western about a hooker and a card shark is not, strictly speaking, a true Mae West movie, having been stolen by the nimble, white-gloved digits of W. C. Fields, her larcenous co-star.</p>
+        <p>Mae made three films after ''My Little Chickadee,'' but she might as well have retired then and there. Fields -- no gallant gentleman he (as Mae well knew) -- damaged her reputation in subtle ways that, for lethal effect, equaled the destruction wreaked on her pictures by the Production Code.</p>
+        <p>Fields didn't try to clean up her act; he did something far worse: he made Mae, the laid-back, self-mocking good-time girl of ''She Done Him Wrong'' and ''I'm No Angel,'' look not only humorless but mean and spiteful. Though Mae, playing Flower Belle, sets up the elaborate gag that transforms ''My Little Chickadee'' into one of the funniest movies ever made, the way the gag works out demolishes Mae's public persona.</p>
+        <p>To escape Cuthbert J. Twillie (Fields), who believes he has conjugal rights, Flower Belle puts a goat in the bed of their bridal suite, blows out the lamps and leaves the room in darkness. Twillie enters from the bathroom and climbs into bed, noting, after a decent pause, that Flower Belle seems to be sleeping in her caracul coat. ''Better take it off, dear,'' says Twillie with concern, ''you won't feel the good of it when you go out. . . .'' When the goat lets out a long ''m-a-a-a-a!,'' Twillie is sent into paroxysms of bliss. ''The sweet little dear,'' he says, ''is calling for her mama. Such blind innocence. . . .''</p>
+        <p>THE sequence is priceless, but it also has the effect of making Mae West appear to be frosty and completely out of touch with her co-star, which she was. Mae was not a team player. But then she knew enough to realize that the character she always played, Superhooker, couldn't stand too much realism. When actual joy, passion or even humiliation are evident, the Superhooker appears ridiculous, like Miss Piggy in an otherwise conventional adaptation of ''Little Women.'' Mae took top billing in ''My Little Chickadee'' but she wound up sandbagged by Fields.</p>
+        <p>Both ''Dirty Blonde'' and the revival of ''Sex'' remind us of the genuine good humor and common sense that were the basis of Mae West's art, which today survives in recognizable form only in her first three films. All the others are -- to greater or lesser degrees -- imitations.</p>
+        <p>In a category of its own is ''Sextette,'' Mae's last movie, which opened in New York in 1979 when she was nearing 86. The film is Mae's equivalent to the biblical epic about Salome in which Norma Desmond intends to make her return to the screen in ''Sunset Boulevard.'' Mae's film is a sex comedy, based on a play she had written some years earlier, about a world-famous movie star and the attempts of her former husbands and lovers to prevent her from consummating her sixth marriage.</p>
+        <p>I'm embarrassed to admit that, at the time the film opened, I took a dim, rather puritanical view of it and of Mae, pointing to the age of the star and to the infirmities she shared with the production. You didn't have to be a wit to find a few laughs at her expense.</p>
+        <p>Now, having seen ''Sunset Boulevard'' a year ago and, much more recently, ''Dirty Blonde'' and ''Sex,'' I feel quite differently. There is no desire to sit through ''Sextette'' again, but bully for Mae for having got the screenplay onto the screen, directed by Ken Hughes (one of whose earlier epics was ''Cromwell''), with a cast including Tony Curtis, Ringo Starr, Timothy Dalton and Regis Philbin.</p>
+        <p>In Mr. Wilder's satiric Gothic romance, the 50-year-old former movie star shoots her screenwriting collaborator-lover and goes mad. In real life, Mae West was equally obsessed with the public personality she had created, but she wasn't nuts. She made her movie and, a year after it came out, died without melodramatic incident, at the age of 87.</p>
+        <p>THEATER</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

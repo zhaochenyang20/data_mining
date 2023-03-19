@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>EMC Corp. reports earnings for Qtr to Jan 2</title>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="1993" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="588920"/>
+      <doc.copyright holder="The New York Times" year="1993"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">COMPANY EARNINGS</classifier>
+        <classifier class="online_producer" type="types_of_material">Statistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19930208T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E05E4D6133DF93BA35751C0A965958260" item-length="71" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>EMC Corp. reports earnings for Qtr to Jan 2</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="full_text">
+        <p>*3*** COMPANY REPORTS **</p>
+        <p>*3*EMC Corp. (NYSE)</p>
+        <p>Qtr to Jan 2</p>
+        <p>1993</p>
+        <p>1992</p>
+        <p>Revenue</p>
+        <p>109,100,000</p>
+        <p>63,764,000</p>
+        <p>Net inc</p>
+        <p>10,139,000</p>
+        <p>4,806,000</p>
+        <p>Share earns</p>
+        <p>.23</p>
+        <p>.12</p>
+        <p>Yr rev</p>
+        <p>349,101,000</p>
+        <p>232,353,000</p>
+        <p>Net inc</p>
+        <p>28,735,000</p>
+        <p>13,049,000</p>
+        <p>Share earns</p>
+        <p>.67</p>
+        <p>.33</p>
+        <p>Shares outst</p>
+        <p>45,276,000</p>
+        <p>39,194,000</p>
+        <p>Share earnings reflect a 3-for-2 stock split in November 1992. Share earnings are fully diluted.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

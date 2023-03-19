@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths  WEBER, JOHN</title>
+    <meta content="DN052001" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="47" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1295186"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <identified-content>
+        <person class="indexing_service">WEBER, JOHN</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20010520T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E06E3DC173DF933A15756C0A9679C8B63" item-length="48" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths  WEBER, JOHN</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>WEBER-John. Died suddenly on May 16, 2001, age 91. Widower of Ruth. Beloved father of Linda and Joe. Grandfather of Jennifer, Anne, Noah, and David. Great grandfather of Zachary. He was passionately committed to a just and peaceful world. We will miss his brilliant mind and generous heart.</p>
+      </block>
+      <block class="full_text">
+        <p>WEBER-John. Died suddenly on May 16, 2001, age 91. Widower of Ruth. Beloved father of Linda and Joe. Grandfather of Jennifer, Anne, Noah, and David. Great grandfather of Zachary. He was passionately committed to a just and peaceful world. We will miss his brilliant mind and generous heart.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

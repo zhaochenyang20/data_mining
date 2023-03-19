@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Accounts</title>
+    <meta content="MB005009" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1466427"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <series series.name="THE MEDIA BUSINESS: ADVERTISING -- ADDENDA"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Advertising</classifier>
+        <classifier class="indexing_service" type="descriptor">Account Changes</classifier>
+        <person class="indexing_service">Kane, Courtney</person>
+        <object.title class="indexing_service">Advertising (Times Column)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Addenda</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Marketing, Advertising and PR</classifier>
+        <classifier class="online_producer" type="general_descriptor">Advertising and Marketing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20030220T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E05E5DD153DF933A15751C0A9659C8B63" item-length="176" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Accounts</hl1>
+      </hedline>
+      <byline class="print_byline">By Courtney Kane</byline>
+      <byline class="normalized_byline">Kane, Courtney</byline>
+      <abstract>
+        <p>Roundup of recent advertising account changes (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>* Brown-Forman Corp., Louisville, Ky., expanded its relationship with Universal McCann, New York, by consolidating the worldwide media planning and buying for its wine and liquor brands like Jack Daniel's, Finlandia and Southern Comfort and naming Universal McCann as global agency of record. Billings were estimated at $60 million. Universal McCann, part of the McCann-Erickson World Group division of the Interpublic Group of Companies, already handled media duties in countries like France and Spain. Media planning for the United States had been handled by the St. Louis office of PHD, part of the Omnicom Group, and domestic media buying had been handled internally. Creative duties for the brands are divided among various agencies.  * Hoffman/Lewis, San Francisco, was awarded the accounts of three California companies that had previously handled their advertising internally. Total billings were estimated at $15 million. The companies are: Beverages and More, Concord, which operates 28 stores; Earthbound Farm, San Juan Bautista, a supplier of organic produce; and VSP, a provider of eye-care plans, for a brand-awareness campaign.</p>
+      </block>
+      <block class="full_text">
+        <p>* Brown-Forman Corp., Louisville, Ky., expanded its relationship with Universal McCann, New York, by consolidating the worldwide media planning and buying for its wine and liquor brands like Jack Daniel's, Finlandia and Southern Comfort and naming Universal McCann as global agency of record. Billings were estimated at $60 million. Universal McCann, part of the McCann-Erickson World Group division of the Interpublic Group of Companies, already handled media duties in countries like France and Spain. Media planning for the United States had been handled by the St. Louis office of PHD, part of the Omnicom Group, and domestic media buying had been handled internally. Creative duties for the brands are divided among various agencies.  * Hoffman/Lewis, San Francisco, was awarded the accounts of three California companies that had previously handled their advertising internally. Total billings were estimated at $15 million. The companies are: Beverages and More, Concord, which operates 28 stores; Earthbound Farm, San Juan Bautista, a supplier of organic produce; and VSP, a provider of eye-care plans, for a brand-awareness campaign.</p>
+        <p>THE MEDIA BUSINESS: ADVERTISING -- ADDENDA</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

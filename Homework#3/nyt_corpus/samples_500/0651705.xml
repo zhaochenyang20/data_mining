@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Why Small Powers Also Deserve Respect</title>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1993" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="651705"/>
+      <doc.copyright holder="The New York Times" year="1993"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">UNITED STATES INTERNATIONAL RELATIONS</classifier>
+        <classifier class="indexing_service" type="descriptor">INTERNATIONAL RELATIONS</classifier>
+        <person class="indexing_service">ABT, CLARK</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19931122T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE2DC1730F931A15752C1A965958260" item-length="479" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Why Small Powers Also Deserve Respect</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>W. Anthony Lake, the President's national security adviser, has appealed to opinion makers and Congress to keep making a distinction between the immediate and the important when dealing with the "less strategically significant questions" of small countries that are ripping themselves apart like Somalia and Haiti. He might also include Angola, Armenia, Bosnia and others.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>W. Anthony Lake, the President's national security adviser, has appealed to opinion makers and Congress to keep making a distinction between the immediate and the important when dealing with the "less strategically significant questions" of small countries that are ripping themselves apart like Somalia and Haiti. He might also include Angola, Armenia, Bosnia and others.</p>
+        <p>The distinction between the immediate and the important incorrectly associates the security issue of small nations in internal turmoil with the immediate but unimportant, compared with "the most fundamental questions" of areas of greater strategic importance to us, like Russia.</p>
+        <p>In an American policy of engagement, based on democratic principles and pragmatic application of American power, there is no escaping responsibility for the security problems of small countries. The big strategic issues will be those like demilitarization of Russia and countering strategic weapons proliferation from China. But democratization and defense of more than 100 small countries are issues of the first magnitude.</p>
+        <p>Small country security issues are of first importance to the security of most large countries, particularly when the small countries ripping themselves apart are on the borders of the large countries and involve ethnic or religious groups. Don't forget that most of the great power wars were initiated by disputes in small states within their competing spheres of influence -- Bosnia in 1914, Czechoslovakia in 1938, Korea in 1951, Kuwait in 1990.</p>
+        <p>The best efforts of the nuclear powers at counterproliferation of weapons of mass destruction are unlikely to be completely successful in denying desperate small countries, rich drug cartels and crime syndicates access to nuclear weapons.</p>
+        <p>The increasing number of small country security crises affecting the national security of the great powers means that there must be a wider choice of policy options than costly and often futile armed intervention or withdrawal into military and economic isolationism.</p>
+        <p>Fortunately there are examples of small countries that have successfully resolved their internal conflicts and defended their independence against much stronger neighbors without themselves becoming threatening to others. Slovenia, Finland, Switzerland and Costa Rica are such good examples. Perhaps Estonia and Israel soon may be.</p>
+        <p>The Clinton Administration cannot evade or postpone responsibility for a viable and consistent foreign policy and security strategy concerning small country conflicts by arguing that policies concerning great powers are more strategically significant. An effective foreign and defense policy will regard both as important and address both seriously and simultaneously.  CLARK ABT  Director, Defense Technology Conversion Center, Boston U. Cambridge, Mass., Nov. 13, 1993</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

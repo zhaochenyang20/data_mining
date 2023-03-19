@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Slicing Wood and Steel for a Collage Artist's Studio</title>
+    <meta content="29studio" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="House &amp; Home/Style Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Home and Garden; Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1728138"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <series series.name="CURRENTS: ARCHITECTURE"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Home and Garden</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20051229T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9904E4DE1330F93AA15751C1A9639C8B63" item-length="261" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Slicing Wood and Steel for a Collage Artist's Studio</hl1>
+      </hedline>
+      <byline class="print_byline">By SYDNEY LeBLANC</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Francesca Gabbiani, a 40-year-old Los Angeles artist, creates large collages by cutting up colored paper and gluing the pieces together. Collage inspired her architect, Kevin Daly, of Daly, Genik in Santa Monica, Calif., to envision her studio as a series of three silvery corrugated steel boxes.</p>
+        <p>''I took the boxes apart and put them back together,'' Mr. Daly said, ''making the studio a self-portrait of the artist and her work.''</p>
+      </block>
+      <block class="full_text">
+        <p>Francesca Gabbiani, a 40-year-old Los Angeles artist, creates large collages by cutting up colored paper and gluing the pieces together. Collage inspired her architect, Kevin Daly, of Daly, Genik in Santa Monica, Calif., to envision her studio as a series of three silvery corrugated steel boxes.</p>
+        <p>''I took the boxes apart and put them back together,'' Mr. Daly said, ''making the studio a self-portrait of the artist and her work.''</p>
+        <p>The boxes break up the work space into two parts: an expansive studio (the biggest box) and an adjacent office (the medium-size one). The third sits on top of the other two and is effectively an innovative skylight that combines high tech materials and hand craftsmanship. Made of polycarbonate panels, the skylight is screened with slats of reclaimed wood, which wash the studio with even, indirect natural light.</p>
+        <p>An outdoor ''painting terrace'' -- used for airbrushing Ms. Gabbiani's pictures -- is a bonus, since the building sits snugly on the hillside behind the 60's ranch house in the Silver Lake neighborhood which she shares with her husband, Ed Ruscha Jr., an artist and a musician, and their toddler son, Milo.</p>
+        <p>Ms. Gabbiani's collages often depict interior scenes that resemble movie backdrops.</p>
+        <p>''In my old studio, if I made a big piece I could barely see it,'' she said. ''But now I can invite my friends.'' Daly, Genik Architects, (310) 656-3180, www.dalygenik.com.</p>
+        <p>SYDNEY LeBLANC</p>
+        <p>CURRENTS: ARCHITECTURE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>BUSINESS DIGEST</title>
+    <meta content="26DIGE" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1171511"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000126T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F06EEDC143CF935A15752C0A9669C8B63" item-length="622" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>BUSINESS DIGEST</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Justice Department Issues A Rebuttal to Microsoft  The Justice Department and 19 states suing Microsoft jointly issued a stinging and disdainful rebuttal to the company's legal arguments last week that it had not violated the nation's antitrust laws.</p>
+      </block>
+      <block class="full_text">
+        <p>Justice Department Issues A Rebuttal to Microsoft  The Justice Department and 19 states suing Microsoft jointly issued a stinging and disdainful rebuttal to the company's legal arguments last week that it had not violated the nation's antitrust laws.</p>
+        <p>In a 30-page document filed with Federal District Court in Washington, the Justice Department and the states characterized Microsoft's arguments as a strained effort at knocking down legal ''straw men.'' Concluding arguments in the antitrust case have been scheduled for Feb. 22. [Page C8.]</p>
+        <p>A federal judge has ruled that Microsoft must conform to standards set by Sun Microsystems when it sells products that use Sun's Java programming language. [C2.]</p>
+        <p>Thomson to Acquire a Unit of Sylvan  Thomson, the owner of the Globe and Mail newspaper in Canada, is expected to announce the $775 million acquisition today of Sylvan Prometric, a computer-based testing company that certifies professionals and graduate school applicants. [C4.]</p>
+        <p>Procter Meets Earnings Estimates  Procter &amp; Gamble, a day after deciding against a bid for Warner-Lambert and American Home Products, reported second-quarter earnings that were little changed from a year earlier but still met analysts' expectations. Shares of Procter &amp; Gamble, which is based in Cincinnati, fell $5.375, to $97.50. [C6.]</p>
+        <p>Merrill Lynch &amp; Company said its earnings more than doubled last quarter as its customers poured money into the firm and its corporate clients continued to sell stocks and bonds and buy other companies. [C6.]</p>
+        <p>American Home Products and Johnson &amp; Johnson reported fourth-quarter profits that matched Wall Street forecasts. [C14.]</p>
+        <p>Consumer Confidence Sets Record  Consumer confidence has risen to a record level so far in January. Abundant jobs, a rising stock market and an uneventful change to the year 2000 helped drive up the consumer confidence index to 144.7 in January, its highest level in 32 years. [C16.]</p>
+        <p>Group Weighs Bid for Calvin Klein  Maurizio Romiti, chief executive of Holding di Partecipazioni Industriali, one of Italy's major fashion holding companies, said the company was considering an acquisition of Calvin Klein Industries. In October, Calvin Klein, left, and his partner Barry Schwartz hired Lazard Freres to explore strategic moves, including an alliance or possible sale. [C4.]</p>
+        <p>Qualcomm Expects Shipments to Dip  Qualcomm, the wireless technology company, warned that shipments of cellular telephones and chips might dip in the second quarter, sending its shares plunging $16 in after-hours trading. The warning came as Qualcomm reported earnings that beat the expectations of analysts by a penny a share. [C14.]</p>
+        <p>Chase Settles Privacy Case  Chase Manhattan Bank and a Denver-based Internet company will no longer routinely share personal or financial information about their customers with other companies under a settlement announced by the state attorney general in New York. The companies, according to the attorney general, Eliot L. Spitzer, had violated their stated privacy policies by providing information to telemarketing companies and advertisers without the full knowledge and consent of customers. [B1.]</p>
+        <p>Merging Led Zeppelin and Sinatra  When the newly created AOL-Time Warner further consolidated its pop power by announcing plans this week to merge with EMI Group, it was a message about content. EMI's catalog includes the Beatles, the Beach Boys, the Rolling Stones, Frank Sinatra and Garth Brooks. If made available for direct digital download online alongside Warner Music's superstars (from Madonna to Led Zeppelin to the Eagles), this could hasten public acceptance of the music computer file as an alternative to the CD. [E1.]</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

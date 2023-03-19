@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>2nd Ave. Subway Platforms May Get Glass Walls and Sliding Doors</title>
+    <meta content="05doors" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/05/nyregion/05doors.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1838203"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Manufacturing, Operations and Logistics</classifier>
+        <classifier class="online_producer" type="descriptor">Transit Systems</classifier>
+        <classifier class="online_producer" type="descriptor">Subways</classifier>
+        <classifier class="online_producer" type="general_descriptor">Building (Construction)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy Efficiency</classifier>
+        <classifier class="online_producer" type="general_descriptor">Subways</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stations and Terminals (Passenger)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Transit Systems</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+        <org class="online_producer">Metropolitan Transportation Authority</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070405T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F04E3D9163FF936A35757C0A9619C8B63" item-length="900" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>2nd Ave. Subway Platforms May Get Glass Walls and Sliding Doors</hl1>
+        <hl2 class="online_headline">2nd Ave. Subway Platforms May Get Glass Walls and Sliding Doors</hl2>
+      </hedline>
+      <byline class="print_byline">By WILLIAM NEUMAN</byline>
+      <byline class="normalized_byline">Neuman, William</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Second Avenue subway, as it is envisioned by planners at the Metropolitan Transportation Authority, will have many modern features that set it apart, including roomier, brightly lighted stations with wider platforms that are cooled in the summertime and are fully accessible to the handicapped.</p>
+        <p>But as the authority prepares for a groundbreaking ceremony next week, planners are considering one innovation that would make the Second Avenue subway radically different from every other line in the city: mechanical doors on the edge of the platforms that would open to allow passengers to move on and off the trains.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Planners are considering one innovation that would make the Second Avenue subway radically different from every other line in the city.</p>
+      </block>
+      <block class="full_text">
+        <p>The Second Avenue subway, as it is envisioned by planners at the Metropolitan Transportation Authority, will have many modern features that set it apart, including roomier, brightly lighted stations with wider platforms that are cooled in the summertime and are fully accessible to the handicapped.</p>
+        <p>But as the authority prepares for a groundbreaking ceremony next week, planners are considering one innovation that would make the Second Avenue subway radically different from every other line in the city: mechanical doors on the edge of the platforms that would open to allow passengers to move on and off the trains.</p>
+        <p>The doors, set into a wall of glass or metal, would create a floor-to-ceiling barrier, sealing off the track and tunnel area from the platforms and altering forever the daily experience of waiting passengers. Gone would be the rush of air and thunder, gone the visceral thrill as many tons of steel hurtle by at high speed, just inches away, all replaced by the hygienic interface of technology.</p>
+        <p>Several subway systems in Europe and Asia use the doors, known as platform edge doors or platform screen doors.</p>
+        <p>They are also used in this country in many airport shuttle train systems, including the AirTrain at Kennedy International Airport.</p>
+        <p>Ernest Tollerson, the transportation authority's policy director, said Tuesday that the authority was studying the feasibility of incorporating the platform edge doors into designs for the Second Avenue subway.</p>
+        <p>The doors, he said, could allow substantial energy savings in the station cooling systems, which would use cold water to chill air blown into the stations and reduce temperatures by about 10 degrees. With open platforms, the hot air from the tunnels would mix with the cooled air in the stations. With doors on the platform edge, the heat from the tunnels would be at least partly blocked and the cooling system could operate more efficiently.</p>
+        <p>''They have a lot of advantages in B.T.U. savings and things like that,'' Mr. Tollerson said. ''They improve the station environment. It's a design element worth looking at.''</p>
+        <p>He described the initiative as part of a larger effort to consider the environmental impact of the authority's operations.</p>
+        <p>''There is an interest in thinking about and figuring out -- if we're going to live in a carbon-constrained world and we're going to think about the ecological footprint of a global city and a global region -- where does the M.T.A. fit in all that and what should the M.T.A. be thinking about and doing,'' Mr. Tollerson said.</p>
+        <p>Engineers working on the new line's design had previously considered the platform doors, but the concept was rejected because of concerns about its cost and the way it would affect subway operations. It was opposed by Lawrence G. Reuter, who was president of New York City Transit from 1996 until February 2007.</p>
+        <p>Last month, however, planners at the authority asked the engineering firms that have been designing the subway line to take another look at incorporating platform doors.</p>
+        <p>Mr. Tollerson said the review was not related to Mr. Reuter's departure. He said the idea came out of discussions he had with Mysore L. Nagaraja, the authority's president of capital construction.</p>
+        <p>Mr. Nagaraja said that besides the potential energy savings, there were safety benefits as well.</p>
+        <p>With the door system in place, people could not fall or jump in front of trains. He also said the doors could reduce track fires, because people could not throw trash onto the tracks.</p>
+        <p>The doors would be likely to add to the cost of building the new subway line, which has a budget of $3.8 billion. Mr. Nagaraja said engineers would estimate those costs, and the degree to which they would be offset by savings in cooling expenses.</p>
+        <p>Mr. Nagaraja said that in earlier discussions of the platform edge doors, transit officials had expressed concerns about long-term maintenance requirements.</p>
+        <p>One concern is that most if not all train systems that use platform edge doors also incorporate a system of computerized train operation in which trains stop at exactly the same spot every time, and are always lined up properly with the platform doors. The authority has been working to develop a computerized system for New York subways, but it is still a long-term goal. With the current system, the doors would have to be designed to operate with trains controlled by human drivers.</p>
+        <p>The first phase of the new subway line is to include four stations, from 96th Street to 63rd Street, and is scheduled to be finished in 2013.</p>
+        <p>Mr. Reuter, the former transit agency president, said that in the 1980s and again in the 1990s, the possibility of retrofitting the entire subway system with platform edge doors was discussed at the authority. Both times, he said, the idea was discarded, largely because of difficulties in integrating the doors with the existing system. When the idea arose again in planning for the Second Avenue subway, Mr. Reuter said, he opposed it.</p>
+        <p>''I definitely discouraged it because it's a cost item and it's a maintenance item,'' said Mr. Reuter, who now works in Miami as a senior vice president of Parsons Brinckerhoff, an engineering firm. ''It's only going to apply in a few stations. What good is it going to do if you can't adapt it to the rest of the system? I didn't see any benefit, plus it's going to cost extra money to maintain them.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

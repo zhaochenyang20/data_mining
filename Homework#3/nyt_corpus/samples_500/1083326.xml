@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Julia Rubin and Lloyd Green</title>
+    <meta content="07RUBI$01" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="1999" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1083326"/>
+      <doc.copyright holder="The New York Times" year="1999"/>
+      <series series.name="WEDDINGS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">RUBIN, JULIA ANNE (JULIA ANNE GREEN)</person>
+        <person class="indexing_service">GREEN, LLOYD MITCHELL</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19990207T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9807EEDD163BF934A35751C0A96F958260" item-length="170" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Julia Rubin and Lloyd Green</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Julia Anne Rubin and Lloyd Mitchell Green are to be married today by Rabbi Robert Marx at the Standard Club in Chicago.</p>
+        <p>Rabbi Haskel Lookstein is to take part in the ceremony.</p>
+      </block>
+      <block class="full_text">
+        <p>Julia Anne Rubin and Lloyd Mitchell Green are to be married today by Rabbi Robert Marx at the Standard Club in Chicago.</p>
+        <p>Rabbi Haskel Lookstein is to take part in the ceremony.</p>
+        <p>The bride, 38, is the senior national photography editor at The Associated Press, the news service in Manhattan. She was until last month the editor for New York metropolitan news at the A.P. She graduated cum laude from Harvard University and received a master's degree in Russian history from the University of Michigan. She is a daughter of Roberta Rubin of Glencoe, Ill., and the late David R. Rubin.</p>
+        <p>The bridegroom, 39, is a litigation associate at Otterbourg, Steindler, Houston &amp; Rosen, a Manhattan law firm. He graduated magna cum laude from Columbia University, where he was elected to Phi Beta Kappa, and received a law degree from Cornell University.</p>
+        <p>He is a son of Pearl Green of Brooklyn and the late Jack Green.</p>
+        <p>WEDDINGS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Ford and G.M. Sales Slide Despite Generous Rebates</title>
+    <meta content="02SALE$03" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2004/12/02/business/02sales.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1631536"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Automobiles</classifier>
+        <classifier class="indexing_service" type="descriptor">Sales</classifier>
+        <classifier class="indexing_service" type="descriptor">Labor</classifier>
+        <classifier class="indexing_service" type="descriptor">Layoffs and Job Reductions</classifier>
+        <location class="indexing_service">Linden (NJ)</location>
+        <org class="indexing_service">Ford Motor Co</org>
+        <org class="indexing_service">General Motors Corp</org>
+        <org class="indexing_service">Ward's Auto Info Bank</org>
+        <person class="indexing_service">Hakim, Danny</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New Jersey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Midwest</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Road Trips</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Sales and Business Development</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New Jersey</classifier>
+        <classifier class="online_producer" type="descriptor">Automobiles</classifier>
+        <classifier class="online_producer" type="descriptor">Sales</classifier>
+        <classifier class="online_producer" type="general_descriptor">Sales</classifier>
+        <classifier class="online_producer" type="general_descriptor">Layoffs and Job Reductions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Automobiles</classifier>
+        <classifier class="online_producer" type="general_descriptor">Labor</classifier>
+        <org class="online_producer">Ford Motor Company</org>
+        <org class="online_producer">General Motors Corporation</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20041202T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C05E1D71E3EF931A35751C1A9629C8B63" item-length="1105" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Ford and G.M. Sales Slide Despite Generous Rebates</hl1>
+        <hl2 class="online_headline">Ford and G.M. Sales Slide Despite Generous Rebates</hl2>
+      </hedline>
+      <byline class="print_byline">By DANNY HAKIM</byline>
+      <byline class="normalized_byline">Hakim, Danny</byline>
+      <dateline>DETROIT, Dec. 1</dateline>
+      <abstract>
+        <p>Ford Motor Co and General Motors, despite crop of new models and generous rebates, report decline in sales in November; both plan to cut production in first quarter 2005, troubling sign for job growth in Michigan and elsewhere; GM accelerates plan to stop production at plant in Linden, NJ, and lay off nearly 1,000 workers in early 2005; Ward's AutoInfoBank reports overall auto sales have been robust this year, but declined by 4.9 percent in November; graph; charts (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Despite a crop of new car models and a still-generous supply of rebates, sales fell for the Ford Motor Company and General Motors in November.</p>
+        <p>Both companies said they would cut production in the first quarter of 2005 from levels of the same quarter this year, the latest troubling sign for job growth in Michigan and other states where the companies operate. G.M. said Tuesday that it was accelerating a plan to stop production at a plant in Linden, N.J., and would lay off nearly 1,000 workers at the plant early next year.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Despite a crop of new car models and a still-generous supply of rebates, sales fell for the Ford Motor Company and General Motors in November.</p>
+      </block>
+      <block class="full_text">
+        <p>Despite a crop of new car models and a still-generous supply of rebates, sales fell for the Ford Motor Company and General Motors in November.</p>
+        <p>Both companies said they would cut production in the first quarter of 2005 from levels of the same quarter this year, the latest troubling sign for job growth in Michigan and other states where the companies operate. G.M. said Tuesday that it was accelerating a plan to stop production at a plant in Linden, N.J., and would lay off nearly 1,000 workers at the plant early next year.</p>
+        <p>A Ford executive also said Wednesday that high gas prices were beginning to affect the perceptions of buyers -- a controversial notion in Detroit, which has long leaned heavily for profits on large pickup trucks and sport utility vehicles.</p>
+        <p>''We've been up around $2 for a while now,'' Phil Martens, Ford's vice president for product creation, said of gasoline prices. He added that the company's recent polling data showed that the prices were ''creeping into people's consciousness.''</p>
+        <p>Gary Dilts, the chief industry sales analyst at the Chrysler division of DaimlerChrysler, disagreed, saying, ''it's not hitting the radar here.''</p>
+        <p>Jason Vines, the chief spokesman for Chrysler, added that ''historically, higher gas prices impact lower-income families who have a tendency to drive used vehicles anyway. It's not the new vehicle purchasers.''</p>
+        <p>Overall auto sales across the industry have been robust this year, but cooled off last month, declining 4.9 percent, or about 1 percent when adjusted for the same number of selling days as November 2003, according to Ward's AutoInfoBank.</p>
+        <p>G.M. and Ford have long been struggling to hold onto customers as Toyota and other foreign competitors take more of the market. Now they also face a reinvigorated Chrysler, lifted by its relatively new vehicle lineup, particularly the 300 Series sedan, a car with an expansive grille that has been a rare attention-getter among domestic cars. Sales at DaimlerChrysler, which includes Mercedes, rose 8.8 percent in November, according to Wards.</p>
+        <p>Sales were down 13.2 percent at G.M., which has recently introduced several new passenger cars but is saddled with an aging lineup of large pickup trucks and large sport utility vehicles. The company has been spending more on rebates and low-rate financing deals than any other automaker, but moderated its deals somewhat last month. Its latest promotion, called Lock 'n' Roll, which promised many buyers the chance to lock in low interest rates for two consecutive vehicle purchases, had a limited effect on sales.</p>
+        <p>One financial analyst, Ronald Tadross of Bank of America, questioned the company's approach during a conference call held by G.M. on Wednesday.</p>
+        <p>''Your sales are worse than expected, but you're not doing anything about that,'' Mr. Tadross said. ''You're not cutting your prices, the production cut in the first quarter is at the low end of the range I expected. What's your strategy?''</p>
+        <p>Paul Ballew, G.M.'s chief industry sales analyst, said, ''You have to come out with best-in-class products, you have to make sure you're developing best-in-class brands, continue to cut costs and remain aggressive'' in offering incentives.</p>
+        <p>''The marketplace right now is pretty unforgiving and we're in there slogging it out,'' Mr. Ballew added.</p>
+        <p>All of G.M.'s brands, except for its Isuzu affiliate, posted declines last month. Buick and Pontiac were hardest hit, with sales down 33.5 and 31.4 percent.</p>
+        <p>Ford sales fell 4 percent in November, with sales gains by two of the company's European brands, Volvo and Land Rover, helping to offset losses at the Ford, Lincoln and Mercury brands.</p>
+        <p>Results for several crucial Ford and G.M. models are still too early to judge, since they only recently made their debuts. G.M. sold about 4,400 Pontiac G6 sedans last month, about half of the volume it hoped to eventually sell of the car that was to replace the Grand Am. Ford's Freestyle wagon and Five Hundred sedan are also new to the market; the company's redesigned Mustang has been a clear early bright spot.</p>
+        <p>Ford said it would cut its first quarter North American production by nearly 8 percent, to 930,000 vehicles. G.M. said its initial first-quarter production forecast of 1.25 million cars and trucks was down 7.1 percent from a year earlier. Next month, G.M. is expected to try to vault its Chevrolet brand past the Ford brand as the nation's top-selling line.</p>
+        <p>Toyota sales of all models rose 8.8 percent in November, according to Ward's, while Nissan had a particularly strong month, with sales of all models up 31 percent.</p>
+        <p>Not all Asian automakers are prospering. Mitsubishi continues to be in a freefall after a string of scandals and lagging product development. Sales fell nearly 51 percent last month. The company's latest executive departure came late last month as Ian Beavis, the company's United States marketing chief, left after just a year on the job.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

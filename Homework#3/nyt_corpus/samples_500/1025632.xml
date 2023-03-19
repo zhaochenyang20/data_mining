@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Forrest H. Kirkpatrick, Consultant, 92</title>
+    <meta content="Y19KIRK" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S.; Obituaries" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1025632"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Deaths (Obituaries)</classifier>
+        <classifier class="indexing_service" type="descriptor">Biographical Information</classifier>
+        <person class="indexing_service">Kirkpatrick, Forrest Hunter</person>
+        <classifier class="online_producer" type="types_of_material">Obituary (Obit)</classifier>
+        <classifier class="online_producer" type="types_of_material">Biography</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Obituaries</classifier>
+        <classifier class="online_producer" type="general_descriptor">Deaths (Obituaries)</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980619T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C07E5D61E3DF93AA25755C0A96E958260" item-length="211" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Forrest H. Kirkpatrick, Consultant, 92</hl1>
+      </hedline>
+      <abstract>
+        <p>Forrest Hunter Kirkpatrick, retired educator, corporate executive and management consultant on personnel administration and industrial relations, dies at age 92 (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Forrest Hunter Kirkpatrick, a retired educator, corporate executive and management consultant on personnel administration and industrial relations, died on May 31 at the Ohio Valley Medical Center in Wheeling, W. Va. He was 92 and lived in Wheeling.</p>
+        <p>He had long associations with Bethany College in West Virginia and the Wheeling-Pittsburgh Steel Corporation. In the 1940's, on a leave of absence from the college, he organized a personnel administration program for the Radio Corporation of America and then served R.C.A. as an educational consultant until 1960.</p>
+      </block>
+      <block class="full_text">
+        <p>Forrest Hunter Kirkpatrick, a retired educator, corporate executive and management consultant on personnel administration and industrial relations, died on May 31 at the Ohio Valley Medical Center in Wheeling, W. Va. He was 92 and lived in Wheeling.</p>
+        <p>He had long associations with Bethany College in West Virginia and the Wheeling-Pittsburgh Steel Corporation. In the 1940's, on a leave of absence from the college, he organized a personnel administration program for the Radio Corporation of America and then served R.C.A. as an educational consultant until 1960.</p>
+        <p>He graduated from Bethany College in 1927 and earned a master's degree at Columbia University in 1931. He was a professor and dean at Bethany from 1927 to 1940 and again from 1946 to 1952.</p>
+        <p>In 1952 he was named assistant to the chairman at what was then Wheeling Steel. He retired from the company as a vice president and secretary in 1970.</p>
+        <p>Over the years he served as a consultant to various Federal departments and agencies.</p>
+        <p>He left no immediate survivors.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

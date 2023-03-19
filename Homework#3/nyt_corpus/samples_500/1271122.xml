@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Stake Sale Averts Collapse Of German Media Company</title>
+    <meta content="16MARK$02" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="W" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2001/02/16/business/16MARK.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1271122"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="indexing_service" type="descriptor">Automobile Racing</classifier>
+        <classifier class="indexing_service" type="descriptor">Stocks and Bonds</classifier>
+        <classifier class="indexing_service" type="descriptor">Finances</classifier>
+        <classifier class="indexing_service" type="descriptor">Securities and Commodities Violations</classifier>
+        <classifier class="indexing_service" type="descriptor">Frauds and Swindling</classifier>
+        <classifier class="indexing_service" type="descriptor">Insider Trading</classifier>
+        <classifier class="indexing_service" type="descriptor">Suits and Litigation</classifier>
+        <location class="indexing_service">Germany</location>
+        <org class="indexing_service">Em.tv &amp; Merchandising Ag</org>
+        <org class="indexing_service">Kirch Group</org>
+        <org class="indexing_service">Formula One Holdings</org>
+        <person class="indexing_service">Andrews, Edmund L</person>
+        <person class="indexing_service">Haffa, Thomas</person>
+        <person class="indexing_service">Hahn, Dieter</person>
+        <person class="indexing_service">Haffa, Florian</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Germany</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Germany</classifier>
+        <classifier class="online_producer" type="general_descriptor">Insider Trading</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Frauds and Swindling</classifier>
+        <classifier class="online_producer" type="general_descriptor">Futures and Options Trading</classifier>
+        <classifier class="online_producer" type="general_descriptor">Securities and Commodities Violations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suits and Litigation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Automobile Racing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20010216T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9801EED91530F935A25751C0A9679C8B63" item-length="616" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Stake Sale Averts Collapse Of German Media Company</hl1>
+      </hedline>
+      <byline class="print_byline">By EDMUND L. ANDREWS</byline>
+      <byline class="normalized_byline">Andrews, Edmund L</byline>
+      <dateline>FRANKFURT, Feb. 15</dateline>
+      <abstract>
+        <p>EM.TV &amp; Merchandising AG, German media company that bought Muppets and half Formula One racing organization, escapes collapse; but prospects are much less clear for its chairman and founder, Thomas Haffa; after two months of tangled negotiations and unexpected battle with European car companies over future of Formula One, EM.TV agrees to sell big stake in itself and Formula One business to Kirch Group for $550 million; Haffa in last few months has been forced to restate company's earnings, drastically reduce his forecasts and admit that he secretly sold shares of company in violation of rules governing EM.TV public stock offering; Haffa's brother, Florian, who was co-founder of EM.TV, was forced to resign as chief financial officer last fall; both brothers are being investigated by Bavarian authorities on suspicions of insider trading and they face many lawsuits from angry shareholders; Kirch will pay $550 million for half of EM.TV's stake in Formula One business as well as 16 percent of EM.TV and voting rights equal to 25 percent of stock--enough under German law to have veto over major corporate decisions; photo of Thomas Haffa with Kirch deputy chairman Dieter Hahn (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>EM.TV and Merchandising A.G., the German media company that bought the Muppets and half the Formula One racing organization, escaped collapse today. But the prospects are much less clear for its chairman and founder, Thomas Haffa.</p>
+        <p>After two months of tangled negotiations and an unexpected battle with European car companies over the future of Formula One, EM.TV said today that it had agreed to sell a big stake in itself and the Formula One business to the Kirch Group, the Munich-based media conglomerate, for $550 million.</p>
+      </block>
+      <block class="full_text">
+        <p>EM.TV and Merchandising A.G., the German media company that bought the Muppets and half the Formula One racing organization, escaped collapse today. But the prospects are much less clear for its chairman and founder, Thomas Haffa.</p>
+        <p>After two months of tangled negotiations and an unexpected battle with European car companies over the future of Formula One, EM.TV said today that it had agreed to sell a big stake in itself and the Formula One business to the Kirch Group, the Munich-based media conglomerate, for $550 million.</p>
+        <p>The deal gives EM.TV at least a measure of breathing room after coming perilously close to collapsing under a mountain of debt. Before it veered into a financial crisis last fall, EM.TV had appeared to be one of Europe's most spectacular entrepreneurial success stories. But it lost control after buying up rights to a huge library of children's programming, capped by the purchase of the Jim Henson Company last year, as well as its Formula One deal.</p>
+        <p>In the last few months, Mr. Haffa has been forced to restate the company's earnings, drastically reduce his forecasts and admit that he secretly sold shares of the company in violation of rules governing an EM.TV public stock offering. Mr. Haffa's brother, who was a co-founder of EM.TV, was forced to resign as chief financial officer last fall. Both brothers are being investigated by Bavarian authorities on suspicions of insider trading, and they face many lawsuits from angry shareholders.</p>
+        <p>Under the new agreement, Kirch will pay $550 million for half of EM.TV's stake in the Formula One business as well as 16 percent of EM.TV and voting rights equal to 25 percent of the stock -- enough under the German law to have a veto over major corporate decisions.</p>
+        <p>EM.TV, which currently owns half of a company that controls Formula One, will exercise an option to buy another 25 percent stake for $987 million from its current owner, Bernie Ecclestone.</p>
+        <p>Kirch and EM.TV announced the plan back in December, but the talks became bogged down in disputes over Formula One. DaimlerChrysler, BMW and Renault, which all sponsor Formula One race cars, were upset about losing influence over the racing organization and some had hoped for a chance to buy into it themselves.</p>
+        <p>Within EM.TV, executives also disagreed about the wisdom of selling to Kirch. EM.TV's chairman, Nicklaus Becker, is said to have wanted to sell the Formula One stake to Hellman &amp; Friedman, an American investment firm.</p>
+        <p>But EM.TV and Kirch suggested that they would try to work out an additional deal with car makers in the months ahead.</p>
+        <p>In a statement released Wednesday night, the companies said they were ''interested in finding a long-term solution with both Bernie Ecclestone and interested car makers that will satisfy all parties involved.''</p>
+        <p>Many industry analysts expect Mr. Becker to resign from the board, having been overruled by Mr. Haffa. But Mr. Haffa's own future is also in doubt, because EM.TV's binge of dubious accounting occurred on his watch. Earlier this month, Mr. Haffa admitted that he had violated German regulations and the terms of a recent stock offering by selling about $40 million worth of shares during the postoffering lockup period.</p>
+        <p>Investors, though initially euphoric that EM.TV had finally reached a deal with Kirch, grew more skeptical as the day progressed. EM.TV shares soared 35 percent initially, but then fell back and closed up only 5 percent, at 7.6 euros ($7).</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

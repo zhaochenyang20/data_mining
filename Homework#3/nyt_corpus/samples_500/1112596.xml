@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths  CHAMBERLAIN, RALPH E.</title>
+    <meta content="DN060499" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="1999" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="19" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1112596"/>
+      <doc.copyright holder="The New York Times" year="1999"/>
+      <identified-content>
+        <person class="indexing_service">CHAMBERLAIN, RALPH E.</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19990604T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C00F8DB1626E033BC415AC9B7" item-length="322" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths  CHAMBERLAIN, RALPH E.</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>CHAMBERLAIN-Ralph E. Died on June 2, 1999, at his home in Fly Creek, NY, age 72. A well-known businessman and philanthropist, he was Founder and Chairman of the Board of several businesses, including Precise Kit Promotions, Inc. and Holland Estill, Inc. Mr. Chamberlain dedicated much of his life to education, health and arts programs, including Hartwick College in Oneonta, NY, Bassett Healthcare and Glimmerglass Opera in Cooperstown, NY, and the Metropolitan Opera. He will be greatly missed by all who knew him. Survived by his wife, Ellen; his three daughters, Sharon Wagner of Pompton Lakes, NJ, Elizabeth Richards of Seabrook Island, SC and Samantha Chamberlain of Fly Creek; his two sons, Ralph E. Chamberlain, Jr. of Westwood, NJ and Richard Chamberlain of Fly Creek; his stepdaughter, Elisabeth Smith of Northampton, MA; his stepson, Peter Smith of Burlington Flats, NY; his motherin-law, Agnes (Peg) Harrington of Cooperstown; eleven grandchildren; his two brothers, Robert Chamberlain of Depew, NY and Rev. Charles Chamberlain of Thomasville, NC and Castleton, VT; and several nieces and nephews. Funeral service, 2 PM, Sunday, June 6, at Christ Episcopal Church, Cooperstown. Friends may call at Connell, Dow &amp; Deysenroth Funeral Home, 82 Chestnut Street, Cooperstown, Saturday, 7-9 PM. Interment, Lakewood Cemetery, Cooperstown. Donations in his memory may be made to the Ralph E. Chamberlain Memorial Fund for the benefit of Bassett Healthcare, Glimmerglass Opera and Hartwick College, P.O. Box 414, Cooperstown, NY 13326-0414 or Catskill Area Hospice and Palliative Care, Inc., 542 Main Street, Oneonta, NY 13820 or the Salvation Army, National Headquarters, 615 Slaters Lane, P.O. Box 269, Alexandria, VA 22313.</p>
+        <p>CHAMBERLAIN-Ralph E. The Board of Trustees, Artists and staff of Glimmerglass Opera deeply mourn the passing of our Chairman and express our gratitude for his extraodinary dedication and service. We extend heartfelt condolences to his wife Ellen, his children, and the entire Chamberlain family. Peter Duchin, President Board of Trustees Esther Nelson, General Dir Paul Kellogg, Artistic Dir</p>
+      </block>
+      <block class="full_text">
+        <p>CHAMBERLAIN-Ralph E. Died on June 2, 1999, at his home in Fly Creek, NY, age 72. A well-known businessman and philanthropist, he was Founder and Chairman of the Board of several businesses, including Precise Kit Promotions, Inc. and Holland Estill, Inc. Mr. Chamberlain dedicated much of his life to education, health and arts programs, including Hartwick College in Oneonta, NY, Bassett Healthcare and Glimmerglass Opera in Cooperstown, NY, and the Metropolitan Opera. He will be greatly missed by all who knew him. Survived by his wife, Ellen; his three daughters, Sharon Wagner of Pompton Lakes, NJ, Elizabeth Richards of Seabrook Island, SC and Samantha Chamberlain of Fly Creek; his two sons, Ralph E. Chamberlain, Jr. of Westwood, NJ and Richard Chamberlain of Fly Creek; his stepdaughter, Elisabeth Smith of Northampton, MA; his stepson, Peter Smith of Burlington Flats, NY; his motherin-law, Agnes (Peg) Harrington of Cooperstown; eleven grandchildren; his two brothers, Robert Chamberlain of Depew, NY and Rev. Charles Chamberlain of Thomasville, NC and Castleton, VT; and several nieces and nephews. Funeral service, 2 PM, Sunday, June 6, at Christ Episcopal Church, Cooperstown. Friends may call at Connell, Dow &amp; Deysenroth Funeral Home, 82 Chestnut Street, Cooperstown, Saturday, 7-9 PM. Interment, Lakewood Cemetery, Cooperstown. Donations in his memory may be made to the Ralph E. Chamberlain Memorial Fund for the benefit of Bassett Healthcare, Glimmerglass Opera and Hartwick College, P.O. Box 414, Cooperstown, NY 13326-0414 or Catskill Area Hospice and Palliative Care, Inc., 542 Main Street, Oneonta, NY 13820 or the Salvation Army, National Headquarters, 615 Slaters Lane, P.O. Box 269, Alexandria, VA 22313.</p>
+        <p>CHAMBERLAIN-Ralph E. The Board of Trustees, Artists and staff of Glimmerglass Opera deeply mourn the passing of our Chairman and express our gratitude for his extraodinary dedication and service. We extend heartfelt condolences to his wife Ellen, his children, and the entire Chamberlain family. Peter Duchin, President Board of Trustees Esther Nelson, General Dir Paul Kellogg, Artistic Dir</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

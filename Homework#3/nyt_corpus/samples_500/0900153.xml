@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="CORR2" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Corrections; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="900153"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19970107T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE0DD1039F934A35752C0A961958260" item-length="93" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>An article yesterday about the United States' intentions to request a waiver of immunity for a Georgian diplomat involved in a fatal car crash in Washington included an erroenous report from the State Department about a New York City police investigation of a recent incident involving diplomats. A report from the New York police about the incident involving two Russian and Belarussian diplomats in fact reached the State Department, on Friday.</p>
+      </block>
+      <block class="full_text">
+        <p>An article yesterday about the United States' intentions to request a waiver of immunity for a Georgian diplomat involved in a fatal car crash in Washington included an erroenous report from the State Department about a New York City police investigation of a recent incident involving diplomats. A report from the New York police about the incident involving two Russian and Belarussian diplomats in fact reached the State Department, on Friday.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

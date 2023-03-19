@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Together Again, That Colorful Couple, Art and Fashion</title>
+    <meta content="30FASH" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2003/09/30/fashion/30FASH.html" name="alternate_url"/>
+    <meta content="Fashion Page" name="feature_page"/>
+    <docdata>
+      <doc-id id-string="1523569"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Apparel</classifier>
+        <classifier class="indexing_service" type="descriptor">Art</classifier>
+        <person class="indexing_service">La Ferla, Ruth</person>
+        <person class="indexing_service">Schiaparelli, Elsa</person>
+        <person class="indexing_service">Dali, Salvador (1904-89)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Fashion, Beauty and Fitness</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Art</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Art and Design</classifier>
+        <classifier class="online_producer" type="descriptor">Museums</classifier>
+        <classifier class="online_producer" type="descriptor">Apparel</classifier>
+        <classifier class="online_producer" type="general_descriptor">Museums</classifier>
+        <classifier class="online_producer" type="general_descriptor">Apparel</classifier>
+        <classifier class="online_producer" type="general_descriptor">Art</classifier>
+        <org class="online_producer">Fendi</org>
+        <org class="online_producer">Bottega Veneta</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20030930T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CE6D6113DF933A0575AC0A9659C8B63" item-length="1225" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Together Again, That Colorful Couple, Art and Fashion</hl1>
+        <hl2 class="online_headline">Together Again, That Colorful Couple, Art and Fashion</hl2>
+      </hedline>
+      <byline class="print_byline">By RUTH LA FERLA</byline>
+      <byline class="normalized_byline">La Ferla, Ruth</byline>
+      <abstract>
+        <p>Article discusses collaboration of art and fashion, trend dating at least to Elsa Schiaparelli, fashion designer who used designs by Salvador Dali and other surrealists; such mergers have potential to give overexposed brands new vitality; photos (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Amanda Church is an artist. She is also a pragmatist. Ms. Church, whose anthropomorphic abstract paintings in Pucci-esque hues of mauve and pink are on view at the Artek Gallery in Chelsea, sat in her Manhattan studio last week caressing a fleshy pink Fendi bag. She was thrilled, she said, to have been asked by Fendi to embellish the company's latest handbag, which it calls its ''chef'' bag, with her own artwork: fabric-stuffed letters stitched inside that spell out ''Fendi.'' The bag, one of several commissioned by Fendi from contemporary artists, will be auctioned at a benefit in November for the New Museum of Contemporary Art in SoHo.</p>
+        <p>''It's awesome for an artist to be connected with fashion,'' Ms. Church said. Many of the young collectors she is eager to reach are proud possessors of pricey Fendi handbags. ''As an artist the more connected you are with that world, the better,'' she said. ''Besides, fashion has a lot of allure and glamour, something I think the art world hasn't quite achieved. ''</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The use of contemporary artists to design Fendi bags, a marriage of culture and commerce, is the latest in a proliferating series of similar collaborations.</p>
+      </block>
+      <block class="full_text">
+        <p>Amanda Church is an artist. She is also a pragmatist. Ms. Church, whose anthropomorphic abstract paintings in Pucci-esque hues of mauve and pink are on view at the Artek Gallery in Chelsea, sat in her Manhattan studio last week caressing a fleshy pink Fendi bag. She was thrilled, she said, to have been asked by Fendi to embellish the company's latest handbag, which it calls its ''chef'' bag, with her own artwork: fabric-stuffed letters stitched inside that spell out ''Fendi.'' The bag, one of several commissioned by Fendi from contemporary artists, will be auctioned at a benefit in November for the New Museum of Contemporary Art in SoHo.</p>
+        <p>''It's awesome for an artist to be connected with fashion,'' Ms. Church said. Many of the young collectors she is eager to reach are proud possessors of pricey Fendi handbags. ''As an artist the more connected you are with that world, the better,'' she said. ''Besides, fashion has a lot of allure and glamour, something I think the art world hasn't quite achieved. ''</p>
+        <p>Ms. Church, whose single concession to comfort is an overstuffed sofa near the door of her studio, would seem an unlikely partner for the Italian luxury-goods maker, whose wares tend to be fetishized by cosseted plutocrats. But their union, a marriage of culture and commerce, is the latest in a proliferating series of similar collaborations. The trend dates at least to Elsa Schiaparelli, the fashion designer who famously deployed Salvador Dalí, Jean Cocteau and other surrealists to embellish her wares (she is the subject of ''Shocking!,'' a current exhibition at the Philadelphia Museum of Art). In the past the partners in such ventures espoused art for art's sake. These days, each has one eye on the bottom line.</p>
+        <p>Such mergers, with their potential to give an overexposed brand new vitality, are especially pertinent at a time when the luxury business is ailing. ''Sometimes the collaboration is no more than a marketing ploy,'' observed Lisa Koenigsberg, the director of programs in the arts at the New York University school of continuing education. ''The idea is to make the consumer feel he is getting the enhanced value of a limited edition, like buying a print at the Pace gallery,'' she said.</p>
+        <p>The fusion of fashion and art has gained momentum in recent months, as high-end stores have joined luxury labels in the game. Tourists on Fifth Avenue can stop by Ferragamo's rambling new store to view an installation of art by artists like Vanessa Beecroft, Jeff Burton and Sylvie Fleury. They can visit a new Giorgio Armani boutique at Bergdorf Goodman, now displaying the works of artists participating next month in Artwalk NY, a series of events to benefit the Coalition for the Homeless.</p>
+        <p>At times, juxtaposition of fashion with fine art can leave passers-by scratching their heads. Lord &amp; Taylor's Fifth Avenue windows are currently shared by the raucously comical canvases of the artist Red Grooms and a series of scarlet evening dresses. The connection? Apparently just the artist's red-orange palette, and his first name. ''The dresses are red,'' said Janis Gardner Cecil, sales director for the Marlborough Gallery, which lent Lord &amp; Taylor the paintings. The department store did not respond to a reporter's calls.</p>
+        <p>In October, in Beverly Hills, Bottega Veneta boutique plans to exhibit the work of Nancy Lorenz, a maker of boxes inlaid with landscape designs. And Nike will invite 25 Japanese artists to create works inspired by its 1986 white Dunk sneaker, for an exhibition in Paris next month.</p>
+        <p>In such cases, both fashion maker and fine artist seem eager to borrow some of the other's allure. As well they might. For both, the payoff can be handsome. Such mergers confer on the artist an unhoped-for celebrity. (How many Americans had heard of Takashi Murakami, the Japanese artist, before he splashed his colorful cartoonlike designs on a Louis Vuitton bag?)</p>
+        <p>Designers in particular ''have been plugging into a different cultural light socket -- and it lights up,'' said Meredith Etherington-Smith, the editor in chief of Art Review, a London monthly, whose current issue is devoted to the intersection of fashion and fine art. Ms. Etherington-Smith was referring to the Vuitton-Murakami partnership, a marketing tour de force so spectacular it created a waiting list in the thousands for versions of the bag, the company says.</p>
+        <p>To many consumers, such partnerships appear to elevate the wares, and to transform shopping from a guilty pleasure to a high-minded pursuit. Such, at least, is the hope of Jan-Patrick Schmitz, the chief executive of Montblanc, who commissioned 10 artists, including Sam Taylor-Wood, Gary Hume and David La Chapelle, to embellish 10-foot-high shopping bag sculptures, which will be displayed in Rockefeller Center next month to mark the opening of a new Manhattan store. The exhibit reinforces the notion that ''shopping is a higher art form,'' Mr. Schmitz said, hijacking an argument popularized by writers who track consumer shopping habits.</p>
+        <p>In any event, publicizing a store opening with art trumps an opening that features ''the typical boring velvet rope and Champagne -- and the getting of celebrities,'' he said.</p>
+        <p>The fusion of fashion and art is sometimes promoted as the latest antidote to widespread consumer fatigue. ''Store openings are a dime a dozen,'' said Robert Burke, the fashion director of Bergdorf Goodman. ''A hard sell for clothing is stale,'' he added. ''Customers no longer come in just to see new clothes.'' Especially in Manhattan, where social events compete with shopping for affluent patrons' attention, retailers are compelled to impress their public with a dollop of high culture. By linking fashion to the art world ''you jazz it up, you provide spectacle,'' Ms. Koenigsberg said. ''And when it comes to that dazzling spectacle, who doesn't want to be included?''</p>
+        <p>Those spectacles can be particularly potent at a moment when art itself has expanded its reach. ''The old days of art-as-couture are over,'' Ms. Etherington-Smith said. ''Art has become much more democratized.''</p>
+        <p>Evidently not democratic enough, though, for cultural institutions like the New Museum, which increasingly find themselves hanging onto fashion's coattails for support. The museum will hold its Fendi-sponsored benefit with the object of courting a broader public, said Lisa Phillips, a director of the museum. ''The audience for any kind of crossover activity is wider,'' she said, ''but fashion is certainly something more people relate to as being a part of their daily lives.''</p>
+        <p>Such partnerships, which often are subsidized by the big design houses, may well erode the already slender boundary between fine art and commerce. But their proponents see no problem here. Ms. Phillips, for one, shrugged off such concerns, citing historic precedents. ''Since Andy Warhol, expectations about the artist and the marketplace have changed rapidly,'' Ms. Phillips said. ''In a post-Warholian world, all of it flies.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

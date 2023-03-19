@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Jeffrey Archer, Guilty of Perjury, Is Jailed for Four Years</title>
+    <meta content="Y20BRIT" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2001/07/20/international/20BRIT.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1310744"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Politics and Government</classifier>
+        <classifier class="indexing_service" type="descriptor">Ethics</classifier>
+        <classifier class="indexing_service" type="descriptor">Forgery</classifier>
+        <classifier class="indexing_service" type="descriptor">Perjury</classifier>
+        <classifier class="indexing_service" type="descriptor">Libel and Slander</classifier>
+        <classifier class="indexing_service" type="descriptor">Decisions and Verdicts</classifier>
+        <classifier class="indexing_service" type="descriptor">Sentences (Criminal)</classifier>
+        <classifier class="indexing_service" type="descriptor">Suits and Litigation</classifier>
+        <classifier class="indexing_service" type="descriptor">Prostitution</classifier>
+        <location class="indexing_service">Great Britain</location>
+        <org class="indexing_service">Daily Star (Newspaper)</org>
+        <person class="indexing_service">Hoge, Warren</person>
+        <person class="indexing_service">Archer, Jeffrey (Lord Archer)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/United Kingdom</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Great Britain</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Government, Philanthropy and NGO</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Britain</classifier>
+        <classifier class="online_producer" type="descriptor">Suits and Litigation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ethics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prostitution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Libel and Slander</classifier>
+        <classifier class="online_producer" type="general_descriptor">Perjury</classifier>
+        <classifier class="online_producer" type="general_descriptor">Sentences (Criminal)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Decisions and Verdicts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Crime and Criminals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suits and Litigation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <location class="online_producer">Britain</location>
+        <org class="online_producer">Conservative Party</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20010720T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A01E2DA143AF933A15754C0A9679C8B63" item-length="1144" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Jeffrey Archer, Guilty of Perjury, Is Jailed for Four Years</hl1>
+        <hl2 class="online_headline">Jeffrey Archer, Guilty of Perjury, Is Jailed for Four Years</hl2>
+      </hedline>
+      <byline class="print_byline">By WARREN HOGE</byline>
+      <byline class="normalized_byline">Hoge, Warren</byline>
+      <dateline>LONDON, July 19</dateline>
+      <abstract>
+        <p>Jeffrey Archer, millionaire author and member of House of Lords who has had repeated brushes with scandal, is convicted on perjury charges and jailed for four years; jury also finds him guilty of perverting course of justice; Archer is found guilty of creating false diaries and concocting bogus story to win 1987 trial of his libel suit against newspaper for reporting that he slept with prostitute and paid her hush money; Daily Star, newspaper he sued, says it will seek $3 million from him in civil action based on finding that he lied and forged papers to win suit; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Jeffrey Archer, the millionaire author and member of the House of Lords with a roguish past of surviving repeated brushes with scandal, was convicted on perjury charges today and jailed for four years.</p>
+        <p>Lord Archer, 61, saw his vaunted escape artist reputation fade when a jury at the Old Bailey returned unanimous verdicts of guilty on two counts of perjury and two of perverting the course of justice.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Jeffrey Archer, the millionaire author and member of the House of Lords, was convicted on perjury charges Thursday and jailed for four years</p>
+      </block>
+      <block class="full_text">
+        <p>Jeffrey Archer, the millionaire author and member of the House of Lords with a roguish past of surviving repeated brushes with scandal, was convicted on perjury charges today and jailed for four years.</p>
+        <p>Lord Archer, 61, saw his vaunted escape artist reputation fade when a jury at the Old Bailey returned unanimous verdicts of guilty on two counts of perjury and two of perverting the course of justice.</p>
+        <p>''These charges represent as serious an offense of perjury as I have had experience of and have been able to find in the books,'' Justice Humphrey Potts told the court as he ordered the peer to begin serving time immediately. He also directed him to pay $250,000 in costs or face an added year in jail. ''This has been an extremely distasteful case, I can tell you,'' he added.</p>
+        <p>Lord Archer was found guilty of creating false diaries and concocting a bogus story to win a 1987 trial over whether he had slept with a prostitute to whom he paid $3,500 in hush money. He claimed at the time that he had never met her, and the case ended up in court because he sued the newspaper carrying the report, The Daily Star, and obtained an $800,000 libel judgment.</p>
+        <p>The Star said today it would seek $3 million from Lord Archer in a civil action based on today's finding that he had based his case against the paper on lies and forgeries. ''No one should have any sympathy for Jeffrey Archer,'' said the editor, Peter Hill. ''He is a proven liar, a cheat and a chancer, a man so arrogant that he thought he was above the law. Now he has gotten what he deserves.''</p>
+        <p>Lord Archer-super-Mare, as he is known formally, has been the subject of fiercely denied accusations over the years ranging from serial philandering to insider trading to shoplifting suits in Canada to fabricating war hero credentials for his father and academic achievements and degrees for himself. He has had to resign from politics in disgrace on three occasions -- in 1974 as a member of Parliament, in 1986 as deputy chairman of the Conservative Party and in 1999 as Tory candidate for mayor of London when the current case arose.</p>
+        <p>He reacted to that fall from grace in the kind of risky and brash fashion that has made him one of Britain's longest-running tabloid personalities. He wrote a courtroom play called ''The Accused'' and cast himself in the role of the defendant. In a striking piece of timing, he appeared for the first night in his stage role on the same day that he had to appear at a police station to be formally arrested for perjury.</p>
+        <p>Until today, he had always bounced back, writing his best-seller books and even persuading John Major, the Conservative prime minister, to make him a life peer in 1992 despite the fact that he had continually brought shame on the party.</p>
+        <p>Justice Potts told Lord Archer today that he could not overlook the fact that after committing a crime,  ''you have gone from strength to strength, you resumed your political career and, at some point, were ennobled to become a member of the House of Lords.''</p>
+        <p>His comeback-kid skill owed much to his personal charm and to the hospitality he showed people in positions to help him recover his status. He has divided his life between a 17th-century vicarage in Cambridgeshire and a Thames-side penthouse with panoramic windows overlooking Parliament and Big Ben that is filled with modern sculpture and French Impressionist paintings. There he stages parties featuring Krug Champagne and shepherd's pie that have become cherished gathering spots for the political elite.</p>
+        <p>He has enjoyed the steadfast public loyalty of his wife, Mary, 56, a Cambridge-educated biochemistry professor of steely English beauty and immaculate tailoring who is the mother of the couple's two sons, William, 29, and James, 27. The three attended court today as they had throughout the weeks of trial.</p>
+        <p>The case has seldom been off the front pages and succeeded today in banishing news of President Bush's two-day visit to Britain to the inside of the evening papers. The court had heard titillating testimony from past secretaries about Lord Archer's many affairs and about false entries he asked them to put into substitute diaries that he subsequently submitted to the trial court in 1987 to give him alibis for the night he was accused of having slept with the prostitute. He swore in court that the bogus diaries were the originals.</p>
+        <p>The secretaries also revealed that a young assistant named Andrina Colquhoun was actually Lord Archer's live-in mistress during the period when Lady Archer was giving critical testimony in the earlier trial that she and her husband had a full and faithful marriage.</p>
+        <p>Lady Archer's 1987 testimony has entered judicial annals here because of the rapturous effect it had on the judge, Sir Bernard Caulfield, in his jury instruction.</p>
+        <p>''Your vision of her will never disappear,'' he said then. ''Has she elegance? Has she fragrance? Would she have, without the strain of this trial, radiance?'' And of Lord Archer, he said, ''Is he in need of cold, unloving, rubber-insulated sex in a seedy hotel?'' The comments were considered a key element in his court victory then.</p>
+        <p>Lady Archer testified again in this trial but was unable to rescue her husband this time. Lord Archer himself, one of Britain's best-known communicators, did not take the stand.</p>
+        <p>Lady Archer lost her composure only when asked about her husband's liaison with Ms. Colquhoun. She had heard about it from a newspaper, not from him, she said. ''Wives are not always the first to find out about these things,'' she said. Had it carried on longer than she had thought?  ''You have heard more than I have,'' she replied, adding, ''I think we explored the further reaches of 'for better or for worse' more than some other couples.''</p>
+        <p>Lady Archer and her sons were driven away from the court this afternoon in the family's chauffeured grey BMW that had brought them there each day with Lord Archer. He was locked into an individual cell in a prison van that carried two other prisoners, one a drug dealer convicted of stabbing a man to death and the other a man accused of child molesting.</p>
+        <p>One of Lord Archer's lawyers, Tony Morton-Hooper, said the peer would appeal.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Nobility Homes Inc. reports earnings for Year to Oct 28</title>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="324374"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">COMPANY REPORTS</classifier>
+        <classifier class="online_producer" type="types_of_material">Statistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Company Reports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Corporations</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19900207T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E05E7D61031F934A35751C0A966958260" item-length="48" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Nobility Homes Inc. reports earnings for Year to Oct 28</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD:</p>
+        <p>*3*** COMPANY REPORTS **</p>
+        <p>*3* Nobility Homes Inc.</p>
+        <p>Year to Oct 28</p>
+        <p>1989</p>
+        <p>1988</p>
+        <p>Sales</p>
+        <p>11,843,158</p>
+        <p>10,923,335</p>
+        <p>Net inc</p>
+        <p>b745,755</p>
+        <p>c1,229,239</p>
+        <p>Share earns</p>
+        <p>.64</p>
+        <p>-</p>
+        <p>b-After an extraordinary credit of $287,000, or 25 cents a share.</p>
+        <p>c-Net loss</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD:</p>
+        <p>*3*** COMPANY REPORTS **</p>
+        <p>*3* Nobility Homes Inc.</p>
+        <p>Year to Oct 28</p>
+        <p>1989</p>
+        <p>1988</p>
+        <p>Sales</p>
+        <p>11,843,158</p>
+        <p>10,923,335</p>
+        <p>Net inc</p>
+        <p>b745,755</p>
+        <p>c1,229,239</p>
+        <p>Share earns</p>
+        <p>.64</p>
+        <p>-</p>
+        <p>b-After an extraordinary credit of $287,000, or 25 cents a share.</p>
+        <p>c-Net loss</p>
+        <p>*3*** COMPANY REPORTS **</p>
+        <p>*3* Nobility Homes Inc.</p>
+        <p>Year to Oct 28</p>
+        <p>1989</p>
+        <p>1988</p>
+        <p>Sales</p>
+        <p>11,843,158</p>
+        <p>10,923,335</p>
+        <p>Net inc</p>
+        <p>b745,755</p>
+        <p>c1,229,239</p>
+        <p>Share earns</p>
+        <p>.64</p>
+        <p>-</p>
+        <p>b-After an extraordinary credit of $287,000, or 25 cents a share.</p>
+        <p>c-Net loss</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

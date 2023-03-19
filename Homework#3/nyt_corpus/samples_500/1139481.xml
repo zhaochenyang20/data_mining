@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Timor Death Toll Disputed</title>
+    <meta content="21JAKA$01" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1999" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1139481"/>
+      <doc.copyright holder="The New York Times" year="1999"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Independence Movements and Secession</classifier>
+        <classifier class="indexing_service" type="descriptor">Politics and Government</classifier>
+        <classifier class="indexing_service" type="descriptor">Armament, Defense and Military Forces</classifier>
+        <location class="indexing_service">Indonesia</location>
+        <location class="indexing_service">East Timor</location>
+        <person class="indexing_service">Wiranto (Gen)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/East Timor</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Indonesia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Asia Pacific</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Government, Philanthropy and NGO</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/Indonesia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/East Timor</classifier>
+        <classifier class="online_producer" type="general_descriptor">Armament, Defense and Military Forces</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19990921T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F00E4D91F3CF932A1575AC0A96F958260" item-length="218" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Timor Death Toll Disputed</hl1>
+      </hedline>
+      <dateline>JAKARTA, Indonesia, Sept. 20</dateline>
+      <abstract>
+        <p>Indonesia's top military commander, Gen Wiranto, disputes reports of thousands of deaths in East Timor; claims fewer than 100 people have been killed there (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Indonesia's top military commander, disputing reports of thousands of deaths in East Timor, said today that fewer than 100 people had been killed in the violence in the province.</p>
+        <p>''The number of victims that we have recorded since the announcement of the result of the referendum is roughly in the 90's,'' said the commander, Gen. Wiranto. ''That is the number we have recorded so far, but it is not the tens of thousands or hundreds of thousands as reported by the foreign media,'' he told the Indonesian Parliament.</p>
+      </block>
+      <block class="full_text">
+        <p>Indonesia's top military commander, disputing reports of thousands of deaths in East Timor, said today that fewer than 100 people had been killed in the violence in the province.</p>
+        <p>''The number of victims that we have recorded since the announcement of the result of the referendum is roughly in the 90's,'' said the commander, Gen. Wiranto. ''That is the number we have recorded so far, but it is not the tens of thousands or hundreds of thousands as reported by the foreign media,'' he told the Indonesian Parliament.</p>
+        <p>General Wiranto's estimate is much less than those of pro-independence groups, which put the death toll at anywhere from 900 to 7,000. And it drew a skeptical response from the United Nations, which sheltered hundreds of refugees in the capital, Dili, before abandoning its compound.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

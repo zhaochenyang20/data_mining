@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Ms. Newburger, Producer, Weds</title>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1988" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="65" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="199770"/>
+      <doc.copyright holder="The New York Times" year="1988"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">NEWBURGER, PATRICIA ANN</person>
+        <person class="indexing_service">WECHSLER, BRADLEY J</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19881120T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DE4D8133DF933A15752C1A96E948260" item-length="192" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Ms. Newburger, Producer, Weds</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: The marriage of Patricia Ann Newburger, the daughter of Shirley P. Newburger of New York, to Bradley J. Wechsler, the son of Eunice Wechsler of Fort Lauderdale, Fla., and Lawrence Wechsler of New York, took place last evening at the Carlyle Hotel in New York. Rabbi David M. Posner performed the ceremony.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: The marriage of Patricia Ann Newburger, the daughter of Shirley P. Newburger of New York, to Bradley J. Wechsler, the son of Eunice Wechsler of Fort Lauderdale, Fla., and Lawrence Wechsler of New York, took place last evening at the Carlyle Hotel in New York. Rabbi David M. Posner performed the ceremony.</p>
+        <p>The marriage of Patricia Ann Newburger, the daughter of Shirley P. Newburger of New York, to Bradley J. Wechsler, the son of Eunice Wechsler of Fort Lauderdale, Fla., and Lawrence Wechsler of New York, took place last evening at the Carlyle Hotel in New York. Rabbi David M. Posner performed the ceremony.</p>
+        <p>Nina Freedman, Patricia Harris and Mindy Pearce attended the bride. Leon Black was the best man. The bride, who will retain her name, is a producer of television movies. She graduated from the Fieldston School and Simmons College. Ms. Newburger is a granddaughter of the late Mr. and Mrs. Robert Plehn of New York. Mr. Plehn was a founder and the president of Walker, Goulard, Plehn &amp; Company, paper brokers in New York.</p>
+        <p>The bridegroom, a graduate of Fieldston and Brandeis University, where he was elected to Phi Beta Kappa, received a J.D. degree from the Columbia University School of Law, where he was a Harlan Fiske Stone scholar. He is an investment banker with Drexel Burnham &amp; Lambert in New York. His father is the president of the Revlon Creative and Communications Group and an executive vice president of Revlon Inc. in New York.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

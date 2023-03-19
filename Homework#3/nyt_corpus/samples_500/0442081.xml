@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Corrections; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="442081"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">BASEBALL</classifier>
+        <classifier class="indexing_service" type="descriptor">CORRECTION STORIES</classifier>
+        <classifier class="indexing_service" type="descriptor">SUSPENSIONS, DISMISSALS AND RESIGNATIONS</classifier>
+        <org class="indexing_service">BOSTON RED SOX</org>
+        <person class="indexing_service">CLEMENS, ROGER</person>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suspensions, Dismissals and Resignations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Baseball</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19910430T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CEEDC113FF933A05757C0A967958260" item-length="83" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A sports article on Saturday about Baseball Commissioner Fay Vincent's decision to uphold the suspension of Roger Clemens misattributed comments about an earlier appeals hearing in the case. The comments, which suggested that a suspension of Clemens would be justified by the need to keep control on the field, were made by Eugene Orza, associate general counsel for the Major League Baseball Players Association. Mr. Vincent cited the comments in defense of his decision; he did not make them.</p>
+      </block>
+      <block class="full_text">
+        <p>A sports article on Saturday about Baseball Commissioner Fay Vincent's decision to uphold the suspension of Roger Clemens misattributed comments about an earlier appeals hearing in the case. The comments, which suggested that a suspension of Clemens would be justified by the need to keep control on the field, were made by Eugene Orza, associate general counsel for the Major League Baseball Players Association. Mr. Vincent cited the comments in defense of his decision; he did not make them.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

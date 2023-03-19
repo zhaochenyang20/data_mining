@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>In '92, Largest Nassau Deficit</title>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="1993" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="592190"/>
+      <doc.copyright holder="The New York Times" year="1993"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">BUDGETS AND BUDGETING</classifier>
+        <location class="indexing_service">NASSAU COUNTY (NY)</location>
+        <person class="indexing_service">RABINOVITZ, JONATHAN</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="general_descriptor">Budgets and Budgeting</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19930223T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CEEDD133EF930A15751C0A965958260" item-length="339" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>In '92, Largest Nassau Deficit</hl1>
+      </hedline>
+      <byline class="print_byline">By JONATHAN RABINOVITZ,</byline>
+      <byline class="normalized_byline">RABINOVITZ, JONATHAN</byline>
+      <dateline>MINEOLA, L.I., Feb. 22</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Nassau County Comptroller's office closed the books today on the 1992 budget, revealing what everyone had expected: a $119.9 million deficit in the county's general fund.</p>
+        <p>Alan Gurien, the acting comptroller, said the deficit -- about $1 million less than earlier projections -- was the largest in county history. The 1992 general fund budget was about $1.1 billion.</p>
+      </block>
+      <block class="full_text">
+        <p>The Nassau County Comptroller's office closed the books today on the 1992 budget, revealing what everyone had expected: a $119.9 million deficit in the county's general fund.</p>
+        <p>Alan Gurien, the acting comptroller, said the deficit -- about $1 million less than earlier projections -- was the largest in county history. The 1992 general fund budget was about $1.1 billion.</p>
+        <p>There are already some problems in this year's budget, involving an unknown number of county positions that lack financing, Mr. Gurien said.</p>
+        <p>While this year's budget comes with claims that it will eliminate the deficit, the figures released today suggest that some items that contributed to last year's deficit remain -- though in a more manageable form.</p>
+        <p>The 1993 budget proposes largely to eliminate the county's deficit through $65 million in long-term borrowing, about $31 million in a transfer from the police fund and by keeping the county's payroll down from what it was two years ago.</p>
+        <p>Mr. Gurien, echoing the views of many county officials, said today that the problems of 1993 should be minimal compared with those of 1992, which he likened to a "forest fire that burns down everything so that we can start growing again." Last year, the county laid off thousands of workers.</p>
+        <p>According to figures released by Mr. Gurien today, the 1992 deficit was largely a result of, among other things, $38.3 million in lost revenue from failing to sell a parcel of county land; $33.5 million in unanticipated payroll expenditures; $15.5 million in sales tax shortfalls; $14.9 million in state aid shortfalls, and $27.7 million in unexpected subsidies to the Nassau County Medical Center, the A. Holly Patterson Geriatric Center and the county road fund. This was partly offset by unexpected savings of $14.2 million in the Department of Social Services, Mr. Gurien said.</p>
+        <p>Some of these variances are unlikely to arise again in this year's budget. For instance, county officials have lowered their projections for sales tax revenues and state aid in 1993.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

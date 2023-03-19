@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>CHRONICLE</title>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Style Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="442414"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">TELEVISION</classifier>
+        <person class="indexing_service">BROZAN, NADINE</person>
+        <person class="indexing_service">ANDERSON, MARIAN</person>
+        <object.title class="indexing_service">MARIAN ANDERSON (TV PROGRAM)</object.title>
+        <object.title class="indexing_service">CHRONICLE (TIMES COLUMN)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19910502T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE6DC1F39F931A35756C0A967958260" item-length="158" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>CHRONICLE</hl1>
+      </hedline>
+      <byline class="print_byline">By NADINE BROZAN</byline>
+      <byline class="normalized_byline">BROZAN, NADINE</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>MARIAN ANDERSON, the great contralto, has rarely been seen in public in recent years, but tonight she will make an exception when she goes to the Kennedy Center for a showing of a new film about her life. The program, which simply bears her name, is to be shown Wednesday on public broadcasting stations across the country. Earlier in the day, accompanied by her nephew JAMES DuPRIEST, a conductor, and SHARON PERCY ROCKEFELLER, she is to go to the White House for tea with BARBARA BUSH and a photo with PRESIDENT BUSH. Now 89 and a resident of Danbury, Conn., Miss Anderson gave her farewell concert at Carnegie Hall in 1965.</p>
+      </block>
+      <block class="full_text">
+        <p>MARIAN ANDERSON, the great contralto, has rarely been seen in public in recent years, but tonight she will make an exception when she goes to the Kennedy Center for a showing of a new film about her life. The program, which simply bears her name, is to be shown Wednesday on public broadcasting stations across the country. Earlier in the day, accompanied by her nephew JAMES DuPRIEST, a conductor, and SHARON PERCY ROCKEFELLER, she is to go to the White House for tea with BARBARA BUSH and a photo with PRESIDENT BUSH. Now 89 and a resident of Danbury, Conn., Miss Anderson gave her farewell concert at Carnegie Hall in 1965.</p>
+        <p>"She is an extraordinary person who broke many barriers," said Mrs. Rockefeller, president of WETA, the public radio and television station in Washington that produced the film.  "She has the voice that Toscanini said you only hear once every 100 years, and she has been a role model for many young performers."</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

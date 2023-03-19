@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Review/Television; Long Time on Less-Traveled Roads</title>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Cultural Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="685055"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">TELEVISION</classifier>
+        <classifier class="indexing_service" type="descriptor">REVIEWS</classifier>
+        <org class="indexing_service">CBS INC</org>
+        <person class="indexing_service">KURALT, CHARLES</person>
+        <person class="indexing_service">SAFER, MORLEY</person>
+        <person class="indexing_service">GOODMAN, WALTER</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Television</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Television/Reviews</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19940504T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A01EEDD1E30F937A35756C0A962958260" item-length="421" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Review/Television; Long Time on Less-Traveled Roads</hl1>
+      </hedline>
+      <byline class="print_byline">By WALTER GOODMAN</byline>
+      <byline class="normalized_byline">GOODMAN, WALTER</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>As "One for the Road With Charles Kuralt and Morley Safer" gets started, Mr. Safer says, "This is not a tribute." But that is exactly what it is, of course, on the occasion of Mr. Kuralt's departure, after 37 years, from CBS News.</p>
+        <p>In a conversation in the New York Public Library, Mr. Kuralt is given an opportunity to tell how much he admires the little folks whom he celebrated in "On the Road," his long-running feature on the "CBS Evening News." The encounter also gives CBS an opportunity to recycle clips of his meetings with, among others, an Iowa farmer who built a yacht for himself; an Arkansas man with a third-grade education who put together an impressive library so his children would be educated; a tenant farmer in Mississippi whose nine children all worked for and obtained college degrees, and a worm-grunting specialist in Sopchoppy, Fla. (To grunt a worm is to annoy it enough to get it to the surface where it can be grabbed and used as bait.)</p>
+      </block>
+      <block class="full_text">
+        <p>As "One for the Road With Charles Kuralt and Morley Safer" gets started, Mr. Safer says, "This is not a tribute." But that is exactly what it is, of course, on the occasion of Mr. Kuralt's departure, after 37 years, from CBS News.</p>
+        <p>In a conversation in the New York Public Library, Mr. Kuralt is given an opportunity to tell how much he admires the little folks whom he celebrated in "On the Road," his long-running feature on the "CBS Evening News." The encounter also gives CBS an opportunity to recycle clips of his meetings with, among others, an Iowa farmer who built a yacht for himself; an Arkansas man with a third-grade education who put together an impressive library so his children would be educated; a tenant farmer in Mississippi whose nine children all worked for and obtained college degrees, and a worm-grunting specialist in Sopchoppy, Fla. (To grunt a worm is to annoy it enough to get it to the surface where it can be grabbed and used as bait.)</p>
+        <p>Mr. Kuralt's spirit has generally seemed a bit effusive for my taste, his tone more hearty than strictly required and his prose a touch ripe. (Mountains, he says, "make the human heart beat faster and fill the soul with awe.") But as a television personality, he has earned the admiration that Mr. Safer displays tonight for his willingness to wander around small towns doing what he calls "innocent little features" and for the attention he paid to the arts during his 15 years on "CBS News Sunday Morning."</p>
+        <p>He has demonstrated that even on a ratings-driven network there can be room for programs that are not likely to appeal to much of the prime-time mob. Presumably Mr. Kuralt made money for CBS or he would not have been allowed to go his own way for so long. May such efforts continue to prosper.</p>
+        <p>It is reassuring to learn tonight that there are things that make the upbeat wanderer angry, especially "all those people who came along who know how you and I should live our lives: the health police." He declares that he has no intention of jogging and will continue to smoke cigars. Hey, CBS News, how about offering the man a new job: a chance to do his stuff on people, institutions and fads he can't stand? One for the Road With Charles Kuralt and Morley Safer</p>
+        <p>CBS, tonight at 8  (Channel 2 in New York) A special written by Morley Safer; edited by Joanne McDonough; coordinating producer, Bernard Birnbaum; associate producer, Virginia Somma; produced by Peter Schweitzer for CBS News; Don Hewitt, executive producer.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

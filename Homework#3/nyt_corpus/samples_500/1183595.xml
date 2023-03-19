@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Revitalized UPN Is at Center of a Struggle for Ownership</title>
+    <meta content="13UPN.$01" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1183595"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Television</classifier>
+        <classifier class="indexing_service" type="descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="indexing_service" type="descriptor">Suits and Litigation</classifier>
+        <org class="indexing_service">Viacom Inc</org>
+        <org class="indexing_service">Upn (TV Network)</org>
+        <org class="indexing_service">Cbs Corp</org>
+        <person class="indexing_service">Carter, Bill</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suits and Litigation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000313T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9806E2DA123BF930A25750C0A9669C8B63" item-length="1656" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Revitalized UPN Is at Center of a Struggle for Ownership</hl1>
+      </hedline>
+      <byline class="print_byline">By BILL CARTER</byline>
+      <byline class="normalized_byline">Carter, Bill</byline>
+      <abstract>
+        <p>UPN, struggling television network that reinvented itself as network of young male viewer, thanks to its wrestling programs, is at center of takeover battle that has implications for proposed CBS-Viacom merger; UPN is 50-50 partnership between Viacom and Chris-Craft Industries; Viacom and CBS have given Chris-Craft ultimatum to sell its UPN shares to Viacom or buy Viacom out; Christ-Craft wants to maintain partnership to help absorb financial losses that continue despite network's improving prospects; it has gone to court to stop merger, accusing Viacom of violating clause in their partnership agreemement that forbids Viacom from making deal with any competing network (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A year ago, UPN was left for dead -- a ratings failure, the sixth among six networks.</p>
+        <p>Then the World Wrestling Federation dived in over the ropes and reinvented the network, giving it a viable and potentially lucrative identity: the network of the young male viewer.</p>
+      </block>
+      <block class="full_text">
+        <p>A year ago, UPN was left for dead -- a ratings failure, the sixth among six networks.</p>
+        <p>Then the World Wrestling Federation dived in over the ropes and reinvented the network, giving it a viable and potentially lucrative identity: the network of the young male viewer.</p>
+        <p>Now the future of UPN -- a 50-50 partnership between Viacom and Chris-Craft Industries -- looks promising. But the network is embroiled in a battle that extends from the partners' boardrooms to the offices of the Federal Communications Commission, involving characters like Mel Karmazin, CBS chairman; Barry Diller, USA Networks chairman; Herbert J. Siegel, Chris-Craft chairman; and Vince McMahon, the W.W.F. ringmaster. It is a battle that has implications for the proposed CBS-Viacom merger and could deal a big blow to the USA cable network.</p>
+        <p>Viacom and CBS want the network all to themselves or not at all. They have given an ultimatum to Chris-Craft that comes due next Monday: sell your share to Viacom or buy out Viacom.</p>
+        <p>Chris-Craft wants to maintain the partnership to help absorb the financial losses that continue despite the network's improving prospects. It has gone to court to stop the merger because it believes that if Viacom acquires CBS, UPN would no longer receive proper attention.</p>
+        <p>The legal point it is making is this: Viacom is violating a clause in the partnership agreement that Chris-Craft says forbids Viacom from making a deal with any competing network.</p>
+        <p>Viacom's position is that the merger is only proposed at this point, not put into effect, and therefore it never violated its noncompete deal.</p>
+        <p>If all that spins your head, think about this: the corporate struggle is over a fledgling network, made up of mostly weaker stations, that has piled up losses of about $800 million in the five years of its existence.</p>
+        <p>But one year of wrestling has done much to reverse what had been looking like a death spiral. With a two-hour block of the W.W.F. leading the way every Thursday night, UPN is showing the biggest rating gain of any network of any size this season, more than 30 percent over all but almost 200 percent among male teenagers.</p>
+        <p>The growth comes on what UPN executives concede is an exceedingly small base  (last year, the network had a Nielsen rating of 2 -- about two million homes -- this year, it has a 2.7) but, with wrestling at least, UPN has proved it can play with the big boys. Last Thursday, for example, the network finished just a fraction behind Fox for the night in the national ratings and easily won the night outright among those male teenagers.</p>
+        <p>That is significant, because young males are a group avidly pursued by advertisers selling everything from soft drinks to video games, who are willing to pay a premium to reach them.</p>
+        <p>And now wrestling figures as another tangled subplot to the ownership battle, with CBS and possibly other suitors lining up to try to take the W.W.F. cable programming away from the USA cable network, possibly to link up all the television rights under one corporate roof.</p>
+        <p>The W.W.F., which under Mr. McMahon has expanded aggressively in recent years into clothing stores and restaurants, has increasing leverage in television because of the popularity of its programs. On cable, three weekly editions of the W.W.F. events are invariably the highest-rated programs in all of cable every week.</p>
+        <p>Mr. McMahon recently informed USA Networks that he planned to open up the cable rights for next season to other bidders. Mr. Diller retains the right to match any competing offer, but several executives close to the deal said the offers might include elements that would be difficult to match, possibly including an equity stake in whatever channel Mr. McMahon chooses as his next partner.</p>
+        <p>CBS could be best positioned to negotiate with Mr. McMahon if Viacom winds up acquiring UPN outright, completes the CBS merger agreement, and gets the F.C.C. to waive its prohibition on one company operating two networks.</p>
+        <p>Viacom and CBS have asked for the F.C.C. waiver and many of the parties involved say there is a good chance the F.C.C. will agree, mainly to insure UPN's continued survival. One reason: UPN has become the favorite network for black viewers; about 40 percent of its audience are blacks, who watch such shows as ''Moesha'' and ''Malcolm and Eddie.'' Senior executives on both sides of the UPN ownership battle said the F.C.C. would be loath to put a network with that kind of minority following at risk.</p>
+        <p>Acquiring UPN could be the path to a wider wrestling deal for CBS. No CBS executive will comment for the record on the network's plans for wrestling. But another CBS unit, the cable channel TNN, is moving aggressively into this form of programming, having already acquired the rights to events like Arena Football League games and Extreme Championship Wrestling bouts.</p>
+        <p>Several executives familiar with both the negotiations for UPN's future and CBS's interest in wrestling tied the strategy to Mr. Karmazin. Victor Miller, a broadcast analyst for Bear, Stearns, said, ''Mel Karmazin would be very interested in operating both networks.''</p>
+        <p>He said that UPN fit into Mr. Karmazin's broad strategy for reaching consumers with advertising in multiple media in all parts of their lives. This could be accomplished best by linking CBS assets, like its television network, its Infinity Broadcasting radio stations and its outdoor advertising business, with those of Viacom, like the cable channels Nickelodeon, MTV and VH-1.</p>
+        <p>''You start out as a kid, you're watching Nickelodeon,'' Mr. Miller said. ''Then you get acne, you watch MTV; you get a little older, you watch UPN; so then you get married, have a couple of kids and you watch VH-1; finally you get older still and you watch CBS. And it's a fabulous lifestyle play. You start the day listening to radio and that's an Infinity station. You listen to another Infinity station on the drive to work, and while traveling you see billboards owned by Viacom/CBS. At work, you get into some streaming audio, or link into Web sites that CBS may have an interest in. Then you come home and you watch all these TV channels.''</p>
+        <p>Several executives also tied the decision to trigger the buy-sell move over UPN to Mr. Karmazin, who had previously been involved in fruitless negotiations to buy Chris-Craft's broadcast interests outright.</p>
+        <p>''This was Karmazin all over,'' one executive said of the deal, citing the pressure put on UPN either to agree to swallow the losses still being incurred by the network by buying out Viacom's share or to sell out for a truly modest price: $5 million.</p>
+        <p>But Chris-Craft hopes it will never come to that. The company requested an injunction in the State Supreme Court in New York, seeking to blow up the entire Viacom-CBS merger agreement. Chris-Craft contends that it will be irreparably damaged if it loses either the network or a deep-pocketed partner just as UPN is turning the corner and moving toward success.</p>
+        <p>Dean Valentine, UPN's president, said that even with the network's  turnaround this season, ''We're still going to lose money for the next year or two.'' He expressed confidence that the network's recent success can be sustained because the young male viewers it is reaching now supply much of the audience for the stations that make up the UPN network.</p>
+        <p>He also said UPN would tailor upcoming programs to young men, but would not limit the appeal to them. That was a mistake that the WB network has made, he said, in aiming its shows exclusively at teenage girls. ''We want to be male friendly, not male exclusive,'' he said. And he intends to retain a skew toward minority viewers.</p>
+        <p>''We're not trying to be a broadcaster or a narrow-caster,'' Mr. Valentine said. ''We want to be a midcaster.''</p>
+        <p>He said he expected Chris-Craft to try to retain its interest in UPN. But that may depend on whether a settlement with Viacom can be reached, or another corporate partner can be found. Chris-Craft would not be anxious to swallow the network's continuing losses alone.</p>
+        <p>Other suitors may appear -- Mr. Diller and his USA Networks have been mentioned in speculation about UPN's future. But for the moment, Chris-Craft wants the court to force Viacom to remain its tag-team partner.</p>
+        <p>Tom Wolzien, a media analyst for Sanford C. Bernstein, said Viacom and CBS would not allow the UPN morass to stand in the way of their deal. ''Nothing is more important to them to get the merger closed, with or without UPN,'' Mr. Wolzien said. ''They would prefer to do it with UPN, but if it has to go away, it goes away.''</p>
+        <p>Mr. Valentine said the network had come too far now to be forced into oblivion, a fate it might have faced had UPN not found its identity. ''Under any scenario, we're now too valuable an asset to disappear,'' Mr. Valentine said.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

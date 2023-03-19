@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths  CHALL, JEANNE S., DR.</title>
+    <meta content="DN121499" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="1999" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1160999"/>
+      <doc.copyright holder="The New York Times" year="1999"/>
+      <identified-content>
+        <person class="indexing_service">CHALL, JEANNE S., DR.</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19991214T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9401E4DD1E31F937A25751C1A96F958260" item-length="70" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths  CHALL, JEANNE S., DR.</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>CHALL-Jeanne S., Dr. We note with sadness the passing of Dr. Jeanne S. Chall, an outstanding teacher and researcher in the field of developmental and remedial reading. While at the Educational Clinic of City College of New York, she inspired many graduate students in psychology and in education. Dr. Chall had a profound influence, and we are grateful for her enduring legacy. Susan H. Blumenthal, Ed.D. Miriam T. Brous, Ed.D.</p>
+      </block>
+      <block class="full_text">
+        <p>CHALL-Jeanne S., Dr. We note with sadness the passing of Dr. Jeanne S. Chall, an outstanding teacher and researcher in the field of developmental and remedial reading. While at the Educational Clinic of City College of New York, she inspired many graduate students in psychology and in education. Dr. Chall had a profound influence, and we are grateful for her enduring legacy. Susan H. Blumenthal, Ed.D. Miriam T. Brous, Ed.D.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

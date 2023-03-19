@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Study Tracks Hispanic Community</title>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="1988" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="74" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="207609"/>
+      <doc.copyright holder="The New York Times" year="1988"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">SPANISH-SPEAKING GROUPS (US)</classifier>
+        <classifier class="indexing_service" type="descriptor">ECONOMIC CONDITIONS AND TRENDS</classifier>
+        <classifier class="indexing_service" type="descriptor">LABOR</classifier>
+        <location class="indexing_service">NEW YORK CITY METROPOLITAN AREA</location>
+        <location class="indexing_service">NEW YORK STATE</location>
+        <location class="indexing_service">NEW JERSEY</location>
+        <location class="indexing_service">CONNECTICUT</location>
+        <org class="indexing_service">LATINO COMMISSION OF TRI-STATE</org>
+        <org class="indexing_service">UNITED WAY OF TRI-STATE</org>
+        <org class="indexing_service">REGIONAL PLAN ASSN</org>
+        <person class="indexing_service">BROZAN, NADINE</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Connecticut</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New Jersey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./New England</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Connecticut</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New Jersey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Spanish Language</classifier>
+        <classifier class="online_producer" type="general_descriptor">Economic Conditions and Trends</classifier>
+        <classifier class="online_producer" type="general_descriptor">Language and Languages</classifier>
+        <classifier class="online_producer" type="general_descriptor">Labor</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19881218T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DE7DC1F3FF93BA25751C1A96E948260" item-length="1088" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Study Tracks Hispanic Community</hl1>
+      </hedline>
+      <byline class="print_byline">By NADINE BROZAN</byline>
+      <byline class="normalized_byline">BROZAN, NADINE</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: As a group, the Hispanic residents of New York, New Jersey and Connecticut are young, poor, underemployed and educationally disadvantaged -and they constitute the fastest-growing segment of the population in the area, a new report says.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: As a group, the Hispanic residents of New York, New Jersey and Connecticut are young, poor, underemployed and educationally disadvantaged -and they constitute the fastest-growing segment of the population in the area, a new report says.</p>
+        <p>As a group, the Hispanic residents of New York, New Jersey and Connecticut are young, poor, underemployed and educationally disadvantaged -and they constitute the fastest-growing segment of the population in the area, a new report says.</p>
+        <p>The report, ''Outlook: The Growing Latino Presence in the Tri-State Region,'' is said to be the first study of the Hispanic population to view the three states as one entity.</p>
+        <p>It was a project of the Latino Commission of Tri-State, the United Way of Tri-State and the Regional Plan Association. It was written to provide data needed by social service and philanthropic organizations, particularly the 1,800 groups supported by the regional United Way to effectively direct programs and money to the needs of Hispanic people. But the study has broad implications for the public sector as well.</p>
+        <p>As Luis Alvarez, chairman of the Latino Commission of Tri-State, said at a recent news conference in the Equitable Center to present the report: ''This was meant for consciousness-raising in the private sector, which must allocate more resources for the Latino community and open its boards of directors to Latinos, and to the government. I would like to see all three governors come together on determining strategy for the critical needs of all the Latinos.''</p>
+        <p>According to the report, which is based on 1980 census data, including some information that had not been released before, and more recent statistics from state and Federal agencies, the Hispanic population is now growing faster than any other group. Hispanic people are called Latinos in the report, and are broken down into eight subgroups - Puerto Rican, Cuban, Mexican, Colombian, Dominican, Central American, South American and ''other Latinos.'' Substantial Growth Rate</p>
+        <p>''Between 1980 and 1987, 650,000 Latinos were added to the total Tri-State population,'' the report said. ''Latinos now account for 14 percent of the total - or one in every seven inhabitants. These numbers parallel the Latino community's substantial 30 percent growth rate nationally in that same seven-year period.''</p>
+        <p>The trend is expected to continue unabated. Nationwide, the Hispanic population is expected to double in 30 years and triple in 60, the report predicts.</p>
+        <p>In the New York metropolitan region, the Hispanic population is expected to double, from 2 million in 1980 to 4.1 million in the year 2000. At the turn of the century, one in every five residents in the three states will be of Hispanic descent, the report says.</p>
+        <p>From 1980 to 1987, the report says, there were 353,000 Hispanic births in the area. Two-thirds of them occurred in New York City, where one of every three births are to Hispanic couples. The national fertility rate among Hispanic women is 23 percent higher than the national average for all women, and among Hispanic teen-agers, it is 34 percent higher. Single mothers are more prevalent in the Hispanic community than elsewhere, the report said.</p>
+        <p>Immigration - both illegal, which cannot be documented, and legal, which can - also contributes heavily to the growth, the report said.</p>
+        <p>By 1987, the one million Hispanic people that entered the country represented 27 percent of all legal immigration since 1980, and a quarter of them said they intended to settle in the New York metropolitan region. The data on immigration do not include emigres from Puerto Rico, who are automatically citizens and who, as the largest subgroup, constitute 54 percent of the Hispanic population in the area. A Diverse Population</p>
+        <p>The study is winning praise from sociologists for the distinctions it draws among Hispanic groups in the area: Puerto Ricans, Dominicans, Cubans, Colombians, Central Americans, Mexicans and others.</p>
+        <p>For example, it says Dominicans are expected to provide the largest influx, and Puerto Ricans, now the dominant subgroup in the area, are not expected to be the majority in the year 2000.</p>
+        <p>''It must always be said that the Hispanic population is very diverse,'' said Robert Bach, a sociology professor and a specialist in immigration and ethnic populations at the State University of New York at Binghamton, who had no connection to the report. ''It is almost incorrect to talk of an entire population.''</p>
+        <p>But many generalizations are valid, experts agreed. For example, the Hispanic community is predominantly young. ''Two in every five region Latinos are under 20 years of age, while only one in 20 is elderly,'' the report said.</p>
+        <p>The spectre of poverty hangs heavily over this population. In 1980, about half of all working-age Hispanic people in the region had no income from salaries, and an additional 30 percent were paid less than $15,000 a year. The median income for Hispanic families was 55 percent of that for non-Hispanic families.</p>
+        <p>Shirley Rodriguez Remeneski, executive director of Governor Cuomo's Office of Hispanic Affairs, confirmed the report, saying: ''This community is suffering the most. It is the poorest, lives in the worst housing and is economically the worst off.'' Intensified Teaching Efforts</p>
+        <p>Unemployment is severe. In 1987, for example, the report said, ''the Latino community comprised 21 percent of New York City's labor force and 31 percent of its unemployed. The rate of Latino participation in the region's labor force is lower than comparable figures for whites and blacks, while the official Latino unemployment rate is higher.'' Lower participation in the work force among women accounted for much of the difference. The departure of manufacturing industries, traditionally an important source of work for Hispanic people, hit particularly hard.</p>
+        <p>Consequently, intensified efforts to keep children in school and to train adults for service industries are critical. In the region, only one in eight Hispanic people has had any higher education, compared with one-third of non-Hispanics. Half of all Hispanic adults have not completed high school.</p>
+        <p>The sponsors of the report vowed that their work would not be forgotten. A needs assessment study is to follow, as well as similar studies on the Asian community, due early next year, and on the black community, due later next year.</p>
+        <p>Angelo Falcon, president of the Institute for Puerto Rican Policy and a consultant on the project, said: ''By itself, the report cannot accomplish anything. It must be used creatively by the community and by leaders. But it does provide a framework, and I hope it will begin to get policy makers and Latino leaders to frame their issues in a regional context.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

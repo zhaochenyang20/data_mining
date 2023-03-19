@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>'EVER ET RAW MEAT?' AND OTHER WEIRD QUESTIONS</title>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="99402"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">BOOKS AND LITERATURE</classifier>
+        <person class="indexing_service">KING, STEPHEN</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19871206T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DEEDF133DF935A35751C1A961948260" item-length="1575" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>'EVER ET RAW MEAT?' AND OTHER WEIRD QUESTIONS</hl1>
+      </hedline>
+      <byline class="print_byline">By STEPHEN KING; Stephen King's most recent novel is ''The Tommyknockers.''</byline>
+      <byline class="normalized_byline">KING, STEPHEN</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: IT seems to me that, in the minds of readers, writers actually exist to serve two purposes, and the more important may not be the writing of books and stories. The primary function of writers, it seems, is to answer readers' questions. These fall into three categories. The third is the one that fascinates me most, but</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: IT seems to me that, in the minds of readers, writers actually exist to serve two purposes, and the more important may not be the writing of books and stories. The primary function of writers, it seems, is to answer readers' questions. These fall into three categories. The third is the one that fascinates me most, but</p>
+        <p>IT seems to me that, in the minds of readers, writers actually exist to serve two purposes, and the more important may not be the writing of books and stories. The primary function of writers, it seems, is to answer readers' questions. These fall into three categories. The third is the one that fascinates me most, but I'll identify the other two first.</p>
+        <p>The One-of-a-Kind Questions: Each day's mail brings a few of these. Often they reflect the writer's field of interest - history, horror, romance, the American West, outer space, big business. The only thing they have in common is their uniqueness. Novelists are frequently asked where they get their ideas (see category No. 2), but writers must wonder where this relentless curiosity, these really strange questions, come from.</p>
+        <p>There was, for instance, the young woman who wrote to me from a penal institution in Minnesota. She informed me she was a kleptomaniac. She further informed me that I was her favorite writer, and she had stolen every one of my books she could get her hands on. ''But after I stole 'Different Seasons' from the library and read it, I felt moved to send it back,'' she wrote. ''Do you think this means you wrote this one the best?'' After due consideration, I decided that reform on the part of the reader has nothing to do with artistic merit. I came close to writing back to find out if she had stolen ''Misery'' yet but decided I ought to just keep my mouth shut.</p>
+        <p>From Bill V. in North Carolina: ''I see you have a beard. Are you morbid of razors?''</p>
+        <p>From Carol K. in Hawaii: ''Will you soon write of pimples or some other facial blemish?''</p>
+        <p>From Don G., no address (and a blurry postmark): ''Why do you keep up this disgusting mother worship when anyone with any sense knows a MAN has no use to his mother once he is weened?''</p>
+        <p>From Raymond R. in Mississippi: ''Ever et raw meat?'' (It's the laconic ones like this that really get me.) I have been asked if I beat my children and/or my wife. I have been asked to parties in places I have never been and hope never to go. I was once asked to give away the bride at a wedding, and one young woman sent me an ounce of pot, with the attached question: ''This is where I get my inspiration - where do you get yours?'' Actually, mine usually comes in envelopes - the kind through which you can view your name and address printed by a computer - that arrive at the end of every month.</p>
+        <p>My favorite question of this type, from Anchorage, asked simply: ''How could you write such a why?'' Unsigned. If E. E. Cummings were still alive, I'd try to find out if he'd moved to the Big North.</p>
+        <p>The Old Standards: These are the questions writers dream of answering when they are collecting rejection slips, and the ones they tire of quickest once they start to publish. In other words, they are the questions that come up without fail in every dull interview the writer has ever given or will ever give. I'll enumerate a few of them:</p>
+        <p>Where do you get your ideas? (I get mine in Utica.) How do you get an agent? (Sell your soul to the Devil.) Do you have to know somebody to get published? (Yes; in fact, it helps to grovel, toady and be willing to perform twisted acts of sexual depravity at a moment's notice, and in public if necessary.) How do you start a novel? (I usually start by writing the number 1 in the upper right-hand corner of a clean sheet of paper.) How do you write best sellers? (Same way you get an agent.) How do you sell your book to the movies? (Tell them they don't want it.) What time of day do you write? (It doesn't matter; if I don't keep busy enough, the time inevitably comes.) Do you ever run out of ideas? (Does a bear defecate in the woods?) Who is your favorite writer? (Anyone who writes stories I would have written had I thought of them first.) There are others, but they're pretty boring, so let us march on.</p>
+        <p>The Real Weirdies: Here I am, bopping down the street, on my morning walk, when some guy pulls over in his pickup truck or just happens to walk by and says, ''Hi, Steve! Writing any good books lately?'' I have an answer for this; I've developed it over the years out of pure necessity. I say, ''I'm taking some time off.'' I say that even if I'm working like mad, thundering down homestretch on a book. The reason why I say this is because no other answer seems to fit. Believe me, I know. In the course of the trial and error that has finally resulted in ''I'm taking some time off,'' I have discarded about 500 other answers.</p>
+        <p>Having an answer for ''You writing any good books lately?'' is a good thing, but I'd be lying if I said it solves the problem of what the question means. It is this inability on my part to make sense of this odd query, which reminds me of that Zen riddle - ''Why is a mouse when it runs?'' - that leaves me feeling mentally shaken and impotent. You see, it isn't just one question; it is a bundle of questions, cunningly wrapped up in one package. It's like that old favorite, ''Are you still beating your wife?''</p>
+        <p>If I answer in the affirmative, it means I may have written - how many books? two? four? - (all of them good) in the last - how long? Well, how long is ''lately''? It could mean I wrote maybe three good books just last week, or maybe two on this very walk up to Bangor International Airport and back! On the other hand, if I say no, what does that mean? I wrote three or four bad books in the last ''lately'' (surely ''lately'' can be no longer than a month, six weeks at the outside)?</p>
+        <p>Or here I am, signing books at the Betts' Bookstore or B. Dalton's in the local consumer factory (nicknamed ''the mall''). This is something I do twice a year, and it serves much the same purpose as those little bundles of twigs religious people in the Middle Ages used to braid into whips and flagellate themselves with. During the course of this exercise in madness and self-abnegation, at least a dozen people will approach the little coffee table where I sit behind a barrier of books and ask brightly, ''Don't you wish you had a rubber stamp?'' I have an answer to this one, too, an answer that has been developed over the years in a trial-and-error method similar to ''I'm taking some time off.'' The answer to the rubber-stamp question is: ''No, I don't mind.''</p>
+        <p>Never mind if I really do or don't (this time it's my own motivations I want to skip over, you'll notice); the question is, Why does such an illogical query occur to so many people? My signature is actually stamped on the covers of several of my books, but people seem just as eager to get these signed as those that aren't so stamped. Would these questioners stand in line for the privilege of watching me slam a rubber stamp down on the title page of ''The Shining'' or ''Pet Sematary''? I don't think they would.</p>
+        <p>If you still don't sense something peculiar in these questions, this one might help convince you. I'm sitting in the cafe around the corner from my house, grabbing a little lunch by myself and reading a book (reading at the table is one of the few bad habits acquired in my youth that I have nobly resisted giving up) until a customer or maybe even a waitress sidles up and asks, ''How come you're not reading one of your own books?''</p>
+        <p>THIS hasn't happened just once, or even occasionally; it happens a lot. The computer-generated answer to this question usually gains a chuckle, although it is nothing but the pure, logical and apparent truth. ''I know how they all come out,'' I say. End of exchange. Back to lunch, with only a pause to wonder why people assume you want to read what you wrote, rewrote, read again following the obligatory editorial conference and yet again during the process of correcting the mistakes that a good copy editor always prods, screaming, from their hiding places (I once heard a crime writer suggest that God could have used a copy editor, and while I find the notion slightly blasphemous, I tend to agree).</p>
+        <p>And then people sometimes ask in that chatty, let's-strike-up-a-conversa-tion way people have, ''How long does it take you to write a book?'' Perfectly reasonable question - at least until you try to answer it and discover there is no answer. This time the computer-generated answer is a total falsehood, but it at least serves the purpose of advancing the conversation to some more discussable topic. ''Usually about nine months,'' I say, ''the same length of time it takes to make a baby.'' This satisfies everyone but me. I know that nine months is just an average, and probably a completely fictional one at that. It ignores ''The Running Man'' (published under the name Richard Bachman), which was written in four days during a snowy February vacation when I was teaching high school. It also ignores ''It'' and my latest, ''The Tommyknockers.'' ''It'' is over 1,000 pages long and took four years to write. ''The Tommyknockers'' is 400 pages shorter but took five years to write.</p>
+        <p>Do I mind these questions? Yes . . . and no. Anyone minds questions that have no real answers and thus expose the fellow being questioned to be not a real doctor but a sort of witch doctor. But no one - at least no one with a modicum of simple human kindness - resents questions from people who honestly want answers. And now and then someone will ask a really interesting question, like, Do you write in the nude? The answer -not generated by computer - is: I don't think I ever have, but if it works, I'm willing to try it.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

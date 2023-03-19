@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>In Devils' Goal, a Disciple Is Idolized</title>
+    <meta content="06devils" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1759551"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <series series.name="HOCKEY"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Hockey, Ice</classifier>
+        <classifier class="indexing_service" type="descriptor">Playoff Games</classifier>
+        <org class="indexing_service">New Jersey Devils</org>
+        <org class="indexing_service">Carolina Hurricanes</org>
+        <person class="indexing_service">Diamos, Jason</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Hockey/National Hockey League/Carolina Hurricanes</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Hockey/National Hockey League/Montreal Canadiens</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Hockey/National Hockey League/New Jersey Devils</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Hockey</classifier>
+        <classifier class="online_producer" type="general_descriptor">Games</classifier>
+        <classifier class="online_producer" type="general_descriptor">Playoff Games</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hockey, Ice</classifier>
+        <classifier class="online_producer" type="general_descriptor">Baseball</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060506T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0CE5DA1F3FF935A35756C0A9609C8B63" item-length="728" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>In Devils' Goal, a Disciple Is Idolized</hl1>
+      </hedline>
+      <byline class="print_byline">By JASON DIAMOS</byline>
+      <byline class="normalized_byline">Diamos, Jason</byline>
+      <dateline>WEST ORANGE, N.J., May 5</dateline>
+      <abstract>
+        <p>New Jersey Devils and goaltender Martin Brodeur prepare to face Carolina Hurricanes in second round of playoffs; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>As a teenager in Quebec, where his father was the Montreal Canadiens' team photographer, Martin Brodeur grew up in the shadows of the Montreal Forum idolizing Patrick Roy.</p>
+        <p>After spending the past dozen seasons as the Devils' No. 1 goaltender, Brodeur, who turns 34 on Saturday, has been around long enough to have become an idol in his own right. Just ask the Carolina Hurricanes' rookie goaltender Cam Ward, who said during a conference call this week that he idolized Brodeur as he was growing up in Alberta.</p>
+      </block>
+      <block class="full_text">
+        <p>As a teenager in Quebec, where his father was the Montreal Canadiens' team photographer, Martin Brodeur grew up in the shadows of the Montreal Forum idolizing Patrick Roy.</p>
+        <p>After spending the past dozen seasons as the Devils' No. 1 goaltender, Brodeur, who turns 34 on Saturday, has been around long enough to have become an idol in his own right. Just ask the Carolina Hurricanes' rookie goaltender Cam Ward, who said during a conference call this week that he idolized Brodeur as he was growing up in Alberta.</p>
+        <p>''I was shaking my head when I heard that on TV,'' Brodeur said Friday before the Devils traveled to Raleigh, N.C., for Game 1 of their N.H.L. Eastern Conference semifinal series against Ward and the Hurricanes on Saturday afternoon. ''I said, 'Oh, no.' ''</p>
+        <p>Brodeur said that he used to laugh at his teammates when people approached them and told them how much they worshiped them.</p>
+        <p>''And now it's happening to me,'' Brodeur said. ''But the guys are younger and they look up to the championship teams when they grew up, like I did when Patrick was there. And I was part of three of them.''</p>
+        <p>Should Brodeur win a Stanley Cup championship this season, it would tie the four that Roy won with the Canadiens and the Colorado Avalanche.</p>
+        <p>By winning their final 11 games of the regular season, the Devils rallied to win the Atlantic Division and the third seeding in the Eastern Conference. Carolina, which won the Southeast Division, is seeded second.</p>
+        <p>No team in the playoffs is hotter than the Devils, who swept the Rangers, 4-0, in the first round.</p>
+        <p>With Brodeur leading the way, the Devils have won 15 consecutive games, equaling the second-longest winning streak in N.H.L. history.</p>
+        <p>Should the Devils win Games 1 and 2 against the Hurricanes, they would match the 17 games in a row the Pittsburgh Penguins won in 1992-93.</p>
+        <p>Should the Devils win Game 1, Brodeur would move into sole possession of third place in career playoff victories, behind only Roy and Grant Fuhr.</p>
+        <p>And it was Roy's records for regular-season victories (551) and playoff victories (151) that Brodeur said he would cherish most if he could break them. He has 446 regular-season victories and 88 playoff victories.</p>
+        <p>''Winning is the most important thing to me,'' said Brodeur, who equaled his career high with a league-leading 43 victories in the regular season.</p>
+        <p>''Goals against average, save percentage, shutouts -- they're great,'' he said. ''But at the end of the day, if you don't win these games, your team doesn't have any success. So I think for goalies, you have to look at the win totals to appreciate what the guy has done.</p>
+        <p>''And if you have a lot of playoff wins, then you have a good chance of winning a lot of Stanley Cups.''</p>
+        <p>When Brodeur hears his name mentioned in the same sentence as Roy, he said, it is mind-boggling to him.</p>
+        <p>''He was the goalie for the Montreal Canadiens,'' Brodeur said. ''And as Canadians, it's a lot different than the kids in America or even the fans where everybody has my jersey now. Back when we grew up, when he started in '86, jerseys were not a big thing. For us, we idolized the Montreal Canadiens, and Patrick Roy was our guy. He was a young guy coming in having success in an all-English world.</p>
+        <p>''And I started to know what hockey was all about when I went into the locker room in Montreal with my dad. When we spoke English, it was like, 'What's going on here? Everybody's French, no?' When you're young and you've never really left home, you don't know how it really works. So for us, it was a big deal that he was one of ours because we feel we're a small group in Canada as French people that have success in the big world, the N.H.L.''</p>
+        <p>That feeling of kinship was why Brodeur said he idolized Roy.</p>
+        <p>Because they shared the same heritage, Brodeur said, he did not feel it was necessary to honor Roy, who wore No. 33, by wearing his number.</p>
+        <p>''Or by wearing jerseys like kids do now,'' Brodeur said.</p>
+        <p>For a quick reminder of that, all he has to do Saturday is look toward the other crease, where Ward wears No. 30, just like Brodeur.</p>
+        <p>HOCKEY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

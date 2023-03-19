@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Wright Buildings: The Future and Past</title>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Home Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Home and Garden; Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="85256"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">ARCHITECTURE</classifier>
+        <classifier class="indexing_service" type="descriptor">CONVENTIONS AND CONFERENCES</classifier>
+        <org class="indexing_service">WRIGHT, FRANK LLOYD, FOUNDATION</org>
+        <person class="indexing_service">STOFFEL, JENNIFER</person>
+        <person class="indexing_service">WRIGHT, FRANK LLOYD (1869-1959)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Home and Garden</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Architecture</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Engineering and Architecture</classifier>
+        <classifier class="online_producer" type="general_descriptor">Architecture</classifier>
+        <classifier class="online_producer" type="general_descriptor">Conventions and Conferences</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19871022T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DEEDA133CF931A15753C1A961948260" item-length="550" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Wright Buildings: The Future and Past</hl1>
+      </hedline>
+      <byline class="print_byline">By JENNIFER STOFFEL, Special to The New York Times</byline>
+      <byline class="normalized_byline">STOFFEL, JENNIFER</byline>
+      <dateline>OAK PARK, Ill., Oct. 18</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: The agenda was twofold: to discuss the future of Frank Lloyd Wright's remaining buildings, and for those who lived in Wright-designed houses, to share restoration experiences. This weekend 160 Wright homeowners and 52 architectural historians, curators and academics met at the third annual ''Wright Places'' conference and tour, sponsored by the Frank Lloyd Wright Home and Studio Foundation here.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: The agenda was twofold: to discuss the future of Frank Lloyd Wright's remaining buildings, and for those who lived in Wright-designed houses, to share restoration experiences. This weekend 160 Wright homeowners and 52 architectural historians, curators and academics met at the third annual ''Wright Places'' conference and tour, sponsored by the Frank Lloyd Wright Home and Studio Foundation here.</p>
+        <p>The agenda was twofold: to discuss the future of Frank Lloyd Wright's remaining buildings, and for those who lived in Wright-designed houses, to share restoration experiences. This weekend 160 Wright homeowners and 52 architectural historians, curators and academics met at the third annual ''Wright Places'' conference and tour, sponsored by the Frank Lloyd Wright Home and Studio Foundation here.</p>
+        <p>''This is a great opportunity to exchange information - these houses are old and in constant need of repair,'' said John Tilton, a Chicago designer and the owner of the 1909 J. Kibben Ingalls house in River Forest, Ill.</p>
+        <p>An estimated 360 private homes designed by Wright are still being lived in, and while much of the conference was devoted to the trials of restoration - which wood finishes to use, and how to repair art glass or leaky roofs - some philosophical issues were raised.</p>
+        <p>One was the fear that the current popularity of Wright's work, and the high prices that his furnishings and art glass have brought, would incline some owners to sell such artifacts. Last December, a high-backed spindle chair designed by Wright brought $198,000 at Christie's in New York.</p>
+        <p>''The homeowners are very disturbed at the prices being paid,'' said Eric Lloyd Wright, the architect's 57-year-old grandson and an architect in Malibu, Calif. ''It makes it impossible for them to use them - the insurance alone is too high.''</p>
+        <p>There is also the problem of architectural integrity. Following World War II, Wright's houses - with their open, horizontal spaces, cantilevered roofs and broad eaves - were out of favor. Wright-designed homes were treated according to the vagaries of their owners. Many were updated to meet the needs of a growing family. Additions were constructed, furnishings discarded, light fixtures removed and natural woodwork painted over, in an effort to modernize. ''Since 1900 these houses have been changed by each owner to reflect more contemporary styles of living,'' said David Hanks, a Wright historian and a New York decorative arts consultant who spoke at the conference.</p>
+        <p>The Mrs. Thomas Gale house here, for example, built in 1909, had only two owners before 1981, and had fallen into disrepair.</p>
+        <p>When Meg and Peter Klinkow became interested in owning a Wright home, they had not planned to take on a restoration as large as the one that the Gale house required. But six years and $60,000 later, their five-bedroom home is almost finished. While the dining room set had vanished, the house still had art glass windows and Wright-designed wall sconces. It needed a new roof, the woodwork had to be stripped and, reflecting the Klinkows' needs, a back porch and a basement family room were added.</p>
+        <p>''We didn't think we'd get a Frank Lloyd Wright,'' said Ms. Klinkow, who is the director of the Frank Lloyd Wright Home and Studio Foundation Research Center in Oak Park. ''I told my husband, 'Not that one.' It was such a mess.''</p>
+        <p>Another question at the conference was the one of restoration integrity in Wright houses. Some historians advocated the replacement of rare and costly originals with reproductions.</p>
+        <p>''If they're so important, as the art market is telling us, perhaps the museum is a good place for them, and reproductions are good for the house,'' Mr. Hanks said.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

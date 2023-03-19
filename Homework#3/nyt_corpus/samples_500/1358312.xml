@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Our Wretched States</title>
+    <meta content="11KRUG" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="21" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Health; Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2002/01/11/opinion/11KRUG.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1358312"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">States (US)</classifier>
+        <classifier class="indexing_service" type="descriptor">Finances</classifier>
+        <classifier class="indexing_service" type="descriptor">Budgets and Budgeting</classifier>
+        <classifier class="indexing_service" type="descriptor">Taxation</classifier>
+        <classifier class="indexing_service" type="descriptor">Economic Conditions and Trends</classifier>
+        <classifier class="indexing_service" type="descriptor">Recession and Depression</classifier>
+        <classifier class="indexing_service" type="descriptor">United States Economy</classifier>
+        <classifier class="indexing_service" type="descriptor">Medicine and Health</classifier>
+        <classifier class="indexing_service" type="descriptor">Health Insurance</classifier>
+        <classifier class="indexing_service" type="descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="indexing_service" type="descriptor">Terrorism</classifier>
+        <classifier class="indexing_service" type="descriptor">Airlines and Airplanes</classifier>
+        <classifier class="indexing_service" type="descriptor">Hijacking</classifier>
+        <classifier class="indexing_service" type="descriptor">World Trade Center (NYC)</classifier>
+        <location class="indexing_service">Washington (DC)</location>
+        <location class="indexing_service">New York City</location>
+        <org class="indexing_service">National Governors Assn</org>
+        <person class="indexing_service">Krugman, Paul</person>
+        <person class="indexing_service">Bush, George W (Pres)</person>
+        <classifier class="online_producer" type="types_of_material">Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Columnists</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Columnists/Paul Krugman</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Washington, D.C.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Africa</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/South Africa</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Health Insurance and Managed Care</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Medicine and Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Washington, D.C.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Africa</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Africa/South Africa</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="descriptor">States (US)</classifier>
+        <classifier class="online_producer" type="descriptor">Recession and Depression</classifier>
+        <classifier class="online_producer" type="descriptor">Taxation</classifier>
+        <classifier class="online_producer" type="descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Recession and Depression</classifier>
+        <classifier class="online_producer" type="general_descriptor">Health Insurance and Managed Care</classifier>
+        <classifier class="online_producer" type="general_descriptor">States (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Budgets and Budgeting</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Economy</classifier>
+        <classifier class="online_producer" type="general_descriptor">World Trade Center (NYC)</classifier>
+        <classifier class="online_producer" type="general_descriptor">World Trade Center (NYC)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hijacking</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Economic Conditions and Trends</classifier>
+        <classifier class="online_producer" type="general_descriptor">Terrorism</classifier>
+        <classifier class="online_producer" type="general_descriptor">Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Airlines and Airplanes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Taxation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Office Buildings and Commercial Properties</classifier>
+        <classifier class="online_producer" type="general_descriptor">Crime and Criminals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <location class="online_producer">Richmond (South Africa)</location>
+        <org class="online_producer">Center on Budget and Policy Priorities</org>
+        <person class="online_producer">Gilmore III, James</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20020111T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C00E3D71139F932A25752C0A9649C8B63" item-length="754" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Our Wretched States</hl1>
+        <hl2 class="online_headline">Our Wretched States</hl2>
+      </hedline>
+      <byline class="print_byline">By PAUL KRUGMAN</byline>
+      <byline class="normalized_byline">Krugman, Paul</byline>
+      <abstract>
+        <p>Op-Ed column by Paul Krugman says current condition of states is shape of national things to come; notes National Governors Assn reports its members face combined budget shortfall of at least $40 billion; attributes this to mostly Republican governors who used questionable budget forecasts to justify tax cuts for affluent; notes Bush administration used same strategy at national level in 2001; says selective tax cuts in states were cleared with forecasts that made no allowance for contingencies, but with creative accounting; says now states must deal with effects of past chicanery even as they face recession, soaring health care costs and fiscal impact of terrorism; says as states go, so goes America (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Many Americans are surprised at the speed with which assurances that immense federal surpluses were here to stay gave way to the reality of deficits. Some of us, however, aren't surprised; we're simply following a trail blazed in places like Richmond and Austin. In the 1990's most states had Republican governors; and they applied the same strategy -- using what-me-worry forecasts and bogus accounting to justify tax cuts for the affluent -- that the Bush administration applied at a national level in 2001. In both cases the consequences were predictable.</p>
+        <p>The difference is that state governments are generally prohibited by their constitutions from borrowing to cover deficits. Eventually the federal government, too, must live within its means -- but spin and denial can delay the reckoning. State chickens come home to roost a lot faster. In other words, the state of the states is the shape of national things to come.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>States are facing a fiscal crisis. Unfortunately, the state of the states is the shape of national things to come.</p>
+      </block>
+      <block class="full_text">
+        <p>Many Americans are surprised at the speed with which assurances that immense federal surpluses were here to stay gave way to the reality of deficits. Some of us, however, aren't surprised; we're simply following a trail blazed in places like Richmond and Austin. In the 1990's most states had Republican governors; and they applied the same strategy -- using what-me-worry forecasts and bogus accounting to justify tax cuts for the affluent -- that the Bush administration applied at a national level in 2001. In both cases the consequences were predictable.</p>
+        <p>The difference is that state governments are generally prohibited by their constitutions from borrowing to cover deficits. Eventually the federal government, too, must live within its means -- but spin and denial can delay the reckoning. State chickens come home to roost a lot faster. In other words, the state of the states is the shape of national things to come.</p>
+        <p>How bad is the state fiscal crisis? The National Governors Association recently reported that its members faced a combined shortfall -- that is, a gap between projected revenue and projected spending -- of at least $40 billion, and quite possibly $50 billion. The latter number would be almost 10 percent of states' budgets, a very large number indeed.</p>
+        <p>If 10 percent doesn't sound that big to you, remember that much state spending, like much federal spending, cannot be cut -- especially on short notice. A budget shortfall of 6.5 percent in the early 1990's led to severe cuts in services and forced 44 states to raise taxes; this one looks considerably worse.</p>
+        <p>How did states get themselves in this fix? The biggest proximate cause of the budget crunch is the end of the great 1990's boom; second place goes to surging medical costs. Expenses for homeland security add a final insult.</p>
+        <p>But stuff happens; why didn't states prepare for a rainy day? Although they can't borrow in bad times, state governments can accumulate reserves in good times. Instead, however, many governors acted as if the boom would never end.</p>
+        <p>They increased spending -- though not all that much; spending by state and local governments was about the same share of G.D.P. at the end of the 1990's as it was at the beginning.</p>
+        <p>More important, they cut taxes. Now it's true that state governments raised taxes in the early 1990's -- but as new work by the Center on Budget and Policy Priorities shows, they didn't cut the same taxes they had previously raised. Increases in regressive taxes -- that is, taxes like the sales tax, which bear most heavily on lower- and moderate-income families -- by and large were never reversed. Instead, states cut taxes that bear most heavily on upper-income families. The end result was a redistribution of the tax burden away from the haves toward the have-nots. A family earning, say, $30,000 per year pays considerably more in state taxes than a family with the same constant-dollar income did in 1990, while a family earning $600,000 per year pays considerably less.</p>
+        <p>The way for these selective tax cuts was cleared not just with forecasts that made no allowance for contingencies, but with creative accounting worthy of Enron. For example, in 1999 the governor of Texas -- yes, him -- justified new corporate tax breaks with a budget that not only understated Medicaid costs by $550 million but hid regular payments for nursing care and other services by moving them from the last month of fiscal 2001 to the first month of 2002. Just last year, with the fiscal picture already darkening, Gov. James Gilmore of Virginia (who resigned as head of the Republican National Committee after his party lost the Virginia and New Jersey state houses) evaded a ''trigger'' rule that was supposed to postpone tax cuts in the event of a revenue shortfall; he booked an estimate of the entire value of future payments from tobacco companies as current revenue.</p>
+        <p>Now the states must deal with the effects of past chicanery even as they face recession, soaring health care costs and the fiscal impact of terrorism. The result will be layoffs of teachers and policemen, medical care denied to the poor, delayed repairs to roads and bridges, and -- eventually, when it can no longer be avoided -- tax increases. And why do I think I know whose taxes will go up?</p>
+        <p>It's not a pretty picture, but you should get accustomed to it. As the states go, so goes America.</p>
+        <p>E-mail: krugman@nytimes.com</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">E-mail: krugman@nytimes.com</tagline>
+    </body.end>
+  </body>
+</nitf>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   LIEBMANN, , HERMAN</title>
+    <meta content="DN072703" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="30" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1507795"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <identified-content>
+        <person class="indexing_service">LIEBMANN, , HERMAN</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20030727T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CE7DC1E3FF934A15754C0A9659C8B63" item-length="74" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   LIEBMANN, , HERMAN</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LIEBMANN--Herman, July 21, 2003, in NYC. WW II Army Major, textile executive, private investor, Director of the Richard Tucker Foundation, member of the Harmonie Club for over 50 years. Father of Lisa Liebmann Adams, father-in-law of John Brooks Adams, grandfather of Jane Juno Adams, former husband of Loraine Pack Liebmann, dear companion of the late Elaine Reiner. Service on July 31, 11:30 AM at Frank E. Campbell, 1076 Madison Avenue at 81 Street. &gt;&gt;AD#</p>
+      </block>
+      <block class="full_text">
+        <p>LIEBMANN--Herman, July 21, 2003, in NYC. WW II Army Major, textile executive, private investor, Director of the Richard Tucker Foundation, member of the Harmonie Club for over 50 years. Father of Lisa Liebmann Adams, father-in-law of John Brooks Adams, grandfather of Jane Juno Adams, former husband of Loraine Pack Liebmann, dear companion of the late Elaine Reiner. Service on July 31, 11:30 AM at Frank E. Campbell, 1076 Madison Avenue at 81 Street. &gt;&gt;AD#</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

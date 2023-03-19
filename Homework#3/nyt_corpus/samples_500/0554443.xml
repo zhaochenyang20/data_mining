@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Letter: On Disasters; Beyond Emergency Relief</title>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1992" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="554443"/>
+      <doc.copyright holder="The New York Times" year="1992"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">HURRICANES AND TROPICAL STORMS</classifier>
+        <classifier class="indexing_service" type="descriptor">HURRICANE ANDREW</classifier>
+        <classifier class="indexing_service" type="descriptor">TAXATION</classifier>
+        <classifier class="indexing_service" type="descriptor">FEDERAL TAXES (US)</classifier>
+        <classifier class="indexing_service" type="descriptor">INCOME TAX</classifier>
+        <classifier class="indexing_service" type="descriptor">TAX CREDITS</classifier>
+        <classifier class="indexing_service" type="descriptor">HOUSING</classifier>
+        <person class="indexing_service">HEISKELL, ANDREW</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Federal Taxes (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Income</classifier>
+        <classifier class="online_producer" type="general_descriptor">Income Tax</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tax Credits</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hurricanes and Tropical Storms</classifier>
+        <classifier class="online_producer" type="general_descriptor">Taxation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Housing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19920905T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CE5DD103AF936A3575AC0A964958260" item-length="353" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Letter: On Disasters; Beyond Emergency Relief</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>There is no difference in the way a hurricane destroys a rich person's home and a poor person's home. Unfortunately in this country there is still a big difference in the opportunities each will have to rebuild that home and a stable life.</p>
+        <p>The second tragedy of Hurricane Andrew is that when the emergency is over and the long-term recovery gets under way, many of those who lost their homes so swiftly, those with no insurance, no savings and no health care, will find themselves abandoned by a system that provides little opportunity to re-enter the mainstream.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>There is no difference in the way a hurricane destroys a rich person's home and a poor person's home. Unfortunately in this country there is still a big difference in the opportunities each will have to rebuild that home and a stable life.</p>
+        <p>The second tragedy of Hurricane Andrew is that when the emergency is over and the long-term recovery gets under way, many of those who lost their homes so swiftly, those with no insurance, no savings and no health care, will find themselves abandoned by a system that provides little opportunity to re-enter the mainstream.</p>
+        <p>These people will suddenly face a reality well known to millions of other low-income Americans, a reality in which years of inattention to long-term solutions has made it nearly impossible for the poorest sector of society to attain basic necessities such as affordable housing, social services and health care, especially during a crisis.</p>
+        <p>Emergency relief is essential but will go only so far toward rebuilding lives. After that, people will have to rely on the established systems; and they will find that the next crisis they face, unlike the randomness of a hurricane, is merely symptomatic of our country's failure to address the long-term needs of low-income citizens.</p>
+        <p>At this point they may stop wondering at the blameless tragedy of the storm and start wondering why, for example, Congress has still failed to renew a widely praised, proven tool like the Low-Income Housing Tax Credit. The tax credit is the catalyst of over 95 percent of the nation's affordable housing production, yet Congress recessed without renewing it for next year.</p>
+        <p>It's time to start thinking in the long term -- to recognize the necessity of programs like the tax credit and make them permanent. Let's respond to emergencies quickly and well, but be certain that we also have long-term systems in place that will prevent, not solidify, the disaster of a permanent underclass in our society. ANDREW HEISKELL New York, Aug. 31, 1992</p>
+        <p>The writer is co-chairman of the New York City Advisory Board of the Enterprise Foundation.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

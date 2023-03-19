@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Carrie Fishman to Marry</title>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="1988" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="54" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="172934"/>
+      <doc.copyright holder="The New York Times" year="1988"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">FISHMAN, CARRIE</person>
+        <person class="indexing_service">POLSKY, DANIEL S</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19880821T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DE1DE123DF932A1575BC0A96E948260" item-length="75" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Carrie Fishman to Marry</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Mr. and Mrs. Monte Fishman of Bronxville, N.Y., have announced the engagement of their daughter Carrie G. Fishman to Daniel S. Polsky, a son of Mr. and Mrs. Louis Polsky of Floral Park, Queens. Miss Fishman is an associate at the New York law firm of Otterbourg, Steindler, Houston &amp; Rosen. Her fiance is a senior consultant in the national reorganization and bankruptcy group at Price Waterhouse in New York.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Mr. and Mrs. Monte Fishman of Bronxville, N.Y., have announced the engagement of their daughter Carrie G. Fishman to Daniel S. Polsky, a son of Mr. and Mrs. Louis Polsky of Floral Park, Queens. Miss Fishman is an associate at the New York law firm of Otterbourg, Steindler, Houston &amp; Rosen. Her fiance is a senior consultant in the national reorganization and bankruptcy group at Price Waterhouse in New York.</p>
+        <p>Mr. and Mrs. Monte Fishman of Bronxville, N.Y., have announced the engagement of their daughter Carrie G. Fishman to Daniel S. Polsky, a son of Mr. and Mrs. Louis Polsky of Floral Park, Queens. Miss Fishman is an associate at the New York law firm of Otterbourg, Steindler, Houston &amp; Rosen. Her fiance is a senior consultant in the national reorganization and bankruptcy group at Price Waterhouse in New York. The wedding is planned for Oct. 8.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

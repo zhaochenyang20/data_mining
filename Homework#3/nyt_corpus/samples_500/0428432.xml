@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Chronicle</title>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Style Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="428432"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">AUCTIONS</classifier>
+        <classifier class="indexing_service" type="descriptor">FINANCES, PERSONAL</classifier>
+        <classifier class="indexing_service" type="descriptor">TAXATION</classifier>
+        <org class="indexing_service">INTERNAL REVENUE SERVICE (IRS)</org>
+        <person class="indexing_service">NELSON, WILLIE</person>
+        <person class="indexing_service">ANDERSON, SUSAN HELLER</person>
+        <person class="indexing_service">ROYAL, DARRELL</person>
+        <object.title class="indexing_service">CHRONICLE (TIMES COLUMN)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Auctions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Personal Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Taxation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19910307T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE3DB1F3EF934A35750C0A967958260" item-length="138" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Chronicle</hl1>
+      </hedline>
+      <byline class="print_byline">By Susan Heller Anderson</byline>
+      <byline class="normalized_byline">ANDERSON, SUSAN HELLER</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>DARRELL ROYAL, an illustrious former University of Texas football coach, has bought the country club of his friend WILLIE NELSON. Last year Mr. Nelson was ordered by a Texas court to pay back taxes and penalties to the Internal Revenue Service, which is demanding $16.7 million.</p>
+        <p>On Tuesday Mr. Royal bid $117,375 at an auction for Mr. Nelson's 76-acre property near Austin, which has a nine-hole golf course, a clubhouse and a recording studio.Acknowledging the "cheap price," Mr. Royal said he had played the course many times and "wanted to see it stay open," The Associated Press reported.</p>
+        <p>The I.R.S. has seized other properties belonging to Mr. Nelson in several states. Mr. Royal, who was head coach at Texas from 1955 to 1976, led the Longhorns to national championships and has a place in the Football Hall of Fame.</p>
+      </block>
+      <block class="full_text">
+        <p>DARRELL ROYAL, an illustrious former University of Texas football coach, has bought the country club of his friend WILLIE NELSON. Last year Mr. Nelson was ordered by a Texas court to pay back taxes and penalties to the Internal Revenue Service, which is demanding $16.7 million.</p>
+        <p>On Tuesday Mr. Royal bid $117,375 at an auction for Mr. Nelson's 76-acre property near Austin, which has a nine-hole golf course, a clubhouse and a recording studio.Acknowledging the "cheap price," Mr. Royal said he had played the course many times and "wanted to see it stay open," The Associated Press reported.</p>
+        <p>The I.R.S. has seized other properties belonging to Mr. Nelson in several states. Mr. Royal, who was head coach at Texas from 1955 to 1976, led the Longhorns to national championships and has a place in the Football Hall of Fame.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

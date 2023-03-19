@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>U.S. Helped Defeat Serbian Challenger</title>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1993" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="581918"/>
+      <doc.copyright holder="The New York Times" year="1993"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">ELECTIONS</classifier>
+        <classifier class="indexing_service" type="descriptor">UNITED STATES INTERNATIONAL RELATIONS</classifier>
+        <location class="indexing_service">YUGOSLAVIA</location>
+        <person class="indexing_service">PANIC, MILAN</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Elections</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19930110T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE2DD173CF933A25752C0A965958260" item-length="272" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>U.S. Helped Defeat Serbian Challenger</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>We shouldn't be surprised at Milan Panic's defeat in the Yugoslav elections, as you seem to be in "No Easy Out for Bosnia" (editorial, Dec. 23). Nor should we blame the voters for it. In a way, despite Washington's alleged support of his candidacy, we have helped his defeat.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>We shouldn't be surprised at Milan Panic's defeat in the Yugoslav elections, as you seem to be in "No Easy Out for Bosnia" (editorial, Dec. 23). Nor should we blame the voters for it. In a way, despite Washington's alleged support of his candidacy, we have helped his defeat.</p>
+        <p>To start with, we approved Mr. Panic's travel to Belgrade to assume the position of Prime Minister in a country with which we maintain a questionable diplomatic relationship and where we have no ambassador in place. What kind of support were we giving him?</p>
+        <p>We strengthened the economic sanctions during the electoral campaign without making it clear that they would be abolished should Mr. Panic win.</p>
+        <p>We implicitly contemplated the possibility of bombing the Serbs if they did not change their stand.</p>
+        <p>Last and psychologically most important, on the eve of the elections we published the list of Mr. Panic's opponents (Slobodan Milosevic's supporters), branding them criminals. It is we who hold that a person is innocent until proved guilty.</p>
+        <p>News reports from Belgrade said Mr. Panic's supporters were aghast when they heard Secretary of State Lawrence S. Eagleburger's announcement, while President Milosevic's forces claimed a touchdown. To anyone familiar with the Serbian mentality, call it even stubbornness -- odd as it may sound -- we goofed. Our tactic was wrong and ended by antagonizing the voters rather than attracting them to Mr. Panic.</p>
+        <p>It is unfortunate that we did not use a more knowledgeable, diplomatic approach in this important and delicate matter. MILLORAD DEVIAK Chevy Chase, Md., Dec. 26, 1992</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Andrea St. Martin, Owen Belman</title>
+    <meta content="23STMA$01" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1217057"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="WEDDINGS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">ST. MARTIN, ANDREA MICHELLE (ANDREA MICHELLE BELMAN)</person>
+        <person class="indexing_service">BELMAN, OWEN WOLCOTT</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000723T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C03EEDB173AF930A15754C0A9669C8B63" item-length="337" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Andrea St. Martin, Owen Belman</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Andrea Michelle St. Martin, the daughter of Mr. and Mrs. Robert S. St. Martin of West St. Paul, Minn., was married there yesterday to Owen Wolcott Belman, a son of Mr. and Mrs. Murray J. Belman of Washington. Thomas W. Dzik, a Roman Catholic deacon, performed the ceremony at the Church of St. Luke.</p>
+        <p>Mrs. Belman, 27, worked until February for the consumer paint division of Valspar, an industrial coatings concern in Wheeling, Ill., where she was a logistics and forecasting planner. She graduated magna cum laude from the University of St. Thomas in Minnesota. Her father is a senior materials coordinator in the industrial tapes division of the Minnesota Mining and Manufacturing Company in St. Paul. Her mother, Mary C. Martin, is a legal assistant in the Eagan, Minn., office of the Hartford, the insurance company.</p>
+      </block>
+      <block class="full_text">
+        <p>Andrea Michelle St. Martin, the daughter of Mr. and Mrs. Robert S. St. Martin of West St. Paul, Minn., was married there yesterday to Owen Wolcott Belman, a son of Mr. and Mrs. Murray J. Belman of Washington. Thomas W. Dzik, a Roman Catholic deacon, performed the ceremony at the Church of St. Luke.</p>
+        <p>Mrs. Belman, 27, worked until February for the consumer paint division of Valspar, an industrial coatings concern in Wheeling, Ill., where she was a logistics and forecasting planner. She graduated magna cum laude from the University of St. Thomas in Minnesota. Her father is a senior materials coordinator in the industrial tapes division of the Minnesota Mining and Manufacturing Company in St. Paul. Her mother, Mary C. Martin, is a legal assistant in the Eagan, Minn., office of the Hartford, the insurance company.</p>
+        <p>Mr. Belman, 31, is a consultant and manager in the London office of Marakon Associates, a management consulting firm. He graduated from Haverford College and received both a law degree, cum laude, and a master of management degree from Northwestern University. His mother, Laura H. Belman, is a volunteer researcher at Dumbarton House, a federal period museum in Washington, and is a director of Wyck, a historic house in Philadelphia. His father is a partner in the law firm of Thompson Coburn, working in its Washington office.</p>
+        <p>The bridegroom's maternal grandfather, the late William Wister Haines, was a novelist and the author of the play ''Command Decision.'' The bridegroom is also a descendant of three signers of the Declaration of Independence: Samuel Chase, William Ellery and Oliver Wolcott.</p>
+        <p>WEDDINGS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Recital: Ax and Ma Perform</title>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="1988" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Cultural Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="123296"/>
+      <doc.copyright holder="The New York Times" year="1988"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">MUSIC</classifier>
+        <classifier class="indexing_service" type="descriptor">REVIEWS</classifier>
+        <classifier class="indexing_service" type="descriptor">CONCERTS AND RECITALS</classifier>
+        <person class="indexing_service">KOZINN, ALLAN</person>
+        <person class="indexing_service">MA, YO-YO</person>
+        <person class="indexing_service">AX, EMANUEL</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19880229T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DE7DC1638F93AA15751C0A96E948260" item-length="274" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Recital: Ax and Ma Perform</hl1>
+      </hedline>
+      <byline class="print_byline">By Allan Kozinn</byline>
+      <byline class="normalized_byline">KOZINN, ALLAN</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: A DECADE ago, at the height of the vaunted chamber-music boom, much was made of soloists banding together for recitals. Since then, comparatively few teams of stellar soloists have decided to cultivate chamber playing as an art, and to make it part of their artistic agendas. The cellist Yo-Yo Ma and the pianist Emanuel</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: A DECADE ago, at the height of the vaunted chamber-music boom, much was made of soloists banding together for recitals. Since then, comparatively few teams of stellar soloists have decided to cultivate chamber playing as an art, and to make it part of their artistic agendas. The cellist Yo-Yo Ma and the pianist Emanuel</p>
+        <p>A DECADE ago, at the height of the vaunted chamber-music boom, much was made of soloists banding together for recitals. Since then, comparatively few teams of stellar soloists have decided to cultivate chamber playing as an art, and to make it part of their artistic agendas. The cellist Yo-Yo Ma and the pianist Emanuel Ax are among this minority, and in recent years, their collaboration has yielded several magnificent recordings.</p>
+        <p>The centerpiece of their Avery Fisher Hall recital Sunday afternoon was the Shostakovich Sonata (Op. 40), a work composed in 1934, the same year as the ill-fated opera ''Lady Macbeth of Mtsensk.'' While hardly as politically volatile a work, the sonata is certainly anxious and impassioned, and it balances elements of folksy nationalism with a few nods toward the modern approach to harmony and structure that the Soviet Government ultimately scorned as formalism.</p>
+        <p>For Mr. Ax and Mr. Ma, the stress was on a kind of hushed, introspective lyricism in the first and third movements, tempered with a tempestuousness that burst forth in the second movement and the finale. In the Largo, particularly, they took a perilously slow tempo - one that would have disintegrated in less secure hands, but which sounded all the more plangent here.</p>
+        <p>The Brahms Sonata in F major (Op. 99) was given an equally transcendent reading, richly textured and deeply felt, yet also precise and firmly controlled. In both these works, as well as Stravinsky's somewhat more astringent ''Suite Italienne,'' Mr. Ax and Mr. Ma reaffirmed their reputations as sensitive colorists, secure technicians and thoughtful interpreters.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

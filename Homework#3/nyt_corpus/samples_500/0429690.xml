@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Lloyd W. Dunn, 84, Recording Executive</title>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Obituary" name="dsk"/>
+    <meta content="25" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Obituaries" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="429690"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">DEATHS</classifier>
+        <classifier class="indexing_service" type="descriptor">BIOGRAPHICAL INFORMATION</classifier>
+        <person class="indexing_service">DUNN, LLOYD W</person>
+        <classifier class="online_producer" type="types_of_material">Obituary (Obit)</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Obituaries</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19910313T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CEEDC1439F930A25750C0A967958260" item-length="162" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Lloyd W. Dunn, 84, Recording Executive</hl1>
+      </hedline>
+      <byline class="print_byline">AP</byline>
+      <dateline>LOS ANGELES, March 12</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Lloyd W. Dunn, a co-founder of the Academy of Recording Arts and Sciences, which issues the Grammy Awards, died on Friday at his home in Encino, Calif. He was 84 years old.</p>
+      </block>
+      <block class="full_text">
+        <p>Lloyd W. Dunn, a co-founder of the Academy of Recording Arts and Sciences, which issues the Grammy Awards, died on Friday at his home in Encino, Calif. He was 84 years old.</p>
+        <p>He died of cancer, his brother-in-law, Philip Barry, said.</p>
+        <p>Mr. Dunn was born in Brooklyn, and worked for the McGraw-Hill Publishing Company in Manhattan before going to California in the 1940's to open an advertising agency.</p>
+        <p>He joined Capitol Records as vice president of merchandising and sales in 1950. He later served as vice president of artists and repertory and as the president of the former Capitol Records International Corporation.</p>
+        <p>Mr. Dunn and four other record executives founded the music academy in 1957.</p>
+        <p>His autobiography, "On the Flip Side," was published in 1975.</p>
+        <p>He is survived by his wife, Priscilla; three sons, Jeffrey, of San Francisco; Stephen, of Newport Beach, Calif., and Jonathan, of Los Angeles; a brother, Linwood Dunn of Los Angeles, and a grandson.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

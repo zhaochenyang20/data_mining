@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>It Must Be Picture Day</title>
+    <meta content="13PHOT$06" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Westchester Weekly Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="14WC" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Education; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1431448"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <series series.name="IN BUSINESS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Education and Schools</classifier>
+        <classifier class="indexing_service" type="descriptor">Photography</classifier>
+        <location class="indexing_service">Bedford Hills (NY)</location>
+        <org class="indexing_service">Lifetouch (Co)</org>
+        <person class="indexing_service">Rosenberg, Merri</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Westchester</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Education</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Education</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="general_descriptor">Photography</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20021013T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C00E6D6163AF930A25753C1A9649C8B63" item-length="1095" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>It Must Be Picture Day</hl1>
+      </hedline>
+      <byline class="print_byline">By MERRI ROSENBERG</byline>
+      <byline class="normalized_byline">Rosenberg, Merri</byline>
+      <dateline>BEDFORD HILLS</dateline>
+      <abstract>
+        <p>Article on school picture business, which has become more competitive with national chains vying for market share with local photo, family-owned businesses; scene at elementary school in Bedford Hills, NY, described as photographers from Minneapolis-based Lifetouch snap pictures; photos (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>WENDY CROWELL knelt in front of a small girl with a nimbus of ringlets, gently combed stray tendrils into place, and guided her back into the line of other well-scrubbed, dressed-up children here at the Bedford Hills Elementary School.</p>
+        <p>With the girls attired in dresses or matching skirt and sweater-sets and shiny black patent Mary Jane shoes, and many of the boys wearing unfamiliar jackets and ties, it was clearly Picture Day.</p>
+      </block>
+      <block class="full_text">
+        <p>WENDY CROWELL knelt in front of a small girl with a nimbus of ringlets, gently combed stray tendrils into place, and guided her back into the line of other well-scrubbed, dressed-up children here at the Bedford Hills Elementary School.</p>
+        <p>With the girls attired in dresses or matching skirt and sweater-sets and shiny black patent Mary Jane shoes, and many of the boys wearing unfamiliar jackets and ties, it was clearly Picture Day.</p>
+        <p>The photographers from Lifetouch -- part camp counselor, part psychologist, and part child wrangler in their efforts to cajole a smile from a shy child, or contain an overly exuberant one -- shepherded each child through a sitting for an individual portrait and the group class photo. P.T.A. parents like Mrs. Crowell, chairwoman of the school's picture committee, moved through the lines of waiting children, fixing hair with disposable combs and adjusting clothing.</p>
+        <p>School pictures, which mark a child's time line as much as the pencil marks scratched to mark his or her height on the kitchen wall, are big business. National companies like the Minneapolis-based Lifetouch are seeking market share from local, family-owned companies like Davis Studio in Mamaroneck, Images School Photography in New Rochelle, or Irvin Simon in Elmont, Queens, which, like Davis, also has an extensive regional business. Other national photography companies include Herff Jones Photography Division of Lewiston, Minn., and Inter-State Studio of Sedalia, Mo.</p>
+        <p>Steve Miller, president of Irvin Simon Photographers, a 56-year-old business founded by his grandfather, said, ''We're big enough to be competitive and nimble enough to care.''</p>
+        <p>A smaller business like Images School Photography, however, finds that ''it is hard to compete with the national companies,'' said Joan McGrath, owner of the company, who mostly works with the schools and athletic leagues of New Rochelle.</p>
+        <p>Since pricing isn't the main source of competition, those who select the photo studios cite other reasons for choosing a national company over a local one. ''They're easier to work with,'' Mrs. Crowell said. ''They seem to keep the children under good control.''</p>
+        <p>School pictures embrace the entire spectrum of the school experience, from nursery school to high school proms, along with athletic teams, band programs and dance studio recitals. The photos are offered in more sizes and shapes now, too. In recent years, as more elementary and middle schools have produced school yearbooks, previously the domain of high schools, the school-photo studios have provided images for use in those publications. Many companies also provide CD-Rom's, bar coded photos for school identification cards and other services to the schools. There are items like photo key chains and refrigerator magnet frames, bookmarks and Christmas ornaments, even giant posters of an entire group.</p>
+        <p>The increased use of digital photography permits more personalization and customized service, with companies like Lifetouch able to offer class photos with each child's name printed on them.</p>
+        <p>Although the peak of the school pictures business traditionally takes place between September and December, with the expansion into other kinds of photo opportunities, many photo companies are now busy year round.</p>
+        <p>Given the heightened awareness of any business that comes in contact with children, these companies conduct criminal background checks on their photographers. Lifetouch's photographers, who are full-time employees, not freelancers, undergo training sessions on how photographers should work with the students.</p>
+        <p>The school picture market, for grades kindergarten through 12, is about $1.5 billion a year, according to Tom Crawford, director of corporate communications at the Professional School Photographer's Association, which is part of Photo Marketing Association International, the trade group based in Jackson, Mich. According to a recent survey by the Photo Marketing Association International, the average school picture package purchase last year was $29 (the average for high school senior photos was $256).</p>
+        <p>With school picture packages starting about $20 -- most purchases are $20 to $25 -- and going up to about $60 for the full treatment -- photos enough for two sets of grandparents and the extended family -- the market is lucrative. Even an uncertain economy doesn't appear to have much impact. As Steve Smith, the Newburgh-based Lifetouch representative for Westchester, Rockland, Putnam and Orange Counties who works with 65 schools in Westchester, said, ''Everybody loves their children.''</p>
+        <p>School pictures, which are generally arranged by P.T.A., committees, are also fund-raisers. Depending on the size of the school and the participation rate, school pictures can generate anywhere from $1,000 to close to $10,000 for a school. The price of the picture packages usually reflects the 20 to 25 percent that the photo companies return to the P.T.A.'s as a fund-raiser.</p>
+        <p>While elementary and middle schools usually have a better than 90 percent participation rate by families buying picture packages, not surprisingly, the percentage slacks off by high school to about 50 percent. It picks up again for senior year formal portraits and prom pictures.</p>
+        <p>To help parents whose budgets are already stretched, the Thomas Edison Elementary School in Port Chester recently developed a sibling picture program. If a family's children are all students at the elementary school, parents can opt to have their children photographed together.</p>
+        <p>For the schools, picture day is a worthwhile event, despite the distractions and interruptions. ''I set up a schedule, but parents are in charge,'' said Maureen Zygmont, the principal of the Bedford Hills Elementary School. ''We combine picture day with dress-up day, and the children come out of class for a very short period of time, and go right back to class, so it's not a big deal.''</p>
+        <p>Even among ''too cool for school'' teenagers, the disdain with which many high school students view school pictures may be only a pose.</p>
+        <p>''This shows how many years you've been in the school,'' said Bhumica Patel, a 16-year-old junior at Alexander Hamilton High School in Elmsford. ''It's important. You want to look good, and see how different you turned out from when you started.''</p>
+        <p>IN BUSINESS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

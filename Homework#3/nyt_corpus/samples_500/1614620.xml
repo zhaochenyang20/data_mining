@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Arts Briefing</title>
+    <meta content="27ARTS$01" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Technology; Science; Arts" name="online_sections"/>
+    <meta content="Correction Appended" name="banner"/>
+    <meta content="20041007T000000" name="correction_date"/>
+    <docdata>
+      <doc-id id-string="1614620"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Science and Technology</classifier>
+        <org class="indexing_service">Connecticut Center For Science and Exploration (Hartford)</org>
+        <person class="indexing_service">Pelli, Cesar</person>
+        <person class="indexing_service">Van Gelder, Lawrence</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Science and Technology</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040927T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0DE5D71F39F934A1575AC0A9629C8B63" item-length="519" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Arts Briefing</hl1>
+      </hedline>
+      <byline class="print_byline">By Lawrence Van Gelder</byline>
+      <byline class="normalized_byline">Van Gelder, Lawrence</byline>
+      <abstract>
+        <p>Arts Briefing column; architect Cesar Pelli is chosen to design new $100 million Connecticut Center for Science and Exploration in downtown Hartford (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>HIGHLIGHTS</p>
+        <p>THE ART OF SCIENCE -- The architect Cesar Pelli has been chosen to design the new $100 million Connecticut Center for Science and Exploration, which is to rise on a site overlooking the Connecticut River in downtown Hartford. The announcement ended a competition among finalists that included Moshe Safdie, Zaha Hadid and Stefan Behnisch. The trustees said the building would be designed during the next year. It is expected to be completed in winter 2007. In his proposal for the project, Mr. Pelli said: ''The Connecticut Center for Science and Exploration will be a building that will communicate the excitement of science to the surrounding streets, river and highway. The forms are ambitious and dynamic. They appear to reach out, beyond their physical limits.'' Among major projects by Cesar Pelli &amp; Associates of New Haven is the current expansion of the Museum of Modern Art.</p>
+        <p>NOT FORGOTTEN -- The psychological thriller ''The Forgotten,'' starring Julianne Moore as a grieving mother who fears she is losing her sanity, shot to the top of the North American box office this weekend based on preliminary figures, Agence-France Presse reported. Exhibitor Relations, which tracks the box office, said ''The Forgotten'' dislodged ''Sky Captain and the World of Tomorrow'' from the top spot and was expected to earn $22 million over its debut weekend. ''Sky Captain and the World of Tomorrow,'' the top film last week, dropped to second place, pulling in about $6.7 million. The baseball comedy ''Mr. 3000'' took third place, with receipts of $5 million, followed by ''Resident Evil: Apocalypse'' and the debut of ''First Daughter,'' with both films earning about $4 million apiece for fourth place.</p>
+        <p>FOOTNOTES</p>
+        <p>Aaron Davis Hall will celebrate its 25th anniversary as a performing arts center in Harlem with performances through June 30, 2005, by Miguel Algarin, Eddie Palmieri, Abbey Lincoln and Bill T. Jones, among others. Mr. Algarin's ''Mongo Affair,'' a spoken word and musical event with guests like Amiri Baraka, Ray Barretto, Savion Glover and Hazelle Goodman, will usher in the festivities on Oct. 8. Introducing material for his 2005 HBO special, which will celebrate the 30th anniversary of his first one-man show for the network, the comedian and actor Robert Klein, left, will perform ''A Klein Madness: An Evening With Robert Klein'' tomorrow through Oct. 8 at Feinstein's at the Regency. Free samples of the work of 27 theater companies will be presented in the second annual Prelude to Off-Broadway, Friday through Sunday at the Graduate Center of the City University of New York, 365 Fifth Avenue, at 34th Street. The event also offers panel discussions, beginning at 7 p.m. Thursday with a talk on nonprofit Off-Broadway theater by Ellen Stewart of La Mama. Seating for the prelude is available on a first-come basis; guaranteed tickets are $5 per event. Information: (212) 817-8215.</p>
+      </block>
+      <block class="full_text">
+        <p>HIGHLIGHTS</p>
+        <p>THE ART OF SCIENCE -- The architect Cesar Pelli has been chosen to design the new $100 million Connecticut Center for Science and Exploration, which is to rise on a site overlooking the Connecticut River in downtown Hartford. The announcement ended a competition among finalists that included Moshe Safdie, Zaha Hadid and Stefan Behnisch. The trustees said the building would be designed during the next year. It is expected to be completed in winter 2007. In his proposal for the project, Mr. Pelli said: ''The Connecticut Center for Science and Exploration will be a building that will communicate the excitement of science to the surrounding streets, river and highway. The forms are ambitious and dynamic. They appear to reach out, beyond their physical limits.'' Among major projects by Cesar Pelli &amp; Associates of New Haven is the current expansion of the Museum of Modern Art.</p>
+        <p>NOT FORGOTTEN -- The psychological thriller ''The Forgotten,'' starring Julianne Moore as a grieving mother who fears she is losing her sanity, shot to the top of the North American box office this weekend based on preliminary figures, Agence-France Presse reported. Exhibitor Relations, which tracks the box office, said ''The Forgotten'' dislodged ''Sky Captain and the World of Tomorrow'' from the top spot and was expected to earn $22 million over its debut weekend. ''Sky Captain and the World of Tomorrow,'' the top film last week, dropped to second place, pulling in about $6.7 million. The baseball comedy ''Mr. 3000'' took third place, with receipts of $5 million, followed by ''Resident Evil: Apocalypse'' and the debut of ''First Daughter,'' with both films earning about $4 million apiece for fourth place.</p>
+        <p>FOOTNOTES</p>
+        <p>Aaron Davis Hall will celebrate its 25th anniversary as a performing arts center in Harlem with performances through June 30, 2005, by Miguel Algarin, Eddie Palmieri, Abbey Lincoln and Bill T. Jones, among others. Mr. Algarin's ''Mongo Affair,'' a spoken word and musical event with guests like Amiri Baraka, Ray Barretto, Savion Glover and Hazelle Goodman, will usher in the festivities on Oct. 8. Introducing material for his 2005 HBO special, which will celebrate the 30th anniversary of his first one-man show for the network, the comedian and actor Robert Klein, left, will perform ''A Klein Madness: An Evening With Robert Klein'' tomorrow through Oct. 8 at Feinstein's at the Regency. Free samples of the work of 27 theater companies will be presented in the second annual Prelude to Off-Broadway, Friday through Sunday at the Graduate Center of the City University of New York, 365 Fifth Avenue, at 34th Street. The event also offers panel discussions, beginning at 7 p.m. Thursday with a talk on nonprofit Off-Broadway theater by Ellen Stewart of La Mama. Seating for the prelude is available on a first-come basis; guaranteed tickets are $5 per event. Information: (212) 817-8215.</p>
+        <p>Correction:  October 7, 2004, Thursday  A report in the Arts Briefing column on Sept. 27 about the selection of Cesar Pelli as the architect for the Connecticut Center for Science Exploration in Hartford misidentified a major project designed by his firm, Cesar Pelli &amp; Associates. It was the expansion of the Museum of Modern Art in 1984; Yoshio Taniguchi is the architect for the current expansion.</p>
+      </block>
+      <block class="correction_text">
+        <p>Correction: October 7, 2004, Thursday</p>
+        <p>A report in the Arts Briefing column on Sept. 27 about the selection of Cesar Pelli as the architect for the Connecticut Center for Science Exploration in Hartford misidentified a major project designed by his firm, Cesar Pelli &amp; Associates. It was the expansion of the Museum of Modern Art in 1984; Yoshio Taniguchi is the architect for the current expansion.</p>
+        <p>&lt;br&gt;</p>
+        <p>&lt;br&gt;</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

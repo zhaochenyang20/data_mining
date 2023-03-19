@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Whitewater Counsel Denies Investigation Into Clinton's Life</title>
+    <meta content="26WHIT$04" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="26" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="939641"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Whitewater Case</classifier>
+        <classifier class="indexing_service" type="descriptor">Ethics</classifier>
+        <classifier class="indexing_service" type="descriptor">Biographical Information</classifier>
+        <location class="indexing_service">Arkansas</location>
+        <org class="indexing_service">Whitewater Development Co</org>
+        <org class="indexing_service">Washington Post</org>
+        <org class="indexing_service">Madison Guaranty Savings &amp; Loan Assn</org>
+        <person class="indexing_service">Starr, Kenneth W</person>
+        <person class="indexing_service">Clinton, Bill (Pres)</person>
+        <person class="indexing_service">Clinton, Hillary Rodham</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Arkansas</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./South</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2008</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2008/Candidates</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Arkansas</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ethics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Whitewater Case</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19970626T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9402EEDA1531F935A15755C0A961958260" item-length="242" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Whitewater Counsel Denies Investigation Into Clinton's Life</hl1>
+      </hedline>
+      <byline class="print_byline">By STEPHEN LABATON</byline>
+      <dateline>WASHINGTON, June 25</dateline>
+      <abstract>
+        <p>Whitewater independent counsel Kenneth W Starr denies report in Washington Post that his office is investigating private life of President Clinton while he was Governor of Arkansas (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Kenneth W. Starr, the Whitewater independent counsel, today denied a published report that his office was investigating the personal life of President Clinton while he was Governor of Arkansas.</p>
+        <p>In a statement issued this afternoon, Mr. Starr called ''incorrect'' an article in The Washington Post that said he was investigating Mr. Clinton's personal life by interviewing former and current state troopers in Arkansas about their knowledge of any extramarital relationships Mr. Clinton may have had.</p>
+      </block>
+      <block class="full_text">
+        <p>Kenneth W. Starr, the Whitewater independent counsel, today denied a published report that his office was investigating the personal life of President Clinton while he was Governor of Arkansas.</p>
+        <p>In a statement issued this afternoon, Mr. Starr called ''incorrect'' an article in The Washington Post that said he was investigating Mr. Clinton's personal life by interviewing former and current state troopers in Arkansas about their knowledge of any extramarital relationships Mr. Clinton may have had.</p>
+        <p>Previously published accounts have said the troopers alleged that Mr. Clinton had such affairs. The Post article said that the questioning ''marks a sharp departure from previous avenues of inquiry in the three-year-old investigation'' of the Whitewater matter.</p>
+        <p>Federal agents from the Whitewater independent counsel's office have been talking to state troopers in Arkansas about Mr. Clinton's relationships with women since 1994, when the independent counsel was Robert B. Fiske Jr., people involved in the investigation said. They said the investigators conducted the interviews as part of an effort to corroborate other information that they had about Mr. Clinton's financial dealings with his former Whitewater partner, James B. McDougal.</p>
+        <p>Mr. Starr would not say who has been interviewed by his staff, but he said in his statement that there was nothing improper about seeking information from all possible sources that might bear on his examination of Mr. Clinton's financial dealings.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

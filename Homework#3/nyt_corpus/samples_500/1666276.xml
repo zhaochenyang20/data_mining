@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>To Make Money From a Bank, Buy the Bank's Buildings</title>
+    <meta content="20PROP$01" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2005/04/20/business/20prop.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1666276"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <series series.name="COMMERCIAL REAL ESTATE"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Banks and Banking</classifier>
+        <classifier class="indexing_service" type="descriptor">Company and Organization Profiles</classifier>
+        <classifier class="indexing_service" type="descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <org class="indexing_service">American Financial Realty Trust</org>
+        <person class="indexing_service">Pristin, Terry</person>
+        <person class="indexing_service">Schrosch, Nicholas S</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Real Estate</classifier>
+        <classifier class="online_producer" type="descriptor">Office Buildings and Commercial Properties</classifier>
+        <classifier class="online_producer" type="descriptor">Real Estate</classifier>
+        <classifier class="online_producer" type="descriptor">Renting and Leasing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Company and Organization Profiles</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Real Estate</classifier>
+        <classifier class="online_producer" type="general_descriptor">Banks and Banking</classifier>
+        <classifier class="online_producer" type="general_descriptor">Renting and Leasing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Office Buildings and Commercial Properties</classifier>
+        <classifier class="online_producer" type="general_descriptor">Corporations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <org class="online_producer">American Financial Realty Trust</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20050420T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9804E2DD1631F933A15757C0A9639C8B63" item-length="1535" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>To Make Money From a Bank, Buy the Bank's Buildings</hl1>
+        <hl2 class="online_headline">To Make Money From a Bank, Buy the Bank's Buildings</hl2>
+      </hedline>
+      <byline class="print_byline">By TERRY PRISTIN</byline>
+      <byline class="normalized_byline">Pristin, Terry</byline>
+      <dateline>JENKINTOWN, Pa.</dateline>
+      <abstract>
+        <p>Article on American Financial Realty Trust, which specializes in buying excess bank branches from bank companies that merge, then leases them, often back to banks; company's chief executive Nicholas S Schorsch comments; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>In 1998, Nicholas S. Schorsch was operating a cemetery and several other enterprises when the bank he did business with, the CoreStates Financial Corporation, was bought by the First Union Corporation for $19.7 billion. Because of the merger, 105 branch banks were set to close, and Mr. Schorsch sensed an opportunity.</p>
+        <p>To CoreStates' astonishment, Mr. Schorsch offered to buy the buildings -- en masse. ''They thought I was a crazy man,'' he recalled recently in an interview at his company's headquarters in this Philadelphia suburb. ''Nobody buys 100 bank branches in one day.''</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A growing list of real estate investment trusts are signing long-term leases with tenants who occupy the entire building and are responsible for its maintenance.</p>
+      </block>
+      <block class="full_text">
+        <p>In 1998, Nicholas S. Schorsch was operating a cemetery and several other enterprises when the bank he did business with, the CoreStates Financial Corporation, was bought by the First Union Corporation for $19.7 billion. Because of the merger, 105 branch banks were set to close, and Mr. Schorsch sensed an opportunity.</p>
+        <p>To CoreStates' astonishment, Mr. Schorsch offered to buy the buildings -- en masse. ''They thought I was a crazy man,'' he recalled recently in an interview at his company's headquarters in this Philadelphia suburb. ''Nobody buys 100 bank branches in one day.''</p>
+        <p>The $22.3 million deal was completed in about a month, Mr. Schorsch said, and within a year, all but a handful of the vacant buildings had been leased or sold. ''Our seemingly erratic bet turned out to be a wonderful business,'' he said.</p>
+        <p>But it might have remained a relatively small business if Mr. Schorsch had not been introduced to Lewis S. Ranieri, the former Salomon Brothers trader who has been called the father of the securitized mortgage industry. It happened that Mr. Ranieri had been talking to an investment banking company, Friedman Billings Ramsey, about creating a publicly traded company that would acquire property only from financial institutions.</p>
+        <p>Mr. Schorsch and Mr. Ranieri teamed up, raising $378.9 million from private investors in 2002 and going public the next year. Today, the company, American Financial Realty Trust, is among the most prominent players on a growing list of real estate investment trusts that specialize in niches of the market. Typically, these companies acquire property within their niches and sign long-term leases with tenants -- often the previous owners -- who occupy the entire building and are responsible for its maintenance.</p>
+        <p>The only REIT specializing in financial institutions, American Financial has announced $250 million worth of transactions just this quarter and is now a $4.4 billion business. The company owns 959 properties with 32.7 million square feet of space in 33 states and the District of Columbia. Bank of America is the company's biggest tenant by far, accounting for 46.8 percent of the rentable square feet as of Dec. 31. But though it has yet to win the confidence of Wall Street, American Financial is catching on with a growing number of financial institutions.</p>
+        <p>What makes American Financial unusual is its willingness to buy not just bank branches but an entire portfolio, including office buildings and data and call centers, real estate specialists say. The company buys in bulk at prices that are based on each building's appraised value minus a discount, which ranges from 4.5 percent to 10 percent, said Mr. Schorsch, the chief executive.</p>
+        <p>So, for example, American Financial will buy nearly all of the 174 bank branches -- minus only those found to have environmental or structural problems -- that the Wachovia Corporation plans to close in the Southeast as part of its merger with the SouthTrust Corporation.</p>
+        <p>This type of one-stop shopping is very appealing to financial institutions, real estate specialists say. ''Real estate is just incidental to their business,'' said James S. Corl, the chief investment officer for real estate at Cohen &amp; Steers, a company that invests in American Financial. ''Disposing of the excess in one fell swoop is very helpful to them.''</p>
+        <p>Sometimes, the banks will sell office buildings that they partially occupy to American Financial and rent just the space they need. ''The main benefit to us is it transfers the risk of leasing that vacant space from us to A.F.R.T.,'' said Robert F. Bertges, director of corporate real estate for the Wachovia Corporation, American Financial's third-largest bank tenant.</p>
+        <p>Being able to delete vacant or underperforming property from a balance sheet is especially desirable in the wake of new accounting rules that require companies to carry their properties at market value rather than depreciated value, said Srikanth Nagarajan, an analyst at UBS.</p>
+        <p>An energetic man who is quick to jump up from his seat to illustrate a point by drawing a diagram on a board, Mr. Schorsch, 44, said that when he first began buying empty bank branches, he expected to re-lease them to drugstores and fast-food restaurants rather than other banks. He had assumed that as the banking industry consolidated further and online banking became more widely accepted, the number of bank branches would diminish.</p>
+        <p>But it turned out that bank branches were actually proliferating. From 1994 through 2003, the number of commercial banks and savings institutions declined by 29 percent, but the number of bank branches increased by 15 percent, according to the Federal Deposit Insurance Corporation. And the trend is continuing. From June 2003 to June 2004, the number of F.D.I.C.-insured institutions declined by 194, to 9,066, while the number of branches rose by 1,594, to 89,814. ''The single most important factor influencing a customer's choice of banks is the location of the institution's branches,'' the F.D.I.C. said in a report issued last year.</p>
+        <p>Customers need personal contact because banks provide so many services other than check cashing, Mr. Bertges said.</p>
+        <p>Mr. Schorsch said that regional banks, in particular, were often eager to lease space that previously belonged to another bank and avoid the expense of installing vaults and the pneumatic equipment used in drive-through branches for transferring money. In cases where the seller does not want to see a competitor move into a shuttered branch building, American Financial either sells the building or leases it to a retailer like Krispy Kreme or Starbucks, he said.</p>
+        <p>Skepticism about whether empty bank buildings will always attract new tenants is one reason Wall Street has been slow to embrace American Financial, analysts say. From the outset, when the company's principal tenant, Bank of America, helped to underwrite its public offering, the company has drawn criticism.</p>
+        <p>Mr. Schorsch's rich compensation ($3.2 million in salary, bonuses and stock in 2003, according to a document filed with the Securities and Exchange Commission) has been questioned, although some people say it is not out of line. ''He definitely has a higher-than-average compensation package,'' said Damon J. Andres, a senior portfolio manager for Delaware Investments, an investment management firm in Philadelphia, which is among American Financial's top 20 shareholders. ''But it's on the high end of reasonable.''</p>
+        <p>Some analysts are uneasy about the company because its business, while geographically diverse, depends on just a few banks, with its top 10 tenants accounting for 86.1 percent of its rent rolls. Critics wonder whether American Financial can add value to the buildings that it acquires because its leases are long term (the average is 14.7 years), with only small increases along the way.</p>
+        <p>Mr. Schorsch said, however, that while many investors are buying much riskier buildings today with an initial rate of return of only 5 percent or 6 percent, his decidedly less glamorous acquisitions produce higher returns from the outset and offer greater stability. ''We do boring well,'' he said.</p>
+        <p>Eyebrows were raised last year, however, when American Financial bought the State Street Financial Center in downtown Boston for $706.9 million, twice what it had cost to build the 36-story tower, which was completed in 2003. Many real estate specialists wondered if the company had changed its business plan and was becoming an office REIT. But the building was fully occupied by the State Street Corporation, which had a 20-year lease with annual increases. ''So while the buildings seemed expensive,'' said David Fick, a managing director at Legg Mason Wood Walker, ''when you consider the cash-flow stream, it actually financially made sense.''</p>
+        <p>But Mr. Fick said that office buildings represented a disproportionate portion of American Financial's square footage. ''Going forward, we expect to see more bank branches and less office,'' he said. And indeed, branches represented 13 percent of its rentable space by end of last year, up from 10 percent the year before -- a trend that Mr. Ranieri said was likely to continue.</p>
+        <p>''Now we're buying mostly branches,'' he said. ''We will eventually wind up where we said we would be, in terms of the balance of the portfolio.''</p>
+        <p>Citing a favorite adage, Mr. Ranieri said he was not surprised that American Financial often found itself under attack. ''You can always tell the pioneers, because they are the ones with the arrows in their back,'' he said. ''When you describe the venture, it takes a while for people to understand it. It's not unusual when you create new things.''</p>
+        <p>COMMERCIAL REAL ESTATE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

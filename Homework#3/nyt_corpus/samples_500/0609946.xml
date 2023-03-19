@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Hotel Profits for 1992 Show A Slow but Steady Recovery</title>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1993" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="609946"/>
+      <doc.copyright holder="The New York Times" year="1993"/>
+      <series series.name="COMPANY NEWS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">HOTELS AND MOTELS</classifier>
+        <classifier class="indexing_service" type="descriptor">PROFITS (INDUSTRY-WIDE)</classifier>
+        <classifier class="indexing_service" type="descriptor">INDUSTRY PROFILES</classifier>
+        <location class="indexing_service">UNITED STATES</location>
+        <org class="indexing_service">COOPERS &amp; LYBRAND</org>
+        <person class="indexing_service">MCDOWELL, EDWIN</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Hospitality, Restaurant and Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hotels and Motels</classifier>
+        <classifier class="online_producer" type="general_descriptor">Industry Profiles</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19930519T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE1D6153AF93AA25756C0A965958260" item-length="596" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Hotel Profits for 1992 Show A Slow but Steady Recovery</hl1>
+      </hedline>
+      <byline class="print_byline">By EDWIN McDOWELL</byline>
+      <byline class="normalized_byline">MCDOWELL, EDWIN</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>In a sharp, unexpected turnabout, more than half the nation's hotels turned a profit last year -- the first time since 1989 that more than 50 percent were profitable.</p>
+        <p>A study released yesterday by the accounting firm Coopers &amp; Lybrand, a leading consultant to the United States hospitality industry, showed that 51.5 percent of hotels were profitable last year, up from 39.9 percent in 1991.</p>
+      </block>
+      <block class="full_text">
+        <p>In a sharp, unexpected turnabout, more than half the nation's hotels turned a profit last year -- the first time since 1989 that more than 50 percent were profitable.</p>
+        <p>A study released yesterday by the accounting firm Coopers &amp; Lybrand, a leading consultant to the United States hospitality industry, showed that 51.5 percent of hotels were profitable last year, up from 39.9 percent in 1991.</p>
+        <p>In another indication that a slow, steady recovery is under way in the industry, room occupancy in the first quarter rose to 58.5 percent -- the highest rate of any first quarter since 1990. The two percentage point increase in occupancy over the 1992's first quarter was the biggest of any comparable period since 1989. The occupancy statistics were compiled by Smith Travel Research of Gallatin, Tenn., for the American Hotel and Motel Association. Rate Increases Expected</p>
+        <p>"What this means," said Bjorn Hanson, chairman of hospitality industry consulting at Coopers &amp; Lybrand, "is that the hotel recovery is under way and there's a good chance that in 1995 room rates will increase greater than the rate of inflation."</p>
+        <p>Hotel rate increases have trailed the rate of inflation since 1987, Mr. Hanson said, and next year, they are likely to lag behind slightly. "But rates should be slightly higher than inflation in 1995," he added, "and occupancy should be close to 68 percent, compared with 62.2 percent last year."</p>
+        <p>The Smith Travel Research data show that room rates in the first quarter, historically the slowest in the lodging industry, averaged $61.35, or 2 percent more than the $60.07 average for the similar 1991 quarter. Smith also noted that while the Consumer Price Index rose more than 13 percent from the first quarter of 1989 through the first quarter of 1993, room rates increased only 5.5 percent.</p>
+        <p>Recovery appears to have been in the wings for at least several months. December's 48.1 percent occupancy rate was the highest for that month -- the industry's slowest -- since Smith Travel began compiling such figures in 1986. And in February, a report by the real estate services group of the accounting firm Arthur Andersen &amp; Company said the industry might be heading for recovery.</p>
+        <p>Still, Mr. Hanson said, "I think the industry didn't expect there would be such an improvement in one year."</p>
+        <p>He attributed the increase in hotel profitability to the higher occupancy rates, the decline in interest rate burdens, because many hotels had restructured delinquent loans, and cost-containment measures, including lower taxes resulting from property tax appeals.</p>
+        <p>The Coopers &amp; Lybrand report noted that the American Council of Life Insurance had said that the percentage of delinquent principal on hotel loans fell to 14.29 percent at the end of 1992 from a peak of 15.89 percent in the second quarter of 1992.</p>
+        <p>Limited-service hotels continue to do better than full-service hotels, the report said. Last year, 28.5 percent of limited-service hotels lost money, an improvement from 40.3 percent the year before. In 1992, 57.1 percent of full-service hotels recorded losses, an improvement from 68.4 percent in 1991.</p>
+        <p>Lenders will still be wary about investing in hotels until at least 1997, Mr. Hanson said, and not all hotels will benefit equally from the recovery. "There are still many hotels that are the wrong product and built on the wrong site," he said, "and they may never be successful."</p>
+        <p>Many such hotels were built primarily as tax write-offs, but the Tax Reform Act of 1986 eliminated most real estate tax shelters of that type.  COMPANY NEWS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

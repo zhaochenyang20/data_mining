@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>U.N. Deputy Urges Pakistan To Curb Taliban</title>
+    <meta content="09afghan" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/09/world/asia/09afghan.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1817618"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="THE REACH OF WAR"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Terrorism</classifier>
+        <location class="indexing_service">Afghanistan</location>
+        <location class="indexing_service">Pakistan</location>
+        <org class="indexing_service">United Nations</org>
+        <org class="indexing_service">Taliban (Afghan Group)</org>
+        <person class="indexing_service">Alexander, Chris</person>
+        <person class="indexing_service">Wafa, Abdul Waheed</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Afghanistan</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Pakistan</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Asia Pacific</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/Pakistan</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/Afghanistan</classifier>
+        <classifier class="online_producer" type="descriptor">Terrorism</classifier>
+        <classifier class="online_producer" type="general_descriptor">Terrorism</classifier>
+        <location class="online_producer">Pakistan</location>
+        <location class="online_producer">Afghanistan</location>
+        <org class="online_producer">Taliban</org>
+        <org class="online_producer">United Nations</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070109T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE0D71530F93AA35752C0A9619C8B63" item-length="504" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>U.N. Deputy Urges Pakistan To Curb Taliban</hl1>
+        <hl2 class="online_headline">U.N. Deputy Urges Pakistan to Curb Taliban</hl2>
+      </hedline>
+      <byline class="print_byline">By ABDUL WAHEED WAFA</byline>
+      <byline class="normalized_byline">Wafa, Abdul Waheed</byline>
+      <dateline>KABUL, Afghanistan, Jan. 8</dateline>
+      <abstract>
+        <p>Chris Alexander, deputy director of United Nations Assistance Mission in Afghanistan, says Pakistan should do more to restrict activities of Taliban leaders in and around border area with Afghanistan; says doing so is in keeping with UN resolution that considers Taliban leaders terrorists; also says Afghanistan and Pakistan must stop arguing and start cooperating to tackle terrorist problem together; calls on new Afghan government to show better leadership (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Pakistan should do more to restrict the activities of Taliban leaders in and around the border area with Afghanistan in keeping with a United Nations resolution that considers its leaders to be terrorists, the deputy chief of the United Nations mission in Afghanistan said here on Monday.</p>
+        <p>The resolution, passed in 1999, listed 142 Taliban leaders as terrorists, but only a handful have been captured or their whereabouts established in the last six years, Chris Alexander, the former Canadian ambassador to Afghanistan and now the deputy director of the United Nations Assistance Mission in Afghanistan, said at a news conference.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Pakistan should do more to restrict the activities of Taliban leaders in and around the border area with Afghanistan, the deputy said.</p>
+      </block>
+      <block class="full_text">
+        <p>Pakistan should do more to restrict the activities of Taliban leaders in and around the border area with Afghanistan in keeping with a United Nations resolution that considers its leaders to be terrorists, the deputy chief of the United Nations mission in Afghanistan said here on Monday.</p>
+        <p>The resolution, passed in 1999, listed 142 Taliban leaders as terrorists, but only a handful have been captured or their whereabouts established in the last six years, Chris Alexander, the former Canadian ambassador to Afghanistan and now the deputy director of the United Nations Assistance Mission in Afghanistan, said at a news conference.</p>
+        <p>The resolution, which has been renewed every year, calls for governments to prevent entry or transit of the individuals listed and for their assets to be frozen, and requires all states to prevent the direct or indirect supply, sale or transfer of weapons or military equipment to those individuals, he noted.</p>
+        <p>''That Resolution 1267, as it relates to the Taliban leadership, is not so far being implemented,'' Mr. Alexander said. ''Pakistan has taken steps against some of the people on the list, and even arrested some of the people on the list, and most experts agree that others on the list are in Pakistan or at least were in Pakistan for at least part of 2006.</p>
+        <p>''The truth is these networks are operating in both Afghanistan and Pakistan, that the leaders spend time in both countries, and that law enforcement and even military action is required wherever they are located.''</p>
+        <p>At the same time, he said, Afghanistan and Pakistan must stop arguing and start cooperating to tackle the problem of terrorism together. Pakistan has cooperated on road building and health care in 2006, he said.</p>
+        <p>''This war of words, this rhetorical contest between two governments, two partners, must end,'' Mr. Alexander said. ''Pointing fingers leads nowhere. What we really need, and what Afghans most need, is a constructive engagement and joint action to tackle a very serious security challenge.''</p>
+        <p>Afghanistan has accused Pakistan of sheltering Taliban leaders and fighters who cross the border to attack in Afghanistan. Pakistan has responded by saying it would fence and mine the border.</p>
+        <p>Mr. Alexander said the United Nations was not pleased with that plan. ''This will not contribute to better security in either country in our view,'' he said. The United Nations and most countries in the world oppose the use of mines because of the danger they pose to the people who live in the mined areas, he added.</p>
+        <p>He said the Taliban insurgency in Afghanistan had exacted its heaviest toll on Afghan civilians. There were 124 suicide bombings in Afghanistan in 2006, which killed or wounded ''hundreds of Afghans.'' Civilians also died in military operations by American and NATO forces.</p>
+        <p>He called for the Afghan government to show better leadership and said the Afghan people had made great achievements in 2006, including an economic growth rate of over 8 percent. ''Afghanistan cannot only weather the storm, Afghanistan can succeed,'' he said.</p>
+        <p>THE REACH OF WAR</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

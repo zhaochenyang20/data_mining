@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Regulator Wary on Plans for A-Plant</title>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="459172"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">ATOMIC ENERGY</classifier>
+        <classifier class="indexing_service" type="descriptor">ACCIDENTS AND SAFETY</classifier>
+        <classifier class="indexing_service" type="descriptor">REGULATION AND DEREGULATION OF INDUSTRY</classifier>
+        <classifier class="indexing_service" type="descriptor">SHUTDOWNS (INSTITUTIONAL)</classifier>
+        <classifier class="indexing_service" type="descriptor">YANKEE ROWE NUCLEAR POWER PLANT</classifier>
+        <classifier class="indexing_service" type="descriptor">ELECTRIC LIGHT AND POWER</classifier>
+        <location class="indexing_service">MASSACHUSETTS</location>
+        <location class="indexing_service">ROWE (MASS)</location>
+        <org class="indexing_service">NUCLEAR REGULATORY COMMISSION</org>
+        <org class="indexing_service">YANKEE ATOMIC ELECTRIC CO</org>
+        <person class="indexing_service">SELIN, IVAN</person>
+        <person class="indexing_service">WALD, MATTHEW L</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Massachusetts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./New England</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Massachusetts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Regulation and Deregulation of Industry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Shutdowns (Institutional)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Light</classifier>
+        <classifier class="online_producer" type="general_descriptor">Atomic Energy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Accidents and Safety</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electric Light and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19910712T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CEFD61538F931A25754C0A967958260" item-length="707" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Regulator Wary on Plans for A-Plant</hl1>
+      </hedline>
+      <byline class="print_byline">By MATTHEW L. WALD,</byline>
+      <byline class="normalized_byline">WALD, MATTHEW L</byline>
+      <dateline>WASHINGTON, July 11</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Pledging openness and regard for public feeling, the new chairman of the Nuclear Regulatory Commission held his first official briefing today, in which he questioned his staff's handling of safety concerns at the nation's oldest nuclear reactor.</p>
+        <p>The chairman, Ivan Selin, who took office July 1, said he was not convinced that his agency was acting properly on the safety of Yankee Rowe, a 30-year-old nuclear power plant in the Berkshire Hills in northwest Massachusetts.</p>
+      </block>
+      <block class="full_text">
+        <p>Pledging openness and regard for public feeling, the new chairman of the Nuclear Regulatory Commission held his first official briefing today, in which he questioned his staff's handling of safety concerns at the nation's oldest nuclear reactor.</p>
+        <p>The chairman, Ivan Selin, who took office July 1, said he was not convinced that his agency was acting properly on the safety of Yankee Rowe, a 30-year-old nuclear power plant in the Berkshire Hills in northwest Massachusetts.</p>
+        <p>The plant has suffered embrittlement of crucial metal parts, but the severity of the problem is unknown. Its owners, a group of New England utilities, plan to conduct inspections and tests in April 1992, when the plant is to be closed for refueling. But a nuclear watchdog group, the Union of Concerned Scientists, has petitioned the commission to close the plant immediately, contending that regulations require that the reactor's safety be demonstrated or that it be shut.</p>
+        <p>In a three-hour session today, Mr. Selin asked the commission staff and the company that operates Yankee Rowe, the Yankee Atomic Electric Company, "If it's not prudent to go beyond April, why is it prudent to go until April?"</p>
+        <p>Mr. Selin also questioned the justification offered by his staff for letting the uncertainty continue: that the chance of an accident in the next nine months that would put the brittle parts under stress was small. In remarks to reporters, he likened this rationale to being in a hurry to get home and speeding because the chance of being caught by a police officer was low.</p>
+        <p>"If you do that every time you go home, sooner or later, you're going to get caught," he said. He added that if he thought the plant was unsafe, he would move to close it immediately.</p>
+        <p>But he said he was questioning the commission staff about its handling of the plant "to make sure we have a process which really does look after the interests of all the American people; the taxpayers, the ratepayers, people who live in the neighborhood or anyplace else. I'm not convinced we have that process on Rowe."  Tests Are Voluntary</p>
+        <p>Officials of Yankee Atomic Electric are adamant that safety margins at the plant are ample. They say they were performing the tests in April on a voluntary basis.</p>
+        <p>At issue is whether the reactor's protective concrete and metal dome, or vessel, which is about 10 feet wide, 33 feet high and 8 inches thick, could crack during the stresses caused in an accident in which the emergency cooling system is employed.</p>
+        <p>Andrew Kadak, president of Yankee Atomic Electric, said that several special design features and proceedures at the plant helped protect the vessel against damage from the emergency cooling system.</p>
+        <p>He added that cracking would not occur without a pre-existing flaw in the vessel, and that although the vessel had endured three decades of neutron bombardment, "irradiation by itself does not produce flaws."  Unkown Factors</p>
+        <p>But the staff of the Nuclear Regulatory Commission disagreed with the utility over how far the embrittlement has progressed. Staff officials said that the amount of deterioration depends on factors that are not precisely known.</p>
+        <p>Test pieces of metal that were placed around the core of the Yankee Rowe reactor to determine the rate of embrittlement from neutron bombardment have either been used or lost.</p>
+        <p>The commission staff reached the conclusion that operating the plant until April should be permitted because its calculation of the reactor's state of embrittlement includes many worst-case assumptions and because the chance of an accident that would test the vessel is about 1 in 1,000.</p>
+        <p>But the Union of Concerned Scientists argued that in previous cases, the commission had found that that level of risk was sufficient to require new safety measures. Robert Pollard, a safety expert with the union and a former member of the commission staff, also cited regulations that call for testing or closing a reactor that had deteriorated to the level of Yankee Rowe. The staff insisted, however, that the scientists union was citing a regulation that did not apply.</p>
+        <p>After the briefing, Mr. Selin said the commission would vote on whether to close the plant after public hearings.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

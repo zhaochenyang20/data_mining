@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>California Governor Cuts Off Aid for Illegal Immigrants</title>
+    <meta content="28IMMI$03" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="1996" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Front Page; U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="873967"/>
+      <doc.copyright holder="The New York Times" year="1996"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Immigration and Refugees</classifier>
+        <classifier class="indexing_service" type="descriptor">Welfare (US)</classifier>
+        <classifier class="indexing_service" type="descriptor">Illegal Aliens</classifier>
+        <classifier class="indexing_service" type="descriptor">Law and Legislation</classifier>
+        <classifier class="indexing_service" type="descriptor">Suits and Claims Against Government</classifier>
+        <location class="indexing_service">California</location>
+        <location class="indexing_service">United States</location>
+        <person class="indexing_service">Wilson, Pete (Gov)</person>
+        <person class="indexing_service">Golden, Tim</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/California</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./West</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Legal</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/California</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+        <classifier class="online_producer" type="general_descriptor">Illegal Aliens</classifier>
+        <classifier class="online_producer" type="general_descriptor">Immigration and Refugees</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suits and Litigation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Welfare (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19960828T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E01E0DF1139F93BA1575BC0A960958260" item-length="1171" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>California Governor Cuts Off Aid for Illegal Immigrants</hl1>
+      </hedline>
+      <byline class="print_byline">By TIM GOLDEN</byline>
+      <byline class="normalized_byline">Golden, Tim</byline>
+      <dateline>SAN FRANCISCO, Aug. 27</dateline>
+      <abstract>
+        <p>Gov Pete Wilson of California signs executive order ending illegal immigrants' access to state benefits ranging from public housing to prenatal care and child abuse prevention program; says order and new Federal welfare-reform law he is acting under answer California's demand that Federal Govt end magnetic lure of public services and benefits that have spawned national crisis of illegal immigration; civil rights advocates threaten court action if order is implemented (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Moving aggressively under the new Federal welfare law to cut off state services to illegal immigrants, Gov. Pete Wilson today signed an executive order ending those immigrants' access to benefits ranging from public housing to prenatal care and child abuse prevention programs.</p>
+        <p>State officials said the Federal legislation, which President Clinton signed into law last Thursday, had won them a partial but important triumph in their struggle to enforce the provisions of Proposition 187. That ballot initiative, denying state services to people who enter the United States illegally, was approved  overwhelmingly by California voters in 1994 but has been enjoined by court order since then.</p>
+      </block>
+      <block class="full_text">
+        <p>Moving aggressively under the new Federal welfare law to cut off state services to illegal immigrants, Gov. Pete Wilson today signed an executive order ending those immigrants' access to benefits ranging from public housing to prenatal care and child abuse prevention programs.</p>
+        <p>State officials said the Federal legislation, which President Clinton signed into law last Thursday, had won them a partial but important triumph in their struggle to enforce the provisions of Proposition 187. That ballot initiative, denying state services to people who enter the United States illegally, was approved  overwhelmingly by California voters in 1994 but has been enjoined by court order since then.</p>
+        <p>Neither the new Federal welfare act nor the Governor's order, the first of its kind in the nation to result from the law, bars illegal immigrants from public primary or secondary schools, as the ballot initiative was supposed to. Nor does it keep them from emergency health care.</p>
+        <p>But officials said the new restrictions would cover hundreds of other state services and programs, including many, like the issuance of licenses, that were not contemplated under the initiative.</p>
+        <p>''Today's executive order, I think, is a vindication, as is the act itself,'' Mr. Wilson said in a signing ceremony at the State Capitol in Sacramento. Both steps, he said, answer Californians' demand ''that the Federal Government end the magnetic lure of public services and benefits that have substantially spawned our national crisis of illegal immigration.''</p>
+        <p>But like Proposition 187, the Governor's order was immediately met by the threat of challenges in the courts.</p>
+        <p>Civil rights advocates argued that the state government had jumped the gun by failing to wait for regulations that, under the new Federal statute, the Justice Department must issue within the next 18 months on how the immigration status of people applying for services should be verified. Mr. Wilson, these opponents said, has in effect usurped Federal jurisdiction over the country's immigration laws by authorizing almost any state employee to begin asking the people they serve whether they entered the United States legally.</p>
+        <p>''If they try to implement any part of this tomorrow, we will be in court at 12:01,'' said Mark Rosenbaum, the legal director of the American Civil Liberties Union of Southern California, one of the lawyers who won a Federal injunction against Proposition 187 last November.</p>
+        <p>Opponents of the Governor's order maintained that it would promote discrimination against anyone who might appear to be an immigrant to  inquiring state employees. And, they said by restricting access to primary health care it would send illegal immigrants flooding into hospital emergency rooms, thus raising taxpayers' health costs rather than reducing them, and might ultimately pose a public health emergency.</p>
+        <p>Mr. Wilson, an ardent supporter of Proposition 187, has led a small but influential group of governors in demanding both Federal compensation for the cost incurred by states in helping illegal immigrants and the right to cut off services to them.</p>
+        <p>In issuing his order today, he acted under a provision of the new Federal law that makes illegal immigrants ineligible for all state and Federal benefits except a few specific services like emergency medical care, immunization programs and emergency disaster relief. The Federal law allows the states to extend assistance to illegal immigrants only by enacting a new state law ''which affirmatively provides for such eligibility.''</p>
+        <p>The Governor's order does not affect legal immigrants, Most of them are to lose their eligibility for food stamps, disability assistance and other benefits under the new law. In addition, the law gives states the option to cut off Medicaid to most legal immigrants, and Mr. Wilson said before its passage that he supported that provision.</p>
+        <p>As for illegal immigrants, they are already barred from access to most benefit programs, including cash assistance, food stamps and nonemergency Medicaid care.</p>
+        <p>Mr. Wilson's order goes much further. Although state officials said today that they did not yet have a full listing of the programs affected or how much money the new restrictions might save, the Governor's chief spokesman, Sean T. Walsh, said the order would bar illegal immigrants from long-term health care and all professional and commercial licenses. In addition, it would bar them from admission to state colleges and universities unless they  paid the full cost of their education.</p>
+        <p>One other set of state programs covered is prenatal care, run by the state's Health and Welfare Agency. A spokeswoman there, Lisa Kalustian, said the prenatal care programs alone served more than 70,000 illegal immigrants a year, at a cost of $69.3 million.</p>
+        <p>Mr. Walsh said that under the Governor's order, some of the assistance now available to illegal immigrants ''could be cut off tomorrow, or within a week.'' He said it was more realistic, however, to expect any cutoff to become effective within 30 to 60 days.</p>
+        <p>Some immigrants-rights advocates said they agreed that most of the restrictions expected to result from Mr. Wilson's order would eventually be allowed under the Federal legislation in any case.</p>
+        <p>''The welfare bill does explicitly give the states the right to do almost anything they want on this, and Wilson is doing it in a very political way,'' said Cecilia Munoz, an official of the National Council of La Raza, an umbrella organization of Hispanic  groups. But she cautioned that the move would carry high costs, in more than one way.</p>
+        <p>''These kinds of things cost much more to implement than they save,'' Ms. Munoz said. ''And anybody with the wrong last name is immediately suspect. If somebody like me applies for a cosmetology license, I could be denied access to things I have a right to, because of my ethnicity. And I am a U.S. citizen.''</p>
+        <p>Lawyers involved in the battle to keep Proposition 187 from taking effect said they believed that the injunction against it, issued last year by a Federal district judge, Mariana R. Pfaelzer, would at least hinder implementation of those parts of the new welfare law dealing with illegal immigrants. The lawyers noted that  the injunction specifically barred state employees from asking the immigration status of people they suspect of having entered the country illegally.</p>
+        <p>The welfare law stipulates that the Attorney General will issue regulations within 18 months about how Government agencies may screen applicants for Federal benefits, and that states should issue their own, complementary rules within 24 months after that.</p>
+        <p>''In order to deny anybody anything, you have to make a determination about someone's legal status, and under the welfare bill there is an elaborate process set up for the development of a reliable verification process by Federal personnel,'' Mr. Rosenbaum said. ''The cornerstone of the 187 injunction is that state personnel cannot act as immigration agents.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

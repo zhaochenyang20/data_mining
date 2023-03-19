@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Natalie Coe and Eduardo Llanos</title>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="54" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="768292"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <series series.name="WEDDINGS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">COE, NATALIE</person>
+        <person class="indexing_service">RUIZ, EDUARDO LLANOS</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19950611T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CEFDD1E3FF932A25755C0A963958260" item-length="234" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Natalie Coe and Eduardo Llanos</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Natalie Coe, a daughter of Dr. Michael D. Coe of New Haven and the late Dr. Sophie D. Coe, was married on Friday to Eduardo Llanos Ruiz, a son of Efraim Llanos and Maria Ruiz of Santiago de Cuba, Cuba. Olga Lidia Perez Diaz, a notary and a lawyer at the International Legal Consultancy, a department of the Cuban Government, performed the ceremony at La Maison, a tourist complex in Havana.</p>
+        <p>Ms. Coe, 26, is keeping her name. She is the translations editor at Prensa Latina, the Cuban Government news agency, in Havana. She received a bachelor's and master's degrees in philosophy, politics and economics from Oxford University. Her father retired as the Charles J. MacCurdy Professor of Anthropology at Yale University in New Haven. He is also an author, whose works include "Breaking the Maya Code." Her mother was a culinary anthropologist and author of "America's First Cuisines."</p>
+      </block>
+      <block class="full_text">
+        <p>Natalie Coe, a daughter of Dr. Michael D. Coe of New Haven and the late Dr. Sophie D. Coe, was married on Friday to Eduardo Llanos Ruiz, a son of Efraim Llanos and Maria Ruiz of Santiago de Cuba, Cuba. Olga Lidia Perez Diaz, a notary and a lawyer at the International Legal Consultancy, a department of the Cuban Government, performed the ceremony at La Maison, a tourist complex in Havana.</p>
+        <p>Ms. Coe, 26, is keeping her name. She is the translations editor at Prensa Latina, the Cuban Government news agency, in Havana. She received a bachelor's and master's degrees in philosophy, politics and economics from Oxford University. Her father retired as the Charles J. MacCurdy Professor of Anthropology at Yale University in New Haven. He is also an author, whose works include "Breaking the Maya Code." Her mother was a culinary anthropologist and author of "America's First Cuisines."</p>
+        <p>The bride is a granddaughter of the late Dr. Theodosius Dobzhansky, the Russian-born geneticist. She is a great-great granddaughter of the late Henry Huddleston Rogers, a founder of the Standard Oil Company.</p>
+        <p>Mr. Llanos, 39, is an electronics specialist in the medical school laboratories of the University of Havana. He graduated from the Havana Electronics Institute. His father retired as a bank teller at the Banco Nacional de Cuba in Santiago de Cuba.</p>
+        <p>The couple's first marriages ended in divorce.</p>
+        <p>WEDDINGS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

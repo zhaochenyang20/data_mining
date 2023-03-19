@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Pacific Overtures</title>
+    <meta content="26KRISTT" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="967795"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Krist, Gary</person>
+        <person class="indexing_service">See, Lisa</person>
+        <object.title class="indexing_service">Flower Net (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19971026T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9405EEDD123FF935A15753C1A961958260" item-length="668" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Pacific Overtures</hl1>
+      </hedline>
+      <byline class="print_byline">By Gary Krist</byline>
+      <byline class="normalized_byline">Krist, Gary</byline>
+      <abstract>
+        <p>Gary Krist reviews book Flower Net by Lisa See (M)4</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>FLOWER NET</p>
+        <p>By Lisa See.</p>
+        <p>333 pp. New York:</p>
+        <p>HarperCollins Publishers. $24.</p>
+      </block>
+      <block class="full_text">
+        <p>FLOWER NET</p>
+        <p>By Lisa See.</p>
+        <p>333 pp. New York:</p>
+        <p>HarperCollins Publishers. $24.</p>
+        <p>''Women hold up half the sky,'' Mao Zedong once famously pronounced, but in ''Flower Net,'' Lisa See's colorful first novel about murder and mayhem on both sides of the Pacific, the ratio seems more like 60-40. Liu Hulan, the female component of the book's Chinese-American investigative team, is an inspector for the Ministry of Public Security in Beijing. David Stark, her male counterpart, is a high-minded assistant United States attorney from Los Angeles. And while both characters play a role in unraveling the novel's central mystery, it's the street-smart Hulan who carries most of the weight.</p>
+        <p>The story begins one cold January day when the corpse of the American Ambassador's son is found frozen in the ice of Beihai, a lake just outside the Forbidden City. Ten days later, another body is found -- this time, it's the son of a prominent Beijing businessman -- on a boat adrift off the California coast. In an unusual example of Chinese-American cooperation, Hulan and David are paired up to solve the related cases and spend most of the novel hopping from Beijing to L.A. and back again as the circle of suspicion grows to encompass shady types in both cities. Complicating the investigation is Hulan and David's shared history; they were lovers back in the 1980's, when the two worked together for an American law firm.</p>
+        <p>All in all, this is an inviting premise for a thriller, and Lisa See (author of the family memoir ''On Gold Mountain'') capitalizes on its inherent novelty and exoticism. Readers familiar with present-day Beijing, where a few warrenlike traditional neighborhoods still hold out against the onslaught of garish hotels and office buildings, will take delight in her local descriptions, from the ubiquitous street carts selling candied crab apples to the shining Mercedes-Benzes hooting their way through swarms of Flying Pigeon bicycles. She's particularly successful at conveying the sights and smells of Beijing's raw winters, when the air is ''thick with coal smoke, exhaust and the freezing fog's lingering dampness.''</p>
+        <p>But when it comes to plotting, See unfortunately adopts the old policy of letting a hundred improbabilities bloom. Yes, she has done her homework (characters are continually providing us with thumbnail lectures on everything from the history of Chinese triads to the finer points of traditional medicine), but a nagging aura of inauthenticity hangs over the novel's investigative mechanics. In the China I know, for instance, obtaining information of any kind is always a frustrating struggle, but the Chinese in this book seem willing to bare their secrets at the slightest provocation. (At one point, a triad boss, after a few minutes of chitchat, obligingly reveals the details of a smuggling operation to an unknown man posing as a courier.) And in See's China there seems to be a curious practice of leaving incriminating bankbooks around for anyone to find.</p>
+        <p>Happily, the novelist is much better with characters -- at least with the ones who are Chinese. Although Stark is constructed largely from crime-novel boilerplate (right down to the ex-wife who left him because he cared more about Justice than about his family), Hulan is a provocative mixture of vulnerability, bitterness and hardheaded practicality. A veteran of the wrenching ideological struggles of the Cultural Revolution, she has learned that succeeding in China means mastering ''the art of keeping her emotions in check, of hiding her thoughts, of presenting a placid facade to the world.'' Her subtlety and complexity stand in, er, stark contrast to her partner's two-dimensional sanctimoniousness -- leading one to hope that next time around she'll ditch the foreign-devil boyfriend and team up with someone of her own caliber.</p>
+        <p>Gary Krist is the author of two short- story collections, ''The Garden State'' and ''Bone by Bone,'' and the forthcoming novel ''Bad Chemistry.''</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">Gary Krist is the author of two short- story collections, ''The Garden State'' and ''Bone by Bone,'' and the forthcoming novel ''Bad Chemistry.''</tagline>
+    </body.end>
+  </body>
+</nitf>

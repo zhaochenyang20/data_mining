@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Quick Course in the Economics of Confusion</title>
+    <meta content="28every" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2006/05/28/business/yourmoney/28every.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1765012"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <series series.name="EVERYBODY'S BUSINESS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Taxation</classifier>
+        <classifier class="indexing_service" type="descriptor">Tax Credits, Deductions and Exemptions</classifier>
+        <classifier class="indexing_service" type="descriptor">Finances</classifier>
+        <classifier class="indexing_service" type="descriptor">Budgets and Budgeting</classifier>
+        <person class="indexing_service">Bush, George W (Pres)</person>
+        <person class="indexing_service">Stein, Ben</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Everybody's Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2004/Candidates</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="descriptor">Taxation</classifier>
+        <classifier class="online_producer" type="descriptor">Energy and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tax Credits</classifier>
+        <classifier class="online_producer" type="general_descriptor">Budgets and Budgeting</classifier>
+        <classifier class="online_producer" type="general_descriptor">Taxation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060528T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C06E7DC1E3EF93BA15756C0A9609C8B63" item-length="1052" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Quick Course in the Economics of Confusion</hl1>
+        <hl2 class="online_headline">A Quick Course in the Economics of Confusion</hl2>
+      </hedline>
+      <byline class="print_byline">By BEN STEIN</byline>
+      <byline class="normalized_byline">Stein, Ben</byline>
+      <abstract>
+        <p>Ben Stein Everybody's Business column discusses flaws in Pres George W Bush tax cuts plan; explains why Keynesian economics does not work despite sounding like good policy; holds that cutting taxes has not produced federal spending cuts; says government cannot continue to spend excessively without raising taxes; drawing (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>MY nephew, Jonathan, a historian, likes to make a humorous toast that was heard at George Washington's dinner table during the Revolutionary War. It goes simply, ''Confusion to the British.''</p>
+        <p>Of course, we now love the British; in fact, we have for a long time. But the toast that we seem to be making to ourselves these days is simpler, on both sides of the aisle:</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>If you borrow $4 trillion, you can say you are worth $4 trillion, but only if you ignore the debt.</p>
+      </block>
+      <block class="full_text">
+        <p>MY nephew, Jonathan, a historian, likes to make a humorous toast that was heard at George Washington's dinner table during the Revolutionary War. It goes simply, ''Confusion to the British.''</p>
+        <p>Of course, we now love the British; in fact, we have for a long time. But the toast that we seem to be making to ourselves these days is simpler, on both sides of the aisle:</p>
+        <p>''Confusion to ourselves.''</p>
+        <p>On the Democratic and Republican-in-Name-Only side, we have the idea of ''windfall profits taxes'' on energy companies. These would presumably mandate a desirable level of corporate profits in one sector on which we depend. (And how long do you think it would apply to only one industry?) If profits exceeded that level, they would be taxed.</p>
+        <p>As far as I can tell, there is no plan to give a rebate to the companies if their profits have fallen below that desired level.</p>
+        <p>In other words, the plan is to send this message to energy-company investors, including retirees and pension funds: ''Yes, we are in a situation of oil and gas shortage. Yes, we want you to risk billions of dollars exploring for and producing and refining oil and processing gas. But if you succeed for any reason, and even if no price-fixing is found, we will punish you for it.''</p>
+        <p>This is what I would call confusion. You usually get more of something by rewarding people for doing it or producing it, not by punishing them for doing it or producing it.</p>
+        <p>Yes, the human instinct of envy demands that we get some licks in against people who are doing well, even if we are doing only slightly less well ourselves. But economies built on the politics of envy are rarely successful. Ask the Cambodians or the Chinese or the Russians before they went capitalist.</p>
+        <p>On the right side of the aisle, there is breathtaking confusion about supply-side economics. Treasury Secretary John W. Snow has been touring the money programs on television, touting the effects of the Bush tax cuts on federal revenues, ''explaining,'' as one might say, that this proves that supply-side theory really does work and you really can get something for nothing. He is partly right, in the same sense that you could borrow a bit more than $4 trillion to buy stocks and then tell people you are worth $4 trillion -- if you don't count the money you owed.</p>
+        <p>Supply side has a genesis in respectability that comes largely from my idol, the Nobel laureate economist Milton Friedman of the University of Chicago. Professor Friedman said that if we cut taxes, government would be kept from being so big and intrusive and such a threat to civil liberties. That makes sense if you have a government of responsible adults. (Alas, we don't.)</p>
+        <p>Then along came another friend, Arthur Laffer, a likable and intelligent man who, with no substantial backup at all in data that I am aware of, said that if you cut taxes on income, you would stimulate so much economic activity that you would collect as much in tax as you did when rates were higher.</p>
+        <p>Note that this was actually a supposed refinement on Keynesian economics, which indeed predicted economic growth if you cut taxes and ran a deficit because government would spend at a higher rate than consumers. (This is wildly oversimplified, and I apologize for that.) John Maynard Keynes also did not have a lot of data for his theories, but they appealed to President Franklin D. Roosevelt, so they were tried on a tiny scale during the Depression.</p>
+        <p>Did they work? They did not work in the Depression, probably because the scale of the deficits was far too small. But they worked like gangbusters in World War II, when federal deficits were running roughly 40 percent of gross national product and the economy was exploding with growth.</p>
+        <p>What we saw in the years of President Ronald Reagan -- and now President Bush -- was not in any sense a vindication of the genius Professor Friedman or the persuasive and charming Mr. Laffer.</p>
+        <p>Cutting taxes has not produced the federal spending cuts that Professor Friedman was hoping for. Not even close. Federal spending as a percentage of G.N.P. barely changed under President Reagan. The gusher of income tax receipts that was promised to shrink the deficit to as low or lower than the level before the tax cuts didn't happen, either.</p>
+        <p>Indeed, under my pal Mr. Bush, whom I still love and admire despite his human flaws, government spending has risen as income tax receipts have fallen. (The missing responsible adults again, perhaps.) Five years into a recovery, income tax receipts are still lower than they were in merry President Bill Clinton's last year at the helm. (Corporate profits receipts have risen.)</p>
+        <p>We have deficits such as have never been dreamed of in the absence of a world war, with more than $2 trillion added to the total national debt since 2001. And all that borrowing and spending has worked as Keynes guessed they might.</p>
+        <p>YES, we do have a very strong economy by many metrics -- alas, not including personal hourly income, but that's for another day. We have full employment and stupendous corporate profits. We even have a labor shortage.</p>
+        <p>But this is not a redemption of supply side theory, which promised growth that was enough to cause tax receipts to rise. It is a redemption of old-fashioned Keynesianism.</p>
+        <p>As it turned out, Mr. Reagan and the current president were and are the real Keynesian disciples, not F.D.R. or any other Democrat. The Republicans turn out to be the party of Keynes, as President Richard M. Nixon long ago acknowledged when he famously declared in 1971: ''Now I am a Keynesian.''</p>
+        <p>Supply side is fun in the same way it's fun to rationalize spending as if it were saving, and in the same way any theory is fun when it says that the easier, softer way is better than the hard way. But it doesn't work, or at least it hasn't worked yet.</p>
+        <p>''Tax and spend'' was the old way, but people did not like to be taxed. The new way seems to be ''don't tax, but keep spending and things will be fine.''</p>
+        <p>Wouldn't it be pretty if it were true?</p>
+        <p>EVERYBODY'S BUSINESS Ben Stein is a lawyer, writer, actor and economist. E-mail: ebiz@nytimes.com.</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">Ben Stein is a lawyer, writer, actor and economist. E-mail: ebiz@nytimes.com.</tagline>
+    </body.end>
+  </body>
+</nitf>

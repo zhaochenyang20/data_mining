@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Least Affordable Place to Live? Try Salinas</title>
+    <meta content="07california" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Real Estate Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="11" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Real Estate" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2006/05/07/realestate/07california.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1759890"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Real Estate</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Real Estate/Locations/California</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Real Estate/Locations/Regions/Western States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/California</classifier>
+        <classifier class="online_producer" type="descriptor">Housing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Housing</classifier>
+        <location class="online_producer">California</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060507T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9907E2D71E3FF934A35756C0A9609C8B63" item-length="1657" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Least Affordable Place to Live? Try Salinas</hl1>
+        <hl2 class="online_headline">The Least Affordable Place to Live? Try Salinas</hl2>
+      </hedline>
+      <byline class="print_byline">By ALINA TUGEND</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>IN 2005, the least-affordable place in the country to live, measured by the percentage of income devoted to mortgage payments, was Salinas, Calif.</p>
+        <p>The second was the Santa Cruz-Watsonville area of California.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>California has the distinction of having the 11 least-affordable metropolitan areas in the country.</p>
+      </block>
+      <block class="full_text">
+        <p>IN 2005, the least-affordable place in the country to live, measured by the percentage of income devoted to mortgage payments, was Salinas, Calif.</p>
+        <p>The second was the Santa Cruz-Watsonville area of California.</p>
+        <p>The third? Santa Rosa-Petaluma, Calif.</p>
+        <p>In fact, California has the distinction of having the 11 least-affordable metropolitan areas in the country. One would need to go all the way down to 12th place -- and across the country to the New York region's northern suburbs -- to find a non-California metropolitan area on the least-affordable list of 2005.</p>
+        <p>Much of California is pretty. It has beaches and the mountains and, of course, the weather. But why are places like Salinas, which is surrounded by agriculture, topping places like Honolulu (No. 17) and Miami (No. 22) on the out-of-reach list?</p>
+        <p>There is no one answer, but demographers and public planners who study such trends say that a confluence of factors in California -- both artificial and natural -- have combined to create a particularly acute problem.</p>
+        <p>''California has both political and geographical constraints on building,'' said Dowell Myers, professor of policy, planning and development at the University of Southern California. ''That drives up prices, and then it snowballs.''</p>
+        <p>The geographical limits on developable land are the hills and the coast, while the political restrictions are state and local regulations that prevent building new homes, in response to both environmental and congestion concerns.</p>
+        <p>''One of the key factors here is the basic law of supply and demand,'' said James W. Hughes, dean of the Edward J. Bloustein School of Planning and Public Policy at Rutgers University. ''California is in marked contrast to Florida, where you can expand without constraint. It's more like the New York suburbs, where too many dollars are chasing too few homes.''</p>
+        <p>While many states have regulations on growth, California is a leader, Dean Hughes says.</p>
+        <p>California is also in the forefront of population growth, but it is not driven, as might be expected, by envious Easterners and Midwesterners escaping snowbound winters. Nor is it driven by long-term Californians. In fact, census figures show that over the past decade, more people have left California -- emigrating to neighboring states like Nevada and Arizona and farther away, to Texas and Florida -- than have moved in from other parts of the country.</p>
+        <p>The population increase is driven primarily by births and foreign immigration. According to census statistics, from April 2000 to July 2005, California experienced a net natural increase -- taking into account births and deaths -- of 1.5 million people.</p>
+        <p>And an additional 1.4 million moved in from other countries.</p>
+        <p>While California's birth rate is not the highest in the nation -- Utah's is -- it is near the top.</p>
+        <p>''New York has the constraints but doesn't have the population growth,'' Professor Myers said. ''Florida has the population growth but doesn't have the constraints.''</p>
+        <p>While it is difficult to build new houses in California, that isn't to say none are going up. According to the California Association of Realtors, there have been increases in the number of housing units built over the past nine years -- from 94,283 in 1996 to 207,154 in 2005.</p>
+        <p>That is substantially more than the low in 1993, when California was in the throes of a severe economic recession and only 84,656 units were built. But it's not as prolific as in 1988, when 255,559 went up.</p>
+        <p>There are a number of reasons for the restraints on home building, including the fact that many desirable areas in the state are already ''built out'' and the permit process is more complex and drawn out now than it was a few decades ago.</p>
+        <p>Leslie Appleton-Young, chief economist for the Realtors group, said the state needs about 250,000 units a year to meet housing demand. ''We've been below that every year over the past 10 years,'' she said.</p>
+        <p>The high demand and low supply created a perfect breeding ground for investors and speculators, which became ''the last straw'' in driving housing prices up, said David Seiders, chief economist for the National Association of Home Builders.</p>
+        <p>Another quintessentially California issue is Proposition 13, the 1978 measure that slashed property taxes by more than 50 percent and ignited a national property tax revolution.</p>
+        <p>The measure, which was supposed to facilitate home buying, has backfired to some extent; local governments prefer that land be used for retailing rather than housing because they collect more from sales taxes than from property taxes.</p>
+        <p>''Proposition 13 is a big stop sign saying 'no housing needed,' '' said Peter Dreier, professor of public policy at Occidental College in Los Angeles and an author of ''Place Matters: Metropolitics for the 21st Century'' (University Press of Kansas, 2001). ''Every municipality is engaged in a bidding war for retail -- they're battling for Wal-Mart, to keep the libraries open.''</p>
+        <p>It is unlikely that will change, Professor Dreier and others say, calling Proposition 13 ''the third rail of government -- it's untouchable.''</p>
+        <p>Although it is no surprise that house prices have gone through the roof in places like Los Angeles, San Diego and San Francisco, what is more unexpected is that less-popular areas away from the coast are also topping the list of least-affordable places to live.</p>
+        <p>''There's a huge movement away from L.A. County and from San Francisco and the great beneficiary is the Inland Empire'' in Southern California, and in Sacramento and points east in northern California, said William Frey, a demographer at the Brookings Institution.</p>
+        <p>The migration is happening both among high-skilled and middle-class residents, as well as low-skilled and lower-class ones, so the cost of housing is exploding even in areas of the state that most people do not think of as traditionally expensive, he said.</p>
+        <p>''Baby boomers are getting older and moving into the higher-income bracket and into the top-dollar markets,'' Professor Myers said. ''Immigrants have high ownership rates at the bottom of the market. It's a recipe for a bubble.''</p>
+        <p>These noncoastal communities are no longer simply attached to established cities, but in many cases have become job centers in their own right, Ms. Appleton-Young said.</p>
+        <p>The Inland Empire, made up of Riverside and San Bernardino Counties, has been in a 30-year transition from a bedroom suburb to a metropolitan area, she said.</p>
+        <p>''People are now working where they live,'' Ms. Appleton-Young said. ''It's not a commuter area.''</p>
+        <p>The San Joaquin Valley, in central California, on the other hand, still has a way to go to attract an educated work force and to create a diverse and thriving economy. But Ms. Appleton-Young said it appears to be following in the footsteps of the Inland Empire: ''As we say, jobs follow housing.''</p>
+        <p>The final paradox in this state of paradoxes is that traditionally, many Californians are not homeowners; the state ranks 48th, behind only New York and Hawaii, in terms of homeownership, and about 10 percent below the national average. But over the past several years, even as housing prices have increased, more people are buying.</p>
+        <p>Home sales climbed fairly steadily from 1996 through 2005, with only a slight downward blip in 2001, said the California Realtors' association.</p>
+        <p>Hans Johnson, a demographer with the nonprofit Public Policy Institute of California, said, ''It's counterintuitive.'' But apparently typical. Those familiar with home-purchasing trends say that people buy when the market is going up, not when it is going down.</p>
+        <p>If houses are so costly, how are people managing to make the leap and become homeowners?</p>
+        <p>In some cases, they use methods of financing that were not previously available, Mr. Johnson said. Instead of fixed-rate 30-year mortgages, they take, for example, variable-rate interest-only loans, which have lower monthly payments.</p>
+        <p>In many cases, he said, homeowners are paying far more on mortgages than the 30 percent of income recommended by the Department of Housing and Urban Development.</p>
+        <p>A study by the Public Policy Institute of California found that 40 percent of all households in California, the most anywhere, exceeded this recommended threshold. ''In some cases, they're even paying more than half,'' Mr. Johnson said.</p>
+        <p>New homeowners are buying smaller homes or condominiums; according to the study, only 15 percent of long-term homeowners in California live in multifamily housing units, like condominiums, while 26 percent of recent buyers do.</p>
+        <p>''In some ways it's good, because people own a house and have equity,'' he said. ''In other ways it's bad,'' he explained, because ''if interest rates go up, there will be a large increase in monthly rates.''</p>
+        <p>''If there's a bubble that bursts or slowly leaks,'' he added, overextended owners may not be able to sell and recover enough to pay off the loan.</p>
+        <p>Professor Dreier of Occidental College said he also blamed state government and business leaders for failing to support the creation of moderate-priced housing -- not just for low-income residents, but also for middle-class people, like teachers and nurses, who cannot buy into the overheated housing market.</p>
+        <p>When he was a city official in Boston, the state government, businessmen and bankers ''understood that affordable housing was part of a healthy work force,'' Professor Dreier said. ''In California, businesses and the Chambers of Commerce have not embraced housing issues like they have embraced other issues, such as health care. We won't see the political will to solve the housing crisis until the organized business community weighs in and says it's unacceptable.''</p>
+        <p>The big question now is whether the housing market will deflate while the economy stays strong, which would enable more Californians to buy. The answer seems as elusive as predicting the next earthquake.</p>
+        <p>The signs point toward a slowdown: interest rates are going up, and investors and speculators, who drove up prices by buying and selling houses, seem to be pulling back in hot markets nationally. But everyone, even those who study the subject, knows it is dangerous to predict.</p>
+        <p>Ask Professor Myers of U.S.C., who sold his house in Los Angeles last year. ''I was convinced it was going to peak,'' he said. ''After I sold, it rose another 15 percent.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

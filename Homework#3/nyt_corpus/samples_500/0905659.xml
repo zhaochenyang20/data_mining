@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Grave Robbers</title>
+    <meta content="01BAKE" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="19" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="Observer" name="column_name"/>
+    <docdata>
+      <doc-id id-string="905659"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <series series.name="Observer"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Television</classifier>
+        <classifier class="indexing_service" type="descriptor">Advertising</classifier>
+        <person class="indexing_service">Baker, Russell</person>
+        <person class="indexing_service">Wayne, John (1907-1979)</person>
+        <person class="indexing_service">Astaire, Fred</person>
+        <classifier class="online_producer" type="types_of_material">Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Contributors</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+        <classifier class="online_producer" type="general_descriptor">Advertising and Marketing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19970201T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9501E2D8153DF932A35751C0A961958260" item-length="746" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Grave Robbers</hl1>
+      </hedline>
+      <byline class="print_byline">By RUSSELL BAKER</byline>
+      <byline class="normalized_byline">Baker, Russell</byline>
+      <abstract>
+        <p>Russell Baker Op-Ed column on digital wizardry that allows dead movie stars like John Wayne and Fred Astaire appear to be selling beer and vacuum cleaners on television; imagines commercials featuring famous names like Kennedy, Nixon and Napoleon (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>You have probably seen the TV commercial in which John Wayne finds his misplaced beer in an Army barracks. Unless you're one of the 17 Americans who did not watch the Super Bowl, you surely saw the commercial in which Fred Astaire danced up and down the walls wielding some sort of vacuum cleaner.</p>
+        <p>Were you amazed that these two dead movie stars could perform in brand new commercials despite being in a post-life condition? If so, sit back and hold on to your socks because, if I may vary the immortal words of Al Jolson, you ain't seen nothin' yet.</p>
+      </block>
+      <block class="full_text">
+        <p>You have probably seen the TV commercial in which John Wayne finds his misplaced beer in an Army barracks. Unless you're one of the 17 Americans who did not watch the Super Bowl, you surely saw the commercial in which Fred Astaire danced up and down the walls wielding some sort of vacuum cleaner.</p>
+        <p>Were you amazed that these two dead movie stars could perform in brand new commercials despite being in a post-life condition? If so, sit back and hold on to your socks because, if I may vary the immortal words of Al Jolson, you ain't seen nothin' yet.</p>
+        <p>In fact you will soon see the late Al Jolson himself looking just as immortal as his immortal words. Al is starring in a new 30-second commercial for a corporation that sells eyeglasses.</p>
+        <p>The plot goes like this: Woman wearing specs comes into the sponsor's store. Says, ''Can't see a thing with these glasses.'' ''No wonder,'' says salesman, played by Al Jolson. ''Lenses are coated with greasy fingerprints, solid auto-exhaust emissions and dandruff. Let me wash them for you.''</p>
+        <p>Putting on freshly cleaned specs, woman cries, ''I can see! I can see!'' Salesman Jolson, slipping set of sponsor's eyeglasses over her nose, says, ''You ain't seen nothin' yet!'' She reads bottom line of eye chart flawlessly and tells Jolson, ''I could kiss you if you weren't married to Greta Garbo -- or one of those old-time movie stars, y'know, whoever.''</p>
+        <p>The eyeglasses people had to pay big money to outbid the hearing-aid industry for Jolson. In the hearing-aid commercial he would have said, ''You ain't heard nothin' yet.''</p>
+        <p>Jolson's agent, the late Irving (Swifty) Lazar, insists that money was not the only factor in Al's choosing eyeglasses over hearing aids. ''You ain't heard nothin' yet'' is the real immortal line Al uttered in ''The Jazz Singer,'' and he wanted the challenge of doing fresh material.</p>
+        <p>''Al hates to repeat himself,'' says the late Swifty.</p>
+        <p>Also in production is a controversial Kennedy-Nixon debate commercial for a beer conglomerate. Both late Presidents will be seen looking just as they did in the Presidential debates of 1960.</p>
+        <p>At present the script has them standing at lecterns and facing each other. Kennedy jabs his finger at Nixon and says, ''Tastes great!'' Nixon raises both hands, gives his V-for-victory salute and says, ''Less filling!''</p>
+        <p>The camera then pulls back to the late Lyndon Johnson saying, ''Tastes great!'' Then to the late Dwight Eisenhower saying, ''Less filling!'' Then to Franklin Roosevelt: ''Tastes great!'' he says. Theodore Roosevelt chimes in: ''Less filling!''</p>
+        <p>Getting this much deceased talent signed to do a commercial is not easy. Nixon, for example, refuses to do the commercial unless the ad agency drops its insistence that he wear the dark whiskers he wore in the 1960 debate with Kennedy.</p>
+        <p>It is suspected that Nixon already has a shaving-cream commercial in the can and fears the soap industry's attorney, the late Clarence Darrow, would sue him if he appeared on TV looking badly shaved.</p>
+        <p>One of the exciting projects is a commercial for a household smoke-alarm device starring Napoleon Bonaparte. It opens with a spectacular wide shot of Moscow burning. Then we see Napoleon face to face with the Czar. Napoleon says, ''If you'd bought a smoke alarm, this wouldn't have happened.''</p>
+        <p>This project is still not in production. Two problems:</p>
+        <p>First, the Russian gangsters who own Moscow want more money than the smoke-alarm industry can afford without asking Napoleon to work free. They'd have to persuade him it would be worth a fortune in the long run to get name recognition in America.</p>
+        <p>Second, Napoleon refuses to speak his line in English. Industry rumors have it that the late General de Gaulle turned down the commercial rather than say it in English. And that Napoleon, being twice as great as de Gaulle, must also refuse to use the tongue of the Anglo-Saxons.</p>
+        <p>That's one story. Another is that Napoleon tried to learn the line in English, but gave it up in despair, telling the ad agency he was too dead to get his tongue around English vowels.</p>
+        <p>The biggest advertising story of the spring, however, will be about the carving-knife industry signing Julius Caesar, Brutus and Cassius for a 30-second production introducing its new state-of-the-art ham slicer.</p>
+        <p>Observer</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

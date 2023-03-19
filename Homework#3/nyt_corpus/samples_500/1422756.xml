@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Washington Air Defense Tightened</title>
+    <meta content="Y11MIL$01" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2002/09/11/national/11MILI.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1422756"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <series series.name="THREATS AND RESPONSES"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Terrorism</classifier>
+        <classifier class="indexing_service" type="descriptor">United States Armament and Defense</classifier>
+        <classifier class="indexing_service" type="descriptor">Security and Warning Systems</classifier>
+        <classifier class="indexing_service" type="descriptor">Missiles and Missile Defense Systems</classifier>
+        <classifier class="indexing_service" type="descriptor">World Trade Center (NYC)</classifier>
+        <classifier class="indexing_service" type="descriptor">Pentagon Building</classifier>
+        <classifier class="indexing_service" type="descriptor">Airlines and Airplanes</classifier>
+        <classifier class="indexing_service" type="descriptor">Hijacking</classifier>
+        <location class="indexing_service">Washington (DC)</location>
+        <location class="indexing_service">New York City</location>
+        <person class="indexing_service">Rumsfeld, Donald H (Sec)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Washington, D.C.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Manufacturing, Operations and Logistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Law Enforcement and Security</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Washington, D.C.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="descriptor">United States Armament and Defense</classifier>
+        <classifier class="online_producer" type="general_descriptor">Pentagon Building</classifier>
+        <classifier class="online_producer" type="general_descriptor">Missiles and Missile Defense Systems</classifier>
+        <classifier class="online_producer" type="general_descriptor">World Trade Center (NYC)</classifier>
+        <classifier class="online_producer" type="general_descriptor">World Trade Center (NYC)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hijacking</classifier>
+        <classifier class="online_producer" type="general_descriptor">Airlines and Airplanes</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Armament and Defense</classifier>
+        <classifier class="online_producer" type="general_descriptor">Terrorism</classifier>
+        <classifier class="online_producer" type="general_descriptor">Security and Warning Systems</classifier>
+        <classifier class="online_producer" type="general_descriptor">Office Buildings and Commercial Properties</classifier>
+        <classifier class="online_producer" type="general_descriptor">Crime and Criminals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Armament, Defense and Military Forces</classifier>
+        <location class="online_producer">Washington (DC)</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20020911T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F02E1D81431F932A2575AC0A9649C8B63" item-length="305" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Washington Air Defense Tightened</hl1>
+        <hl2 class="online_headline">Washington Air Defense Tightened</hl2>
+      </hedline>
+      <dateline>WASHINGTON, Sept. 10</dateline>
+      <abstract>
+        <p>Triple layer of air defenses has been laid over nation's capital in advance of Sept 11 anniversary, with high-altitude radar planes scanning skies, jet fighters flying 24-hour patrols and surface-to-air missiles loaded into launchers on orders of Sec Donald Rumsfeld (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A triple layer of air defenses has been laid over the nation's capital in advance of the Sept. 11 anniversary, with high-altitude radar planes scanning the skies, high-performance jet fighters flying 24-hour patrols and surface-to-air missiles being loaded into launchers late tonight.</p>
+        <p>On orders of Defense Secretary Donald H. Rumsfeld, the Avenger missile system was loaded with heat-seeking Stinger missiles, which are designed to defend against low-altitude airplanes even if they are traveling at high speeds. The system, which includes eight Stingers in two reloadable pods, is carried atop a Humvee troop transport vehicle.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A triple layer of air defenses has been laid over the nation's capital in advance of the Sept. 11 anniversary</p>
+      </block>
+      <block class="full_text">
+        <p>A triple layer of air defenses has been laid over the nation's capital in advance of the Sept. 11 anniversary, with high-altitude radar planes scanning the skies, high-performance jet fighters flying 24-hour patrols and surface-to-air missiles being loaded into launchers late tonight.</p>
+        <p>On orders of Defense Secretary Donald H. Rumsfeld, the Avenger missile system was loaded with heat-seeking Stinger missiles, which are designed to defend against low-altitude airplanes even if they are traveling at high speeds. The system, which includes eight Stingers in two reloadable pods, is carried atop a Humvee troop transport vehicle.</p>
+        <p>The Stinger can also defend against helicopters, but not other missiles. Some handheld Stingers were also readied for use.</p>
+        <p>Though small numbers of surface-to-air missiles have been posted at certain government buildings over the years, military officials said this was the first deployment of surface-to-air missiles widely across the Washington region since 1961, during the Cuban missile crisis.</p>
+        <p>Air Force F-16's have been deployed in 24-hour patrols over Washington and New York since Friday. Other attack jets and support aircraft across the country remain available on ''strip alert,'' which means they can be airborne at short notice.</p>
+        <p>The nation's premier airborne surveillance and command jet, the E3 Awacs, is also on 24-hour patrol over Washington. The distinctive black-and-white, mushroom-shaped radar dome atop the modified Boeing 707 has a range of 250 miles and can monitor movement from the surface of the earth up to the stratosphere, officials say.</p>
+        <p>THREATS AND RESPONSES</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

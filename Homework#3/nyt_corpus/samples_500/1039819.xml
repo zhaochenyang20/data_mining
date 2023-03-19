@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Desperation Fuels 'Gay Conversion'</title>
+    <meta content="LTR235321" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1039819"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Homosexuality</classifier>
+        <classifier class="indexing_service" type="descriptor">Homosexuality</classifier>
+        <person class="indexing_service">Waller, James</person>
+        <person class="indexing_service">Folger, Janet L</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Homosexuality</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980817T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9407E7DD163DF934A2575BC0A96E958260" item-length="126" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Desperation Fuels 'Gay Conversion'</hl1>
+      </hedline>
+      <abstract>
+        <p>James Waller letter on Aug 13 profile of Janet L Folger notes there are many self-affirming homosexual Christians</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>One of the more annoying aspects of mainstream news coverage of the ''gay conversion'' issue, including your Aug. 13 profile of Janet L. Folger, the architect of the recent ''ex-gay'' advertising campaign, is the implied opposition between Christians on the one hand and lesbians and gay men on the other.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>One of the more annoying aspects of mainstream news coverage of the ''gay conversion'' issue, including your Aug. 13 profile of Janet L. Folger, the architect of the recent ''ex-gay'' advertising campaign, is the implied opposition between Christians on the one hand and lesbians and gay men on the other.</p>
+        <p>In fact, there are many self-affirming lesbian and gay Christians -- and many nongay Christians who support gay Christians' struggle to gain acceptance with their church communities. Organization of lesbian and gay Christians, including the Universal Fellowship of Metropolitan Community Churches and the lesbian and gay caucuses that exist in every mainline Protestant denomination, constitute the most long-lived and numerically strongest sector of the lesbian and gay liberation movement.</p>
+        <p>JAMES WALLER  Brooklyn, Aug. 13, 1998</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

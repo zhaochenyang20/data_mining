@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Jerusalem's Take-Out Royalties</title>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Sophisticated Traveler Magazine" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Travel; Magazine" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="762451"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <series series.name="SIDEWALK SNACKS IN SEVEN CITIES"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">FOOD</classifier>
+        <classifier class="indexing_service" type="descriptor">NYTRAVEL</classifier>
+        <location class="indexing_service">JERUSALEM</location>
+        <person class="indexing_service">HABERMAN, CLYDE</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sophisticated Traveler Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East/Israel/Jerusalem</classifier>
+        <classifier class="online_producer" type="general_descriptor">Travel and Vacations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Food</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19950514T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CE0DE113CF937A25756C0A963958260" item-length="321" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Jerusalem's Take-Out Royalties</hl1>
+      </hedline>
+      <byline class="print_byline">By CLYDE HABERMAN;</byline>
+      <byline class="normalized_byline">HABERMAN, CLYDE</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>RESTAURANTS CAN open and close with startling speed in Jerusalem, often because their owners prove to have more business moxie than culinary skill. But in a city where eating on the run is a long tradition, some tiny take-out places endure for decades thanks to customer loyalty.</p>
+        <p>Take Shalom Falafel. It is, literally, a hole in the wall downtown on Bezalel Street, by the Urfali Synagogue. Yet for three generations, people have lined up on the street for pita bread stuffed with -- what else? -- falafel, the Middle Eastern snack of mashed chickpeas mixed with spices and herbs. The lines can be even longer outside the closet-sized Falafel Shlomo, on Mussaief Street in the Bucharan Quarter. Shlomo's place makes Shalom's look like the Russian Tea Room.</p>
+      </block>
+      <block class="full_text">
+        <p>RESTAURANTS CAN open and close with startling speed in Jerusalem, often because their owners prove to have more business moxie than culinary skill. But in a city where eating on the run is a long tradition, some tiny take-out places endure for decades thanks to customer loyalty.</p>
+        <p>Take Shalom Falafel. It is, literally, a hole in the wall downtown on Bezalel Street, by the Urfali Synagogue. Yet for three generations, people have lined up on the street for pita bread stuffed with -- what else? -- falafel, the Middle Eastern snack of mashed chickpeas mixed with spices and herbs. The lines can be even longer outside the closet-sized Falafel Shlomo, on Mussaief Street in the Bucharan Quarter. Shlomo's place makes Shalom's look like the Russian Tea Room.</p>
+        <p>Jerusalemites will argue over who makes the freshest falafel or the juiciest shwarma, lamb roasted on a spit and stuffed into pita. The list of candidates is long. But the advice here is to be careful in your selection. Cleanliness is sometimes a distant second to godliness in the Holy City. And don't be fooled by royal pretensions. There are all sorts of places with names like Falafel King and King of Shwarma -- a nation of would-be monarchs. Just check that His Highness looks as though he has washed his hands.</p>
+        <p>If falafel is old hat, you might try something called Jerusalem grill. Steakiyat Hatzot, or Midnight Steak House, serves it from a storefront window in the middle of Agrippas Street, the bustling core of the main market. Steakiyat offers familiar items like shashlik, or skewered lamb meat. But its specialty is the grill, an assortment of unrecognizable lamb organs tossed into pita.</p>
+        <p>Not everyone has the stomach for it, though. One alternative is another Jerusalem favorite that can be found on many well-trafficked streets -- a baked concoction made of dough, tomato sauce, cheese and sometimes vegetables. The locals call it pizza.  SIDEWALK SNACKS IN SEVEN CITIES Clyde Haberman is chief of the Jerusalem bureau of The Times.</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">Clyde Haberman is chief of the Jerusalem bureau of The Times.</tagline>
+    </body.end>
+  </body>
+</nitf>

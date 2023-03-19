@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Heileman Makes Choices for 5 Brands</title>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1993" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="648852"/>
+      <doc.copyright holder="The New York Times" year="1993"/>
+      <series series.name="THE MEDIA BUSINESS: ADVERTISING -- ADDENDA"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">BEER</classifier>
+        <org class="indexing_service">HEILEMAN, G, BREWING CO INC</org>
+        <person class="indexing_service">JANOFSKY, MICHAEL</person>
+        <object.title class="indexing_service">ADVERTISING (TIMES COLUMN)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Addenda</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Beer</classifier>
+        <classifier class="online_producer" type="general_descriptor">Alcoholic Beverages</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19931110T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE7D9123CF933A25752C1A965958260" item-length="139" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Heileman Makes Choices for 5 Brands</hl1>
+      </hedline>
+      <byline class="print_byline">By MICHAEL JANOFSKY</byline>
+      <byline class="normalized_byline">JANOFSKY, MICHAEL</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The G. Heileman Brewing Company has named the Richards Group in Dallas and Eisaman, Johns &amp; Laws in Chicago, to share its beer and malt liquor brands account. Combined billings were estimated at $20 million to $25 million.</p>
+        <p>The Richards Group, which already handles Heileman's Rainier, Lone Star and Mickey's Malt Liquor brands, was selected to handle the Colt 45 Malt Liquor and Colt 45 beer account, previously handled by Deutsch/Dworin in New York and the Henry Weinhard's brand, previously handled by Messner Vetere Berger McNamee Schmetterer Euro RSCG in New York. Eisaman, Johns was selected to handle the Old Style and Special Export brands, which had been handled by Messner Vetere.</p>
+      </block>
+      <block class="full_text">
+        <p>The G. Heileman Brewing Company has named the Richards Group in Dallas and Eisaman, Johns &amp; Laws in Chicago, to share its beer and malt liquor brands account. Combined billings were estimated at $20 million to $25 million.</p>
+        <p>The Richards Group, which already handles Heileman's Rainier, Lone Star and Mickey's Malt Liquor brands, was selected to handle the Colt 45 Malt Liquor and Colt 45 beer account, previously handled by Deutsch/Dworin in New York and the Henry Weinhard's brand, previously handled by Messner Vetere Berger McNamee Schmetterer Euro RSCG in New York. Eisaman, Johns was selected to handle the Old Style and Special Export brands, which had been handled by Messner Vetere.</p>
+        <p>Other finalists participating in the two-month review were Cramer-Krasselt in Chicago and W.B. Doner &amp; Company in Southfield, Mich.</p>
+        <p>THE MEDIA BUSINESS: ADVERTISING -- ADDENDA</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

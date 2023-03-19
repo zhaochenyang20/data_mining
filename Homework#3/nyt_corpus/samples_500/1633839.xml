@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>World Business Briefing | Europe: France: Airbus To Produce New Jet</title>
+    <meta content="MB003709" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1633839"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Airlines and Airplanes</classifier>
+        <org class="indexing_service">Airbus Industrie</org>
+        <org class="indexing_service">Boeing Co</org>
+        <person class="indexing_service">Landler, Mark</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/World Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Manufacturing, Operations and Logistics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Airlines and Airplanes</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20041211T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0DE7DE1E31F932A25751C1A9629C8B63" item-length="170" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>World Business Briefing | Europe: France: Airbus To Produce New Jet</hl1>
+      </hedline>
+      <byline class="print_byline">By Mark Landler (NYT)</byline>
+      <byline class="normalized_byline">Landler, Mark</byline>
+      <abstract>
+        <p>Shareholders grant Airbus approval to produce two versions of A350, mid-size long-distance jet that would compete with Boeing's 7E7; graph (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Airbus, as expected, won approval from its controlling shareholders to produce a midsize long-distance jet to compete with the 7E7 from Boeing. The plane, known as the A350, will come in two versions, one seating 245 passengers, the other 285. The A350 will enter service in the first half of 2010. Airbus, controlled by EADS, did not disclose the plane's budget or whether it would seek loans from European governments to finance it. Boeing's rival plane is scheduled to go into service in 2008.</p>
+        <p>Mark Landler (NYT)</p>
+      </block>
+      <block class="full_text">
+        <p>Airbus, as expected, won approval from its controlling shareholders to produce a midsize long-distance jet to compete with the 7E7 from Boeing. The plane, known as the A350, will come in two versions, one seating 245 passengers, the other 285. The A350 will enter service in the first half of 2010. Airbus, controlled by EADS, did not disclose the plane's budget or whether it would seek loans from European governments to finance it. Boeing's rival plane is scheduled to go into service in 2008.</p>
+        <p>Mark Landler (NYT)</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

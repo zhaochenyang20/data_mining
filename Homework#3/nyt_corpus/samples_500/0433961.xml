@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>No Headline</title>
+    <meta content="31" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="433961"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">ELECTIONS</classifier>
+        <location class="indexing_service">ALBANIA</location>
+        <person class="indexing_service">BINDER, DAVID</person>
+        <person class="indexing_service">ALIA, RAMIZ (PRES)</person>
+        <person class="indexing_service">BERISHA, SALI (DR)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Albania</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Albania</classifier>
+        <classifier class="online_producer" type="general_descriptor">Elections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19910331T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE1DF103FF932A05750C0A967958260" item-length="702" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>No Headline</hl1>
+      </hedline>
+      <byline class="print_byline">By DAVID BINDER, Special to The New York Times; Albanians Vote Today, and Opposition Presses On</byline>
+      <byline class="normalized_byline">BINDER, DAVID</byline>
+      <dateline>TIRANA, Albania, March 30</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The people of Albania, blinking in the first political daylight they have been exposed to in almost five decades, will vote on Sunday in multiparty elections organized by the governing Communist Party.</p>
+        <p>The outcome is unclear. No polls have been taken. But the Communists, led by President Ramiz Alia, are under pressure from a popular democratic movement launched by Tirana University students in December.</p>
+      </block>
+      <block class="full_text">
+        <p>The people of Albania, blinking in the first political daylight they have been exposed to in almost five decades, will vote on Sunday in multiparty elections organized by the governing Communist Party.</p>
+        <p>The outcome is unclear. No polls have been taken. But the Communists, led by President Ramiz Alia, are under pressure from a popular democratic movement launched by Tirana University students in December.</p>
+        <p>While the Communists hold their final election rallies for relatively small numbers of the party faithful behind the doors of meeting halls, the newly formed Democratic Party headed by a charismatic cardiologist, Dr. Sali Berisha, has convened its supporters in the open, drawing about 90,000 to its last rally in the capital on Friday. Tirana has a population of 300,000.</p>
+        <p>These are the first contested elections here since 1923, but in that year Albania still had a semifeudal society and the candidates were chosen mainly by clans.  Push for Freedoms</p>
+        <p>Albania is Europe's poorest country and it has been governed since 1944 by a Stalinist regime formed by Enver Hoxha. He died in 1985 after naming Mr. Alia to succeed him. Last May, plainly concerned by the fall of Communist governments across Eastern Europe in 1989, President Alia opened what he called a process of "democratization."</p>
+        <p>But a huge number of Albanians, disgusted with the Communists' disastrous economic policies and abuse of basic human rights, soon made it clear that they wanted their freedom far faster than the Government was were prepared to allow.</p>
+        <p>They stormed foreign embassies by the thousands to gain asylum. They commandeered boats to cross the Adriatic to Italy. They demanded and obtained the opening of churches and mosques closed in 1967 as part of an official campaign against all religious worship.</p>
+        <p>Dozens of demonstrators were killed in clashes with the police, but the protests compelled the release of 329 political prisoners, some of whom had been jailed for as long as 30 years. They also forced Mr. Alia to sack a dozen Cabinet ministers and form a new Government last month.</p>
+        <p>In the same period, Mr. Alia sought to improve his image here by opening diplomatic relations with the United States, inviting American and other foreign observers to monitor the elections and declaring Albania's willingness to adhere to human-rights conventions under the 1975 Helsinki agreement.</p>
+        <p>But those and other concessions by the Communist Government may have come too grudgingly and too slowly to give the 65-year-old President a strong edge in the balloting, especially among the young, who make up perhaps one million of the 1.8 million electorate.</p>
+        <p>Mr. Alia's stump speeches indicate a sense of doubt about his party's chances. Repeatedly he said, "We made mistakes." On Friday at his first news conference, he said, "I am not a dictator," adding that the Communists would accept defeat "if that is the will of the people."</p>
+        <p>In contrast to the polite applause accorded to Mr. Alia and other Communist candidates for the 250-seat Parliament, huge crowds of Albanians cheered wildly for the candidates of the Democratic Party in the cities and even in remote mountain villages.</p>
+        <p>Near the port of Durres, four young Albanian soldiers walking on the highway this afternoon were carrying Democratic Party placards, flashing "V" signs to passing motorists.</p>
+        <p>The Communists still appear to have some strength in the countryside, which the opposition parties have had difficulty penetrating. Sixty percent of the Albanians live in rural communities.</p>
+        <p>The Democratic Party was founded in December by Dr. Berisha with Gramoz Pashko, an economics professor, together with a few student leaders and a worker. Other parties have also sprung up but have not gained widespread support.</p>
+        <p>The Alia Government has provided the opposition parties with space for campaign headquarters, some telephones and some automobiles in this country where private car ownership was banned until this month.</p>
+        <p>The Democrats have pledged to bring Albania "into Europe" and to create genuine "freedom and liberty." They have also hinted broadly that American economic assistance for Albania would be generous if they win.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

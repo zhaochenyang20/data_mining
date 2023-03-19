@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Our Towns</title>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="474422"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">BIRDS</classifier>
+        <classifier class="indexing_service" type="descriptor">OWLS</classifier>
+        <location class="indexing_service">NEW JERSEY</location>
+        <location class="indexing_service">GREAT SWAMP (NJ)</location>
+        <person class="indexing_service">MARCHAND, SUE</person>
+        <person class="indexing_service">MALCOLM, ANDREW H</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New Jersey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Columns/Our Towns</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Birds</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Wildlife</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New Jersey</classifier>
+        <classifier class="online_producer" type="general_descriptor">Birds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Animals</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19910917T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE7D81731F934A2575AC0A967958260" item-length="775" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Our Towns</hl1>
+      </hedline>
+      <byline class="print_byline">By Andrew H. Malcolm</byline>
+      <byline class="normalized_byline">MALCOLM, ANDREW H</byline>
+      <dateline>CHATHAM, N.J.</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Every fall as the evenings grow cooler, the eerie spectacle is repeated. From a branch high in the trees of the Great Swamp Outdoor Education Center, it is truly a strange sight. Nearly three dozen two-legged creatures enter the woods wearing insect repellent. As if driven by a primal urge, they tiptoe single file through the brush in the dark of the autumn night, breaking sticks, crunching leaves and otherwise noisily announcing their awkward presence. Every few minutes they stop. They say, "Shhh." They wait for the Newark-bound jet to whine over. And then they play a tape of different owls calling.</p>
+        <p>At the slightest sound in the woods, the eyes of these creatures suddenly light up. Their powerful beams of light pierce the darkness, moving from branch to branch. Soon, their eyes close and they move on, crunching more leaves and sticks and muttering, "Shhh."</p>
+      </block>
+      <block class="full_text">
+        <p>Every fall as the evenings grow cooler, the eerie spectacle is repeated. From a branch high in the trees of the Great Swamp Outdoor Education Center, it is truly a strange sight. Nearly three dozen two-legged creatures enter the woods wearing insect repellent. As if driven by a primal urge, they tiptoe single file through the brush in the dark of the autumn night, breaking sticks, crunching leaves and otherwise noisily announcing their awkward presence. Every few minutes they stop. They say, "Shhh." They wait for the Newark-bound jet to whine over. And then they play a tape of different owls calling.</p>
+        <p>At the slightest sound in the woods, the eyes of these creatures suddenly light up. Their powerful beams of light pierce the darkness, moving from branch to branch. Soon, their eyes close and they move on, crunching more leaves and sticks and muttering, "Shhh."</p>
+        <p>It is a timeless story of wonder and terror, no doubt passed down by word of beak from generation to generation of wild residents in this dense wildlife refuge surrounded by even denser cities. On dark nights when the humans honk their horns on nearby streets, feathered fathers surely tell gaggles of rapt raptors the Tale of the Wingless Humans.</p>
+        <p>There is, of course, a simple explanation for this seasonal phenomenon. A few people in the nation's most heavily urbanized state are trying to touch, if only visually, a piece of nature that survives amid all the walls and wires and fumes. But unlike other autumn trompings, this is a benign hunt.</p>
+        <p>"I've never seen an owl in all my years," whispered Grace Scully, who had driven a half-hour from Lincoln Park on the off chance that one of those nocturnal, myth-laden birds would acknowledge her presence with a hoot.</p>
+        <p>"I've never been for a walk in the woods in the dark," said Carolyn Simons, who grew up on Broad Street in Bloomfield where the wildest thing she ever heard at night was a big truck changing gears. Sometimes the vehicle's lights flashed through her bedroom window, throwing strange shadows on the walls.</p>
+        <p>Sue Marchand loves such eager students. She's a naturalist for the Morris County Parks Commission. But whether tracking voles on fresh-fallen snow, shattering misconceptions about wildlife or listening for songbirds in the last promising moments before dawn, Ms. Marchand is really an interpreter. She translates the countryside for city dwellers, who do come up with original questions: What do cardinals mate with?</p>
+        <p>"My main goal," said Ms. Marchand, "is to teach people to be gentle with the wild and its residents. Leave them alone. Don't chase them with baseball bats. They are more afraid of you than you are of them."</p>
+        <p>Some frequent messages: Bats are not bad -- they can eat 600 mosquitoes an hour. Don't worry, the swamp's two surviving bears are vegetarians. Hawks don't steal baby humans. Birds don't abandon their young -- they leave to find food or avoid you. Vultures don't eat living things -- they're nature's garbagemen.</p>
+        <p>The subject this evening was New Jersey's owls. "They're not bad luck," said Ms. Marchand. "They can't turn their heads all around. They're not evil because they're only out at night." She described their diet (six mice a night). She told why they're so light (hollow bones). She pointed out their dish-shaped faces and ears seemingly out of kilter, which help channel and trace sounds. And she destroyed numerous claims of hearing owls in the morning; those soft hoots are really mourning doves.</p>
+        <p>She played owl tapes: the great horned owl that sounds like a distant dog barking, the barn owl's rhythmic hoot-hoot and the Saw-whet owl's persistent peeps. "Just remember," she told the city dwellers, "that owl sounds like a garbage truck backing up."</p>
+        <p>She also described owls' keen listening ability: "On a branch 40 feet high, they can hear a mouse crawling beneath seven inches of snow." Which may explain why these fine-feathered hunters chose silence at the approach of a herd of humans "Shhh-ing" their way through the woods. Although someone on high did bestow a large gift of white goo on the path just ahead of Ms. Marchand.</p>
+        <p>"We have more planes than owls tonight," she apologized in one dark clearing. But no one seemed to mind, even 10-year-old Donny Spidell, who has been "into" owls ever since a screech owl moved in near his bedroom.</p>
+        <p>"I love this job," said Ms. Marchand. "I love seeing kids open to new things. Some days it's disturbing to hear them calmly talk about the city streets and then be afraid of a raccoon. But some days you feel you've perhaps planted a seed of respect for the other things that live on our Earth."</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

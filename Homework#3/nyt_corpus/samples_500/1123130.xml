@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Group Picked to Run Queens School Was Ousted in Chicago</title>
+    <meta content="13CHAR" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="1999" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Education; New York and Region" name="online_sections"/>
+    <meta content="Correction Appended" name="banner"/>
+    <meta content="19990715T000000" name="correction_date"/>
+    <docdata>
+      <doc-id id-string="1123130"/>
+      <doc.copyright holder="The New York Times" year="1999"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Education and Schools</classifier>
+        <classifier class="indexing_service" type="descriptor">Charter Schools</classifier>
+        <classifier class="indexing_service" type="descriptor">Tests and Testing</classifier>
+        <location class="indexing_service">New York City</location>
+        <location class="indexing_service">Chicago (Ill)</location>
+        <location class="indexing_service">United Arab Emirates</location>
+        <org class="indexing_service">Samas (Co)</org>
+        <person class="indexing_service">Hu, Winnie</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Illinois</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Midwest</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Education</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Education</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East/United Arab Emirates</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Illinois/Chicago</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Illinois</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Charter Schools</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tests and Testing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19990713T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9504E1DF1E3CF930A25754C0A96F958260" item-length="1776" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Group Picked to Run Queens School Was Ousted in Chicago</hl1>
+      </hedline>
+      <byline class="print_byline">By WINNIE HU</byline>
+      <byline class="normalized_byline">Hu, Winnie</byline>
+      <abstract>
+        <p>Samas, Middle Eastern company that will run charter school that will open in Flushing, Queens, recently lost its contract to operate two charter schools in Chicago; some education officials in New York knew of company's dismissal, but neither investigated it nor informed public about it before giving preliminary approval to Flushing school; educators in Chicago say company was criticized by number of teachers and parents who were concerned about its teaching methods and style of management; say tests, faxed weekly from Abu Dhabi in United Arab Emirates, often came in at last minute and used British spellings (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>When New York officials selected the first eight charter schools for the state last month, they did so knowing that the school to open in Flushing, Queens, would be run by a Middle Eastern company that recently lost its contract to operate two charter schools in Chicago.</p>
+        <p>Some education officials in New York knew of the company's dismissal, but neither investigated it nor informed the public about it before giving preliminary approval to the Flushing school, according to interviews with officials in New York and Chicago.</p>
+      </block>
+      <block class="full_text">
+        <p>When New York officials selected the first eight charter schools for the state last month, they did so knowing that the school to open in Flushing, Queens, would be run by a Middle Eastern company that recently lost its contract to operate two charter schools in Chicago.</p>
+        <p>Some education officials in New York knew of the company's dismissal, but neither investigated it nor informed the public about it before giving preliminary approval to the Flushing school, according to interviews with officials in New York and Chicago.</p>
+        <p>Educators in Chicago say that the company, Sabis, was criticized by a number of teachers and parents who were concerned about the company's teaching methods and style of management.</p>
+        <p>Several said that English and math tests -- faxed weekly from Abu Dhabi in the United Arab Emirates -- often came in at the last minute, had questions unrelated to classroom instruction and used British rather than American spellings (''realising'' instead of ''realizing,'' for instance).</p>
+        <p>Other teachers and parents said the intensive tutoring that was supposed to be the core of Sabis's program took more than a year to be set up at one school and never had enough staff at either school. And parents complained that they were discouraged from meeting privately with teachers and were kept in the dark about administrative decisions.</p>
+        <p>An official of the State University of New York, which oversees part of the charter school system, said that some trustees were aware of Sabis's dismissal, but also said that Sabis had a good record in Massachusetts. He said the trustees accepted the company's explanation that the problems in Chicago were unrelated to education issues.</p>
+        <p>Sabis maintains that it lost its Chicago contract because of administrative and personality clashes.</p>
+        <p>In New York and elsewhere, charter schools are financed by taxpayer money, but largely escape the restrictions imposed on public schools, and scrutiny from school administrators and teachers unions.</p>
+        <p>The New York Times examined the two other private companies that have received preliminary approval to run three of New York's eight initial charter schools and found no major problems or contract disputes in their backgrounds.</p>
+        <p>The other four schools are to be run by nonprofit foundations.</p>
+        <p>Scott W. Steffey, a SUNY vice chancellor who supervises the charter school process, said it was not the state's responsibility to evaluate Sabis's record. He said the community group that selected Sabis was supposed to check its references. ''I don't choose the management firm; that's not my job and that's not my role,'' he said.</p>
+        <p>The Flushing group, a loose coalition of parents, educators and volunteers, said it did not do so because it was busy putting together its application to the state, inspecting potential school sites and gathering support for the charter school.</p>
+        <p>Piero A. Tozzi, a lawyer who led the Flushing effort, said the group learned about Sabis from a list of management companies provided by the New York Charter School Resource Center, a nonprofit organization that helps people apply for charters.</p>
+        <p>The resource center did not look into Sabis's background, either, said Gerry Vazquez, the center's president.</p>
+        <p>Mr. Tozzi, now aware of criticisms of Sabis's Chicago schools, said he continued to support the selection of Sabis to run the Flushing school.</p>
+        <p>Sabis has sued the nonprofit foundation that oversees the two Chicago schools for breach of contract. In interviews and legal papers, company officials have characterized their dismissal last December as a dispute over contractual issues like building repairs, fund-raising and management of future schools.</p>
+        <p>The foundation's directors have refused to comment publicly or to release a detailed termination letter because the matter is in court. But a lawyer for the foundation said it was not satisfied with Sabis's overall performance.</p>
+        <p>A Chicago education official who has seen the termination letter said the foundation's directors felt that Sabis had failed to deliver the education program it had promised. ''It wasn't that Sabis offered to do something that couldn't be done,'' said the official, speaking on the condition of anonymity. ''But for whatever reasons, they weren't working the way they were supposed to in Chicago.''</p>
+        <p>Sabis also operates 3 charter schools in Massachusetts that have had no major problems, one private school in Minnesota and 14 others in the Middle East, England and Germany. But when pressed for details, several educators and charter school consultants acknowledged that they knew very little about the company.</p>
+        <p>Sabis's director is Ralph Bistany, a citizen of Lebanon and France who received master's degrees in math and physics from the American University of Beirut. In a telephone interview from Juniye, Lebanon, Mr. Bistany suggested that the company's problems in Chicago stemmed from clashes with the foundation over administrative and contractual matters.</p>
+        <p>Since then, he said, Sabis -- which began with a private school just outside Beirut -- has also won approval to open charter schools in Michigan, North Carolina and the District of Columbia.</p>
+        <p>''I think we've learned a lesson,'' Mr. Bistany said of his experience in Chicago, conceding that the company had hired poor administrators. ''But whenever we are under pressure, we concentrate on the education.''</p>
+        <p>That there has been no investigation or any sort of public discussion in New York about Sabis's problems in Chicago raises new questions about the selection process for the charter schools.</p>
+        <p>The trustees, accused by Schools Chancellor Rudy Crew and others of acting in secret when they approved the eight charter schools last month, are scheduled to conduct a second vote today on the three schools to open in the fall. The other five, including the Flushing school, are to open in 2000.</p>
+        <p>New York's charter school law allows SUNY and the State Board of Regents to grant up to 50 charters each to groups of parents, teachers or administrators, or to community groups and foundations, to set up the new schools. In turn, those groups can hire private companies to run the schools.</p>
+        <p>After the law passed, SUNY moved quickly to establish a Charter School Institute to encourage and screen applications. On June 15, the university's trustees selected the first group of schools, subject to a final review by the Board of Regents.</p>
+        <p>The Flushing International Charter School plans to enroll 249 students in kindergarten through fourth grade in the first year, and eventually expand to 1,400 students from kindergarten through 12th grade. Language classes in Mandarin Chinese would be offered to serve the predominantly Asian community.</p>
+        <p>Sabis would pay $1.3 million in start-up and operating costs for five years, according to its application with a community group in Flushing. The school would also receive an estimated $29.1 million in public money during that time. A building has not yet been leased.</p>
+        <p>Assemblyman Steven Sanders, a Manhattan Democrat who is chairman of the Assembly education committee, said the final responsibility for checking out Sabis belonged to state education officials. ''They have been negligent and casual in their interpretation and enforcement of charter school law in order to hasten the process,'' he said.</p>
+        <p>Mr. Steffey, the SUNY official, said he was aware of Sabis's canceled contract in Chicago but acknowledged that no one from SUNY had pursued the matter in depth with the Chicago foundation or public school officials.</p>
+        <p>He said that at a conference last March, two members of the Chicago foundation were on a panel that discussed contractual problems with management companies. Mr. Steffey said he asked questions from the audience, but did not hear anything that caused him concern.</p>
+        <p>Members of the five-member advisory panel of charter school founders and academic consultants that reviewed the Flushing school application were aware of Sabis's record in Chicago, but did not review it in detail, focusing instead on the mission of the Flushing school.</p>
+        <p>Sabis -- the name is a hybrid of Mr. Bistany's and that of his partner, Leila Saad -- is a family-run company that includes the network of charter schools and private schools, real estate holdings and a computer business in Beirut. Mr. Bistany declined to give more specific information about the company's activities and finances.</p>
+        <p>The company branch that manages charter schools, Sabis Educational Systems, is a business name for the International School of Minnesota, the private school founded by Sabis in 1985. The school is owned by an offshore company, which in turn is owned by the Sabis Foundation in Liechtenstein, Mr. Bistany said.</p>
+        <p>Sabis's two Chicago schools, situated on opposite sides of the city, had 1,700 students, just over half of the city's charter school enrollment. One school was predominantly black and Hispanic, while the other was racially mixed, according to education officials, and both drew students from working-class and middle-class families.</p>
+        <p>Although students performed well on yearly standardized exams -- one measure of a charter school's progress -- there were signs of problems. Sabis replaced three principals, known as directors, in the first year, and several teachers described a general disorganization that included the last-minute tests faxed from Abu Dhabi.</p>
+        <p>''Things were basically run by the seat of the pants,'' said Jerry Mash, a former principal. ''We all complained, but it just fell on deaf ears. Mr. Bistany said this is the way it is.''</p>
+        <p>Parents also complained, saying that Sabis resisted their efforts to volunteer at the school. ''I felt, and other parents did, too, that the school really wasn't welcoming us,'' said Yoko Gely, whose son was a second grader at a Sabis school.</p>
+        <p>Mr. Steffey, the SUNY official, said he had not heard these criticisms, though he added that he and his staff had met with Sabis officials and had read Sabis's lawsuit against the foundation for breach of contract.</p>
+        <p>He emphasized that the review process had not yet been completed, noting that a public hearing would take place before the charter was actually granted.</p>
+        <p>After being informed of the criticisms about Sabis, Mr. Tozzi, of the Flushing group, said he obtained a copy of Sabis's termination letter and talked to an education official in Chicago. ''It hasn't changed my mind,'' he said last week.</p>
+        <p>Correction:  July 15, 1999, Thursday  A picture on Tuesday with an article about the record of Sabis, a Middle Eastern company chosen to operate a charter school in New York, was published in error. It showed Marshall Mitchell, at the left, executive director of Parents for School Choice, and John Elwell, director of school operations for Victory Schools, which is to run a charter school in Harlem. It did not show  Randy Daniels, a SUNY trustee, and Scott W. Steffey, a vice chancellor at SUNY.</p>
+      </block>
+      <block class="correction_text">
+        <p>Correction: July 15, 1999, Thursday</p>
+        <p>A picture on Tuesday with an article about the record of Sabis, a Middle Eastern company chosen to operate a charter school in New York, was published in error. It showed Marshall Mitchell, at the left, executive director of Parents for School Choice, and John Elwell, director of school operations for Victory Schools, which is to run a charter school in Harlem. It did not show  Randy Daniels, a SUNY trustee, and Scott W. Steffey, a vice chancellor at SUNY.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

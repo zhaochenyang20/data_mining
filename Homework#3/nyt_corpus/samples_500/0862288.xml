@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Bronchitis Stops Tyson: Seldon Fight Is Off</title>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="1996" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="862288"/>
+      <doc.copyright holder="The New York Times" year="1996"/>
+      <series series.name="BOXING"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">BOXING</classifier>
+        <org class="indexing_service">WORLD BOXING ASSN</org>
+        <person class="indexing_service">TYSON, MIKE</person>
+        <person class="indexing_service">SELDON, BRUCE</person>
+        <person class="indexing_service">LITSKY, FRANK MIKE TYSON</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Bronchitis</classifier>
+        <classifier class="online_producer" type="general_descriptor">Boxing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19960704T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C06E7DD1039F937A35754C0A960958260" item-length="649" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Bronchitis Stops Tyson: Seldon Fight Is Off</hl1>
+      </hedline>
+      <byline class="print_byline">By FRANK LITSKY</byline>
+      <byline class="normalized_byline">; LITSKY, FRANK MIKE TYSON</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Mike Tyson is suffering from bronchitis, and his July 13 fight against Bruce  Seldon for Seldon's World Boxing Association heavyweight title has been postponed to eptember or October.</p>
+        <p>The surprise announcement came at a news conference yesterday in Las Vegas, Nev., involving the promoter Don King, the co-manager John Horne and Dr. Robert Voy, who has been treating Tyson. On Monday, Tyson said in a teleconference that he was healthy and looking forward to the fight.</p>
+      </block>
+      <block class="full_text">
+        <p>Mike Tyson is suffering from bronchitis, and his July 13 fight against Bruce  Seldon for Seldon's World Boxing Association heavyweight title has been postponed to eptember or October.</p>
+        <p>The surprise announcement came at a news conference yesterday in Las Vegas, Nev., involving the promoter Don King, the co-manager John Horne and Dr. Robert Voy, who has been treating Tyson. On Monday, Tyson said in a teleconference that he was healthy and looking forward to the fight.</p>
+        <p>King said Voy made the decision to postpone the bout. Voy, once the chief medical officer of the United States Olympic Committee, is a sports medicine specialist from Las Vegas and has treated Tyson before.</p>
+        <p>"He hasn't had a full day's workout in the last two or three weeks," Voy said. "He's been treated daily with antibiotics under the supervision of a lung  specialist. His progress has been very slow. He is recovering, but not quick enough. I don't think he would be ready for a heavyweight championship bout."</p>
+        <p>Showtime Entertainment Television, which had been scheduled to show the fight on pay-per-view, will show the rescheduled fight. Jay Larkin, senior vice president of Showtime, the network's parent group, said the postponement was a "disappointment."</p>
+        <p>"Everything was geared up," he said. "The monetary loss we're looking at is in fees for production and marketing already done. But our commercials are already done and just have to be amended for another date."</p>
+        <p>King said about 8,000 to 9,000 tickets had been sold for the fight at the MGM Grand, which seats 16,000. The postponement was the second for Tyson since his release from prison in March 1995. He was to have fought Buster Mathis Jr. last  November, but the fight was delayed six weeks after Tyson broke a thumb the week before the fight. Since his return, the 29-year-old Tyson has knocked out Tom McNeeley last Aug. 19 in 89 seconds, Mathis on Dec. 16 in three rounds and Frank Bruno of England March 16 in three rounds. The complexities of boxing politics and alphabet-soup governing bodies (W.B.C., W.B.A., I.B.F., W.B.O. and W.B.U.) had led Tyson and King to a seemingly strange course.</p>
+        <p>The World Boxing Council wants Tyson to defend against Lennox Lewis of England, a former champion and now its No. 1 contender. Lewis turned down a $13.5 million guarantee to fight Tyson. Lewis then accepted $4 million from King to step aside and allow Tyson to fight Seldon, with the proviso that Tyson, assuming he beat Seldon, would fight Lewis next. Tyson is expected to receive $30 million for fighting Seldon.</p>
+        <p>Now Lewis's handlers say they will guarantee Tyson $45 million to fight Lewis, but Tyson seems more interested in fighting Evander Holyfield, a former champion. If Tyson bypasses Lewis, the W.B.C. will strip Tyson of his title for  refusing to fight its top-ranked contender. It would then match Lewis and Oliver McCall, its second-ranked contender, for the vacant title. If all those things happened, the next big fight would probably be the Lewis-McCall winner against -- who else? -- Tyson.</p>
+        <p>And Riddick Bowe, another former champion, wants to get into the picture. Bowe fights Andrew Golota next Thursday night at Madison Square Garden, but he said his main targets were fights with Lewis or Tyson or both.</p>
+        <p>"I believe they called off the Tyson fight because of money," Bowe said on a  hastily arranged conference call. "I don't think tickets were selling that good. If they want to make money, I'm the guy to fight. I'm available."</p>
+        <p>When Tyson was asked Monday what Seldon should be thinking, he said, "Don't show up." Now Tyson is the one not showing up.</p>
+        <p>BOXING</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

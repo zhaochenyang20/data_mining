@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>States and Cities Must Hunt Terror Plots, Governor Says</title>
+    <meta content="15SECU$02" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2004/12/15/national/15secure.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1634927"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Terrorism</classifier>
+        <org class="indexing_service">Homeland Security Advisory Council</org>
+        <person class="indexing_service">Romney, Mitt (Gov)</person>
+        <person class="indexing_service">Ridge, Tom (Dir)</person>
+        <person class="indexing_service">Belluck, Pam</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2008</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2008/Candidates</classifier>
+        <classifier class="online_producer" type="descriptor">Terrorism</classifier>
+        <classifier class="online_producer" type="descriptor">Espionage</classifier>
+        <classifier class="online_producer" type="general_descriptor">Espionage</classifier>
+        <classifier class="online_producer" type="general_descriptor">Terrorism</classifier>
+        <person class="online_producer">Romney, Mitt</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20041215T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9902E5DE1730F936A25751C1A9629C8B63" item-length="1056" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>States and Cities Must Hunt Terror Plots, Governor Says</hl1>
+        <hl2 class="online_headline">States and Cities Must Hunt Terror Plots, Mass. Governor Says</hl2>
+      </hedline>
+      <byline class="print_byline">By PAM BELLUCK</byline>
+      <byline class="normalized_byline">Belluck, Pam</byline>
+      <dateline>BOSTON, Dec. 14</dateline>
+      <abstract>
+        <p>Gov Mitt Romney, leader of national working group on safeguarding nation, says state and local agencies and private businesses must gather intelligence themselves and not just rely on federal government to protect America against terrorism, presentation by phone to Homeland Security Sec Tom Ridge and Homeland Security Advisory Council meeting, San Diego; says local law enforcement agencies cannot protect all possible terrorist targets and should devote more resources to intelligence to find terrorists before they act; wants states to marshal local agencies and businesses to collect data that might, when stitched together, point to potential attacks; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To protect America against terrorists, state and local agencies, as well as private businesses, need to gather intelligence themselves and not just rely on intelligence gathered by the federal government, Gov. Mitt Romney of Massachusetts, the leader of a national working group on safeguarding the nation, told homeland security officials on Tuesday.</p>
+        <p>''The eyes and ears which gather intelligence need to be as developed in our country as they were in foreign countries during the cold war,'' Mr. Romney told the group. ''Meter readers, E.M.S. drivers, law enforcement, private sector personnel need to be on the lookout for information which may be as useful.''</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Gov. Mitt Romney, the leader of a national working group on homeland security, said that state and local agencies should not rely only on federal intelligence.</p>
+      </block>
+      <block class="full_text">
+        <p>To protect America against terrorists, state and local agencies, as well as private businesses, need to gather intelligence themselves and not just rely on intelligence gathered by the federal government, Gov. Mitt Romney of Massachusetts, the leader of a national working group on safeguarding the nation, told homeland security officials on Tuesday.</p>
+        <p>''The eyes and ears which gather intelligence need to be as developed in our country as they were in foreign countries during the cold war,'' Mr. Romney told the group. ''Meter readers, E.M.S. drivers, law enforcement, private sector personnel need to be on the lookout for information which may be as useful.''</p>
+        <p>In a presentation by telephone to Tom Ridge, the secretary of homeland security, and members of the Homeland Security Advisory Council, who were meeting in San Diego, Mr. Romney said that local law enforcement agencies should stop believing that they could protect all possible targets of terrorism.</p>
+        <p>''We could increase our law enforcement personnel tenfold, but we can't protect every target,'' Mr. Romney said. ''There are just too many schools, churches, stadiums, bridges, tunnels, roads, subways. We have to be able to find the bad guys before they carry out their acts, and that can only be done through intelligence. The financial resources of our nation and our states should be increasingly devoted to this effort.''</p>
+        <p>The proposal by Mr. Romney's working group represents a new and more assertive role for many local law enforcement agencies and other public and private entities in fighting terrorism, some experts on domestic security said.</p>
+        <p>Some cities and states, including Massachusetts, Colorado and Los Angeles, have set up or are planning ''fusion centers,'' which collect information from local sources and seek to analyze it and draw conclusions. New York City goes beyond that, sending detectives to places like Israel and Singapore, as well as to other states to investigate businesses that sell explosives.</p>
+        <p>But under Mr. Romney's proposal, every state would be urged to marshal local agencies and businesses, with the goal of collecting details and observations that might, when stitched together, point to a potential terrorist attack.</p>
+        <p>''If you have a transit system that circles a major city and you get reports of people photographing trains at various locations, well, the report from one police station may be meaningless, but several of them may be a pattern,'' said John D. Cohen, senior homeland security policy adviser to Massachusetts.</p>
+        <p>The proposal ''makes a great deal of sense to me,'' said Dave McIntyre, who teaches about domestic security at Texas A&amp;M University. ''I don't see how you're going to protect every high school football stadium, every school bus, every theater. I do think that we might find that a better investment of resources is to look at intelligence and investigative development.''</p>
+        <p>Mr. Romney, who dealt with post-9/11 security issues as president of the organizing committee for the 2002 Winter Olympics in Salt Lake City, said in an interview on Monday that his involvement with the domestic security working group was an outgrowth of the concern he felt as governor about the way the federal government was transmitting information and the lack of direction that the federal government was giving the states.</p>
+        <p>''I was initially quite frustrated that the homeland security money came without any sense of what states should do,'' Mr. Romney said, saying that when he raised those concerns, he was asked to assemble and lead a working group on the subject.</p>
+        <p>Mr. Romney, who is often mentioned as a Republican with potential or ambition to occupy a national office, insisted in the interview that he had no desire to be the next director of homeland security, or to take any other position in the Bush administration. He said that after the November elections, he told Andrew H. Card Jr., the White House chief of staff, ''in case my name gets bandied about for any position, I'm filling my entire term'' as governor, which expires in two years.</p>
+        <p>Dr. McIntyre said a potential pitfall of the working group's proposal was the issue of making sure that local agencies and businesses did not violate civil liberties. ''How do we properly ensure that we're investigating some Americans without investigating all Americans?'' he asked.</p>
+        <p>Mr. Cohen, the security adviser, said: ''When we're talking about engaging frontline personnel, we're not asking them to go out and spy on people. In the course of them doing their jobs day to day, they collect information. And we're talking about teaching people to be more sensitive when information that is collected in the course of their day-to-day business may actually have a nexus with terrorism.''</p>
+        <p>At Tuesday's meeting in San Diego, with Mr. Romney presenting his report from Boston, Mr. Ridge asked about the cost of the working group's plan. Mr. Romney, whose group included state and local officials and business executives from around the country, said some of the money for training local officials and setting up fusion centers could come from federal homeland security grants to states.</p>
+        <p>But, he added: ''Whether I'm going to get funding from the federal government or not, this is a priority and I'm going to go after this. I went to the Legislature this year to get funding for our fusion center.''</p>
+        <p>Mr. Romney said the intelligence that states received from the federal government was ''oftentimes confusing'' and sometimes contradictory. His report recommended that information be disseminated through a single federal agency.</p>
+        <p>Mr. Romney's report also said that too much information from the federal agencies was classified as secret or top secret, barring state officials from giving details to most local officials, who do not have adequate security clearance.</p>
+        <p>''You're put in a position of not passing it on or passing it on to someone without the right clearance and violating the law,'' Mr. Cohen said.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

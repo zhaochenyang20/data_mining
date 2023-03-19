@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>CLASSICAL MUSIC: CLASSICAL RECORDINGS</title>
+    <meta content="16EICH" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Arts and Leisure Desk" name="dsk"/>
+    <meta content="25" name="print_page_number"/>
+    <meta content="2" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1642257"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Music</classifier>
+        <classifier class="indexing_service" type="descriptor">Recordings (Audio)</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Eichler, Jeremy</person>
+        <person class="indexing_service">Faust, Isabelle</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Recordings (Audio)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20050116T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CE4DA1638F935A25752C0A9639C8B63" item-length="320" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>CLASSICAL MUSIC: CLASSICAL RECORDINGS</hl1>
+      </hedline>
+      <byline class="print_byline">By JEREMY EICHLER</byline>
+      <byline class="normalized_byline">Eichler, Jeremy</byline>
+      <abstract>
+        <p>Jeremy Eichler reviews recording Dvorak: Violin Concerto, Piano Trio in F Minor featuring violinist Isabelle Faust (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Dvorak: Violin Concerto, Piano Trio in F minor</p>
+        <p>Isabelle Faust, violinist; Jean-Guihen Queyras, cellist; Alexander Melnikov, pianist; Prague Philharmonia, conducted by Jiri Belohlavek. Harmonia Mundi France HMC 901833; CD.</p>
+        <p>THE Dvorak anniversary year is officially over, but the tributes keep rolling in like birthday calls from forgetful relatives.</p>
+      </block>
+      <block class="full_text">
+        <p>Dvorak: Violin Concerto, Piano Trio in F minor</p>
+        <p>Isabelle Faust, violinist; Jean-Guihen Queyras, cellist; Alexander Melnikov, pianist; Prague Philharmonia, conducted by Jiri Belohlavek. Harmonia Mundi France HMC 901833; CD.</p>
+        <p>THE Dvorak anniversary year is officially over, but the tributes keep rolling in like birthday calls from forgetful relatives.</p>
+        <p>One noteworthy new disc comes from the talented young German violinist Isabelle Faust. Ms. Faust has built her career primarily in Europe, but she is slowly becoming known in this country through a series of impressive recordings that have shown her to be a thoughtful and dynamic interpreter of 20th-century repertory, from Bartok to Szymanowski and Lutoslawski. Her insights and fiery commitment in that music have announced her as a fresh voice with something compelling to say.</p>
+        <p>Ms. Faust continues in that vein with this recording, though she has now ventured into the land of big concertos, where she inevitably encounters much more competition. Dvorak's Violin Concerto hardly receives the attention of his towering Cello Concerto, but this meaty Brahmsian work has been turning up recently with increasing frequency in the concert hall and on disc.</p>
+        <p>Ms. Faust gives a resonant and impassioned account that can easily hold its own next to recent efforts from her better-known peers. The first movement draws you in with its expressive urgency, the slow movement's finely drawn lines avoid the pitfalls of oversentimentality, and the finale has a bright ardency and tight rhythmic flair. The Prague Philharmonia under Jiri Belohlavek gives Ms. Faust warm and well-proportioned support.</p>
+        <p>Complementing the concerto is a heated account of Dvorak's darker F minor Piano Trio, showing Ms. Faust to be not only a fine soloist but also a capable ensemble leader. You have to hope, however, that such a mainstream disc does not mark a turn away from her earlier commitment to exploring less-trafficked corridors of the repertory.</p>
+        <p>JEREMY EICHLER</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

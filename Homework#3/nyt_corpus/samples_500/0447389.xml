@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>IRAQI ARMY AGREES TO A PULLOUT PLAN</title>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="447389"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">ARMAMENT, DEFENSE AND MILITARY FORCES</classifier>
+        <classifier class="indexing_service" type="descriptor">UNITED STATES ARMAMENT AND DEFENSE</classifier>
+        <classifier class="indexing_service" type="descriptor">KURDS</classifier>
+        <location class="indexing_service">IRAQ</location>
+        <location class="indexing_service">DOHUK (IRAQ)</location>
+        <person class="indexing_service">HABERMAN, CLYDE</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Iraq</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East/Iraq</classifier>
+        <classifier class="online_producer" type="general_descriptor">Kurds</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Armament and Defense</classifier>
+        <classifier class="online_producer" type="general_descriptor">Armament, Defense and Military Forces</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19910523T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CEED61338F930A15756C0A967958260" item-length="711" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>IRAQI ARMY AGREES TO A PULLOUT PLAN</hl1>
+      </hedline>
+      <byline class="print_byline">By CLYDE HABERMAN,</byline>
+      <byline class="normalized_byline">HABERMAN, CLYDE</byline>
+      <dateline>ZAKHO, Iraq, May 22</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>In a potential breakthrough, allied and Iraqi military commanders agreed today that Iraqi soldiers and secret policemen would withdraw from the important Kurdish city of Dohuk and that allied forces would move in starting Friday.</p>
+        <p>Senior United States officers said that relatively few allied troops would be involved, perhaps 200 according to one rough estimate, among them 20 military police officers who are to provide security.</p>
+      </block>
+      <block class="full_text">
+        <p>In a potential breakthrough, allied and Iraqi military commanders agreed today that Iraqi soldiers and secret policemen would withdraw from the important Kurdish city of Dohuk and that allied forces would move in starting Friday.</p>
+        <p>Senior United States officers said that relatively few allied troops would be involved, perhaps 200 according to one rough estimate, among them 20 military police officers who are to provide security.</p>
+        <p>The commanders insisted that this did not amount to an expansion of the special zone created last month to protect Kurdish refugees returning to northern Iraq. Most of those being sent into Dohuk, including civilians, are technical experts charged with helping a war-torn city get back on its feet.</p>
+        <p>Lieut. Gen. John Shalikashvili, the United States Army officer in charge of the rescue operation, said the Dohuk situation would be assessed on a weekly basis to determine how long his troops would remain.</p>
+        <p>Nonetheless, the agreement pushes the allies deeper into northern Iraq in their search for a formula that will persuade refugees to go home. Most of them, some 200,000 people, come from Dohuk, which was largely evacuated by the Kurds as they fled into Turkey after their failed rebellion against President Saddam Hussein.</p>
+        <p>Getting them to return to the city, which lies outside the established security zone, is regarded as essential to resolve the continuing refugee crisis. But with near-unanimity the Kurds have said that it is unsafe for them there without some sort of allied shield.</p>
+        <p>The question now is whether the new military plan, a hard-won arrangement, will be the breakthrough that satisfies the Kurds. Initial reactions suggested perhaps not.</p>
+        <p>"No, it's not enough," said Fadhil Merani, a representative of the Kurdish leader Massoud Barzani, as he went to a meeting with American commanders. Later, Mr. Merani softened his position, saying that "something positive is coming" and that people might return to Dohuk in two or three days.</p>
+        <p>But his tone was lukewarm, and another Kurd who attended the meeting said that he was not satisfied.</p>
+        <p>Throughout the crisis, allied leaders have said it is up to the Kurds to decide if they should go home, for it is they who have suffered repeated waves of repression under Mr. Hussein.</p>
+        <p>"It is hopeful that what we are talking about today will satisfy most of their requirements," General Shalikashvili said after striking a deal with Lieut. Gen. Abu Firas Saber of the Iraqi general staff.</p>
+        <p>There seems to be some American exasperation with the Kurdish leaders, who are involved simultaneously in negotiations with the Iraqi Government over increased self-determination for Kurdish regions. Some officers feel that while the Kurds may have legitimate reasons to distrust Mr. Hussein, they may also want to keep the allies here as long as possible to strengthen their bargaining position. Kurdish Policemen Only</p>
+        <p>The agreement today calls for the few Iraqi soldiers still in Dohuk to pull back six miles south of the city by Friday morning. Mr. Hussein's secret police -- who are in abundance there, according to Kurds who have returned on scouting missions -- must also be gone. The Iraqis will be allowed to maintain a checkpoint outside the city, but it must be manned by policeofficers of Kurdish origin, to help make sure that returning refugees are not armed.</p>
+        <p>As the Iraqis withdraw, the allied force is supposed to move in.</p>
+        <p>There will be no combat troops, officials said, and security will be handled by the military police. Col. Lucious Delk, commander of the military police detachment here, said that about 20 officers would be sent but that their assignment is to protect other members of the allied contingent, not to patrol the city as troops do now in Zakho and other towns in the security zone.</p>
+        <p>Most of those being sent are engineers, medics and other specialists who are to help Dohuk return to normal.</p>
+        <p>An American and British survey team went there on Monday and found the city to be in better shape than they had thought, with Kurds starting to return from the mountains. But Dohuk still has deficiencies in sanitation, water supplies and electricity. In addition, hundreds of houses were destroyed and looted by Iraqi troops.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

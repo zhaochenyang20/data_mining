@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Harcourt Seeking Approval To Operate an Online College</title>
+    <meta content="Y19BOOK" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Technology; Education; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1223581"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Colleges and Universities</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <org class="indexing_service">Harcourt General Inc</org>
+        <person class="indexing_service">Kirkpatrick, David D</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Education</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Colleges and Universities</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000819T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D00EED7123EF93AA2575BC0A9669C8B63" item-length="430" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Harcourt Seeking Approval To Operate an Online College</hl1>
+      </hedline>
+      <byline class="print_byline">By DAVID D. KIRKPATRICK</byline>
+      <byline class="normalized_byline">Kirkpatrick, David D</byline>
+      <abstract>
+        <p>Harcourt General seeks to join handful of private companies offering college-level courses online (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>In a bid to join a handful of private companies offering college-level courses over the Internet, Harcourt General hopes to receive approval on Monday to operate an online college.</p>
+        <p>Harcourt General, an educational publisher based in Chestnut Hill, Mass., said its Higher Education unit had been working with the staff of the Massachusetts Board of Higher Education for 18 months to meet its standards for approval as a college, granting associate or bachelor's degrees through online classes.</p>
+      </block>
+      <block class="full_text">
+        <p>In a bid to join a handful of private companies offering college-level courses over the Internet, Harcourt General hopes to receive approval on Monday to operate an online college.</p>
+        <p>Harcourt General, an educational publisher based in Chestnut Hill, Mass., said its Higher Education unit had been working with the staff of the Massachusetts Board of Higher Education for 18 months to meet its standards for approval as a college, granting associate or bachelor's degrees through online classes.</p>
+        <p>The unit's president and chief executive, Robert Antonucci, said the company hoped to begin offering at least 80 courses in the fall and 120 by the end of the year, selling as many as 10,000 individual 12-week courses for about $900 each. The company expects to draw primarily adult students.</p>
+        <p>Mr. Antonucci said that ''about 50 percent'' of the course books would come from Harcourt. He said professors were free to chose, but ''when it is close we would probably go with a Harcourt book.'' Students will also have access to an online library of electronic journals and books.</p>
+        <p>Harcourt has hired 4 full-time faculty members and about 30 adjunct faculty members in four schools: health and science, business, information technology and arts and science. ''It will be a full-service college, except without bricks and mortar and without professors in classrooms,'' Mr. Antonucci said.</p>
+        <p>Students will join classes with about 10 members, each led by a professor who posts lecture notes and assignments on the Internet. Discussions with the professor and other students will take place by e-mail at the students' convenience.</p>
+        <p>Another Harcourt unit already provides college courses by mail to about 400,000 students through a correspondence school licensed by Pennsylvania that Harcourt acquired in 1997 when it bought the National Education Corporation. Mr. Antonucci said Harcourt had spent more than $10 million over the last two years developing its online curriculum. Mr. Antonucci previously served as the Massachusetts education commissioner.</p>
+        <p>A few other companies already offer full college degrees over the Internet, including the University of Phoenix, Jones International University and Capella University. The financier Michael R. Milken is building an online higher education company called Knowledge Universe.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

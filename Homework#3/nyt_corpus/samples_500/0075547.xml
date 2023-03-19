@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>CITIZENS GROWTH PROPERTIES (CO) reports earnings for Qtr to July 31</title>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="41" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="75547"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">COMPANY REPORTS</classifier>
+        <classifier class="online_producer" type="types_of_material">Statistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Company Reports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Corporations</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870919T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9505E0D71338F93AA2575AC0A961948260" item-length="63" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>CITIZENS GROWTH PROPERTIES (CO) reports earnings for Qtr to July 31</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD:</p>
+        <p>*3*** COMPANY REPORTS **</p>
+        <p>*3*CITIZENS GROWTH PROPERTIES (CO)</p>
+        <p>Qtr to July 31</p>
+        <p>1987</p>
+        <p>1986</p>
+        <p>Revenue</p>
+        <p>293,000</p>
+        <p>220,000</p>
+        <p>Net loss</p>
+        <p>297,000</p>
+        <p>b166,000</p>
+        <p>Share earns</p>
+        <p>-</p>
+        <p>.32</p>
+        <p>9mo rev</p>
+        <p>444,000</p>
+        <p>473,000</p>
+        <p>Net loss</p>
+        <p>172,000</p>
+        <p>b290,000</p>
+        <p>b-Net income and includes tax credits of $72,000 and $86,000 for the quarter and 9 months, respectively.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD:</p>
+        <p>*3*** COMPANY REPORTS **</p>
+        <p>*3*CITIZENS GROWTH PROPERTIES (CO)</p>
+        <p>Qtr to July 31</p>
+        <p>1987</p>
+        <p>1986</p>
+        <p>Revenue</p>
+        <p>293,000</p>
+        <p>220,000</p>
+        <p>Net loss</p>
+        <p>297,000</p>
+        <p>b166,000</p>
+        <p>Share earns</p>
+        <p>-</p>
+        <p>.32</p>
+        <p>9mo rev</p>
+        <p>444,000</p>
+        <p>473,000</p>
+        <p>Net loss</p>
+        <p>172,000</p>
+        <p>b290,000</p>
+        <p>b-Net income and includes tax credits of $72,000 and $86,000 for the quarter and 9 months, respectively.</p>
+        <p>*3*** COMPANY REPORTS **</p>
+        <p>*3*CITIZENS GROWTH PROPERTIES (CO)</p>
+        <p>Qtr to July 31</p>
+        <p>1987</p>
+        <p>1986</p>
+        <p>Revenue</p>
+        <p>293,000</p>
+        <p>220,000</p>
+        <p>Net loss</p>
+        <p>297,000</p>
+        <p>b166,000</p>
+        <p>Share earns</p>
+        <p>-</p>
+        <p>.32</p>
+        <p>9mo rev</p>
+        <p>444,000</p>
+        <p>473,000</p>
+        <p>Net loss</p>
+        <p>172,000</p>
+        <p>b290,000</p>
+        <p>b-Net income and includes tax credits of $72,000 and $86,000 for the quarter and 9 months, respectively.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

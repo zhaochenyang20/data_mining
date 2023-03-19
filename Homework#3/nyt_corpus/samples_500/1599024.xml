@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Conservatively Speaking</title>
+    <meta content="LTR113024" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Magazine; Washington; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1599024"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">United States Politics and Government</classifier>
+        <org class="indexing_service">National Review (Magazine)</org>
+        <person class="indexing_service">Soderberg, Ted C</person>
+        <person class="indexing_service">Buckley, William F Jr</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040725T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D05E2D9103AF936A15754C0A9629C8B63" item-length="73" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Conservatively Speaking</hl1>
+      </hedline>
+      <abstract>
+        <p>Ted C Soderberg letter praises William F Buckley for not being afraid of what others think (July 11 interview)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>I enjoyed Deborah Solomon's questions (July 11) for the king of conservatism. Good for William F. Buckley. He shoots straight from the hip, and he isn't afraid of what other people think. I only wonder if he authorized that disheveled picture you printed.</p>
+        <p>Ted C. Soderberg  San Francisco</p>
+      </block>
+      <block class="full_text">
+        <p>I enjoyed Deborah Solomon's questions (July 11) for the king of conservatism. Good for William F. Buckley. He shoots straight from the hip, and he isn't afraid of what other people think. I only wonder if he authorized that disheveled picture you printed.</p>
+        <p>Ted C. Soderberg  San Francisco</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

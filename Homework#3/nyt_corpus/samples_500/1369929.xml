@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths  KUPFERMANN, IRVING, PH.D.</title>
+    <meta content="DN022202" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1369929"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <identified-content>
+        <person class="indexing_service">KUPFERMANN, IRVING, PH.D.</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20020222T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9501E2D7133EF931A15751C0A9649C8B63" item-length="395" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths  KUPFERMANN, IRVING, PH.D.</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>KUPFERMANN-Irving, Ph.D., on Tuesday, February 19, 2002, at home. Neuroscientist and beloved husband of Kirsten, loving father of his children David and Celina Poole, and grandfather to new and cherished Justin Paul Poole, father-in-law to Patty Kupfermann and Jonathan Poole. In addition to his warmth and kindness, Irving was notorious as an inveterate punster. He was known to all as adventurer, jazz connoisseur and avid tenor saxophonist, lover of movies, theater, and modern dance, and one who brought scientific precision to the game of golf. He delighted in photographing fire hydrants in elegant settings worldwide, sometimes featuring friends and colleagues. He was a valued member of the New York scientific community, first at New York University and later at Columbia University and New York State Psychiatric Institute where he was a faculty member for twenty-nine years. Irving was unique, a compassionate and understanding listener to all who sought his advice and counsel. Family, friends and colleagues will gather to celebrate his life on Sunday, March 3, 1-5 PM at the Faculty Club of the College of Physicians and Surgeons of Columbia University, 630 West 168th Street, New York, NY 10032. In lieu of flowers, the family requests that memorial contributions be sent to Planned Parenthood, Amnesty International, Sierra Club; Hospice Care Network, 900 Merchant's Concourse, Westbury, NY 11590; or, Donations for Prion Research, 44 Montgomery St., Suite 2200; San Francisco, CA 94104-0248 (Check payable to: UC RegentsUniversity of San Francisco).</p>
+        <p>KUPFERMANN-Irving, Ph.D., on Tuesday, February 19, 2002, at home, of Creutzfeldt Jacob's disease. Professor of Psychiatry and Physiology &amp; Cellular Biophysics in the Center for Neurobiology &amp; Behavior, Columbia University, College of Physicians &amp; Surgeons; and Research Scientist, New York State Psychiatric Institute. The faculty and students of the Center for Neurobiology and Behavior mourn the loss of one of its founding members. Irving was a generous colleague, a superb teacher, and a uniquely creative and influential neurobiologist. He will be missed profoundly by his friends at Columbia and throughout the academic community. His memory will serve as a standard for academic excellence and collegiality. We extend our deepest sympathy to his loving wife Kerstin, and his children David and Celina. Family, friends and colleagues will gather to celebrate his life on Sunday March 3, at the Faculty Club of the College of Physicians &amp; Surgeons of Columbia University, 630 W. 168 St., from 1-5 PM.</p>
+      </block>
+      <block class="full_text">
+        <p>KUPFERMANN-Irving, Ph.D., on Tuesday, February 19, 2002, at home. Neuroscientist and beloved husband of Kirsten, loving father of his children David and Celina Poole, and grandfather to new and cherished Justin Paul Poole, father-in-law to Patty Kupfermann and Jonathan Poole. In addition to his warmth and kindness, Irving was notorious as an inveterate punster. He was known to all as adventurer, jazz connoisseur and avid tenor saxophonist, lover of movies, theater, and modern dance, and one who brought scientific precision to the game of golf. He delighted in photographing fire hydrants in elegant settings worldwide, sometimes featuring friends and colleagues. He was a valued member of the New York scientific community, first at New York University and later at Columbia University and New York State Psychiatric Institute where he was a faculty member for twenty-nine years. Irving was unique, a compassionate and understanding listener to all who sought his advice and counsel. Family, friends and colleagues will gather to celebrate his life on Sunday, March 3, 1-5 PM at the Faculty Club of the College of Physicians and Surgeons of Columbia University, 630 West 168th Street, New York, NY 10032. In lieu of flowers, the family requests that memorial contributions be sent to Planned Parenthood, Amnesty International, Sierra Club; Hospice Care Network, 900 Merchant's Concourse, Westbury, NY 11590; or, Donations for Prion Research, 44 Montgomery St., Suite 2200; San Francisco, CA 94104-0248 (Check payable to: UC RegentsUniversity of San Francisco).</p>
+        <p>KUPFERMANN-Irving, Ph.D., on Tuesday, February 19, 2002, at home, of Creutzfeldt Jacob's disease. Professor of Psychiatry and Physiology &amp; Cellular Biophysics in the Center for Neurobiology &amp; Behavior, Columbia University, College of Physicians &amp; Surgeons; and Research Scientist, New York State Psychiatric Institute. The faculty and students of the Center for Neurobiology and Behavior mourn the loss of one of its founding members. Irving was a generous colleague, a superb teacher, and a uniquely creative and influential neurobiologist. He will be missed profoundly by his friends at Columbia and throughout the academic community. His memory will serve as a standard for academic excellence and collegiality. We extend our deepest sympathy to his loving wife Kerstin, and his children David and Celina. Family, friends and colleagues will gather to celebrate his life on Sunday March 3, at the Faculty Club of the College of Physicians &amp; Surgeons of Columbia University, 630 W. 168 St., from 1-5 PM.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

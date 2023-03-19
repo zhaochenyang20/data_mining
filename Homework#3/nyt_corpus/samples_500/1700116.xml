@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Toyota Hopes to Push Its Hybrids Beyond the Niche</title>
+    <meta content="07hybrid" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2005/09/07/business/worldbusiness/07hybrid.html" name="alternate_url"/>
+    <meta content="CORRECTION APPENDED" name="banner"/>
+    <meta content="20050914T000000" name="correction_date"/>
+    <docdata>
+      <doc-id id-string="1700116"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Automobiles</classifier>
+        <classifier class="indexing_service" type="descriptor">Electric Vehicles</classifier>
+        <classifier class="indexing_service" type="descriptor">Sales</classifier>
+        <classifier class="indexing_service" type="descriptor">International Trade and World Market</classifier>
+        <classifier class="indexing_service" type="descriptor">Advertising and Marketing</classifier>
+        <classifier class="indexing_service" type="descriptor">Fuel Efficiency</classifier>
+        <location class="indexing_service">Japan</location>
+        <org class="indexing_service">Toyota Motor Corp</org>
+        <org class="indexing_service">Mercury Division of Ford Motor Co</org>
+        <org class="indexing_service">Dodge Division of Daimlerchrysler Corp</org>
+        <org class="indexing_service">Chevrolet Division of General Motors Corp</org>
+        <org class="indexing_service">Nissan Motor Co</org>
+        <org class="indexing_service">Porsche Ag</org>
+        <person class="indexing_service">Brooke, James</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Japan</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Asia Pacific</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Road Trips</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Automobiles/Topics/Green Tech</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Marketing, Advertising and PR</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Sales and Business Development</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Eco-tourism</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/Japan</classifier>
+        <classifier class="online_producer" type="descriptor">Automobiles</classifier>
+        <classifier class="online_producer" type="descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="online_producer" type="descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="online_producer" type="general_descriptor">Sales</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Gas (Fuel)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Automobiles</classifier>
+        <classifier class="online_producer" type="general_descriptor">International Trade and World Market</classifier>
+        <classifier class="online_producer" type="general_descriptor">Advertising and Marketing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+        <org class="online_producer">Toyota Motor Corporation</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20050907T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=980DEFD61531F934A3575AC0A9639C8B63" item-length="1678" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Toyota Hopes to Push Its Hybrids Beyond the Niche</hl1>
+        <hl2 class="online_headline">Toyota Hopes to Push Its Hybrids Beyond the Niche</hl2>
+      </hedline>
+      <byline class="print_byline">By JAMES BROOKE</byline>
+      <byline class="normalized_byline">Brooke, James</byline>
+      <dateline>TOKYO, Sept. 5</dateline>
+      <abstract>
+        <p>Toyota Motor hopes to expand production of its gasoline-electric hybrid Prius cars from niche in marketplace--5 percent of American sales now--to mainstream--25 percent of its sales by 2010; faces variety of major challenges, among them increased competition, new tax rules that favor its American competitors and spreading realization among car buyers that not all hybrids offer big savings on gas; Toyota's goal is to sell million hybrids worldwide, including 600,000 to Americans, in next decade; by 2008, Americans can expect to see 10 hybrid models from Toyota, but also dozen from such brands as Mercury, Dodge, Chevrolet, Nissan and Porsche, as those auto makers realize that fuel efficiency may become important marketing tool; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>With Hurricane Katrina pushing American gas prices above $3 a gallon at the pump, Toyota Motor may find itself in the right place at the right time, with a new, half-mile assembly line capable of producing gasoline-electric hybrid Prius cars at the rate of one a minute.</p>
+        <p>The line, in a factory in Toyota City, is part of a strategy by Japan's largest company to expand hybrids from a niche in the marketplace (just 5 percent of its American sales now) to mainstream (25 percent of its sales by 2010).</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Toyota has a new strategy to expand hybrids from a niche in the marketplace to mainstream, and with gas prices surging its timing may be just right.</p>
+      </block>
+      <block class="full_text">
+        <p>With Hurricane Katrina pushing American gas prices above $3 a gallon at the pump, Toyota Motor may find itself in the right place at the right time, with a new, half-mile assembly line capable of producing gasoline-electric hybrid Prius cars at the rate of one a minute.</p>
+        <p>The line, in a factory in Toyota City, is part of a strategy by Japan's largest company to expand hybrids from a niche in the marketplace (just 5 percent of its American sales now) to mainstream (25 percent of its sales by 2010).</p>
+        <p>With oil prices in the range of $70 a barrel, Toyota's investment in energy-saving technology may seem an easy bet. But the gamble by Toyota, the pioneer in producing hybrids, still faces a variety of major challenges, among them increased competition, new tax rules that favor its American competitors and a spreading realization among car buyers that not all hybrids offer big savings on gas.</p>
+        <p>The increasingly competitive marketplace for hybrids may prove to be the biggest challenge for Toyota, whose goal for early in the next decade is to sell a million hybrids worldwide, including 600,000 to Americans.</p>
+        <p>By 2008, Americans can expect to see 10 hybrid models from Toyota, but also a dozen from such brands as Mercury, Dodge, Chevrolet, Nissan and Porsche, as those automakers realize that fuel efficiency may become an important marketing tool.</p>
+        <p>''I would like to get more hybrids out of our system because I do think it's something that is here to stay,'' William Clay Ford Jr., chairman and chief executive of Ford Motor, told reporters in Detroit on Aug. 23. Last fall, Ford introduced a hybrid version of its Escape sport utility vehicle, the first of several hybrids planned.</p>
+        <p>At the same time, the energy bill signed by President Bush on Aug. 8 effectively gave a break to American manufacturers by extending what could be a tax credit of as much as $3,400 per car to purchasers of the first 60,000 hybrids sold by a company. The credit phases out after that. Toyota sold more than 60,000 hybrids in the first six months of this year, so the tax law seems intended to help General Motors and Ford.</p>
+        <p>Last year, Ford, the only American carmaker currently offering a hybrid comparable to a Prius, sold 2,566, for a 3 percent share of the United States hybrid market. Toyota's hybrid sales, consisting almost exclusively of the Prius, accounted for 64 percent of the 83,153 new hybrids registered in the United States, according to R.L. Polk &amp; Company, a market research firm. Honda was second, with sales of its Civic taking 31 percent of the market.</p>
+        <p>The new tax law ''seems to benefit those who haven't done anything in the area of hybrids until now,'' Christopher Richter, a CLSA Asia-Pacific Markets auto analyst, said in Tokyo. ''And it seems to penalize those who have been pioneers.''</p>
+        <p>Although hybrids are to be a pillar of Toyota's strategy, Paul Nolasco, a Toyota spokesman, said the company had ''so far been fortunate not to have to depend on government subsidies or tax breaks to encourage sales.''</p>
+        <p>At the same time, some American drivers are wary of paying as much as $5,000 more for a hybrid that may not be a great fuel saver.</p>
+        <p>As a result, Toyota is fine-tuning its use of the word hybrid.</p>
+        <p>''We are not marketing them only as highly fuel-efficient vehicles; that is a natural association people have with the word hybrid,'' Mr. Nolasco said, referring largely to the Highlander and the Lexus. ''We are marketing hybrid synergy drive -- great environmental performance and, at the same time, great driving performance.''</p>
+        <p>In early August, California regulators started to distinguish between fuel-efficient hybrids and ''muscle'' hybrids, the high-powered versions that save little gasoline. Of the seven hybrid models now on sale in the United States, owners of the Honda Civic, Honda Insight and Toyota Prius can qualify for decals allowing them to drive alone, rather than with two or more passengers, in highway commuter lanes. That reward is not extended to four hybrids not rated as exceptional energy savers: Honda Accord, Ford Escape, Toyota Highlander and Lexus RX 400h.</p>
+        <p>But with Americans paying $40 or more for a tank of gasoline, hybrid is a label that carmakers believe will draw buyers into their showrooms. Earlier this year, American demand was so strong that a used 2004 Prius sometimes sold for as much as the window sticker price on a new one.</p>
+        <p>In July and August, in fact, the Prius was the model with the biggest jump -- 68 percent -- in Internet information searches on Cars.com, according to the Web site's Consumer Search Index, released last week.</p>
+        <p>''The challenge is how to expand hybrid technology to more models and more lines,'' Masatami Takimoto, Toyota's executive vice president in charge of advanced power train and engine technology, said at the company's new steel and glass global headquarters. ''My personal desire is to put the hybrid to all the models. But it cannot be done overnight, only step by step.''</p>
+        <p>Some drivers have said that the actual mileage of the Prius, Toyota's third-most -popular car in the United States after the Camry and Corolla, often falls short of its federal economy rating. But Mr. Takimoto, responding to that criticism, said, ''The majority of customers say that their second-generation Prius gets much better mileage than their old car.''</p>
+        <p>He said Toyota was meeting with officials at the Environmental Protection Agency in the United States to review their gas mileage measurement system. Hybrids get their best mileage in the stop-and-go traffic of cities and suburbs, when they largely run on their electric motors.</p>
+        <p>''A lot depends on how you drive them,'' Kurt Sanger, Japan automotive analyst for Macquarie Securities, said in Tokyo. ''If you gun them at every red light, you are not going to get 44 miles to the gallon.'' He said Toyota needed to ''redouble its educational effort in that regard.''</p>
+        <p>With Toyota determined to sell a million hybrid vehicles worldwide, or about 10 percent of its forecast sales for 2010, it is clear that the company is methodically making hybrid vehicles a core of its plans for growth.</p>
+        <p>In late June, Katsuaki Watanabe, the president of Toyota, expanded his team of executive vice presidents in charge of high technology to three, from one. Mr. Takimoto, a veteran of 35 years of hybrid research at Toyota, will oversee the hybrid program.</p>
+        <p>Flush with $10.5 billion in profits from last year, a record, Toyota is expanding its research and development budget this year by 10 percent, to $6.9 billion, although it would not disclose how much of that was for hybrids. Nor would Japan's second- and third-largest car companies, Nissan Motor and Honda Motor, which are also increasing their research budgets by similar percentages. Honda's will go to $4.65 billion and Nissan's to $4.1 billion.</p>
+        <p>Toyota has about 650 patents on its hybrid technology, the fruits of $800 million reportedly spent to develop the Prius. Toyota licenses its hybrid technology to Nissan and Ford.</p>
+        <p>The company says it has reached the break-even point on its hybrid technology, but Kunihiko Shiohara, chief automotive analyst for Goldman Sachs Japan, said it was impossible to confirm that assertion without knowing how much was spent on research and development.</p>
+        <p>Mr. Sanger, of Macquarie Securities, said, ''The benefit of being Toyota is that you are making so much money in so many areas you can take a long-term strategy.'' He added that Toyota could afford to lose money with hybrids while gaining market share and consumer acceptance.</p>
+        <p>Nissan is expected to produce a hybrid version of its Altima in 2006. General Motors, the largest carmaker inthe world, and DaimlerChrysler, the fifth-largest carmaker, have signed a deal to develop hybrid vehicle technology jointly.</p>
+        <p>Honda, too, is trying to increase sales of its hybrids, although it is not staking out lofty goals for expansion. Sales figures indicate that Honda, the second-biggest Japanese carmaker in the American market, will sell about 42,000 hybrids in the United States this year, largely Civics. Although this will be a 55 percent jump over last year, the total will be small compared with Toyota's forecast hybrid sales in the United States of 140,000. Hybrids account for about 3 percent of Honda's sales in the United States.</p>
+        <p>''We believe the market for hybrid cars will expand in North America,'' Kenzo Suzuki, the executive chief engineer of Honda. ''We want to be ready to expand. Our thinking is the gasoline price will continue to go up. With that in mind, we have to develop hybrid cars.''</p>
+        <p>Japan's three leading car companies see hybrid cars as a halfway step toward an ultimate goal of selling gasoline-free hydrogen-cell cars. The Ministry of Economy, Trade and Industry in Japan predicts that 50,000 hydrogen-powered vehicles will be on Japan's roads in 2010, and as many as 5 million by 2020.</p>
+        <p>Initially, all of Toyota's hybrids were made in Japan. But this fall, Prius production is to start in China, marking the first overseas production of the hybrid. Those cars are for the Chinese market.</p>
+        <p>Next year, Toyota is to start making a hybrid Camry at the company's Kentucky plant. And a Toyota pickup truck plant is to open next year in San Antonio, with some of the trucks produced there expected to be hybrids.</p>
+        <p>''To us, it's not a passing phase but a vital technology for the 21st century,'' Jim Press, president and chief operating officer of Toyota Motor Sales U.S.A., told a recent auto industry conference in Michigan.</p>
+        <p>Correction:  September 14, 2005, Wednesday  An article in Business Day last Wednesday about Toyota's strategy to expand sales of hybrid cars referred incompletely to the timing of a tax credit up to $3,400 a car for buyers. It takes effect Jan. 1.</p>
+      </block>
+      <block class="correction_text">
+        <p>Correction: September 14, 2005, Wednesday</p>
+        <p>An article in Business Day last Wednesday about Toyota's strategy to expand sales of hybrid cars referred incompletely to the timing of a tax credit up to $3,400 a car for buyers. It takes effect Jan. 1.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

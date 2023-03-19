@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INSIDE</title>
+    <meta content="09INSI$01" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Front Page; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1291859"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20010509T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A01E0DE153BF93AA35756C0A9679C8B63" item-length="208" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INSIDE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Talk of a Deal in Spy Case  Plea bargain talks are under way for Robert P. Hanssen, the F.B.I. agent accused of spying. Prosecutors have not said whether they would waive the death penalty.</p>
+        <p>PAGE A14</p>
+        <p>Spy Plane Stays, for Now  China said the United States could not fly its damaged spy plane out of Hainan, but did not rule out its removal by other means.</p>
+        <p>PAGE A12</p>
+      </block>
+      <block class="full_text">
+        <p>Talk of a Deal in Spy Case  Plea bargain talks are under way for Robert P. Hanssen, the F.B.I. agent accused of spying. Prosecutors have not said whether they would waive the death penalty.</p>
+        <p>PAGE A14</p>
+        <p>Spy Plane Stays, for Now  China said the United States could not fly its damaged spy plane out of Hainan, but did not rule out its removal by other means.</p>
+        <p>PAGE A12</p>
+        <p>Election Set in Britain  Prime Minister Tony Blair announced an election for June 7 that polls predict will almost certainly give him a second term.</p>
+        <p>PAGE A10</p>
+        <p>U.S. Productivity Dips  Productivity fell for the first time in six years, reopening debate over how much efficiency gained from new technologies will endure.</p>
+        <p>PAGE C1</p>
+        <p>New Show for the Apollo  A revue, ''Harlem Song,'' is planned for the Apollo Theater in an effort to rejuvenate both the theater and the community.</p>
+        <p>THE ARTS, PAGE E1</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

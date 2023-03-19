@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>GARDEN Q.&amp; A.</title>
+    <meta content="26QNA.$03" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="House &amp; Home/Style Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Home and Garden; Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/10/26/living/26QNA.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1241909"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Home and Garden</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001026T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C07EFD61231F935A15753C1A9669C8B63" item-length="725" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>GARDEN Q.&amp; A.</hl1>
+      </hedline>
+      <byline class="print_byline">By Dora Galitzki</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Color Is Everything</p>
+        <p>Q.  I have been longing to own a yellow flowering clivia for years but they have been far too expensive for me. I wonder if the price has gone down at all, and if you can enlighten me as to the availability of these plants?</p>
+        <p>A.  Depending on when you looked last, the price has gone down, but clivia with yellow flowers instead of the more common orange still cost between $100 and $750 for a blooming-size plant. How one responds to prices like that illustrates the difference between a longing and a true obsession.</p>
+      </block>
+      <block class="full_text">
+        <p>Color Is Everything</p>
+        <p>Q.  I have been longing to own a yellow flowering clivia for years but they have been far too expensive for me. I wonder if the price has gone down at all, and if you can enlighten me as to the availability of these plants?</p>
+        <p>A.  Depending on when you looked last, the price has gone down, but clivia with yellow flowers instead of the more common orange still cost between $100 and $750 for a blooming-size plant. How one responds to prices like that illustrates the difference between a longing and a true obsession.</p>
+        <p>Why so pricey? When you cross-pollinate two naturally occurring yellow forms of clivia, you don't know what the flowers will look like for four or five years. If cross-pollination is successful, you propagate by division, and it's another few years before the divisions are ready to be divided again. When you have a few extras to sell, the demand from collectors is high, and a clivia like Yellow Chiffon is worth $750 because of its rarity. By the time you have enough to sell inexpensively, you may have forgotten why you went into horticulture in the first place.</p>
+        <p>Japanese breeders are working on tissue-culture propagation, which will greatly increase the supply. In the meantime, you can buy the seeds for yellow flowering clivia for about $17 for two seeds. But there is a small chance that the seeds won't come true to their parents, and won't have yellow flowers.</p>
+        <p>Yellow clivia plants are available from Louisiana Nursery, 5853 Highway 182, Opelousas, La. 70570, (337) 948-3696, catalog $6. Seed sources include Park Seed, 1 Parkton Avenue, Greenwood, S.C. 29647, (800) 845-3369, free catalog.</p>
+        <p>Privet Pests</p>
+        <p>Q.  I have a 40-foot-long hedge of shrubs whose name I don't know. The leaves are roughly oval and shiny. For the last couple of years I have noticed little white spots on the bark. Then this summer, around mid-July, I noticed that the leaves were starting to drop in one section about six feet wide, and eventually those bushes lost all their leaves. Their stems and branches were coated with white, which I was told was scale. One thing or another delayed me from addressing the problem over the summer, and I wonder if I can do something about it now? And is it OK to prune the diseased branches back at this time of year?</p>
+        <p>A.  Your privet hedge, and possibly any neighboring lilac, ornamental cherry or plum, is being attacked by white prunicola scale, an insect that comes with armor plate. Fighting it can be a bit trickier than fighting other insects.</p>
+        <p>For most of their lives, when they are eggs or feeding adults or are quietly passing the winter, scale stay put right where they are, protected by a hard outer shell. There's not much of a view, but as real estate agents say, location is everything. Because scale are soft-bodied insects, the shell serves them well against predators, including sprayer-wielding homeowners.</p>
+        <p>The key to controlling scale insects is to get at them when they are in their vulnerable crawler stage, looking for a juicy branch to settle on, erect a scale bungalow, and lay a few eggs. That means late April to early May for the generation that overwinter on the branches, and mid-July to early August, when the second generation's crawlers emerge to look for their own spot.</p>
+        <p>Horticultural oil (see the label for the proper dilution depending on the season) is very effective against crawlers because it both smothers them and is absorbed by their cells, where it wreaks havoc with their metabolisms. But when they are under their covers they just laugh off anything you throw against them. Don't waste your efforts (or your horticultural oil) now; wait for next spring.</p>
+        <p>Pruning should wait until late March or early April, before new growth begins. During the winter the insects are dormant, so no further damage is being done.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

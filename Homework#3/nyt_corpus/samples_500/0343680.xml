@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Looking Ahead</title>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="343680"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">UNITED STATES ECONOMY</classifier>
+        <classifier class="online_producer" type="types_of_material">CALENDAR</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Economy</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19900415T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE1DD113EF936A25757C0A966958260" item-length="106" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Looking Ahead</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD:</p>
+        <p>MONDAY: I.B.M. reports first-quarter earnings.</p>
+        <p>A suit brought by Robert Kearns, who won a patent infringement verdict against Ford for his windshield-wiper design, proceeds to consideration of damages.</p>
+        <p>TUESDAY: Consumer prices for March.</p>
+        <p>Housing starts for March.</p>
+        <p>Robert Freeman, a former executive of Goldman, Sachs faces sentencing for insider trading.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD:</p>
+        <p>MONDAY: I.B.M. reports first-quarter earnings.</p>
+        <p>A suit brought by Robert Kearns, who won a patent infringement verdict against Ford for his windshield-wiper design, proceeds to consideration of damages.</p>
+        <p>TUESDAY: Consumer prices for March.</p>
+        <p>Housing starts for March.</p>
+        <p>Robert Freeman, a former executive of Goldman, Sachs faces sentencing for insider trading.</p>
+        <p>MONDAY: I.B.M. reports first-quarter earnings.</p>
+        <p>A suit brought by Robert Kearns, who won a patent infringement verdict against Ford for his windshield-wiper design, proceeds to consideration of damages.</p>
+        <p>TUESDAY: Consumer prices for March.</p>
+        <p>Housing starts for March.</p>
+        <p>Robert Freeman, a former executive of Goldman, Sachs faces sentencing for insider trading.</p>
+        <p>Chicago Mercantile Exchange members vote on restrictions on trading financial futures.</p>
+        <p>WEDNESDAY: Merchandise trade balance for February.</p>
+        <p>THURSDAY: State per capita income for 1989, fourth quarter.</p>
+        <p>FRIDAY: Federal budget statement for March.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

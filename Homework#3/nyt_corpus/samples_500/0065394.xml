@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>VERMONT AMERICAN CORP reports earnings for Qtr to June 30</title>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="65394"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">COMPANY REPORTS</classifier>
+        <classifier class="online_producer" type="types_of_material">Statistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Company Reports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Corporations</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870812T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9405E0D71130F931A2575BC0A961948260" item-length="68" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>VERMONT AMERICAN CORP reports earnings for Qtr to June 30</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD:</p>
+        <p>*3*** COMPANY REPORTS **</p>
+        <p>*3*VERMONT AMERICAN CORP (AMEX)</p>
+        <p>Qtr to June 30</p>
+        <p>1987</p>
+        <p>1986</p>
+        <p>Sales</p>
+        <p>71,185,000</p>
+        <p>64,518,000</p>
+        <p>Net inc</p>
+        <p>4,833,000</p>
+        <p>3,012,000</p>
+        <p>Share earns</p>
+        <p>.59</p>
+        <p>.35</p>
+        <p>6mo sales</p>
+        <p>151,869,000</p>
+        <p>131,632,000</p>
+        <p>Net inc</p>
+        <p>10,710,000</p>
+        <p>6,752,000</p>
+        <p>Share earns</p>
+        <p>1.31</p>
+        <p>.79</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD:</p>
+        <p>*3*** COMPANY REPORTS **</p>
+        <p>*3*VERMONT AMERICAN CORP (AMEX)</p>
+        <p>Qtr to June 30</p>
+        <p>1987</p>
+        <p>1986</p>
+        <p>Sales</p>
+        <p>71,185,000</p>
+        <p>64,518,000</p>
+        <p>Net inc</p>
+        <p>4,833,000</p>
+        <p>3,012,000</p>
+        <p>Share earns</p>
+        <p>.59</p>
+        <p>.35</p>
+        <p>6mo sales</p>
+        <p>151,869,000</p>
+        <p>131,632,000</p>
+        <p>Net inc</p>
+        <p>10,710,000</p>
+        <p>6,752,000</p>
+        <p>Share earns</p>
+        <p>1.31</p>
+        <p>.79</p>
+        <p>*3*** COMPANY REPORTS **</p>
+        <p>*3*VERMONT AMERICAN CORP (AMEX)</p>
+        <p>Qtr to June 30</p>
+        <p>1987</p>
+        <p>1986</p>
+        <p>Sales</p>
+        <p>71,185,000</p>
+        <p>64,518,000</p>
+        <p>Net inc</p>
+        <p>4,833,000</p>
+        <p>3,012,000</p>
+        <p>Share earns</p>
+        <p>.59</p>
+        <p>.35</p>
+        <p>6mo sales</p>
+        <p>151,869,000</p>
+        <p>131,632,000</p>
+        <p>Net inc</p>
+        <p>10,710,000</p>
+        <p>6,752,000</p>
+        <p>Share earns</p>
+        <p>1.31</p>
+        <p>.79</p>
+        <p>Share earnings have been adjusted to reflect a 10 percent stock dividend paid August 1986.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

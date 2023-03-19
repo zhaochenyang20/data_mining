@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Trying to Enjoy the Sound While Hating the Sentiment</title>
+    <meta content="16AMER" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Arts &amp; Ideas/Cultural Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/12/16/arts/16AMER.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1255560"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="MUSIC REVIEW"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Music</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <org class="indexing_service">American Symphony Orchestra</org>
+        <org class="indexing_service">Concert Chorale of New York</org>
+        <person class="indexing_service">Oestreich, James R</person>
+        <person class="indexing_service">Botstein, Leon</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001216T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9805E4DA1639F935A25751C1A9669C8B63" item-length="704" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Trying to Enjoy the Sound While Hating the Sentiment</hl1>
+      </hedline>
+      <byline class="print_byline">By JAMES R. OESTREICH</byline>
+      <byline class="normalized_byline">Oestreich, James R</byline>
+      <abstract>
+        <p>James R Oestreich reviews concert by American Symphony Orchestra and Concert Chorale of New York at Avery Fisher Hall, conducted by Leon Botstein; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>What are the odds of hearing Prokofiev's ''Zdravitsa'' (''A Toast''; to Stalin, that is) twice in New York within five years? Small enough, perhaps, to qualify as sheer bad luck.</p>
+        <p>Valery Gergiev did the work proud with the Kirov Orchestra and Chorus during the first Lincoln Center Festival, in 1996 at Avery Fisher Hall. And now Leon Botstein has conducted it with the American Symphony Orchestra and the Concert Chorale of New York in the same hall.</p>
+      </block>
+      <block class="full_text">
+        <p>What are the odds of hearing Prokofiev's ''Zdravitsa'' (''A Toast''; to Stalin, that is) twice in New York within five years? Small enough, perhaps, to qualify as sheer bad luck.</p>
+        <p>Valery Gergiev did the work proud with the Kirov Orchestra and Chorus during the first Lincoln Center Festival, in 1996 at Avery Fisher Hall. And now Leon Botstein has conducted it with the American Symphony Orchestra and the Concert Chorale of New York in the same hall.</p>
+        <p>''O'er the earth the rising sun sheds a warmer light,/since it looked on Stalin's face it has shone more bright,'' the text (''after folk songs'') runs. ''Much the pain that Stalin has endured/that people's welfare be secured.'' This in 1939 (for Stalin's 60th birthday), when, as Mr. Botstein points out in a program note, ''no one had any illusions about the extent of Stalin's cruelty and butchery, which involved the systematic purging, exile and murder of peasants, leading artists and intellectuals.''</p>
+        <p>Why should such noxious claptrap claim attention now? Maybe the best argument that can be made -- but never quite was, in all of Mr. Botstein's talk on Wednesday of ''the larger potential role of politics and idealism, philosophy and social justice in the inspirational nexus of a composer'' -- is that the work is a historical artifact. As such, it must be preserved and contemplated, as an example of the limitless mendacity and hypocrisy on which Stalin's regime was founded, and a corrective to the reputation of a composer too often adulated (like many another artist) on the basis of his real masterpieces.</p>
+        <p>This is tricky business. Books, paintings, plays and scores must indeed be preserved. But performance changes everything. Whatever the reason a work may have been chosen in the first place, once the process of rehearsal and performance sets in, the object is suddenly to present the work in the best possible light.</p>
+        <p>So then the quandary falls to the audience: how to respond? Applaud and cheer . . . what? Not the sentiments, of course, but -- somehow -- just the music, independently of how well it conveys them? (In this case, the music is cut from some of the same attractive cloth as Prokofiev's ''Romeo and Juliet.'') Not the questionable choice of work on which to lavish such attention, perhaps, but -- somehow -- just the quality of the performance? (It was a ''good'' one, to the extent that it could be seen in abstraction.)</p>
+        <p>Later in Mr. Botstein's program on Wednesday -- a Russian evening, ''Forgotten Patriotisms: Music as Political History,'' in the American Symphony's seasonlong Music and Memory series -- a few catcalls followed Shostakovich's Second Symphony, a jingoist tribute to Lenin on the occasion of the 10th anniversary of the 1917 revolution. (''This is our banner, the name of new generations:/October, Communism and Lenin!'') But in the Prokofiev, the audience seemed merely caught up in the excitement of a rousing conclusion. (''You the flame that quickens minds and hearts of all. Stalin! Stalin!'') What, exactly, constitutes a good presentation and performance of poisonous music?</p>
+        <p>If anything, Mr. Botstein's ''exercise in memory, not rehabilitation,'' afforded an opportunity to explore the nature and meaning of performance -- which is a celebration, in a sense -- but the topic never came up in the flood of words, from the preconcert lecture by Richard Wilson through the notes by Mr. Botstein and others.</p>
+        <p>Miaskovsky's Sixth Symphony of 1923 (harmless enough: the sort of thing Rachmaninoff might have written had he remained in the Soviet Union) crowned the evening, well executed like the rest of the program. At two hours, the evening was short by Mr. Botstein's standard, evidently allowing adequate time to rehearse relatively unfamiliar music: some of it, to be sure, no longer unfamiliar enough.</p>
+        <p>MUSIC REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

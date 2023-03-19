@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Business Technology; Putting Pollen to Good Use: The Delivery of Drugs</title>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Health; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="450570"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">DRUGS (PHARMACEUTICALS)</classifier>
+        <classifier class="indexing_service" type="descriptor">NEW MODELS, DESIGN AND PRODUCTS</classifier>
+        <classifier class="indexing_service" type="descriptor">POLLEN</classifier>
+        <org class="indexing_service">AMER PARTICLE TECHNOLOGIES INC</org>
+        <object.title class="indexing_service">BUSINESS TECHNOLOGY PAGE (NYT)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Pharmaceutical, Biotechnology and Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Art and Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">New Models, Design and Products</classifier>
+        <classifier class="online_producer" type="general_descriptor">Flowers and Plants</classifier>
+        <classifier class="online_producer" type="general_descriptor">Drugs (Pharmaceuticals)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19910605T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE1DE1031F936A35755C0A967958260" item-length="282" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Business Technology; Putting Pollen to Good Use: The Delivery of Drugs</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>At this time of year, few allergy sufferers need any reminder of pollen's ability to enter the body. Pollen inhaled, touched or eaten can cause eyes to itch and sinuses to clog. Now a Southern California company is working on a technology to deliver drugs by substituting them for the natural allergens in pollen grains.</p>
+        <p>Amer Particle Technologies Inc., based in Montecito, Calif., said its method could be an alternative to injection of protein-based drugs, like those created by the biotechnology companies. Because they are large molecules, proteins defy delivery through the nose or skin; because they are digested, they are not effective taken through the mouth. Amer believes its method would allow patients to take the drugs in skin creams, pills or nose sprays. Pollens could also be used for the controlled release of conventional drugs.</p>
+      </block>
+      <block class="full_text">
+        <p>At this time of year, few allergy sufferers need any reminder of pollen's ability to enter the body. Pollen inhaled, touched or eaten can cause eyes to itch and sinuses to clog. Now a Southern California company is working on a technology to deliver drugs by substituting them for the natural allergens in pollen grains.</p>
+        <p>Amer Particle Technologies Inc., based in Montecito, Calif., said its method could be an alternative to injection of protein-based drugs, like those created by the biotechnology companies. Because they are large molecules, proteins defy delivery through the nose or skin; because they are digested, they are not effective taken through the mouth. Amer believes its method would allow patients to take the drugs in skin creams, pills or nose sprays. Pollens could also be used for the controlled release of conventional drugs.</p>
+        <p>Pollen grains have impermeable outer membranes with equally spaced pores, so they are, in theory, suitable for the controlled release of any substance they can be made to contain. Different pollens have different structures, lending themselves to a wide range of release times and therapies. Pollen is also available in large quantities at reasonable prices.</p>
+        <p>Amer has conducted both test tube and animal studies, which it says show the practicality of delivering drugs with pollens. Suitable drugs might include growth hormones, birth control substances, blood-pressure medicines, sedatives and clot-dissolving substances. Amer has four patent applications pending covering drug delivery with pollens and synthetic replicas of pollens. But the company has not yet begun clinical trials, and marketable products are years away.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

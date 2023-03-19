@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Much-Debated Mall Runs Into a New Delay: Toxic Hazard</title>
+    <meta content="23TOXI$01" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="The City Weekly Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="14" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="975255"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <series series.name="NEIGHBORHOOD REPORT: FOREST HILLS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Retail Stores and Trade</classifier>
+        <classifier class="indexing_service" type="descriptor">Hazardous and Toxic Substances</classifier>
+        <location class="indexing_service">New York City</location>
+        <person class="indexing_service">Leduff, Charlie</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/The City</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Shopping</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Retail</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Retail Stores and Trade</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hazardous and Toxic Substances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19971123T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9907E2D7123BF930A15752C1A961958260" item-length="431" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Much-Debated Mall Runs Into a New Delay: Toxic Hazard</hl1>
+      </hedline>
+      <byline class="print_byline">By CHARLIE LeDUFF</byline>
+      <byline class="normalized_byline">Leduff, Charlie</byline>
+      <abstract>
+        <p>Start of construction of 15-acre shopping center in Forest Hills section of Queens will be delayed for at least a year while toxic industrial solvent that was found in soil and ground water is cleaned up (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The start of construction of a 15-acre shopping center in Forest Hills will be delayed for at least a year while a toxic industrial solvent that was found in the soil and ground water is cleaned up, state health officials said.</p>
+        <p>Dangerous levels of perchloroethylene were discovered by inspectors from the State Department of Environmental Conservation underneath buildings on a lot between Metropolitan Boulevard and Union Turnpike and bound to the west by Woodhaven Boulevard. Home Depot, Staples and Sports Authority have planned to erect megastores there. Perchloroethylene, a solvent commonly used in dry cleaning that is also known as perc, is a carcinogen.</p>
+      </block>
+      <block class="full_text">
+        <p>The start of construction of a 15-acre shopping center in Forest Hills will be delayed for at least a year while a toxic industrial solvent that was found in the soil and ground water is cleaned up, state health officials said.</p>
+        <p>Dangerous levels of perchloroethylene were discovered by inspectors from the State Department of Environmental Conservation underneath buildings on a lot between Metropolitan Boulevard and Union Turnpike and bound to the west by Woodhaven Boulevard. Home Depot, Staples and Sports Authority have planned to erect megastores there. Perchloroethylene, a solvent commonly used in dry cleaning that is also known as perc, is a carcinogen.</p>
+        <p>Environmental officials said perc levels had been found to be 8,000 parts per million in the topsoil, compared with an acceptable level of 1.4 parts per million, and 24,000 parts per billion in the groundwater, far above the acceptable level of 5 parts per billion.</p>
+        <p>''The concentration of the toxin is so high in some areas that it may require demolition of some of the buildings,'' said Mary Ellen Chris, regional director of the Department of Environmental Conservation. At least 10 feet of topsoil will have to be removed and the ground water aerated, she said. The agency is continuing to try to determine the source of the perc.</p>
+        <p>Jesse Masyr, a lawyer for Home Depot, said the discovery of the toxic chemical would not be a major setback. ''This removal project was already factored into the development of the area,'' he said. ''We, in fact, were the people who tipped off the D.E.C. about potential pollution problems.'' Mr. Masyr said he thought that the cleanup could be completed  in two months and that construction might begin as early as next year.</p>
+        <p>The proposed development has sparked arguments between residents who believe it will saturate their neighborhood with traffic and destroy its small-town feel and politicians and developers, who say the stores will bring badly needed jobs to the city.</p>
+        <p>One group of residents has filed a lawsuit seeking to stop construction.  Jack Lester, a lawyer for the residents, said the discovery of the toxic material supported their claim that the shopping center would be a detriment to the neighborhood.</p>
+        <p>''The contamination is precisely what we argued in our lawsuit in trying to stop this thing,'' Mr. Lester said. ''We managed to shut them down, at least for a while.''</p>
+        <p>CHARLIE LeDUFF</p>
+        <p>NEIGHBORHOOD REPORT: FOREST HILLS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

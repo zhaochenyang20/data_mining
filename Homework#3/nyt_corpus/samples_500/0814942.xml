@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Take the Money and Walk? How to Decide</title>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="814942"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <series series.name="EARNING IT"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">LABOR</classifier>
+        <classifier class="indexing_service" type="descriptor">LAYOFFS AND JOB REDUCTIONS</classifier>
+        <person class="indexing_service">RAMIREZ, ANTHONY</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="general_descriptor">Layoffs and Job Reductions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Labor</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19951210T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CEFDD1639F933A25751C1A963958260" item-length="729" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Take the Money and Walk? How to Decide</hl1>
+      </hedline>
+      <byline class="print_byline">By ANTHONY RAMIREZ</byline>
+      <byline class="normalized_byline">RAMIREZ, ANTHONY</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A buyout offer is a bribe to leave. Compared with outright dismissal or a companywide pay cut, it is more humane, but more expensive for the company.</p>
+        <p>Still, a buyout helps insure that workers who stay are not so demoralized by  the exodus that productivity is harmed. Shabby treatment of those who leave guarantees poor morale, benefits consultants say.</p>
+      </block>
+      <block class="full_text">
+        <p>A buyout offer is a bribe to leave. Compared with outright dismissal or a companywide pay cut, it is more humane, but more expensive for the company.</p>
+        <p>Still, a buyout helps insure that workers who stay are not so demoralized by  the exodus that productivity is harmed. Shabby treatment of those who leave guarantees poor morale, benefits consultants say.</p>
+        <p>The company is not giving money away in a buyout, however generous it might seem," said John Haley, national retirement practices director at Wilson Wyatt,  a consultant in Washington. "It's usually a very sound business decision."</p>
+        <p>Charles F. Albrecht Jr., president of Drake Beam Morin Inc., a human-resources consultant in Manhattan, says employees should keep one thing in mind.</p>
+        <p>"If they're offering you a buyout in the first place," he said, "you're either talking about a company that is not financially robust or about which there will be a giant question mark about operating costs for some time." Staying may be the poorest choice of all.</p>
+        <p>For younger employees, a buyout can be a windfall and an opportunity to find  a better, more satisfying job; for older employees already close to retirement,  the cash is gravy. But for those too young to retire and too old to find a new job quickly, a buyout plan can be full of puzzling and potentially costly choices.</p>
+        <p>A buyout typically consists of a lump-sum payment, worth from a few months to a full year of salary, but rarely more; often a continuation of medical benefits for up to a year after leaving the company, but rarely longer, and sometimes an allowance for retraining and relocation, which can be generous.</p>
+        <p>The toughest elements to evaluate are the pension sweeteners, the additions to chronological age and years of service that qualify you for a larger pension, but hardly ever for a full one.</p>
+        <p>The offer made to 72,000 AT&amp;T employees (that's down from 77,800; 5,800 offers were found to be duplicates) is a fairly standard package.  AT&amp;T is certain to take a big charge against earnings, as it did when the company offered a voluntary package to 125,000 white-collar employees in 1989, about 12,500 employees accepted, and the quarterly charge totaled $98 million.</p>
+        <p>Despite the multimillion-dollar cost of these voluntary programs, they pay for themselves in one to two years, sometimes three, benefits consultants say.</p>
+        <p>A lump-sum payment, seemingly the most straightforward feature, can carry several surprises. Assume a payment of $50,000.</p>
+        <p>"Young people who haven't dealt with a relatively large sum of money think it is a lot more than it really is," said Diahann Lassus, a principal and financial planner at Lassus Wherley &amp; Associates in New Providence, N.J.</p>
+        <p>After Federal taxes of about $16,500 and Social Security taxes of $3,500, that sum is actually $30,000 before the state and local tax bite. You could take the lump sum while you are still on the payroll and thus reduce the Social Security bite (but this might mean higher Federal taxes), Ms. Lassus said.</p>
+        <p>You could also take the lump sum and spread it over 24 months or longer, thus reducing taxes but doing little to pay for groceries and the rent or mortgage.</p>
+        <p>Whatever is left you may decide to invest. But don't expect a windfall there  either. Mary Merrill, a financial planner at Financial Advisory Service in Madison, Wis., said many clients, seeing the stock market's current strength, expected an annual return of more than 10 percent.</p>
+        <p>A more reasonable assumption might be 6 or 7 percent.</p>
+        <p>The bigger surprise can be in pension benefits. A 56-year-old bank executive  and client of Lewis J. Altfest, a financial planner in Manhattan, considered taking a buyout to move to a higher-paying job at a financial services company.  But Mr. Altfest calculated that the banker would lose $300,000 in pension benefits. The banker stayed put.</p>
+        <p>For an independent assessment, it might pay to consult a financial planner. But that also has a cost. Mr. Altfest, the crack planner, charges $250 an hour.</p>
+        <p>EARNING IT</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

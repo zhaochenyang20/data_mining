@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A New Rule: Do Touch That Dial</title>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Technology; Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="754449"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <series series.name="PERSONAL COMPUTERS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">DATA PROCESSING (COMPUTERS)</classifier>
+        <classifier class="indexing_service" type="descriptor">PERSONAL COMPUTERS</classifier>
+        <person class="indexing_service">MANES, STEPHEN</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19950411T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CE2D61238F932A25757C0A963958260" item-length="972" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A New Rule: Do Touch That Dial</hl1>
+      </hedline>
+      <byline class="print_byline">By STEPHEN MANES</byline>
+      <byline class="normalized_byline">MANES, STEPHEN</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>WE comfort our friends, loved ones, and lawyers at their homes and offices. We answer desperate phone calls at inappropriate hours. We keep America's hardware and software humming. We are America's unpaid computer consultants. And we shudder when we discover that our clients have failed to master basic but unobvious techniques we insist on calling simple.</p>
+        <p>Software and hardware manufacturers pay lip service to "usability testing," but in the real world very intelligent people fail to grasp some of the simplest ways to improve the hardware and software they use every day. The reason is that the hardware and software remain devilishly difficult to use, and the manuals can be exquisitely stupid.</p>
+      </block>
+      <block class="full_text">
+        <p>WE comfort our friends, loved ones, and lawyers at their homes and offices. We answer desperate phone calls at inappropriate hours. We keep America's hardware and software humming. We are America's unpaid computer consultants. And we shudder when we discover that our clients have failed to master basic but unobvious techniques we insist on calling simple.</p>
+        <p>Software and hardware manufacturers pay lip service to "usability testing," but in the real world very intelligent people fail to grasp some of the simplest ways to improve the hardware and software they use every day. The reason is that the hardware and software remain devilishly difficult to use, and the manuals can be exquisitely stupid.</p>
+        <p>For instance, today's computers come with most of their software already installed on the hard disk. The job of transferring that software to floppy disks for safekeeping is increasingly being left to the customer. A program to help do the job is usually supplied; the requisite blank disks and half-hour or so of patience are not. But the noble idea of creating an "emergency boot disk" that will let you start the machine if you or your software should accidentally do something awful may not be mentioned at all.</p>
+        <p>Monitors are meant to be adjusted, yet on the evidence of the misaligned displays on many desks, users seem to have a morbid fear of touching the buttons. Yet as delivered, the controls are rarely set properly. A few minutes of fiddling can usually enlarge or shrink the picture to fill the screen, center it vertically and horizontally, straighten out the edges, and optimize brightness and contrast. The manual is usually worth a peek: infrequently used controls are often available only by pressing arbitrary combinations of buttons unexplained on the display. Modern monitors will remember most settings, but be prepared to adjust brightness and contrast as ambient light changes.</p>
+        <p>Some monitor capabilities are activated not by buttons but by software. With Windows machines, finding and understanding that software is not always easy, but typically it will let you adjust three different things. "Resolution" is the common but somewhat misleading term for how many dots (pixels to the cognoscenti) appear on the screen. "Color depth" refers to how many different colors you can see; 8-bit color gives you 256, 16-bit displays 65,536 hues, and 24-bit translates to more than 16 million. Finally, "vertical refresh rate," measured in hertz (Hz in your manual), tells you how many times per second the electron beam repaints the image.</p>
+        <p>Out of the box, the software is typically set for 640 dots horizontally, 480 vertically, 256 colors and a vertical refresh rate of 60 hertz. The refresh rate should be changed immediately. Higher rates (72 and 76 have become popular) reduce or eliminate flickering, but there are a couple of catches. With some video cards, increasing the refresh rate may impede performance a bit. More important, some monitors may not be able to handle the highest refresh rates the software and video card offers, particularly at higher resolutions. If in doubt, try to read the software and monitor manuals side by side. When that doesn't work, call your personal consultant.</p>
+        <p>Windows applications cannot change resolutions, so you have to do it for them with the help of your software. Many programs, particularly multimedia productions, work best at 640 by 480 pixels and 256 colors. Running them at higher resolutions will simply make them appear in a small window, and higher color depths may slow them down. But with spreadsheets and word processors, higher resolutions let you see more of your document, though the characters will be smaller. Graphics programs virtually demand higher resolutions and color depths.</p>
+        <p>Experiment, but be warned: setting display software incorrectly may temporarily blind your monitor. To recover, reboot your machine and press the F5 key when you see the message "Starting MS-DOS." Change to your Windows subdirectory, type "setup," press the enter key, and follow the menus and prompts to change the display setting to "VGA." Then reboot your machine and use your display software or the Windows Setup program to regain the full performance of your monitor.</p>
+        <p>A second warning: video driver software can cause problems not just with screen displays, but also with printers and serial ports. Check with the vendor of your computer or video card to make sure you have the latest version of that software. But note that "improved" drivers often introduce new problems.</p>
+        <p>This brings us to the importance of "readme" files, where most software reveals, among other things, the screen resolution it considers best. "Readme"files also contain important (though rarely exhaustive) information on potential problems and ways around them. Fathoming "readme" files can be difficult, but skipping them can cause needless pain and suffering.</p>
+        <p>Windows users would also do well to master the ins and outs of the control panel. Much of the tweaking it permits is cosmetic, but some can greatly affect the way your system works. For example, the control panel lets you adjust the sensitivity of your pointing device; some mice and trackballs let you fiddle endlessly, creating fancy cursors and tricks.</p>
+        <p>The control panel's mysterious "386 enhanced" icon and its "virtual memory" button can also enhance Windows performance. Merely creating a "permanent swap file" and clicking the "32-bit file access" box are virtually guaranteed to speed things up. So are two DOS programs called Memmaker and Smartdrive, which rearrange the way certain DOS programs user memory and control the flow of data to and from the hard drive, respectively. If you master the on-line documentation for these, you are ready to become an unpaid consultant yourself.</p>
+        <p>PERSONAL COMPUTERS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>ROOM TO IMPROVE</title>
+    <meta content="19room" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="House &amp; Home/Style Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Home and Garden; Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/19/garden/19room.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1841303"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="indexing_service" type="descriptor">Furniture</classifier>
+        <classifier class="indexing_service" type="descriptor">Tables</classifier>
+        <person class="indexing_service">Owens, Mitchell</person>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Home and Garden</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Art and Design</classifier>
+        <classifier class="online_producer" type="descriptor">Home Furnishings</classifier>
+        <classifier class="online_producer" type="descriptor">Interior Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">Interior Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">Home Furnishings</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070419T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DE3DA1E3FF93AA25757C0A9619C8B63" item-length="592" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>ROOM TO IMPROVE</hl1>
+        <hl2 class="online_headline">Room to Improve</hl2>
+      </hedline>
+      <byline class="print_byline">By Mitchell Owens</byline>
+      <byline class="normalized_byline">Owens, Mitchell</byline>
+      <abstract>
+        <p>Room to Improve column on occasional tables as versatile pieces of furniture; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Q. What is the most versatile piece of furniture I can buy?</p>
+        <p>A. Good question, the answer to which I realized while decorating my family's new apartment.</p>
+        <p>Over the years I have accumulated about a dozen of what used to be called ''accent'' or ''occasional'' tables. The former term I never quite understood, since ''accent'' seems to suggest an object that is decorative but of somewhat questionable use. ''Occasional,'' though, makes perfect sense: their use depends on the occasion. As far as I'm concerned, that is the definition of versatile.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>What is the most versatile piece of furniture I can buy?</p>
+      </block>
+      <block class="full_text">
+        <p>Q. What is the most versatile piece of furniture I can buy?</p>
+        <p>A. Good question, the answer to which I realized while decorating my family's new apartment.</p>
+        <p>Over the years I have accumulated about a dozen of what used to be called ''accent'' or ''occasional'' tables. The former term I never quite understood, since ''accent'' seems to suggest an object that is decorative but of somewhat questionable use. ''Occasional,'' though, makes perfect sense: their use depends on the occasion. As far as I'm concerned, that is the definition of versatile.</p>
+        <p>In recent weeks, I've been struck by the plethora of tables of low stature and limited surface space, whether they are offered by a flea-market dealer or a high-ticket antiques shop on Lexington Avenue. The smallest are charmingly called ''telephone tables,'' which made sense back in the 1960s, when these diminutive items--the most popular were generally about a foot and a half high by a foot wide and mounted on brass casters--were de rigueur in the homes of stylish folks like Diana Vreeland, the legendary editor of Vogue. She and her high-society ilk were partial to snakeskin-clad telephone tables by Karl Springer, an American designer whose work can be found at Todd Merrill Antiques (65 Bleecker Street, 212-673-0531, merrillantiques.com) and Lobel Modern (39 Bond Street, 212-242-9075, lobelmodern.com).</p>
+        <p>Such small tables can still serve a multitude of purposes. I own three or four low, fretworked Chinese tables of various heights that I found at flea markets; the top of each is about the size of a standard box of tissues or a little serving tray. Their light weight makes them ideal for placing beside the bathtub to hold a glass of wine or a cup of coffee. They can also be placed in front of a crowded bedside table, as a perch for reading glasses and a book.</p>
+        <p>Pearl River (477 Broadway at Broome Street, 212-431-4770, pearlriver.com) has a stock of classic ceramic garden stools that make great occasional tables. Shaped like little beer barrels, they have come into fashion again, and the interior designers Michael S. Smith and Jeffrey Bilhuber have begun using them in large showers, as seating or for holding shampoos. The celadon green model ($225) is attractive.</p>
+        <p>Gump's, in San Francisco, has an openwork garden stool ($350), too, though it is more cube-like in shape and glazed in various shades of mossy green (800-882-8055 or gumps.com). Another good source for ceramic garden seats is Clipper Trading in Savannah (201 W. Broughton St., 800-390-0498, clippertrading.com). The company has several handmade models, including a chic solid black version with raised ornamentation that looks a bit like large nailheads ($179). Oriental Furniture (800-978-2100, orientalfurniture.com) sells a golden drum stool made of mahogany and elm, with a removable top for storage ($69). Remember that drums can perform splendidly as tables, too. The Duke and Duchess of Windsor, for instance, used old drums as side tables at their country house near Paris.</p>
+        <p>Spencer's Mercantile (905-525-6303 or mrsmcleans.com), a company in Hamilton, Ontario, Canada, sells handcrafted replicas of historic drums. The Grenadier drum, a War of 1812 reproduction, stands 19 inches tall and 17 inches in diameter ($365), and the Regimental drum is just 16 inches high and 14 inches in diameter ($325). Pearl River also has splendidly spare wood stools with rectangular tops that would serve nicely as occasional tables, whether alone or gathered together in a line before a sofa. They are available in heights of 11 inches ($19.50), 18 inches ($29.50), and 24 inches ($39.50).</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

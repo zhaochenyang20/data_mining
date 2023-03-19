@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Monitors Find Significant Fraud in Afghan Elections</title>
+    <meta content="03afghan" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2005/10/03/international/asia/03afghan.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1706924"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Afghanistan</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Asia Pacific</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/Afghanistan</classifier>
+        <classifier class="online_producer" type="descriptor">Elections</classifier>
+        <classifier class="online_producer" type="descriptor">Frauds and Swindling</classifier>
+        <classifier class="online_producer" type="general_descriptor">Frauds and Swindling</classifier>
+        <classifier class="online_producer" type="general_descriptor">Elections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <location class="online_producer">Afghanistan</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20051003T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE5D91030F930A35753C1A9639C8B63" item-length="611" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Monitors Find Significant Fraud in Afghan Elections</hl1>
+        <hl2 class="online_headline">Monitors Find Significant Fraud in Afghan Elections</hl2>
+      </hedline>
+      <byline class="print_byline">By CARLOTTA GALL</byline>
+      <dateline>KABUL, Afghanistan, Oct. 2</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Election officials and observers said Sunday that with 80 percent of the ballots counted in Afghanistan's national and provincial elections, they had found significant incidents of fraud.</p>
+        <p>Whole districts have come under suspicion for ballot box stuffing and proxy voting, said Peter Erben, the chief of the United Nations-assisted Joint Election Management Board. He said ballot boxes from 4 percent of the 26,000 polling places -- about 1,000 stations -- had been set aside for investigation on suspicion of fraud and other irregularities.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>With 80 percent of the ballots counted in national and provincial elections, observers said they had found significant fraud.</p>
+      </block>
+      <block class="full_text">
+        <p>Election officials and observers said Sunday that with 80 percent of the ballots counted in Afghanistan's national and provincial elections, they had found significant incidents of fraud.</p>
+        <p>Whole districts have come under suspicion for ballot box stuffing and proxy voting, said Peter Erben, the chief of the United Nations-assisted Joint Election Management Board. He said ballot boxes from 4 percent of the 26,000 polling places -- about 1,000 stations -- had been set aside for investigation on suspicion of fraud and other irregularities.</p>
+        <p>The European Union observer mission said the reports of fraud and possible voter intimidation in places were ''worrying.'' In a statement, the mission said, ''While these phenomena do not appear to be nationwide, they are a cause for concern.''</p>
+        <p>Mr. Erben promised strong action and said that if there was a clear indication of fraud, the votes in question would be excluded from the general count. The Election Complaints Commission could also warn, fine and disqualify candidates if there was evidence of tampering, he said.</p>
+        <p>''We are taking irregularities very seriously,'' he said.</p>
+        <p>One of the worst cases has been in Paghman, a district west of Kabul, which is the stronghold of Abdul Rab Rassoul Sayyaf, a wartime faction leader and ally of President Hamid Karzai. Ballot boxes from 95 polling stations in Paghman have been set aside for further inspection and 30 to 40 of those had been cleared for counting by Sunday, officials said.</p>
+        <p>The rest would be excluded from the count because of clear evidence of fraud, said a foreign observer who lacked permission to speak to reporters and asked not be identified.</p>
+        <p>Mr. Sayyaf is running for a seat in the Wolesi Jirga, or the lower house of Parliament, and is in fourth place with 2,105 votes. Only 20 percent of the results for Kabul have been tabulated so far, but he is nevertheless well placed to win one of the 33 seats in the province.</p>
+        <p>Mr. Erben said that there were no signs of countrywide efforts to defraud the Afghan people but that there had been local efforts. ''I do not believe these irregularities in any way have affected the overall elections, but some of them have surely affected them locally,'' he said. Voters went to the polls Sept. 18 to choose representatives for Parliament from each province, and for members of provincial councils.</p>
+        <p>''If compared with other, similar, postconflict elections, I think that the level of irregularities that we are currently reviewing is extremely reasonable,'' Mr. Erben said at a news conference.</p>
+        <p>A ''very high number'' of polling stations in Paktika, a southeastern province that includes the tribal areas on the border with Pakistan, were also under review because of accusations of proxy voting, Mr. Erben said. Ballot boxes from 271 stations were quarantined in Paktika pending investigation, he said.</p>
+        <p>Another 300 boxes were quarantined in Herat, a western province, Tolo TV reported, quoting the local election supervisor.</p>
+        <p>The American military said Saturday that an American soldier and an Afghan soldier were killed Friday in a clash with insurgents in Kandahar, and an American soldier and two Afghans were wounded. Violence in Afghanistan has increased in recent months as Taliban insurgents have stepped up efforts to drive out the Afghan government and foreign troops.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

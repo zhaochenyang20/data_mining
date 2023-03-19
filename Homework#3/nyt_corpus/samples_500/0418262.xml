@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Answering The Mail</title>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Connecticut Weekly Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="12CN" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="418262"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">HOME REPAIRS</classifier>
+        <person class="indexing_service">GLADSTONE, BERNARD</person>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Connecticut</classifier>
+        <classifier class="online_producer" type="general_descriptor">Home Repairs and Improvements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19910127T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CEED6103DF934A15752C0A967958260" item-length="246" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Answering The Mail</hl1>
+      </hedline>
+      <byline class="print_byline">By BERNARD GLADSTONE</byline>
+      <byline class="normalized_byline">GLADSTONE, BERNARD</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Q.</p>
+        <p>Our screened porch has a slate floor. There are some paint spots on it, and the floor is rather dusty. We would like to apply a sealer, but we want to remove the paint spots first. How would you suggest we go about it?</p>
+        <p>A. Your best bet is to use a semipaste paint remover to try and remove the paint spots. Try this on a mild day, preferably when the temperature inside the porch is at least 60 degrees. Brush the remover over the paint spots in a thick layer, cover with plastic kitchen wrap, and allow to stand for about two hours. Take off the plastic, immediately scrub the floor with detergent and water, and rinse with plain water. Repeat if all the paint does not come out. Some of the white may still be visible. If so, try washing with a muriatic-acid solution of 1 part acid to 4 parts water. Soak for five minutes, and then flush it off with water. Make sure the floor dries for several days before applying the sealer.</p>
+        <p>Q.</p>
+        <p>Can you touch up scratches and worn spots on a floor whose finish is polyurethane?</p>
+        <p>A. It is almost impossible to do that without the touch-ups being noticeable after the work is done, but you can try. Sand the area carefully with No. 220 paper, making certain not to miss any places. Then wipe off the sanding dust with a rag moistened with paint thinner. When applying the polyurethane, try to "feather it out" around the edges. Apply a second coat within the time specified on the label, again feathering it out carefully.</p>
+      </block>
+      <block class="full_text">
+        <p>Q.</p>
+        <p>Our screened porch has a slate floor. There are some paint spots on it, and the floor is rather dusty. We would like to apply a sealer, but we want to remove the paint spots first. How would you suggest we go about it?</p>
+        <p>A. Your best bet is to use a semipaste paint remover to try and remove the paint spots. Try this on a mild day, preferably when the temperature inside the porch is at least 60 degrees. Brush the remover over the paint spots in a thick layer, cover with plastic kitchen wrap, and allow to stand for about two hours. Take off the plastic, immediately scrub the floor with detergent and water, and rinse with plain water. Repeat if all the paint does not come out. Some of the white may still be visible. If so, try washing with a muriatic-acid solution of 1 part acid to 4 parts water. Soak for five minutes, and then flush it off with water. Make sure the floor dries for several days before applying the sealer.</p>
+        <p>Q.</p>
+        <p>Can you touch up scratches and worn spots on a floor whose finish is polyurethane?</p>
+        <p>A. It is almost impossible to do that without the touch-ups being noticeable after the work is done, but you can try. Sand the area carefully with No. 220 paper, making certain not to miss any places. Then wipe off the sanding dust with a rag moistened with paint thinner. When applying the polyurethane, try to "feather it out" around the edges. Apply a second coat within the time specified on the label, again feathering it out carefully.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

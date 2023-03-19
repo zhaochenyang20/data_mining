@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>B.C.C.I. Case Delayed</title>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="17" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="468172"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">FRAUDS AND SWINDLING</classifier>
+        <classifier class="indexing_service" type="descriptor">BRIBERY</classifier>
+        <org class="indexing_service">BANK OF CREDIT AND COMMERCE INTERNATIONAL</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Frauds and Swindling</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bribery</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19910820T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE1D7123CF933A1575BC0A967958260" item-length="77" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>B.C.C.I. Case Delayed</hl1>
+      </hedline>
+      <byline class="print_byline">By The Associated Press</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The arraignment of the Bank of Credit and Commerce International on bribery and fraud charges was postponed for one month yesterday so court-appointed receivers of the banks' assets could decide whether they will represent B.C.C.I. in the criminal case. Justice Peter McQuillan of State Supreme Court in Manhattan granted a delay until Sept. 19 after attorneys said they needed time to study whether the receivers were required to act as the bank's agents.</p>
+      </block>
+      <block class="full_text">
+        <p>The arraignment of the Bank of Credit and Commerce International on bribery and fraud charges was postponed for one month yesterday so court-appointed receivers of the banks' assets could decide whether they will represent B.C.C.I. in the criminal case. Justice Peter McQuillan of State Supreme Court in Manhattan granted a delay until Sept. 19 after attorneys said they needed time to study whether the receivers were required to act as the bank's agents.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

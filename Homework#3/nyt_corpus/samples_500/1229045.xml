@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Count Inserts Himself Into History in U.N. Summit Photo</title>
+    <meta content="Y09PIC$02" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/09/09/nyregion/09PICT.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1229045"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <location class="indexing_service">Malta</location>
+        <org class="indexing_service">United Nations</org>
+        <person class="indexing_service">Wong, Edward</person>
+        <person class="indexing_service">Marulo di Condojanni, Carlo (Count)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Malta</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000909T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9402E2DB1139F93AA3575AC0A9669C8B63" item-length="398" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Count Inserts Himself Into History in U.N. Summit Photo</hl1>
+      </hedline>
+      <byline class="print_byline">By EDWARD WONG</byline>
+      <byline class="normalized_byline">Wong, Edward</byline>
+      <abstract>
+        <p>Count Carlo Marulo di Condojanni of Sovereign Military Order of Malta, no current ties to country of Malta, inserts himself in photo of United Nations Millennium Summit group; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>It might take a magnifying glass to spot him, that man in a navy-blue suit, his chest puffed out, among 180 other world dignitaries in the official photograph of the United Nations Millennium Summit group. But he is there, right next to the foreign minister of Niger, and he is not supposed to be.</p>
+        <p>The photograph was meant to be taken of heads of state attending an extraordinary, three-day summit meeting called to thrash out problems of poverty and peace at the United Nations.</p>
+      </block>
+      <block class="full_text">
+        <p>It might take a magnifying glass to spot him, that man in a navy-blue suit, his chest puffed out, among 180 other world dignitaries in the official photograph of the United Nations Millennium Summit group. But he is there, right next to the foreign minister of Niger, and he is not supposed to be.</p>
+        <p>The photograph was meant to be taken of heads of state attending an extraordinary, three-day summit meeting called to thrash out problems of poverty and peace at the United Nations.</p>
+        <p>The man in the upper left corner is Count Carlo Marullo di Condojanni, of the Sovereign Military Order of Malta -- no current ties to the country of the same name -- which claims to be the smallest stamp-issuing authority in the world. It is based in Rome, just west of the Spanish Steps. And it is not a nation.</p>
+        <p>''He probably got lucky,'' said Hans Grohmann, a United Nations protocol assistant.</p>
+        <p>The photograph was taken in a council chamber in the United Nations shortly after a luncheon of world leaders on Wednesday. Many of the leaders were accompanied to the chamber by fellow delegates, and that was probably how the count managed to end up in the photograph, Mr. Grohmann said. Two other countries, Jordan and Norway, also violated the rules by having two representatives each in the photo.</p>
+        <p>Count di Condojanni was the official delegate from his order to the summit. Like the International Red Cross, the group has representation at the United Nations, even thought it is not a nation. It was founded in 1048 as the Knights Hospitalers of St. John of Jerusalem by businessmen from Amalfi, south of Naples. Their goal was to build a hospital to serve pilgrims from the Holy Land.</p>
+        <p>As of the late 1980's, the group had 3,000 Italian members and 2,000 Americans. It now runs 200 hospitals and clinics worldwide. Since 1966, it has issued more than 300 stamps with distinctive designs that chronicle the order's history of military and charitable works.</p>
+        <p>The order's mission to the United Nations could not be reached last night.</p>
+        <p>But looking closely at the photo, is that a widening grin on Count di Condojanni's face?</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

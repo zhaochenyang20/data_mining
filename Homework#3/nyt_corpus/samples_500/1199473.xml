@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Rising Star, Lured to G.M.'s Sky</title>
+    <meta content="14PROF$06" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1199473"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="PRIVATE SECTOR"/>
+      <identified-content>
+        <classifier class="indexing_service" type="biographical_categories">Business and Finance</classifier>
+        <classifier class="indexing_service" type="descriptor">Automobiles</classifier>
+        <classifier class="indexing_service" type="descriptor">Hiring and Promotion</classifier>
+        <classifier class="indexing_service" type="names">Anne Asensio</classifier>
+        <org class="indexing_service">Renault Sa</org>
+        <org class="indexing_service">General Motors Corp</org>
+        <person class="indexing_service">Tagliabue, John</person>
+        <person class="indexing_service">Arsenio, Anne</person>
+        <classifier class="online_producer" type="types_of_material">Biography</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Road Trips</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hiring and Promotion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Automobiles</classifier>
+        <classifier class="online_producer" type="general_descriptor">Labor</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000514T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A02E1DC153BF937A25756C0A9669C8B63" item-length="930" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Rising Star, Lured to G.M.'s Sky</hl1>
+      </hedline>
+      <byline class="print_byline">By JOHN TAGLIABUE</byline>
+      <byline class="normalized_byline">Tagliabue, John</byline>
+      <dateline>PARIS</dateline>
+      <abstract>
+        <p>Veteran French automobile designer Anne Arsenio, 37, is hired away from Renault by General Motors; portrait (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>''I'M a designer,'' Anne Asensio begins, ''before being a car guy, as they say.''</p>
+        <p>So it is not too surprising that General Motors, wanting to breathe new life into its cautious designs, has hired this Frenchwoman, age 37, from Renault, the French automaker whose revival has relied on attention-catching styles.</p>
+      </block>
+      <block class="full_text">
+        <p>''I'M a designer,'' Anne Asensio begins, ''before being a car guy, as they say.''</p>
+        <p>So it is not too surprising that General Motors, wanting to breathe new life into its cautious designs, has hired this Frenchwoman, age 37, from Renault, the French automaker whose revival has relied on attention-catching styles.</p>
+        <p>For the last 14 years, Ms. Asensio has been a growing influence in a Renault design team that has turned out best-selling models like the Twingo, a bright jelly bean of a car that was among the fastest-selling European small cars, and the Scenic, a bulbous van (or monospace, as the Europeans say) whose design Ms. Asensio developed.</p>
+        <p>Ms. Asensio would not discuss her goals at G.M., but she is expected to continue designing cars from the inside out, wrapping comfortable, expansive interiors in distinctive exteriors.</p>
+        <p>She has already spent time in Detroit. In 1986 and 1987, she participated in a program in product design at the Center for Creative Studies there, after obtaining a degree at the Paris School for Applied Arts and before joining Renault. But it was in France, and at Renault, that her passion for design and for cars blossomed.</p>
+        <p>So what made her take the offer from G.M.? ''To work internationally was an important decision for me,'' she said. ''I feel that the opportunity of going there came at the right time.''</p>
+        <p>Yet her Renault ties run deep. It was while training at the company that she met her husband, Gerard, also a car designer. They have a 10-year-old son who, Ms. Asensio says, has little interest in cars. Her husband has taken early retirement from Renault and will follow her to Detroit.</p>
+        <p>Her interest in design goes back even earlier. She says she enjoyed a ''double education'' from her stepfather, an engineer, and her mother, whose interest in design came from her work in pret-a-porter, or ready-to-wear, fashion and who now runs her own apparel business.</p>
+        <p>''First of all, I was a product designer,'' Ms. Asensio said. ''I went to cars because it's an interesting object to design. You start with the human being. And while you have to create an identity for the outside, it's a very complex object, and there are the technologies of plastic, steel, leather and the interface with the human being.''</p>
+        <p>Asked what kind of car she drives, Ms. Asensio replied, ''many,'' explaining, ''My pleasure is to try cars, to change.'' On vacation, she drives a Renault Scenic or an Espace, Renault's larger van. And she loves sports cars. Her first was a Triumph TR4; she now drives a vermilion-red Porsche 911 with a black leather interior.</p>
+        <p>Nor is her taste limited to four wheels. A passionate biker, she also rides an Italian-built Ducati Monster motorcycle.</p>
+        <p>First in her pantheon of automobile designers is her mentor, Patrick le Quement, the head of design at Renault, who is highly regarded for his willingness to take risks on adventurous designs. ''I was impressed by his vision,'' she said.</p>
+        <p>But as a noncar type, she remains attached to other forms of design, including fashion, finding analogies in the design of complex industrial objects like cars. Though she prefers relaxed, sporty clothing, her favorite designers include Issey Miyake, whose work evolved from traditional Japanese folk costumes into avant-garde apparel employing innovative fabrics. She is also struck by the work of his young collaborator, Gwenael Nicholas, 34, a Frenchman who recently designed the interior of Mr. Miyake's Madison Avenue store.</p>
+        <p>But most of all she admires Alexander McQueen, the iconoclastic British designer for Givenchy, whose methods she finds akin to hers. ''He starts with a traditional design,'' she said, ''after which he tends to deconstruct, to change a little here and a little there. It's the same for cars: to change a conventional model to create a monospace, you move features gradually until you have created another world.''</p>
+        <p>Her point is to start with function and comfort, not the car's shell. ''A designer doesn't start with the emotion of external design,'' she said. ''I always start with, say, kids -- how can they move and how can they travel comfortably? It's a changed point of view.''</p>
+        <p>The future, she said, will bring greater attention to the needs of the elderly, as their numbers increase in Western societies.</p>
+        <p>Staying attuned to the future is much of what design is about, she said. ''A designer has to be very curious and open to what's going on,'' she said. ''To capture what will be the next trend. It's a special talent. You have to have an antenna.''</p>
+        <p>For her, catching a whiff of the future involves being around bright, stimulating people. Though her mother's career suggested the possibility of striking off on her own, she finds that the necessary stimulation is most readily available in a corporate setting. ''It's easier to work in a large organization, where there are lots of resources and talented and interesting people,'' she said.</p>
+        <p>Having officially left Renault on Tuesday, she was so eager to take up her duties at G.M. that she was at the French headquarters of the company's Opel subsidiary on Thursday.</p>
+        <p>''I will feel comfortable when people stop talking about Anne Asensio this and Anne Asensio that,'' she said, ''and we are working all together again, working as a team.''</p>
+        <p>PRIVATE SECTOR</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

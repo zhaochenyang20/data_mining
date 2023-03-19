@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Police Officer Is Charged With Murder In Connecticut</title>
+    <meta content="20SHOO$01" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1999" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1078689"/>
+      <doc.copyright holder="The New York Times" year="1999"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Murders and Attempted Murders</classifier>
+        <classifier class="indexing_service" type="descriptor">Police Brutality and Misconduct</classifier>
+        <location class="indexing_service">New Milford (Conn)</location>
+        <person class="indexing_service">Ravo, Nick</person>
+        <person class="indexing_service">Smith, Scott B (Police Officer)</person>
+        <person class="indexing_service">Reid, Franklyn</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Connecticut</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./New England</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Law Enforcement and Security</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Connecticut</classifier>
+        <classifier class="online_producer" type="general_descriptor">Police Brutality and Misconduct</classifier>
+        <classifier class="online_producer" type="general_descriptor">Murders and Attempted Murders</classifier>
+        <classifier class="online_producer" type="general_descriptor">Police</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19990120T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950DE3D71230F933A15752C0A96F958260" item-length="532" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Police Officer Is Charged With Murder In Connecticut</hl1>
+      </hedline>
+      <byline class="print_byline">By NICK RAVO</byline>
+      <byline class="normalized_byline">Ravo, Nick</byline>
+      <abstract>
+        <p>New Milford, Conn, Police Officer Scott B Smith is charged with murder in shooting death of unarmed suspect Franklyn Reid last month (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A police officer in New Milford, Conn., turned himself in to the State Police yesterday after being charged with murder in the shooting death of an unarmed suspect last month.</p>
+        <p>The officer, Scott B. Smith, 27, of New Milford is charged with killing Franklyn Reid, also 27 and from New Milford, about 11 A.M. on Dec. 29.</p>
+      </block>
+      <block class="full_text">
+        <p>A police officer in New Milford, Conn., turned himself in to the State Police yesterday after being charged with murder in the shooting death of an unarmed suspect last month.</p>
+        <p>The officer, Scott B. Smith, 27, of New Milford is charged with killing Franklyn Reid, also 27 and from New Milford, about 11 A.M. on Dec. 29.</p>
+        <p>According to investigators with the State Attorney's Office in Waterbury, Officer Smith used excessive force and shot Mr. Reid in the back, just below the neck, while he was on his knees after a foot chase.</p>
+        <p>The investigators' report, which was released on Monday, said that Mr. Reid suffered a contact wound, indicating that the gun was pressed against his back, ''or close to it,''  State Attorney John A. Connelly said.</p>
+        <p>Mr. Reid, a felon with a record that included convictions for assault and sexual assault, was wanted on  charges including violating probation, six counts of telephone harassment and three charges of failure to appear in court.</p>
+        <p>Officer Smith and his partner, David Shortt, were backing up another officer who had been pursuing Mr. Reid when they spotted the suspect at a New Milford gas station. Mr. Reid then ran away and Officer Smith chased him on foot.</p>
+        <p>Officer Smith told investigators that after he caught Mr. Reid and forced him to his knees, he did not see the suspect's hands, and that Mr. Reid made a quick move.</p>
+        <p>''I believed at the time he was either going to shoot me or stab me,'' he said. ''Out of fear for my life at that instant, I discharged my weapon one time, striking Mr. Reid.''</p>
+        <p>Officer Smith, who has been on the police force in New Milford for about two years, surrendered in Litchfield, Conn. He was arraigned in Superior Court in Bantam, Conn., and released  after posting a $250,000 bond.</p>
+        <p>Mr. Connelly said he believed that Officer Smith was the first Connecticut police officer charged with murder for a killing that occurred while on duty. If convicted, he would receive a mandatory sentence of 25 years to life in prison.</p>
+        <p>Officer Smith's lawyer, Thomas J. Allingham of New Milford, said his client would hold a news conference Friday in Litchfield.</p>
+        <p>Officer Smith is also the target of a civil rights wrongful death lawsuit filed last week in United States District Court in Bridgeport by Mr. Reid's family. The lawyer for the family, Richard Bieder of Bridgeport, did not return a telephone call seeking comment yesterday.</p>
+        <p>The shooting has raised questions of racial bias, since Mr. Reid was black and Officer Smith is white. New Milford has a population of about 27,000, and less than one percent, about 200 people, are black. Neither Mayor Art Pietler nor James D. Sweeney, chief of the 42-member Police Department, returned calls yesterday seeking comments about the killing. But Mr. Allingham said, ''Race didn't have anything to do with this event.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

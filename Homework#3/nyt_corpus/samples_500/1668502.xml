@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Boy, 13, Dies After Dispute Over Life Support Is Settled</title>
+    <meta content="29DYING" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Health; New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2005/04/29/nyregion/29dying.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1668502"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Death and Dying</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Healthcare</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Medicine and Health</classifier>
+        <classifier class="online_producer" type="descriptor">Courts</classifier>
+        <classifier class="online_producer" type="descriptor">Medicine and Health</classifier>
+        <classifier class="online_producer" type="general_descriptor">Courts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+        <org class="online_producer">Montefiore Medical Center</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20050429T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E05E5DD1131F93AA15757C0A9639C8B63" item-length="751" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Boy, 13, Dies After Dispute Over Life Support Is Settled</hl1>
+        <hl2 class="online_headline">Boy, 13, Dies After Dispute Over Life Support Is Settled</hl2>
+      </hedline>
+      <byline class="print_byline">By KAREEM FAHIM; Janon Fisher contributed reporting for this article.</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Teron Francis, the 13-year-old Bronx boy who slipped into a mysterious coma about nine days ago, died yesterday after his parents asked doctors at a Bronx hospital to turn off his respirator. His death ended a bitter feud between the family's lawyers and officials of the Montefiore Medical Center over his care there.</p>
+        <p>A spokesman for the medical center, Steven Osborne, said that the ventilator that had sustained Teron's organs was turned off at the request of his family, and that his heart stopped beating at 5:05 p.m.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Teron Francis, the 13-year-old Bronx boy who slipped into a mysterious coma about nine days ago, died yesterday after his parents asked doctors at a Bronx hospital to turn off his respirator. His death ended a bitter feud between the family's lawyers and officials of the Montefiore Medical Center over his care there.</p>
+      </block>
+      <block class="full_text">
+        <p>Teron Francis, the 13-year-old Bronx boy who slipped into a mysterious coma about nine days ago, died yesterday after his parents asked doctors at a Bronx hospital to turn off his respirator. His death ended a bitter feud between the family's lawyers and officials of the Montefiore Medical Center over his care there.</p>
+        <p>A spokesman for the medical center, Steven Osborne, said that the ventilator that had sustained Teron's organs was turned off at the request of his family, and that his heart stopped beating at 5:05 p.m.</p>
+        <p>''Our hearts go out to the family, and we hope they will be able to find peace,'' Mr. Osborne said.</p>
+        <p>Speaking on behalf of Teron's mother, Marcerlyn Francis, Robert Genis, a lawyer, said: ''Heaven has another angel tonight, so when you look up in the sky and see the stars, that's Teron.''</p>
+        <p>The arguments over Teron's treatment were marked by what both sides called miscommunications. Lawyers for the Francis family said that their clients felt mistreated by hospital officials, particularly when two doctors told family members that Teron would be taken off life support without their consent, an assertion the hospital denies.</p>
+        <p>''The family had difficulty reaching out and communicating after that,'' Mr. Genis said.</p>
+        <p>Montefiore's medical director, Gary Kalkut, said that Mr. Genis's involvement had disrupted the normal course of counseling between doctors, social workers and grieving family members.</p>
+        <p>Some of the dispute seemed to hinge on language, which was reminiscent of the case of Terri Schiavo, the Florida woman who was removed from life support last month after a prolonged and bitter legal fight between her parents and her husband and their respective allies.</p>
+        <p>Hospital officials said they used accurate medical terminology to describe Teron's state. They shied away from using the term ''life support,'' for example, and maintained that the boy was dead -- not ''brain dead'' -- because he had no brain function. Mr. Genis said that language contributed to an atmosphere of mistrust on the part of the family.</p>
+        <p>''The Schiavo case is the backdrop, but it is important to understand the differences between the two cases,'' Dr. Kalkut said. ''Teron Francis was dead and it wasn't a question of whether he was responding or not.'' He accused Mr. Genis of conflating Teron's case with Terri Schiavo's.</p>
+        <p>Teron was sent to Montefiore on April 19 at the request of Bronx-Lebanon Hospital, where he was first taken after he fell ill, Dr. Kalkut said. Doctors at Montefiore suspected then that he was brain-dead, Dr. Kalkut said, and when tests over the next two days confirmed that suspicion, he was declared dead on April 21. On Monday, Justice Douglas McKeon of State Supreme Court in the Bronx granted Mr. Genis's request for an injunction barring the hospital from taking Teron off his respirator.</p>
+        <p>Both sides say that in the days that followed, Justice McKeon's mediation eased the impasse between the family and the hospital. On Wednesday night, a doctor not connected to the hospital visited Teron, and confirmed the Montefiore diagnosis that he was brain-dead. Then yesterday, Mr. Genis returned to court at the request of the Francis family, and asked Justice McKeon to vacate the injunction, allowing for Teron's removal from the respirator.</p>
+        <p>Questions remained last night over the treatment Teron received at Bronx-Lebanon Hospital. A hospital spokesman, Errol Schneer, said that on April 15 Teron visited the hospital, where he had long been a dental patient, for a dental procedure, but was forced to reschedule because he was not accompanied by an adult. Three days later, he returned with his mother, and they were both admitted with the same symptoms, Mr. Schneer said. He would not describe the symptoms, but Mr. Genis said that Teron was suffering from headaches and a fever and that his mother complained of hypertension.</p>
+        <p>Shortly afterward, Teron fell into a coma and was transferred to Montefiore. Mr. Genis said his family thinks that the hospital's refusal to perform the dental procedure led to his illness. Mr. Schneer said that the hospital had reviewed the case and found no connection between Teron's dental and medical conditions.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

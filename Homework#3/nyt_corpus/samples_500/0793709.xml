@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Food Notes</title>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Living Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Home and Garden" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="793709"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">RESTAURANTS</classifier>
+        <classifier class="indexing_service" type="descriptor">FOOD</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Home and Garden</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Hospitality, Restaurant and Travel</classifier>
+        <classifier class="online_producer" type="general_descriptor">Restaurants</classifier>
+        <classifier class="online_producer" type="general_descriptor">Food</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19951004T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CE3DB123CF937A35753C1A963958260" item-length="726" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Food Notes</hl1>
+      </hedline>
+      <byline class="print_byline">By Florence Fabricant</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Sommeliers' New Wine</p>
+        <p>Wine and food lovers are in for a treat on Saturday from 2 to 4 P.M. at Sherry-Lehmann, the wine shop at 679 Madison Avenue (61st Street). Two award-winning sommeliers, Daniel Johnnes of Montrachet in TriBeCa and Larry Stone of Rubicon in San Francisco, have released a California cabernet sauvignon and chardonnay with their own new label, Deux Chapeaux. The wines will be available for tasting along with samplings of food prepared by Chris Gesualdi, the chef at Montrachet. New Health-Food Store</p>
+        <p>Finally, there are health-food stores that are really about food -- not just cereals, canned stuff and supplements. One of them is the Natural Frontier Market, 167 Third Avenue (at 16th Street). Near the front of this store, which opened a few months ago, is an inviting produce section. Most items are organic -- labels indicate those that are not -- and prices are fairly reasonable. Both the organic and the non-organic eggplants are $1.49 a pound.</p>
+        <p>The salad bar, $3.99 a pound, has mostly non-organic items. But many of the salads and baked goods at the prepared food counter are made from organic ingredients. Studying Cheese</p>
+        <p>Among the classes scheduled this fall at New York University's Center for Foods and Food Management is one devoted to cheese. On Nov. 2, from 6:10 to 9 P.M., a guided cheese tasting will be led by Robert Kaufelt, who owns Murray's Cheese Shop in Greenwich Village. The class is $45. To register: (212) 998-5588. Pasta Before the Kickoff</p>
+        <p>The dish for a tailgate picnic before the kickoff might be pasta in the shape of the team's mascot or logo. The Pasta Shoppe in Nashville has pastas representing 30 colleges and universities, including the Big 10 schools, Notre Dame and Vanderbilt. Ivy League schools are not represented. Some pastas, which come in six-ounce bags for $2.95 each, are in team colors. Notre Dame is green and white, for example. The pastas can be ordered by calling (800) 247-0188; there is a charge for shipping.  Greenwich Catering</p>
+        <p>In November, Debra Ponzek, the former chef at Montrachet in TriBeCa, will open a catering shop in Greenwich, Conn. Called Aux Delices: Food by Debra Ponzek, it will be at 1075 East Putnam Road, in the Riverside section. The shop will sell an array of dishes, with daily specials, plus pastries and bread. Catering will also be available. Off the Menu Array of International Openings</p>
+        <p>Several new restaurants have just opened, or are opening in the next week or so, and they are a diverse collection.</p>
+        <p>Torre di Pisa, 19 West 44th Street, a branch of a restaurant in Milan owned by Paolo and Marco Meacci, has a David Rockwell design that incorporates references to the leaning landmark for which the restaurant is named. It is due to open Oct. 11.</p>
+        <p>Riodizio, 417 Lafayette Street (Astor Place), is scheduled to open on Saturday and will have an open kitchen in the back, where meats, seafood, poultry, vegetables and game will be grilled on skewers, then served in unlimited quantities. It will be the first Manhattan version of a Brazilian rodizio. A rodizio dinner, including salads and side dishes, will be $18.95 ($17.95 at lunch); doggie bags will not be provided. The restaurant will also have an a la carte menu.</p>
+        <p>Republic, which will specialize in noodles, dumplings and other simple fare interpreted from an array of Asian countries, is planning to open on Monday at 37 Union Square West (near 17th Street).</p>
+        <p>Serious Chinese food is on the menu at Jimmy Sung's, 219 East 44th Street. In May, Mr. Sung sold J. Sung's Dynasty in the Hotel Lexington, which he had owned since 1986. His new restaurant, lavishly decorated, offers dishes from various regions in China.</p>
+        <p>Willow, with contemporary food that suggests the Mediterranean, is to open today in the duplex space at 1022 Lexington Avenue (73d Street). The owners, Lauri Gibson and Vivek Bandhu, also own Table d'Hote on East 92d Street.  Food and Drink at La Cote Basque</p>
+        <p>Tasters Guild-NY, a wine group, has organized a five-course dinner, with wines, at La Cote Basque on Dec. 8. The restaurant is scheduled to reopen later this month. The dinner, black tie optional, is $100 a person for members, $110 for nonmembers. For reservations, checks can be sent to Ron Kapon, 230 West 79th Street, New York 10024. Information: (212) 799-6311.</p>
+      </block>
+      <block class="full_text">
+        <p>The Sommeliers' New Wine</p>
+        <p>Wine and food lovers are in for a treat on Saturday from 2 to 4 P.M. at Sherry-Lehmann, the wine shop at 679 Madison Avenue (61st Street). Two award-winning sommeliers, Daniel Johnnes of Montrachet in TriBeCa and Larry Stone of Rubicon in San Francisco, have released a California cabernet sauvignon and chardonnay with their own new label, Deux Chapeaux. The wines will be available for tasting along with samplings of food prepared by Chris Gesualdi, the chef at Montrachet. New Health-Food Store</p>
+        <p>Finally, there are health-food stores that are really about food -- not just cereals, canned stuff and supplements. One of them is the Natural Frontier Market, 167 Third Avenue (at 16th Street). Near the front of this store, which opened a few months ago, is an inviting produce section. Most items are organic -- labels indicate those that are not -- and prices are fairly reasonable. Both the organic and the non-organic eggplants are $1.49 a pound.</p>
+        <p>The salad bar, $3.99 a pound, has mostly non-organic items. But many of the salads and baked goods at the prepared food counter are made from organic ingredients. Studying Cheese</p>
+        <p>Among the classes scheduled this fall at New York University's Center for Foods and Food Management is one devoted to cheese. On Nov. 2, from 6:10 to 9 P.M., a guided cheese tasting will be led by Robert Kaufelt, who owns Murray's Cheese Shop in Greenwich Village. The class is $45. To register: (212) 998-5588. Pasta Before the Kickoff</p>
+        <p>The dish for a tailgate picnic before the kickoff might be pasta in the shape of the team's mascot or logo. The Pasta Shoppe in Nashville has pastas representing 30 colleges and universities, including the Big 10 schools, Notre Dame and Vanderbilt. Ivy League schools are not represented. Some pastas, which come in six-ounce bags for $2.95 each, are in team colors. Notre Dame is green and white, for example. The pastas can be ordered by calling (800) 247-0188; there is a charge for shipping.  Greenwich Catering</p>
+        <p>In November, Debra Ponzek, the former chef at Montrachet in TriBeCa, will open a catering shop in Greenwich, Conn. Called Aux Delices: Food by Debra Ponzek, it will be at 1075 East Putnam Road, in the Riverside section. The shop will sell an array of dishes, with daily specials, plus pastries and bread. Catering will also be available. Off the Menu Array of International Openings</p>
+        <p>Several new restaurants have just opened, or are opening in the next week or so, and they are a diverse collection.</p>
+        <p>Torre di Pisa, 19 West 44th Street, a branch of a restaurant in Milan owned by Paolo and Marco Meacci, has a David Rockwell design that incorporates references to the leaning landmark for which the restaurant is named. It is due to open Oct. 11.</p>
+        <p>Riodizio, 417 Lafayette Street (Astor Place), is scheduled to open on Saturday and will have an open kitchen in the back, where meats, seafood, poultry, vegetables and game will be grilled on skewers, then served in unlimited quantities. It will be the first Manhattan version of a Brazilian rodizio. A rodizio dinner, including salads and side dishes, will be $18.95 ($17.95 at lunch); doggie bags will not be provided. The restaurant will also have an a la carte menu.</p>
+        <p>Republic, which will specialize in noodles, dumplings and other simple fare interpreted from an array of Asian countries, is planning to open on Monday at 37 Union Square West (near 17th Street).</p>
+        <p>Serious Chinese food is on the menu at Jimmy Sung's, 219 East 44th Street. In May, Mr. Sung sold J. Sung's Dynasty in the Hotel Lexington, which he had owned since 1986. His new restaurant, lavishly decorated, offers dishes from various regions in China.</p>
+        <p>Willow, with contemporary food that suggests the Mediterranean, is to open today in the duplex space at 1022 Lexington Avenue (73d Street). The owners, Lauri Gibson and Vivek Bandhu, also own Table d'Hote on East 92d Street.  Food and Drink at La Cote Basque</p>
+        <p>Tasters Guild-NY, a wine group, has organized a five-course dinner, with wines, at La Cote Basque on Dec. 8. The restaurant is scheduled to reopen later this month. The dinner, black tie optional, is $100 a person for members, $110 for nonmembers. For reservations, checks can be sent to Ron Kapon, 230 West 79th Street, New York 10024. Information: (212) 799-6311.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

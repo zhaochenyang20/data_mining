@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Gymnastics In Baltimore</title>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1992" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Travel Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="5" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <docdata>
+      <doc-id id-string="527245"/>
+      <doc.copyright holder="The New York Times" year="1992"/>
+      <series series.name="TRAVEL ADVISORY"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">GYMNASTICS</classifier>
+        <classifier class="indexing_service" type="descriptor">NYTRAVEL</classifier>
+        <classifier class="indexing_service" type="descriptor">OLYMPIC GAMES (1992)</classifier>
+        <location class="indexing_service">BALTIMORE (MD)</location>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sunday Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Maryland/Baltimore</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Maryland</classifier>
+        <classifier class="online_producer" type="general_descriptor">Gymnastics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Games</classifier>
+        <classifier class="online_producer" type="general_descriptor">Olympic Games</classifier>
+        <classifier class="online_producer" type="general_descriptor">Travel and Vacations</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19920510T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CE5D9113BF933A25756C0A964958260" item-length="191" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Gymnastics In Baltimore</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The United States Olympic Gymnastics Trials are being held at the Baltimore Arena in Baltimore on June 6 and 7, and June 11 to 13. The top seven women and top seven men will represent the United States in the Summer Games in Barcelona. Forty-two gymnasts are expected to compete, including Kim Zmeskal, who last month won the World Championships in Paris and is the first American woman to be ranked No. 1 worldwide.</p>
+        <p>Tickets are available for the following events: the Women's rhythmic preliminaries on June 6 at 2 P.M. and rhythmic finals on June 7; the opening ceremony and women's artistic compulsories on the vault, uneven parallel bars, the balance beam and the floor exercises at 7 P.M. on June 11; the men's artistic compulsories on the pommel horse, parallel bars, vault, horizontal bars, rings, and floor at 7:30 on June 12, and the women's and men's finals at 2:30 and 8 P.M. respectively on June 13. Ticket prices range from $10 to $75, depending seating and event. The women's finals are almost sold out, according to the local organizing committee for the trials.</p>
+      </block>
+      <block class="full_text">
+        <p>The United States Olympic Gymnastics Trials are being held at the Baltimore Arena in Baltimore on June 6 and 7, and June 11 to 13. The top seven women and top seven men will represent the United States in the Summer Games in Barcelona. Forty-two gymnasts are expected to compete, including Kim Zmeskal, who last month won the World Championships in Paris and is the first American woman to be ranked No. 1 worldwide.</p>
+        <p>Tickets are available for the following events: the Women's rhythmic preliminaries on June 6 at 2 P.M. and rhythmic finals on June 7; the opening ceremony and women's artistic compulsories on the vault, uneven parallel bars, the balance beam and the floor exercises at 7 P.M. on June 11; the men's artistic compulsories on the pommel horse, parallel bars, vault, horizontal bars, rings, and floor at 7:30 on June 12, and the women's and men's finals at 2:30 and 8 P.M. respectively on June 13. Ticket prices range from $10 to $75, depending seating and event. The women's finals are almost sold out, according to the local organizing committee for the trials.</p>
+        <p>Tickets: (410) 481-7328. For information, (800) 800-8742.</p>
+        <p>TRAVEL ADVISORY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

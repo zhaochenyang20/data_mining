@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Grandpa Had a Hammer</title>
+    <meta content="LJACO.$01" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1999" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1102356"/>
+      <doc.copyright holder="The New York Times" year="1999"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Home Repairs and Improvements</classifier>
+        <person class="indexing_service">Jacobs, Robert M</person>
+        <person class="indexing_service">Allen, Eugenie</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Home Repairs and Improvements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19990424T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E07EFD7103AF937A15757C0A96F958260" item-length="171" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Grandpa Had a Hammer</hl1>
+      </hedline>
+      <abstract>
+        <p>Robert M Jacobs letter sympathizes with Eugenie Allen's April 21 Op-Ed on home repairs (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>As one of those ''have toolbox, will travel'' members of the American Association of Retired People that Eugenie Allen describes in her April 21 Op-Ed article, I sympathize with Ms. Allen but also wonder what will happen as she grows older and the next generation matures.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>As one of those ''have toolbox, will travel'' members of the American Association of Retired People that Eugenie Allen describes in her April 21 Op-Ed article, I sympathize with Ms. Allen but also wonder what will happen as she grows older and the next generation matures.</p>
+        <p>Unless she sends her children to Grandpa for some intensive training in the ageless skills of home repair and remodeling, Ms. Allen and her husband will become totally helpless retirees.</p>
+        <p>The moral of the story is that you should train your children in essential skills if you want to survive old age.</p>
+        <p>ROBERT M. JACOBS  Englewood, N.J., April 21, 1999</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

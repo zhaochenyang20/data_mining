@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Offer to Invest in Delphi Adds to Pressure on Union</title>
+    <meta content="19delphi" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2006/12/19/business/19delphi.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1812997"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Michigan</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Midwest</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Road Trips</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Marketing, Advertising and PR</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Michigan/Detroit</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Michigan</classifier>
+        <classifier class="online_producer" type="descriptor">Bankruptcies</classifier>
+        <classifier class="online_producer" type="descriptor">Labor</classifier>
+        <classifier class="online_producer" type="descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="descriptor">Automobiles</classifier>
+        <classifier class="online_producer" type="descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bankruptcies</classifier>
+        <classifier class="online_producer" type="general_descriptor">Automobiles</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suits and Litigation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Advertising and Marketing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Labor</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <location class="online_producer">Detroit (Mich)</location>
+        <location class="online_producer">United States</location>
+        <org class="online_producer">Delphi Corp</org>
+        <org class="online_producer">United Automobile Workers</org>
+        <org class="online_producer">General Motors Corp</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20061219T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9807E3D81331F93AA25751C1A9609C8B63" item-length="658" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Offer to Invest in Delphi Adds to Pressure on Union</hl1>
+        <hl2 class="online_headline">Offer to Invest in Delphi Adds to Pressure on Union</hl2>
+      </hedline>
+      <byline class="print_byline">By MICHELINE MAYNARD</byline>
+      <dateline>DETROIT, Dec. 18</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The United Automobile Workers union faces a difficult choice: reach agreement on concessions with the Delphi Corporation or risk seeing Delphi lose out on a deal that would help it emerge from bankruptcy.</p>
+        <p>A group of private equity firms led by Appaloosa Management and Cerberus Capital said on Monday that they were willing to invest at least $1.4 billion and up to $3.4 billion when Delphi emerges from Chapter 11.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The offer to invest up to $3.4 billion hinges on Delphi reaching a new labor agreement with its unions, led by the United Auto Workers, by Jan. 31.</p>
+      </block>
+      <block class="full_text">
+        <p>The United Automobile Workers union faces a difficult choice: reach agreement on concessions with the Delphi Corporation or risk seeing Delphi lose out on a deal that would help it emerge from bankruptcy.</p>
+        <p>A group of private equity firms led by Appaloosa Management and Cerberus Capital said on Monday that they were willing to invest at least $1.4 billion and up to $3.4 billion when Delphi emerges from Chapter 11.</p>
+        <p>But the offer hinges on Delphi's reaching a new labor agreement with its unions, led by the U.A.W., by Jan. 31.</p>
+        <p>Such an agreement has eluded Delphi since it filed for bankruptcy protection in October 2005, saying that its labor rates of about $27 an hour in the United States were too high to allow it to compete with nonunion companies who pay much less.</p>
+        <p>Union members at Delphi were paid essentially the same wages and benefits as their counterparts at General Motors, which owned Delphi until a spinoff in 1999.</p>
+        <p>But Delphi's chief executive, Robert S. Miller, has proposed terminating the union's contract and imposing wages as low as $12 an hour. The U.A.W. has fought the proposal; meanwhile, 12,400 workers agreed to buyouts and retirement incentives of up to $140,000 each this autumn.</p>
+        <p>On Monday, the U.A.W.'s president, Ron Gettelfinger, showed no signs that he was in any rush.</p>
+        <p>Matters affecting Delphi workers ''should be settled at the negotiating table by consent of the parties concerned, rather than by an order of the bankruptcy court,'' Mr. Gettelfinger said in a statement issued by the union. He added, ''Our membership will be heard.''</p>
+        <p>For months, U.A.W. members have been airing their displeasure at Mr. Miller, setting up pickets outside his suburban Detroit home. But he will not be in his current job much longer.</p>
+        <p>Delphi said Monday it had named Rodney O'Neal as chief executive, effective Jan. 1, meaning that he will be overseeing talks with the U.A.W. Mr. O'Neal is Delphi's chief operating officer.</p>
+        <p>Mr. Miller will remain as executive chairman until Delphi emerges from bankruptcy protection and a new board is formed.</p>
+        <p>A United States bankruptcy court judge will consider the investment proposal on Jan. 5.</p>
+        <p>Five investors, Appaloosa Management, Cerberus Capital, Harbinger Capital, Merrill Lynch and UBS Securities, would invest an initial $1.2 billion and purchase $200 million in new Delphi shares, giving them a 30 percent stake in the auto parts company when it leaves bankruptcy.</p>
+        <p>They could spend up to $2 billion more if shareholders do not participate in a planned rights offering for 57 million shares.</p>
+        <p>A full $3.4 billion investment would give the investors 70 percent of the company. But a Delphi spokeswoman, Claudia Piccinin, said the company expected at least some of the offering to be bought by other shareholders.</p>
+        <p>Delphi also said it had reached agreements with J. P. Morgan Chase and other lenders to refinance its debtor-in-possession financing, which it has used to operate while under bankruptcy.</p>
+        <p>The agreement had been expected. Appaloosa Management, a $4.5 billion hedge fund led by David Tepper, is Delphi's biggest shareholder.</p>
+        <p>It has been one of the most active players in Delphi's bankruptcy case, heading an equity committee. There is also a creditors' committee established by the bankruptcy court in the case.</p>
+        <p>Another investor, Cerberus, led a group that recently purchased a 51 percent stake in the General Motors Acceptance Corporation, the automaker's financing arm.</p>
+        <p>This month, the chief executive of G.M., Rick Wagoner, said he did not think a deal would be reached among his company, Delphi and the U.A.W. by the end of the month. Mr. Gettelfinger told workers last week that there had been little movement in the talks.</p>
+        <p>The U.A.W.'s contracts with Delphi and the Detroit auto companies expire next fall and some analysts have speculated that the union might try to avoid an agreement with Delphi until then. But the Jan. 31 deadline set by investors could make that strategy difficult to achieve.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

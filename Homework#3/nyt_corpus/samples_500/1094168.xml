@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Ideas &amp; Trends; A Prisoner of Fame and the State of Louisiana</title>
+    <meta content="21BROC$02" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="1999" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Week in Review Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Movies; Week in Review" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1094168"/>
+      <doc.copyright holder="The New York Times" year="1999"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Prisons and Prisoners</classifier>
+        <classifier class="indexing_service" type="descriptor">Motion Pictures</classifier>
+        <classifier class="indexing_service" type="descriptor">Academy Awards (Oscars)</classifier>
+        <location class="indexing_service">Angola (La)</location>
+        <org class="indexing_service">Louisiana State Penitentiary</org>
+        <person class="indexing_service">brockman, elin schoen</person>
+        <person class="indexing_service">Rideau, Wilbert</person>
+        <object.title class="indexing_service">Farm, The: Angola, Usa (Documentary Film)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Week in Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies/News and Features</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies/News and Features/Awards/Academy Awards</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies/News and Features/Awards</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Africa</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Africa/Angola</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Louisiana</classifier>
+        <classifier class="online_producer" type="general_descriptor">Academy Awards (Oscars)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Academy Awards (Oscars)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prisons and Prisoners</classifier>
+        <classifier class="online_producer" type="general_descriptor">Motion Pictures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Awards, Decorations and Honors</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19990321T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C00E1DE1231F932A15750C0A96F958260" item-length="1212" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Ideas &amp; Trends; A Prisoner of Fame and the State of Louisiana</hl1>
+      </hedline>
+      <byline class="print_byline">By ELIN SCHOEN BROCKMAN</byline>
+      <byline class="normalized_byline">brockman, elin schoen</byline>
+      <abstract>
+        <p>Reporters from around world have descended on Louisiana State Penitentiary at Angola to cover incongruity of glittery Oscar night and life of 57-year-old trusty, Wilbert Rideau, who co-directed movie that is nominated for Academy Award; Rideau's documentary, The Farm, documents lives of six prisoners at Angola, including four who are rehabilitated but have no hope of release; Rideau himself has little hope of winning release, partly because of acclaim he has received for film; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>THE most exclusive Oscar party of all will not be held in Hollywood tonight. It will take place in front of a television set in the depths of the Louisiana State Penitentiary at Angola, the largest maximum security prison in the country and the setting for ''The Farm,'' which was nominated for best feature documentary.</p>
+        <p>The guest of honor will be Wilbert Rideau, a black man convicted of murdering a white woman 38 years ago, who has edited The Angolite, the prison's award-winning news magazine, for 25 years. Mr. Rideau co-directed ''The Farm'' with the New York filmmakers Liz Garbus and Jonathan Stack, but he is not named on the nomination because an Academy Awards rule permits only two names per documentary.</p>
+      </block>
+      <block class="full_text">
+        <p>THE most exclusive Oscar party of all will not be held in Hollywood tonight. It will take place in front of a television set in the depths of the Louisiana State Penitentiary at Angola, the largest maximum security prison in the country and the setting for ''The Farm,'' which was nominated for best feature documentary.</p>
+        <p>The guest of honor will be Wilbert Rideau, a black man convicted of murdering a white woman 38 years ago, who has edited The Angolite, the prison's award-winning news magazine, for 25 years. Mr. Rideau co-directed ''The Farm'' with the New York filmmakers Liz Garbus and Jonathan Stack, but he is not named on the nomination because an Academy Awards rule permits only two names per documentary.</p>
+        <p>Reporters from around the world have descended on Angola with more intensity than anyone has seen in a while, many to cover the incongruity of Oscar night and the life of a 57-year-old trusty. The execution of Dobie Gillis Williams at the prison in January attracted some unusual attention, mainly because Mr. Williams's ''spiritual adviser'' was Sister Helen Prejean, author of ''Dead Man Walking''(Random House, 1993), which was made into a movie that was filmed at Angola.</p>
+        <p>But Cathy Jett, the prison's executive staff officer in charge of public information, says there hasn't been this much press interest since Mr. Rideau's book, ''Life Sentences'' (Times Books, 1992), was published. It was this collection of Angolite articles that first attracted Ms. Garbus and Mr. Stack. Mr. Rideau's haunting portraits of life and death at Angola became the basis for ''The Farm,'' which documents the lives of six prisoners, one dying, another on death row and four others rehabilitated but with no hope of release in Louisiana's penal system, which reflects a national trend toward lengthy incarceration.</p>
+        <p>Mr. Stack says Angola has always provided ''the kind of material that makes filmmakers salivate.'' It has the same effect on journalists. ''The fact is, the Oscars are not that interesting,'' said Edward Hillmore, who visited Angola for The London Evening Standard.  ''But here's a story that has a lot more to it than who's wearing what designer on Oscar night.''</p>
+        <p>Angola's pull on journalists and movie people amazes Ms. Jett. ''I went to the opening of 'The Farm' in New York,'' she said, ''and at the dinner I sat down at a table with people from Vogue, and Anne Heche and William Baldwin, you know, and I didn't even get to eat because people kept asking me about what it's like to work here and be a woman and the death penalty and oh, my gosh, what didn't they ask?''</p>
+        <p>Angola perhaps offers the mystique of exploring what is both exotic and fearsome -- but, like the revolutionaries with round-trip tickets in the V. S. Naipaul essay, ''Killings in Trinidad,'' filmmakers and journalists get to go home.</p>
+        <p>Except, of course, for Mr. Rideau. At 19 he shot two bank employees and stabbed a third, Julia Ferguson, to death during a robbery. Mr. Rideau, whose death sentence was commuted to life when a 1972 Supreme Court ruling overturned capital punishment, has often expressed remorse for his crime. His quarter-century crusade ''to make a difference,'' as he puts it, has earned him acclaim but not freedom.</p>
+        <p>Of late Mr. Rideau has been interviewed by CBS News, the Norwegian Broadcasting Corporation, the German magazine Stern and the lawyer Johnnie Cochran for Court TV, among others. For most of these visitors, the mystique of the prison has given way to the question of why Mr. Rideau is still there.</p>
+        <p>In a 1978 Angolite article, Mr. Rideau, who refuses to write about his own case, said that ''long-term prisoners are hostages of fear and politics, their fate determined by the vagaries of the political mood.''</p>
+        <p>BACK in the days when Angola was one of the country's most violent prisons, before rehabilitation became an issue, paroles and pardons were probably more possible. In the 1930's, Gov. O. K. Allen released Leadbelly after the future blues legend petitioned him in song. Today, Angola is a model prison, proudly running daily tours of the 5,200-inmate institution, including its state-of-the-art execution chamber. Yet 88 percent of the convicts will never leave, according to the state'sprisons department, regardless of how rehabilitated some become.</p>
+        <p>Mr. Rideau's acclaim -- more than his race and that of the victim and the brutal nature of the crime --  has perhaps increased the prospect that he will be denied clemency. Two governors have scuttled four recommendations by the pardon board to release him. And the lobbying against Mr. Rideau from Calcascieu Parish, where he committed his crime, remains as fervent as ever.</p>
+        <p>Alexandra Geneste, a correspondent for La Croix, the French Catholic daily newspaper, came away from her five-and-a-half-hour interview with Mr. Rideau deeply troubled. ''It was so moving to hear him saying, 'Yes, I was a bad person for sure, but look what I've done and life is not over,' '' she said. ''And I think that we as journalists definitely have to do something for him.''</p>
+        <p>A front-page article on Mr. Rideau by Ennio Caretto in the Italian newspaper Corriere della Sera described Angola as ''America's Gulag.'' ''In Italy,'' he said in an interview, ''in a case like his, he would have already been returned to society.''</p>
+        <p>THE warden, Burl Cain, said in a recent interview: ''If it were up to me, I think he could go free and go to some other state where he could pursue his journalism talents. Wilbert Rideau is not going to kill anybody again, I don't think, or ever rob anybody. He's not about that anymore.''</p>
+        <p>Mr. Cain said he has seen to it that tonight Mr. Rideau, the other inmates and members of the press will have ''a good TV and refreshments.'' The warden, however, will be at the Oscar presentations in Hollywood in a newly bought tuxedo. While winning would be good, Mr. Cain said, he feels as if ''we've won already.'' The film, he said, has shown the public ''what it needed to see -- the old man dying in prison, the people who I feel are totally rehabilitated, people the public might think would be monsters being totally normal, everyday people who had done horrible things but had worked real hard to change their lives.''</p>
+        <p>Mr. Rideau wholeheartedly agrees. The nomination and press coverage, which still seem ''unreal'' to him, have brought the film a wider audience, he said last week in a telephone interview. His voice betrayed what he felt at the prospect of watching from so far away. ''I never expected to go,'' he said. ''It would be nice, however, if somebody would mention my name up there if we win.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Why Dig for Gold, if There Are Clams?</title>
+    <meta content="11KLAM$03" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="1999" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Dining In, Dining Out/Style Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Dining and Wine; Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1129872"/>
+      <doc.copyright holder="The New York Times" year="1999"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Cooking and Cookbooks</classifier>
+        <classifier class="indexing_service" type="descriptor">Recipes</classifier>
+        <classifier class="indexing_service" type="descriptor">Clams</classifier>
+        <person class="indexing_service">Louie, Elaine</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine/Recipes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Recipes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Fish and Other Marine Life</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cooking and Cookbooks</classifier>
+        <classifier class="online_producer" type="general_descriptor">Animals</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19990811T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A0DE7DF1F30F932A2575BC0A96F958260" item-length="1169" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Why Dig for Gold, if There Are Clams?</hl1>
+      </hedline>
+      <byline class="print_byline">By ELAINE LOUIE</byline>
+      <byline class="normalized_byline">Louie, Elaine</byline>
+      <abstract>
+        <p>Elaine Louie article on harvesting and preparing clams; recipes; photos (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>CLAMMING is a primordial experience. All it involves is walking slowly in the ocean at low tide, bending over and groping in the sediment in search of a hard, slightly rounded shape. Clamming requires no equipment, except maybe a bucket. It demands no talent, except a notion of where the clams are. Like fishing, trapping and hunting, it is one of the most ancient ways to gather food.</p>
+        <p>The laziest clammers, like me, meet a clam on its own rhythmic terms. We burrow together. I wade into two feet of water, sit down and grope about in the mud. Others are more energetic, or better equipped. Tom Thompson, a retired banker who clams in Huntington Bay, on the North Shore of Long Island, uses a rake and carries a wire basket on a float to keep his catch alive. Tom Colicchio, executive chef at Gramercy Tavern in Manhattan, learned at age 3 to feel for clams with his feet and take along a bushel basket to float in an inner tube.</p>
+      </block>
+      <block class="full_text">
+        <p>CLAMMING is a primordial experience. All it involves is walking slowly in the ocean at low tide, bending over and groping in the sediment in search of a hard, slightly rounded shape. Clamming requires no equipment, except maybe a bucket. It demands no talent, except a notion of where the clams are. Like fishing, trapping and hunting, it is one of the most ancient ways to gather food.</p>
+        <p>The laziest clammers, like me, meet a clam on its own rhythmic terms. We burrow together. I wade into two feet of water, sit down and grope about in the mud. Others are more energetic, or better equipped. Tom Thompson, a retired banker who clams in Huntington Bay, on the North Shore of Long Island, uses a rake and carries a wire basket on a float to keep his catch alive. Tom Colicchio, executive chef at Gramercy Tavern in Manhattan, learned at age 3 to feel for clams with his feet and take along a bushel basket to float in an inner tube.</p>
+        <p>Professional clammers work year round using hydraulic dredges or a 20-foot-long implement known as a bull rake. Amateurs usually do their clamming by hand in summer, when the water is soft and warm and the surf a mere ruffle. On the East Coast, all search for three kinds of clams.</p>
+        <p>The hard-shell clam is known locally as the northern quahog (or Mercenaria mercenaria, from the days when the Indians used the shells as wampum). Littlenecks (1 1/2 inches across), topnecks (2 inches) cherrystones (2 1/2 inches) and chowders (3 1/2 inches) are all quahogs, at different ages and stages of tenderness. The fragile-shelled steamer clam is also local, as are slender razor clams, about 3 inches long and an inch wide.</p>
+        <p>The Encyclopedia Britannica calls clams ''boring bivalves,'' but if their lives are monotonous, their afterlives certainly aren't. They have a sweet briny flavor and a pleasing chewiness that makes them irresistible raw with a squeeze of lemon, or steamed in white wine with garlic and parsley or, in the simplest of sandwiches, batter-fried and stuffed into a soft roll with tartar sauce, lettuce and tomato.</p>
+        <p>Clams probably show up more often in chowders than anyplace else, and these days the choice is no longer between just creamy New England and red Manhattan. At Gramercy Tavern, Mr. Colicchio makes a chowder with leeks, fingerling potatoes and onions (and ramps, in season), heightening it with fresh, lemony sorrel. And at the Lobster Club, Anne Rosenzweig steams clams in white wine, olive oil and garlic, reserving the broth for her classic creamy New England chowder, along with scallions and kernels of fresh, sweet milky corn.</p>
+        <p>Clams reveal their origin when it comes time to cook them. They need to be scrubbed seriously to get rid of all the grit they have been burrowing in. And they need to come out of their shells. The easiest way to open a clam is to steam it until the shell pops open; prying it open with a knife is dangerous for the inexperienced. Most shops will sell clams shucked as long as they are to be eaten or cooked within the hour. Otherwise, customers are advised to take them home closed. Clams should be kept uncovered and dry on the bottom shelf of the refrigerator, where the temperature is 38 to 40 degrees.</p>
+        <p>Digging your own, though, gives instant gratification. In 20 minutes, in a densely populated clam colony, a lazy clammer can dig up 48 clams, just the right amount for most chowder recipes. A $5 license from town hall in Huntington, N.Y., for example, allows an amateur clammer to gather half a bushel of shellfish a day, including no more than 100 hard-shell clams. Not a bad price for shopping in nature's store.</p>
+        <p>WARM CLAM SALAD WITH FRESH HERBS AND TOMATOES  Adapted from Gramercy Tavern  Time: 25 minutes</p>
+        <p>1 red tomato  1 orange or yellow tomato  24 littleneck clams, well scrubbed  1 shallot, peeled and chopped  2 cloves garlic, peeled and chopped</p>
+        <p>1/4 cup white wine  Sprig of parsley  2 tablespoons lemon juice</p>
+        <p>1/4 cup extra virgin olive oil</p>
+        <p>1/4 cup mixed green and purple basil leaves</p>
+        <p>1/4 cup parsley leaves  Salt and freshly ground black pepper.</p>
+        <p>1. Bring a medium saucepan half-full of water to a boil. Immerse tomatoes 10 seconds; then remove and rinse with cold water. Peel and seed tomatoes. Dice them and set aside.</p>
+        <p>2. In a large saucepan, combine clams, shallot, garlic, wine and parsley sprig. Cover, place over high heat and bring to a boil. Reduce heat to medium, and cook until all the shells open, 8 to 10 minutes. Check the pan occasionally, and transfer open clams to a bowl to prevent overcooking. When all clams have opened, set them aside in the bowl.</p>
+        <p>3. Strain broth in saucepan; there should be about  1/2 cup. Transfer to a blender, and add lemon juice. With machine running, slowly add olive oil. Return mixture to a large saucepan over medium heat. When broth is simmering, add clams in their shells, and tomatoes. When clams are heated, in 5 to 10 seconds, remove from heat and add basil and parsley. Season with salt and pepper to taste. Toss to mix well. Serve immediately.</p>
+        <p>Yield: 4 servings.</p>
+        <p>SPICY LEMONY CLAMS WITH PASTA  Adapted from the Lobster Club  Time: 25 minutes</p>
+        <p>Salt and freshly ground black pepper  1 pound spaghetti, linguine or other pasta</p>
+        <p>1/2 cup extra virgin olive oil  8 cloves garlic, peeled and thinly sliced  36 littleneck clams, well scrubbed</p>
+        <p>3/4 cup dry white wine  1 tablespoon hot pepper flakes  Finely grated zest of 2 lemons  Juice of 1 lemon</p>
+        <p>1/2 cup chopped Italian parsley.</p>
+        <p>1. Fill a large stockpot three-quarters full of water, and add 1 tablespoon salt. Bring to a boil over high heat, and add pasta. Boil until pasta is al dente, 7 to 8 minutes, and drain well. While pasta is cooking, prepare sauce.</p>
+        <p>2. In a large skillet over medium-low heat, heat olive oil. Add garlic, and saute just until garlic is translucent, about 2 minutes. Add clams and wine, and cover immediately. Raise heat to medium-high. Shake pan often, and check clams after 4 minutes. If any have opened, transfer them to a bowl so they do not overcook. Simmer remaining clams until all have opened.</p>
+        <p>3. In a large serving bowl, combine clams and broth from pan. Add pepper flakes, lemon zest, lemon juice, parsley, and salt and pepper to taste. Mix well. Add drained pasta, and toss well. Serve in soup bowls, accompanied by hot sourdough toast.</p>
+        <p>Yield: 4 servings.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>JERSEY FOOTLIGHTS</title>
+    <meta content="17NJFOOT" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="New Jersey Weekly Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="14NJ" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1619892"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Blacks</classifier>
+        <classifier class="indexing_service" type="descriptor">Art</classifier>
+        <location class="indexing_service">Atlantic City (NJ)</location>
+        <org class="indexing_service">African-American Heritage Museum of Southern New Jersey</org>
+        <person class="indexing_service">Hunter, Ralph</person>
+        <person class="indexing_service">Nash, Margo</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/New Jersey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New Jersey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Art</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New Jersey/Atlantic City</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New Jersey</classifier>
+        <classifier class="online_producer" type="general_descriptor">Blacks</classifier>
+        <classifier class="online_producer" type="general_descriptor">Art</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20041017T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9400E4D7163AF934A25753C1A9629C8B63" item-length="737" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>JERSEY FOOTLIGHTS</hl1>
+      </hedline>
+      <byline class="print_byline">By Margo Nash</byline>
+      <byline class="normalized_byline">Nash, Margo</byline>
+      <abstract>
+        <p>Jersey Footlights column; Ralph Hunter, collector of African-American memorabilia and founder of African-American Heritage Museum of Southern New Jersey, says newly discovered charcoal sketches believed to be from 1890's to 1900's unearthed under house in Atlantic City will be exhibited at museum in Newtonville after they are cleaned and restored; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>An Atlantic City Dig</p>
+        <p>Ralph Hunter likes to go to yard sales. And Mr. Hunter, president of the African American Heritage Museum of Southern New Jersey in Newtonville, is always on the lookout for African-American collectibles. Last August he hit an unexpected jackpot in Atlantic City. Stopping at a house on Michigan Avenue, he learned that artwork had been stored in a crawlspace under the house some 60 years ago. But retrieving it would not be easy. The framed pieces, protected by glass, had sunk into the moist coastal soil.</p>
+        <p>But, undaunted, Mr. Hunter returned the next day in his coveralls with a flashlight and canvas gloves. Digging by hand, he unearthed nine charcoal sketches of African-Americans that appeared to be from the 1890's to the 1900's. Three portraits looked like the daughter, mother and granddaughter of the same family. There was also a portrait of a man in a morning suit and straw hat seated in a wingback chair and another of a smiling woman standing in front of a house, ''whose eyes looked right through me,'' said Mr. Hunter, who calls the day he dug up the pictures ''the second most exciting day of my life.''</p>
+      </block>
+      <block class="full_text">
+        <p>An Atlantic City Dig</p>
+        <p>Ralph Hunter likes to go to yard sales. And Mr. Hunter, president of the African American Heritage Museum of Southern New Jersey in Newtonville, is always on the lookout for African-American collectibles. Last August he hit an unexpected jackpot in Atlantic City. Stopping at a house on Michigan Avenue, he learned that artwork had been stored in a crawlspace under the house some 60 years ago. But retrieving it would not be easy. The framed pieces, protected by glass, had sunk into the moist coastal soil.</p>
+        <p>But, undaunted, Mr. Hunter returned the next day in his coveralls with a flashlight and canvas gloves. Digging by hand, he unearthed nine charcoal sketches of African-Americans that appeared to be from the 1890's to the 1900's. Three portraits looked like the daughter, mother and granddaughter of the same family. There was also a portrait of a man in a morning suit and straw hat seated in a wingback chair and another of a smiling woman standing in front of a house, ''whose eyes looked right through me,'' said Mr. Hunter, who calls the day he dug up the pictures ''the second most exciting day of my life.''</p>
+        <p>A collector of African-American memorabilia for 30 years, he founded the African-American museum two years ago; the core of the collection is the more than 3,000 objects he has collected. The newly discovered portraits provide rare depictions of Atlantic City's black bourgeoisie of that era, Mr. Hunter said. He plans to exhibit his new treasures after they are cleaned and restored. Museum information: (609)567-6007.</p>
+        <p>Ballet Rouge: ''Dracula''</p>
+        <p>Not sated by Broadway's ''Dracula, the Musical''? Well, in Mercer County, you can try ''Dracula,'' the ballet. (Who knew that the wan Transylvanian count could dance?) The ballet will be performed by the Roxey Ballet Company Oct. 23 at 7 p.m. at the Villa Victoria Theater in Ewing. The title role will be danced in full bloodsucker regalia, including the requisite red-lined cape, by the ballet's artistic director, Mark Roxey, who was also its choreographer. ''The character requires a tremendous commitment,'' he said of Bram Stoker's toothy creation. ''It's not like the character has a moment to be weak.'' ''Dracula'' will also be performed for school groups Friday at 10 a.m. at the Villa Victoria Theater. The public is invited. Information: (609)397-7616 (ext. 807).</p>
+        <p>Hall-of-Fame Poet</p>
+        <p>Living near the Delaware and Raritan Canal keeps Paul Muldoon, a Pulitzer Prize-winning poet, in touch with his Irish roots. ''The canal is a point of contact in that it was built by Irishmen, kind of an Irish investment, as it were, in New Jersey,'' said Mr. Muldoon who has made his own investment in New Jersey, living just outside Princeton and teaching at the university. On Oct. 24 he will be inducted into the New Jersey Literary Hall of Fame along with the Pulitzer Prize-winning historian David Levering Lewis; Mr. Lewis is the biographer of W.E.B. Du Bois and taught at Rutgers from 1985 to 2003.</p>
+        <p>''Moy Sand and Gravel,'' the collection for which Mr. Muldoon received the 2003 Pulitzer Prize, holds many references to the Garden State. But was it hard for Mr. Muldoon to find his poetic path when he first came to America in 1988? Yes and no, he said. He knew the culture from watching television in Ireland, and though he found himself in a ''different language pool'' of English when he got here, he said, ''writers are people who are prepared to go slowly in a language.''</p>
+        <p>Since he came here, he added, the thing that has struck him about the United States, ''is its variousness. There are several countries in it, even in New Jersey.''</p>
+        <p>The New Jersey Literary Hall of Fame is a nonprofit group based at the New Jersey Institute of Technology in Newark. The public induction ceremony will be at the Robert B. Meyner Reception Room of the PNC Bank Arts Center in Holmdel from 1 to 4 p.m. For free tickets: (973)596-3276.</p>
+        <p>Margo Nash</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

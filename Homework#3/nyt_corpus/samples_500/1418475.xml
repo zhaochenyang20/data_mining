@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Kathryn Meek, Richard Coleman</title>
+    <meta content="25MEEK" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2002/08/25/fashion/weddings/25MEEK.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1418475"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <series series.name="WEDDINGS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">MEEK, KATHRYN SUE (KATHRYN SUE COLEMAN)</person>
+        <person class="indexing_service">COLEMAN, RICHARD ERICSON</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="descriptor">Weddings and Engagements</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20020825T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E00E5DD143CF936A1575BC0A9649C8B63" item-length="239" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Kathryn Meek, Richard Coleman</hl1>
+        <hl2 class="online_headline">Kathryn Meek and Richard Coleman</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Kathryn Sue Meek and Richard Ericson Coleman were married yesterday by Rabbi Daniel Wolk at the Century Country Club in Purchase, N.Y.</p>
+        <p>Mrs. Coleman, 34, is the event manager at the Four Seasons Restaurant in New York. She graduated from Southern Methodist University. Her parents, Susan and Donald H. Meek, live in Cedar Rapids, Iowa, where her father owns Technical Specialty Systems, a masonry restoration business, and Prime Equipment, a construction equipment sales company. Her mother, who is retired, owned Gourmet Lite, a specialty food market, and two Diet Center franchises, all in Cedar Rapids.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Kathryn Meek, Richard Coleman Kathryn Sue Meek and Richard Ericson Coleman were married yesterday by Rabbi Daniel Wolk at the Century Country Club in Purchase, N.Y.</p>
+      </block>
+      <block class="full_text">
+        <p>Kathryn Sue Meek and Richard Ericson Coleman were married yesterday by Rabbi Daniel Wolk at the Century Country Club in Purchase, N.Y.</p>
+        <p>Mrs. Coleman, 34, is the event manager at the Four Seasons Restaurant in New York. She graduated from Southern Methodist University. Her parents, Susan and Donald H. Meek, live in Cedar Rapids, Iowa, where her father owns Technical Specialty Systems, a masonry restoration business, and Prime Equipment, a construction equipment sales company. Her mother, who is retired, owned Gourmet Lite, a specialty food market, and two Diet Center franchises, all in Cedar Rapids.</p>
+        <p>Mr. Coleman, also 34, is a senior project manager for the F. J. Sciame Construction Company in New York. He graduated from Trinity College in Hartford. He is a son of Ann and John A. Coleman of White Plains. His father is a partner in Boardroom Consultants, a company in New York that specializes in corporate governance, director selection and executive search.</p>
+        <p>WEDDINGS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

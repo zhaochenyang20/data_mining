@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Stakes in the Philippines</title>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="26" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="69818"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">EDITORIALS</classifier>
+        <classifier class="indexing_service" type="descriptor">COUPS D'ETAT AND ATTEMPTED COUPS D'ETAT</classifier>
+        <location class="indexing_service">PHILIPPINES, REPUBLIC OF THE</location>
+        <person class="indexing_service">AQUINO, CORAZON C (PRES)</person>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/Philippines</classifier>
+        <classifier class="online_producer" type="general_descriptor">Coups D'Etat and Attempted Coups D'Etat</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870829T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE5DC1439F93AA1575BC0A961948260" item-length="337" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Stakes in the Philippines</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Filipinos and Americans hasten to rally around President Aquino, faced with a deadly serious coup attempt, as rebels are driven from strongholds they seized in Manila and key locations around the country. The support surges up for good reason: The return of Ferdinand Marcos or his cronies won't work for the Philippines and won't wash with Americans.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Filipinos and Americans hasten to rally around President Aquino, faced with a deadly serious coup attempt, as rebels are driven from strongholds they seized in Manila and key locations around the country. The support surges up for good reason: The return of Ferdinand Marcos or his cronies won't work for the Philippines and won't wash with Americans.</p>
+        <p>Filipinos and Americans hasten to rally around President Aquino, faced with a deadly serious coup attempt, as rebels are driven from strongholds they seized in Manila and key locations around the country. The support surges up for good reason: The return of Ferdinand Marcos or his cronies won't work for the Philippines and won't wash with Americans.</p>
+        <p>There should be no doubt left about that. The only beneficiaries of a coup would be the gods of misery - would-be dictators and Communists.</p>
+        <p>Fortunately, it's too soon, only 18 months, to have forgotten the last days of the Marcos regime, Corruption was rampant, with Marcos cronies looting the country's assets. A Communist insurgency was rapidly winning recruits from the growing ranks of disaffected Filipinos.</p>
+        <p>Corazon Aquino has had her share of missteps since coming to power. She has disappointed supporters with excessive timidity on the vital question of land reform. She has permitted local abuse of patronage, and, just this week, badly misjudged popular reaction to sharp increases in the price of fuel.</p>
+        <p>Perhaps the coup plotters thought the resulting protests provided an opening. So far, the response of civilian and military loyalists appears to have proved them wrong. So far, Mr. Marcos's brazen solicitation of an invitation from the insurgents to return has gone unanswered.</p>
+        <p>These trappings of dark comedy should not obscure the essential point. The fall of the Aquino Government would be a disaster for the Philippines. It would enhance the Communist cause by again alienating those who now hold the political middle ground. It would fracture Manila's current good relations with Washington.</p>
+        <p>In the Philippines, as in South Korea, Washington's stake in democracy unites principle with strategic concerns. Seoul's edgy military regime now seems to be hedging its decision to allow legitimate protest. In either place, the greatest tragedy would be to have a successful democratic revolution in hand, only to see it slip, or be snatched, away.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

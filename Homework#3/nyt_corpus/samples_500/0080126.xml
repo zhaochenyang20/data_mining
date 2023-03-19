@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Sri Lanka Faults Indian Troops</title>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="80126"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">INTERNATIONAL RELATIONS</classifier>
+        <classifier class="indexing_service" type="descriptor">POLITICS AND GOVERNMENT</classifier>
+        <classifier class="indexing_service" type="descriptor">DEMONSTRATIONS AND RIOTS</classifier>
+        <classifier class="indexing_service" type="descriptor">ARMAMENT, DEFENSE AND MILITARY FORCES</classifier>
+        <location class="indexing_service">SRI LANKA, REPUBLIC OF</location>
+        <location class="indexing_service">INDIA</location>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/India</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Sri Lanka</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Asia Pacific</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Government, Philanthropy and NGO</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/India</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/Sri Lanka</classifier>
+        <classifier class="online_producer" type="general_descriptor">Demonstrations and Riots</classifier>
+        <classifier class="online_producer" type="general_descriptor">International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Armament, Defense and Military Forces</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19871005T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE0DD123AF936A35753C1A961948260" item-length="189" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Sri Lanka Faults Indian Troops</hl1>
+      </hedline>
+      <byline class="print_byline">Reuters</byline>
+      <dateline>COLOMBO, Sri Lanka, Oct. 4</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Sri Lanka accused India today of not doing its part to end ethnic violence on the island. It told Indian peacekeeping troops to put down clashes in one area or Sri Lankan security forces would do so.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Sri Lanka accused India today of not doing its part to end ethnic violence on the island. It told Indian peacekeeping troops to put down clashes in one area or Sri Lankan security forces would do so.</p>
+        <p>Sri Lanka accused India today of not doing its part to end ethnic violence on the island. It told Indian peacekeeping troops to put down clashes in one area or Sri Lankan security forces would do so.</p>
+        <p>President J. R. Jayewardene's office said he issued that warning at a meeting of Indian and Sri Lankan security officers to review the situation in the eastern district of Trincomalee.</p>
+        <p>In New Delhi, the Indian Government denied that Mr. Jayewardene had threatened to bar Indian peacekeeping troops from the district.</p>
+        <p>Clashes between Tamils and Sinhalese there are reported to have killed at least 18 people in five days, damaged 500 houses and shops and made 5,000 people homeless.</p>
+        <p>An Indian peacekeeping force of 8,000 soldiers and 1,000 paramilitary policemen is deployed in the north and east of Sri Lanka under a pact signed in July by India and Sri Lanka.</p>
+        <p>According to a statement from the President's office, Mr. Jayewardene said at the meeting that ''there had been some breakdown in cooperation between the two Governments'' on the military part of the agreement and that ''the Indian Government should rectify it.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

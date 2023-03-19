@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>GETTING AHEAD IN POLITICS</title>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Magazine; Washington; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="79833"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">UNITED STATES POLITICS AND GOVERNMENT</classifier>
+        <person class="indexing_service">REAGAN, RONALD WILSON (PRES)</person>
+        <person class="indexing_service">BAKER, HOWARD H JR</person>
+        <person class="indexing_service">KRIESBERG, LOIS A</person>
+        <person class="indexing_service">EISENHOWER, DAVID</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19871004T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE7DF123AF937A35753C1A961948260" item-length="148" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>GETTING AHEAD IN POLITICS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Howard Baker (''Howard Baker: Fighting the President's Final Battles,'' by David Eisenhower, Sept. 6) is quoted at the end of Mr. Eisenhower's article on his advice to ''a young man deciding to enter politics.'' Just take a look at the picture of his advisers on pages 18 and 19; seven men with nary an ethnic name nor a hint of color among them.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Howard Baker (''Howard Baker: Fighting the President's Final Battles,'' by David Eisenhower, Sept. 6) is quoted at the end of Mr. Eisenhower's article on his advice to ''a young man deciding to enter politics.'' Just take a look at the picture of his advisers on pages 18 and 19; seven men with nary an ethnic name nor a hint of color among them.</p>
+        <p>Howard Baker (''Howard Baker: Fighting the President's Final Battles,'' by David Eisenhower, Sept. 6) is quoted at the end of Mr. Eisenhower's article on his advice to ''a young man deciding to enter politics.'' Just take a look at the picture of his advisers on pages 18 and 19; seven men with nary an ethnic name nor a hint of color among them. Neither Mr. Eisenhower nor Mr. Baker chose to be explicit about bloodlines and gender being the best predictors of success in Republican politics.</p>
+        <p>It is a constant source of amazement to those of us who have participated in the social movements of the last 30 years to be reminded yet again of the total insensitivity and blindness in the Reagan Administration to the fact that women, blacks, Asians, Southern and Eastern Europeans, Native Americans and Hispanics have a place in American life.  LOIS A. KRIESBERG  Syracuse</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

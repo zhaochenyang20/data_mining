@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Man on the Spot Over Rail Safety</title>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="5230"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <series series.name="WASHINGTON TALK: FEDERAL RAILROAD ADMINISTRATION"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">RAILROADS</classifier>
+        <classifier class="indexing_service" type="descriptor">BIOGRAPHICAL INFORMATION</classifier>
+        <classifier class="indexing_service" type="descriptor">ACCIDENTS AND SAFETY</classifier>
+        <location class="indexing_service">BALTIMORE (MD)</location>
+        <location class="indexing_service">MARYLAND</location>
+        <org class="indexing_service">AMTRAK (NATIONAL RAILROAD PASSENGER CORP)</org>
+        <org class="indexing_service">CONRAIL (CONSOLIDATED RAIL CORP)</org>
+        <org class="indexing_service">FEDERAL RAILROAD ADMINISTRATION</org>
+        <person class="indexing_service">STUART, REGINALD</person>
+        <person class="indexing_service">RILEY, JOHN H (ADMR)</person>
+        <object.title class="indexing_service">WASHINGTON TALK PAGE (NYT)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Maryland</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Manufacturing, Operations and Logistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Maryland</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Maryland/Baltimore</classifier>
+        <classifier class="online_producer" type="general_descriptor">Railroads</classifier>
+        <classifier class="online_producer" type="general_descriptor">Accidents and Safety</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870120T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE7DD173BF933A15752C0A961948260" item-length="862" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Man on the Spot Over Rail Safety</hl1>
+      </hedline>
+      <byline class="print_byline">By REGINALD STUART</byline>
+      <byline class="normalized_byline">STUART, REGINALD</byline>
+      <dateline>WASHINGTON, Jan. 19</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: When Congress adjourned last fall, John H. Riley, head of the Federal Railroad Administration, started polishing up his resume and began looking forward to leaving Government early this year.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: When Congress adjourned last fall, John H. Riley, head of the Federal Railroad Administration, started polishing up his resume and began looking forward to leaving Government early this year.</p>
+        <p>When Congress adjourned last fall, John H. Riley, head of the Federal Railroad Administration, started polishing up his resume and began looking forward to leaving Government early this year.</p>
+        <p>In three and a half years at the helm of the agency, Mr. Riley had negotiated the sale of two small railroad properties owned by the Government and had carried the flag for the Reagan Administration in its bitter battle with Congress over the sale of Conrail, the giant Philadelphia-based freight carrier.</p>
+        <p>Last year he helped block Congressional adoption of legislation that would have restored some regulation of rates and expanded layoff benefits for some rail workers. Before that, he helped draft a long-awaited Federal rule aimed at curbing alcohol and drug abuse in the rail industry.</p>
+        <p>So, with the widely heralded sale of the Government's stock in Conrail anticipated for this spring, the stage appeared set for Mr. Riley's smooth departure.</p>
+        <p>But then came the collision north of Baltimore Jan. 4 between an Amtrak passenger train and a unit of engines owned by Conrail.</p>
+        <p>Sixteen people among the hundreds of passengers were killed, and more than 170 were injured. And questions were raised about the safety of the rail system that Mr. Riley had been overseeing. Departure Is Delayed</p>
+        <p>As a result, Mr. Riley's departure is now delayed indefinitely, and it is likely to be far from smooth. Long-time critics of his safety enforcement efforts have seized upon the accident to spotlight what they consider the railroad agency's weak stand on safety.</p>
+        <p>''In the normal routine of safety, Riley hasn't done a darn thing,'' said Lawrence M. Mann, a Washington lawyer who represents rail labor unions on safety issues before Congress and the agency, and who participated in the drafting of the Railroad Safety Act of 1970.</p>
+        <p>''He doesn't act in a preventive way, but after the fact,'' Mr. Mann said.</p>
+        <p>Mr. Riley, a tall, thin, talkative man who turned 40 years old today, voices little fear of his critics. He says safety has been a priority and has not been neglected in his tenure.</p>
+        <p>''I've been able to put together the three safest years in industry history,'' said the Bronx-born administrator, who came to the railroad agency from Capitol Hill after working as chief counsel to Senator Dave Durenberger, Republican of Minnesota.</p>
+        <p>''I've been uncompromising on safety and will continue to be uncompromising,'' Mr. Riley said. ''The problem with making safety a priority is that the public glare never goes over the whole context, but on the last accident.''</p>
+        <p>He contends that the recent collision was an exception to the trend in railroad safety. Statistics seem to support his argument, showing a surge in rail accidents in 1984, followed by a steady drop in 1985 and 1986.</p>
+        <p>Despite his defense, Mr. Riley is anticipating a ''bushel basket'' of proposals for improving safety in the Northeast Corridor between Washington and Boston. ''Within a few weeks, we'll have a tidal wave of ideas from everyone,'' he said. ''It will be our job to sort them out and determine what's feasible. We'll recommend the ideas that we think will make a difference in the end.''</p>
+        <p>Immediately after the Amtrak-Conrail crash, he visited the site. Since then he has suggested reconsideration of several safety ideas discarded by prior rail chiefs, such as separating freight and passenger traffic in the Northeast Corridor.</p>
+        <p>Among the complaints likely to gain attention as Mr. Riley faces Congressional panels looking into the accident are those involving the lack of rules to assure worker and passenger safety and the Administration's attempts in recent years to eliminate Federal funds for railroad safety inspectors as part of Government cost cutting.</p>
+        <p>The effectiveness of the new alcohol and drug abuse rule has also been called into question, in light of findings of traces of marijuana in the urine and blood of the Conrail crew involved in the accident and findings that three of six crew members involved in a December train wreck in Philadelphia had tested positive for cocaine.</p>
+        <p>Lawmakers and other critics are also expected to question the effectiveness of a 1981 policy change regarding safety enforcement that has been embraced by Mr. Riley. As a result of that change, the railroad agency stopped imposing fines for safety violations and began stressing working with carriers on a ''cooperative'' basis to encourage compliance. 'Some Unjustifiable Things'</p>
+        <p>Representative James J. Florio, a New Jersey Democrat who has sponsored several pieces of rail safety legislation, agrees that something must be done.</p>
+        <p>But unlike many critics, he does not fault Mr. Riley entirely. Rather, he says Mr. Riley's bosses, including Transportation Secretary Elizabeth Hanford Dole and President Reagan, must share much of the blame because, he says, they are the ultimate formulators of Administration rail safety policy.</p>
+        <p>Mr. Florio said of Mr. Riley: ''He's someone who knows the subject matter and who, left to his own devices, would probably advocate policies different from those being pushed by the Administration. He's called upon to justify some unjustifiable things.''  WASHINGTON TALK: FEDERAL RAILROAD ADMINISTRATION</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

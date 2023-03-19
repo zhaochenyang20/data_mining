@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Louise Campbell, Actress, 86</title>
+    <meta content="Y11CAMP" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Obituaries" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="972236"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Deaths (Obituaries)</classifier>
+        <classifier class="indexing_service" type="descriptor">Biographical Information</classifier>
+        <classifier class="online_producer" type="types_of_material">Obituary (Obit)</classifier>
+        <classifier class="online_producer" type="types_of_material">Biography</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Obituaries</classifier>
+        <classifier class="online_producer" type="general_descriptor">Deaths (Obituaries)</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19971111T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0CE4D91039F932A25752C1A961958260" item-length="210" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Louise Campbell, Actress, 86</hl1>
+      </hedline>
+      <abstract>
+        <p>Louise Campbell, screen and stage actress, dies at age 86 (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Louise Campbell, a screen and stage actress, died on Wednesday in Norwalk Hospital in Norwalk, Conn. She was 86.</p>
+        <p>Ms. Campbell appeared with Ray Milland and Fred MacMurray in ''Men With Wings,'' a 1938 film about the early days of aviation. She also acted in ''The Buccaneer'' (1938) with Fredric March and in ''The Star Maker'' (1939) with Bing Crosby.</p>
+      </block>
+      <block class="full_text">
+        <p>Louise Campbell, a screen and stage actress, died on Wednesday in Norwalk Hospital in Norwalk, Conn. She was 86.</p>
+        <p>Ms. Campbell appeared with Ray Milland and Fred MacMurray in ''Men With Wings,'' a 1938 film about the early days of aviation. She also acted in ''The Buccaneer'' (1938) with Fredric March and in ''The Star Maker'' (1939) with Bing Crosby.</p>
+        <p>Her theater credits included ''Three Men on a Horse'' (1935) and ''Guest in the House'' (1942). Her last performance on the New York stage was in a production of ''Uncle Vanya'' at the Public Theater in 1982.</p>
+        <p>Ms. Campbell was born in Chicago and attended Northwestern University and De Paul University.</p>
+        <p>She is survived by two daughters, Martha M. Pappas of Rowayton, Conn., and Kate M. Upson of New Canaan, Conn.; a son, Thomas J. McMahon of Bridgeport, Conn., and three grandchildren.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

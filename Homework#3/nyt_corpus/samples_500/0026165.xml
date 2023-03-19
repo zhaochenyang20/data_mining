@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Potvin Returning</title>
+    <meta content="31" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="32" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="26165"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <series series.name="SPORTS PEOPLE"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">HOCKEY, ICE</classifier>
+        <org class="indexing_service">NEW YORK ISLANDERS</org>
+        <person class="indexing_service">POTVIN, DENIS</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Hockey/National Hockey League/New York Islanders</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Hockey</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hockey, Ice</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870331T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DEEDA173FF932A05750C0A961948260" item-length="134" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Potvin Returning</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: The Islanders' playoff prospects are slightly brighter because of the return of Denis Potvin, the veteran defenseman who missed 17 games with a sprained left knee. Potvin, who needs 3 points to become the first defenseman to reach 1,000 career points, traveled with the team to St. Louis and will probably start against the Blues tonight.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: The Islanders' playoff prospects are slightly brighter because of the return of Denis Potvin, the veteran defenseman who missed 17 games with a sprained left knee. Potvin, who needs 3 points to become the first defenseman to reach 1,000 career points, traveled with the team to St. Louis and will probably start against the Blues tonight.</p>
+        <p>The Islanders' playoff prospects are slightly brighter because of the return of Denis Potvin, the veteran defenseman who missed 17 games with a sprained left knee. Potvin, who needs 3 points to become the first defenseman to reach 1,000 career points, traveled with the team to St. Louis and will probably start against the Blues tonight. New York, with four games left, is trying to secure second place in the Patrick Division and gain the home-ice edge in the first round of the playoffs.</p>
+        <p>Gord Dineen and Greg Gilbert, who both had shoulder separations, also rejoined the team, and two rookies, Neal Coulter and Randy Wood, were returned to Springfield. Tomas Jonsson, who sustained multiple fractures of the jaw in a Jan. 22 automobile accident, may play in Thursday's game against the Nordiques.</p>
+        <p>SPORTS PEOPLE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Sarah Kaylor, Antony Fine</title>
+    <meta content="20KAYL$02" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2003/07/20/fashion/weddings/20KAYL.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1505790"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">KAYLOR, SARAH SYDNEY</person>
+        <person class="indexing_service">FINE, ANTONY ADEUS</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="descriptor">Weddings and Engagements</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20030720T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C00E4DA103CF933A15754C0A9659C8B63" item-length="256" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Sarah Kaylor, Antony Fine</hl1>
+        <hl2 class="online_headline">Sarah Kaylor, Antony Fine</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Sarah Sydney Kaylor, an editor of documentaries, and Antony Adeus Fine, a singer and composer, were married yesterday in Mountaindale, N.Y. William M. Erlbaum, an acting justice of State Supreme Court in Kew Gardens, Queens, officiated at the summer home of the bridegroom's family.</p>
+        <p>Ms. Kaylor, 35, is keeping her name. She is an assistant editor for Ric Burns's ''New York: A Documentary Film,'' and has worked on projects that have appeared on the Discovery Channel and the National Geographic Channel. She graduated magna cum laude from Hunter College. Her previous marriage ended in divorce.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Sarah Kaylor, Antony Fine Sarah Sydney Kaylor, an editor of documentaries, and Antony Adeus Fine, a singer and composer, were married yesterday in Mountaindale, N.Y. William M. Erlbaum, an acting justice of StateSupreme Court in Kew Gardens, Queens, officiated at the summer home of the bridegroom's family.</p>
+      </block>
+      <block class="full_text">
+        <p>Sarah Sydney Kaylor, an editor of documentaries, and Antony Adeus Fine, a singer and composer, were married yesterday in Mountaindale, N.Y. William M. Erlbaum, an acting justice of State Supreme Court in Kew Gardens, Queens, officiated at the summer home of the bridegroom's family.</p>
+        <p>Ms. Kaylor, 35, is keeping her name. She is an assistant editor for Ric Burns's ''New York: A Documentary Film,'' and has worked on projects that have appeared on the Discovery Channel and the National Geographic Channel. She graduated magna cum laude from Hunter College. Her previous marriage ended in divorce.</p>
+        <p>The bride's mother, Phoebe Kaylor of Manhattan, retired as a vice president for creative affairs and production at DMB&amp;B, an advertising agency in Manhattan. Her father, Robert Kaylor of Los Angeles, directed ''Carny'' (1980), which starred Jodie Foster, and ''Derby'' (1971), a documentary about roller derbies.</p>
+        <p>Mr. Fine, 41, is part of a duo called J.C. &amp; Anphibius; the group has performed at the Mercury Lounge, Fez, the Knitting Factory and other clubs in Manhattan. The bridegroom has also written music for installations at the Rose Center for Earth and Space at the American Museum of Natural History. He graduated from Oberlin College.</p>
+        <p>His parents, Marlene Rosen Fine and Michael J. Fine, live in Manhattan. The bridegroom's father is the founder and chief executive of Fine Creative Media, a book publishing company in Manhattan. His mother is an associate in the acquisitions department for the company as well as a poet.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

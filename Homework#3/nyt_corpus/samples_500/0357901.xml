@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>More Eligible for AIDS Drug</title>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="357901"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">ACQUIRED IMMUNE DEFICIENCY SYNDROME (AIDS)</classifier>
+        <classifier class="indexing_service" type="descriptor">TESTS AND TESTING</classifier>
+        <org class="indexing_service">HOFFMANN-LA ROCHE AG</org>
+        <org class="indexing_service">DIDEOXYCYTIDINE (DDC)</org>
+        <person class="indexing_service">HILTS, PHILIP J</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/AIDS</classifier>
+        <classifier class="online_producer" type="general_descriptor">Acquired Immune Deficiency Syndrome</classifier>
+        <classifier class="online_producer" type="general_descriptor">Acquired Immune Deficiency Syndrome</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tests and Testing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Viruses</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diseases and Conditions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19900601T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE0DA1239F932A35755C0A966958260" item-length="451" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>More Eligible for AIDS Drug</hl1>
+      </hedline>
+      <byline class="print_byline">By PHILIP J. HILTS, Special to The New York Times</byline>
+      <byline class="normalized_byline">HILTS, PHILIP J</byline>
+      <dateline>WASHINGTON, May 31</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: The Government announced today that it had approved a plan to distribute an experimental AIDS drug more widely to patients who fail to benefit from two other drugs now available.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: The Government announced today that it had approved a plan to distribute an experimental AIDS drug more widely to patients who fail to benefit from two other drugs now available.</p>
+        <p>The Government announced today that it had approved a plan to distribute an experimental AIDS drug more widely to patients who fail to benefit from two other drugs now available.</p>
+        <p>The drug, dideoxycytidine, or DDC, fights the AIDS virus. The drug's manufacturer, Hoffmann-La Roche Inc. of Nutley, N.J., said up to 1,000 people could be eligible to receive it. But the eligibility requirements are strict, and Kevin Armington, medical information officer at the Gay Men's Health Crisis in New York, said: ''I would be very surprised if more than a few hundred people are eligible for this. It is mostly a public relations gesture on the part of the company.''</p>
+        <p>The company said it would release the drug, in a program called ''expanded access,'' to eligible patients in five or six months if tests on small groups of people go well. DDC is the third drug that fights the human immunodeficiency virus, which causes AIDS, to be approved by the Food and Drug Administration or to be extensively tested. The others are AZT, the only drug now licensed, and dideoxyinosine, or DDI, which is being used in clinical trials and in an expanded access program for about 9,000 people.</p>
+        <p>All the drugs interfere with the virus's ability to multiply itself.</p>
+        <p>The company is already studying DDC to compare its effectiveness and toxicity to that of AZT. But that study will not be completed this year. So the company said today that it is willing to release some of the drug to those who have no alternate treatments.</p>
+        <p>Three Requirements to Meet</p>
+        <p>Karen Kmetik, a spokeswoman for Hoffmann-La Roche, said those patients must meet at least three requirements. First, they must be unresponsive to AZT or suffer side effects to AZT so strong they cannot take the drug; second, after failing on AZT, the patients must be unresponsive to DDI or have severe side effects to it, and third, they must not have the most common side effect from DDI, extreme pain in the feet or limbs, which is also associated with DDC.</p>
+        <p>Advocates have pressed Hoffmann-La Roche to release the drug to a wider group, and have said that while the announcement today was good news for a few, there are many others who could use the drug. Mr. Armington said those who have not benefitted from AZT should be eligible whether or not they have also failed on DDI.</p>
+        <p>The company will begin with the expanded access program on June 25, when it will begin enrolling 50 people. After 25 of those enrolled have been on the drug for four weeks without any major new side effects, the company will offer it to 200 more. When 100 of those have been on the drug for 16 weeks with no major adverse effects, the company will begin to offer the drug to others.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

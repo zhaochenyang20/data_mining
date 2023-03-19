@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>X in Electricity Equation: a Non-LIPA Plant</title>
+    <meta content="19POWE$04" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Long Island Weekly Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="14LI" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1184974"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Electric Light and Power</classifier>
+        <location class="indexing_service">Suffolk County (NY)</location>
+        <location class="indexing_service">Yaphank (NY)</location>
+        <org class="indexing_service">Long Island Power Authority</org>
+        <org class="indexing_service">American National Power Company</org>
+        <person class="indexing_service">Kessler, Richard F</person>
+        <person class="indexing_service">Ain, Stewart</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Long Island</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="general_descriptor">Light</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electric Light and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000319T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B06EFD71E3BF93AA25750C0A9669C8B63" item-length="1335" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>X in Electricity Equation: a Non-LIPA Plant</hl1>
+      </hedline>
+      <byline class="print_byline">By STEWART AIN</byline>
+      <byline class="normalized_byline">Ain, Stewart</byline>
+      <abstract>
+        <p>American National Power Company of Texas proposes to build gas-fired power plant on vacant 25-acre plot in Yaphank, New York; map; plant would be first built on Long Island by any company other than local utility; Long Island Power Authority chairman Richard Kessler welcomes proposal to help meet region's huge power needs (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>THE promise of a Texas company to generate electricity on Long Island more efficiently, with less pollution and at lower cost is receiving generally positive reviews from the Long Island Power Authority and business leaders. Residents near the proposed site are more cautious.</p>
+        <p>The company, American National Power, wants to build a gas-fired power plant on a vacant 25-acre plot just south of the Long Island Expressway at Exit 66, in Yaphank. The facility, which could generate 580 megawatts of electricity, would be the first built on the Island by any company other than the local utility. Construction is proposed to begin next year, with completion in 2003.</p>
+      </block>
+      <block class="full_text">
+        <p>THE promise of a Texas company to generate electricity on Long Island more efficiently, with less pollution and at lower cost is receiving generally positive reviews from the Long Island Power Authority and business leaders. Residents near the proposed site are more cautious.</p>
+        <p>The company, American National Power, wants to build a gas-fired power plant on a vacant 25-acre plot just south of the Long Island Expressway at Exit 66, in Yaphank. The facility, which could generate 580 megawatts of electricity, would be the first built on the Island by any company other than the local utility. Construction is proposed to begin next year, with completion in 2003.</p>
+        <p>''I think it's an exciting idea,'' said LIPA's chairman, Richard M. Kessel. ''There is obviously a huge need for energy on Long Island, and if this plant was built, it might help us fill out the picture of how we would meet that demand.''</p>
+        <p>The Brookhaven Town supervisor, Felix Grucci Jr., said the proposal ''is in concert with what I have been requesting -- alternative and competitive power on Long Island that may bring lower electric rates to the town and all of Suffolk.''</p>
+        <p>The electricity would be ''significantly less expensive'' than that generated by plants owned and operated by KeySpan Energy, according to Robert J. Charlebois, vice president of American National Power.</p>
+        <p>KeySpan is currently the only company on Long Island that generates electricity for LIPA. It was created in May 1998 when the Long Island Lighting Company was dissolved and LIPA assumed control of its electric transmission and distribution lines and KeySpan took control of its five power plants.</p>
+        <p>David J. Manning, senior vice president of KeySpan, acknowledged that ''any new generating plant built today will use the most current gas-fired turbine technology.'' Keyspan's plants were initially oil-fired but were converted to allow them to burn primarily natural gas and now, Mr. Manning said, KeySpan is considering upgrading them.</p>
+        <p>Mitchell Palley, a vice president of the Long Island Association, said: ''This proposal is what energy deregulation means -- the ability of private companies to come in, build power plants and sell electricity at less than current suppliers. If it meets community needs, it is something we would support.''</p>
+        <p>Mr. Kessel noted that LIPA buys nearly all of its electricity from KeySpan. It is able to import no more than 1,200 megawatts of electricity through five connections with suppliers off the Island.</p>
+        <p>On a very hot day, energy demand can reach 4,200 to 4,300 megawatts. Last July 6, in the middle of a heat wave, the demand reached a record 4,590 megawatts. The system's maximum capacity is 5,100 megawatts.</p>
+        <p>Bert J. Cunningham, LIPA's vice president for communications, noted that demand had increased 3.5 to 4 percent annually in the last three or four years and that it is expected to continue that pace.</p>
+        <p>Mr. Kessel said that he had met with Mr. Charlebois and that LIPA is now discussing integrating the electricity generated at Yaphank into the utility's grid.</p>
+        <p>To help meet energy demands this summer, LIPA awarded KeySpan Energy Construction, a KeySpan subsidiary, a $67 million contract on Feb. 29 to string a 138-kilovolt cable from Riverhead to Southampton by June. Energy demand on the East End has been rising sharply because of housing construction there.</p>
+        <p>Mr. Cunningham also noted that the utility should be awarding contracts soon to companies that bid on a proposal to build two or three power plants that would generate a total of 225 megawatts of electricity. ''The companies would build the plants at their own expense and sell the electricity to us exclusively,'' he said.</p>
+        <p>Another request for a proposal (R.F.P.), to lay a 600-megawatt cable under the Sound from New Haven to Shoreham, has been modified, he said, to reduce the initial capacity to 200 to 300 megawatts, but with the possibility of adding a second cable.</p>
+        <p>''We are looking for flexibility in bringing electricity from off the Island,'' Mr. Cunningham said. ''We felt from the information we developed through the first R.F.P. process that it was better to look at different types of cable technologies and perhaps multiple cables.''</p>
+        <p>Mr. Charlebois said his proposed plant would be a ''viable alternative'' to the cable. But Mr. Kessel pointed out that if the underwater cable were approved, it would be operational in 2002. The proposed power plant, even if it were built on time, would not be running until 2003.</p>
+        <p>A decision on the cable will be made by June, Mr. Kessel said. He added that he is confident that even if the cable project is approved, growing demand for power will make the American National Power project a necessity.</p>
+        <p>Mr. Charlebois put the cost of the Yaphank project, including the land, at about $300 million.</p>
+        <p>''One of the reasons we like this site is that the closest residence is about 2,000 feet away,'' he said. ''The plant would be south of the Long Island Expressway at the intersection with Sills Road, and the majority of the homes are north of the expressway.''</p>
+        <p>He noted that he has met with some civic leaders and will be sending letters to about 5,000 residents who live within two miles.</p>
+        <p>''We're interested at the end of the day in designing a project that is as satisfactory as possible,'' he said. ''We are not going to go to areas where we are not welcome.''</p>
+        <p>Connie Kepert, president of the Affiliated Brookhaven Civic Organizations, said that in her meeting with Mr. Charlebois, he promised to come back in the spring with more detailed information about the project's economic and environmental impact.</p>
+        <p>''It certainly is important to bring competition to Long Island as far as electricity is concerned,'' she said. ''So this is a good thing. But we want to make sure that there are no environmental concerns that become a burden to the town. I know there will be an oil storage facility on the site and I'm concerned about water and air quality. I'd like to see a little more information.''</p>
+        <p>Nanette Essel, co-president of the Yaphank Taxpayers and Civic Association, which represents the neighboring homeowners, raised those same concerns, saying: ''It is premature to comment before we have seen all the facts. The devil is in the details and we haven't seen any, so we have to be cautious and wait.''</p>
+        <p>In its literature, American National Power writes that the project would use ''clean-burning natural gas, highly efficient electricity generating technology and cutting-edge pollution-control and water-minimization equipment.</p>
+        <p>''The plant will be designed to meet the Clean Air Act's 'lowest achievable emission rate' and 'best available control technology' standards,'' the statement continues. ''Because of air-cooling technology used at the plant, the generation of a vapor plume will be almost nonexistent.''</p>
+        <p>Mr. Charlebois said the plan calls for two smokestacks no higher than 180 feet. And he said the company would ''maintain as much visual buffer as possible.'' He said also that there would be no odors and that the noise from the generator turbines would not be heard 2,000 feet away.</p>
+        <p>American National Power estimated that 700 jobs would be created for the construction of the power plant and that another 25 full-time operators would be needed once it is erected.</p>
+        <p>Supervisor Grucci said that in addition to creating jobs, the project would add millions to the tax base, with much of it going to the Longwood School District.</p>
+        <p>''At this point the proposal is in front of us, and when the plan becomes more real, the town will look at it,'' he said. ''But it is very much in concert with what we trying to do.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

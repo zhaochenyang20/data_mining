@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>After $38 Million Last Year, the Pay Is Not an Issue</title>
+    <meta content="31pay" name="slug"/>
+    <meta content="31" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2006/05/31/business/31pay.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1765662"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <series series.name="A CHANGE AT TREASURY: THE COMPENSATION"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Ethics</classifier>
+        <org class="indexing_service">Treasury Department</org>
+        <org class="indexing_service">Goldman Sachs &amp; Co</org>
+        <person class="indexing_service">Paulson, Henry M Jr</person>
+        <person class="indexing_service">Dash, Eric</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ethics</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060531T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940CE6DF1631F932A05756C0A9609C8B63" item-length="891" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>After $38 Million Last Year, the Pay Is Not an Issue</hl1>
+        <hl2 class="online_headline">Treasury Nominee Faces a Change in Pay and Control</hl2>
+      </hedline>
+      <byline class="print_byline">By ERIC DASH; Peter Edmonston contributed reporting for this article.</byline>
+      <byline class="normalized_byline">Dash, Eric</byline>
+      <abstract>
+        <p>Goldman Sachs chairman and chief executive Henry M Paulson, to avoid conflict of interest issues, will be forced to give up $700 million equity stake in company if Senate confirms him as next Treasury Secretary (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Henry M. Paulson Jr. took home more than $38 million last year as the chairman and chief executive of Goldman Sachs. If the Senate confirms him as the next Treasury secretary, he will collect a mere $183,500 in annual pay -- not much more than a junior investment banker makes.</p>
+        <p>Not that it matters. In his 32-year career at Goldman Sachs, Mr. Paulson has accumulated a $700 million equity stake in the Wall Street firm.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>If confirmed, Henry M. Paulson Jr.'s salary would drop by about $29.8 million and he would lose authority over $700 million in Goldman stock.</p>
+      </block>
+      <block class="full_text">
+        <p>Henry M. Paulson Jr. took home more than $38 million last year as the chairman and chief executive of Goldman Sachs. If the Senate confirms him as the next Treasury secretary, he will collect a mere $183,500 in annual pay -- not much more than a junior investment banker makes.</p>
+        <p>Not that it matters. In his 32-year career at Goldman Sachs, Mr. Paulson has accumulated a $700 million equity stake in the Wall Street firm.</p>
+        <p>Government ethics rules will probably force him to give up his authority over most of that vast fortune, which is far more than other Goldman Sachs executives who preceded him to Washington have accumulated. This includes Robert E. Rubin, whose net worth was less than $100 million when he gave up the Goldman chairmanship in 1993 to join the new Clinton administration.</p>
+        <p>The huge difference between his and Mr. Paulson's $700 million net worth reflects not only Mr. Paulson's success at managing Goldman Sachs after the firm's 1999 initial public offering, but also the sheer magnitude of money paid to top executives on Wall Street today.</p>
+        <p>History has shown that the Treasury secretary is typically called upon to give up control of investments in companies that may present a conflict of interest. In 2001, former Treasury Secretary Paul H. O'Neill grudgingly agreed to sell about $100 million worth of Alcoa stock and options, bowing to pressure from public watchdog groups who criticized his initial plans to retain his holdings and recuse himself from all decisions related to the company.</p>
+        <p>But Alcoa is an aluminum company. Shares of a securities firm such as Goldman Sachs, whose trading desks and financial tentacles stretch across the globe, would present a far more obvious conflict with the role of Treasury secretary. ''Considering how every word that man speaks affects financial markets, he can't have control of anything,'' said Melanie Sloan, executive director of Citizens for Responsibility and Ethics in Washington, a nonpartisan legal watchdog group.</p>
+        <p>Mr. Paulson, no stranger to managing conflicts of interest, is taking steps to sever financial ties before seeking Senate confirmation. ''He is expected to 'ring fence' his assets so that he will have no influence on how they are managed,'' said Lucas van Praag, a Goldman Sachs spokesman. ''He is taking independent legal advice but the determination as to what he will do has yet to be made.''</p>
+        <p>Mr. van Praag said that if Mr. Paulson set up a blind trust to shield him from any knowledge about his investments, Goldman Sachs would not be the trustee.</p>
+        <p>Unwinding his personal fortune, however, may not be as difficult as it seems. Mr. Paulson recently set aside $100 million of Goldman stock for a family foundation dedicated to conservation and environmental education, and has said privately that he planned to give away even more of his wealth.</p>
+        <p>Mr. Paulson has about $630 million in Goldman stock and vested options, based on estimates from the latest regulatory filings and yesterday's $149.89 closing price. And thanks to a somewhat unusual clause in the investment bank's equity award program, stock and stock options for employees who resign to join a government agency or self-regulatory organization vest on an accelerated track, instead of being lost. The result is that Mr. Paulson would receive another $70 million in options.</p>
+        <p>''Does that give him a short-term windfall? Yeah,'' said Brian J. Foley, an executive compensation consultant in White Plains. ''But every month he is working as Treasury secretary, he is losing money by not working at Goldman Sachs.''</p>
+        <p>Mr. Paulson is the latest in a long line of Goldman executives to take top jobs in Washington. In 1993, Mr. Rubin gave up his role as chairman of Goldman Sachs, then a private partnership, to join the Clinton administration as a top economic adviser. He was named Treasury secretary two years later.</p>
+        <p>At the time, Mr. Rubin was reported to have an estimated net worth of $50 million to $100 million. In today's dollars, that would be $65 million to $130 million.</p>
+        <p>To avoid potential conflicts, Mr. Rubin cut financial ties with his former firm and set up a blind trust. He then purchased a special insurance policy guaranteeing that the value of his stake would be preserved, should anything happen to Goldman.</p>
+        <p>Other former Goldman partners took similar measures before they began high-profile stints in Washington, including Jon S. Corzine, the former Democratic senator from New Jersey and now that state's governor. Mr. Corzine, whose $400 million Goldman Sachs fortune helped bankroll his 2000 Senate campaign, vowed to sell his remaining Goldman shares after public watchdogs suggested the equity stake conflicted with his role as a member of the Senate Banking Committee. He set up a blind trust, and through it sold all his Goldman shares by September 2005.</p>
+        <p>Some business leaders have taken similar steps, also sometimes under pressure, to avoid conflicts in Washington. Vice President Dick Cheney collected more than $20 million after cashing out options from Halliburton, where he served as chairman and chief executive, once his finances became an issue during the 2000 presidential campaign. John W. Snow, the former CSX chairman and chief executive, agreed to give up corporate directorships and to sell more than $20 million worth of stocks and bonds before succeeding Mr. O'Neill in February 2003.</p>
+        <p>A CHANGE AT TREASURY: THE COMPENSATION</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

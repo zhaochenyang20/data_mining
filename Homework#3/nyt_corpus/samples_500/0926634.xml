@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>At Kips Bay, Ideas for the Borrowing</title>
+    <meta content="01CURR$22" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Home Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Home and Garden; Style" name="online_sections"/>
+    <meta content="Currents" name="column_name"/>
+    <docdata>
+      <doc-id id-string="926634"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <series series.name="Currents"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Interior Design</classifier>
+        <classifier class="indexing_service" type="descriptor">Housing</classifier>
+        <classifier class="indexing_service" type="descriptor">Shows (Exhibits)</classifier>
+        <location class="indexing_service">New York City</location>
+        <person class="indexing_service">Brown, Patricia Leigh</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Home and Garden</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Real Estate/Locations/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Real Estate/Locations/New York/New York City</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">Interior Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">Housing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Trade Shows and Fairs</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19970501T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9407E0D71031F932A35756C0A961958260" item-length="468" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>At Kips Bay, Ideas for the Borrowing</hl1>
+      </hedline>
+      <byline class="print_byline">By Patricia Leigh Brown</byline>
+      <byline class="normalized_byline">Brown, Patricia Leigh</byline>
+      <abstract>
+        <p>Some design ideas exhibited at Kips Bay, NYC, decorator show house noted (Currents column); photos (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>WHAT Central Park is to flocking birds, the Kips Bay decorator show house is to design ideas. But at Kips Bay, you don't need binoculars. Design scouts visiting the show house, at 603 Park Avenue (64th Street), might consider appropriating ideas (although it's doubtful there will be a run on Mylar wallpaper, which Richard L. Ridge and Roderick R. Denault chose for their breakfast room and painted with chinoiserie scenes).</p>
+      </block>
+      <block class="full_text">
+        <p>WHAT Central Park is to flocking birds, the Kips Bay decorator show house is to design ideas. But at Kips Bay, you don't need binoculars. Design scouts visiting the show house, at 603 Park Avenue (64th Street), might consider appropriating ideas (although it's doubtful there will be a run on Mylar wallpaper, which Richard L. Ridge and Roderick R. Denault chose for their breakfast room and painted with chinoiserie scenes).</p>
+        <p>Following are some of the more readily embraceable ideas, on view through May 20. Admission is $15. Information: (212) 517-3769.</p>
+        <p>Currents</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

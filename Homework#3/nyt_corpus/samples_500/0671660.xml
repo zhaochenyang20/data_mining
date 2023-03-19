@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Q&amp;A</title>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="671660"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">HEART</classifier>
+        <classifier class="indexing_service" type="descriptor">POTATOES</classifier>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Columns/Q and A</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="general_descriptor">Anatomy and Physiology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Food</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19940301T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0DE1DB1038F932A35750C0A962958260" item-length="568" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Q&amp;A</hl1>
+      </hedline>
+      <byline class="print_byline">By C. CLAIBORNE RAY</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Heart Muscle Q. What is special about the heart muscle that keeps it from getting tired?</p>
+      </block>
+      <block class="full_text">
+        <p>Heart Muscle Q. What is special about the heart muscle that keeps it from getting tired?</p>
+        <p>A. The heart muscle is a special hard-working kind found nowhere else in the body, though it can get very tired when deprived of oxygen in a heart attack and can get stronger through exercise, explains Dr. Mark V. Barrow in "Heart Talk: Understanding Cardiovascular Diseases" (Cor-Ed Publishing Company).</p>
+        <p>The other types of muscle are skeletal or striated muscle, the kind that lets the body move voluntarily, and smooth muscle, found in internal organs and the walls of blood vessels, which is arranged in sheets and is not under conscious control.</p>
+        <p>The heart muscle, or myocardium, is called a synctial muscle or synctium, because its strands are so interconnected that they form a continous network of cells. This lets internal electrical signals be coordinated so the whole muscle acts as a unit, contracting or relaxing together. In fact, according to "Gray's Anatomy," the heart was once thought not to be composed of individual cells.</p>
+        <p>The cells of the heart muscle, or myocardium, have their nuclei buried deep within, rather than near the surface like those of skeletal muscle. They also have an abundance of large mitochondria, the energy factories inside cells, presumably because of high energy demands.</p>
+        <p>The cells are arranged in parallel columns, as in skeletal muscle, but in still another difference from other muscle cells, heart cells are joined end to end in very long fibers that branch and interconnect. The joining sites are marked by disks called intercalated disks. In between the fibers are spaces richly supplied with capillaries to supply oxygenated blood. The cells also enjoy a good supply of glycogen and lipids, potential energy sources.</p>
+        <p>Inside the cells are myofibrils, a banded contractile substance. The myofibrils have zones called sarcomeres, where thin filaments made of a substance called actin and thick filaments made of myosin contract and relax. The filaments slide by each other as they act. Potato Damage</p>
+        <p>Q. How does a black mildew or rusty substance get to the center of a potato without damaging the flesh around it?</p>
+        <p>A. If the damage actually comes from mildew, a fungus, it is possible to see an entry point in the vascular system of the potato, just under the skin, the same kind of network of veins seen in the leaf and stem, said William E. Fry, professor of plant pathology at the Cornell College of Agriculture and Life Sciences.</p>
+        <p>But there are many other sources of potato damage, said Dr. Elmer Ewing, professor of fruit and vegetable science at the agriculture school. One is black heart, a result of oxygen deficiency.</p>
+        <p>The potato continues to use oxygen in storage, he explained, and at high temperatures, it uses oxygen at a faster rate. Storage with potatoes that are rotting can cause a "hot spot" that accelerates the process. The damage is worse at the center of the potato because it is farthest from the surface, where oxygen normally diffuses in from outside to replace what is used.</p>
+        <p>Still another problem is hollow heart, which occurs if a potato grows too fast. The tissues at the center pull apart, then "cork over" with a brown layer in an attempt to heal by growing a skin-like layer. It is unattractive but harmless. "Some potato growers call it the butter hole," Dr. Ewing said. C. CLAIBORNE RAY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

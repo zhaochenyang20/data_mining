@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Joseph A. Bailey, 95, Lawyer and Politician</title>
+    <meta content="04BAIL" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="46" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Obituaries; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1204826"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Deaths (Obituaries)</classifier>
+        <classifier class="indexing_service" type="descriptor">Biographical Information</classifier>
+        <person class="indexing_service">Bailey, Joseph A</person>
+        <classifier class="online_producer" type="types_of_material">Obituary (Obit)</classifier>
+        <classifier class="online_producer" type="types_of_material">Biography</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Obituaries</classifier>
+        <classifier class="online_producer" type="general_descriptor">Deaths (Obituaries)</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000604T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D07E0D61E3CF937A35755C0A9669C8B63" item-length="253" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Joseph A. Bailey, 95, Lawyer and Politician</hl1>
+      </hedline>
+      <abstract>
+        <p>joseph a bailey, 95,</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Joseph A. Bailey, a Harlem lawyer and former assistant attorney general for New York State who challenged Adam Clayton Powell Jr. for his Congressional seat, died May 17 at North General Hospital in Harlem. He was 95 and lived in Washington Heights.</p>
+        <p>A lifelong Republican, Mr. Bailey ran against Mr. Powell in 1956, 1960 and 1964, but was easily defeated in the heavily Democratic 15th District in Harlem.</p>
+      </block>
+      <block class="full_text">
+        <p>Joseph A. Bailey, a Harlem lawyer and former assistant attorney general for New York State who challenged Adam Clayton Powell Jr. for his Congressional seat, died May 17 at North General Hospital in Harlem. He was 95 and lived in Washington Heights.</p>
+        <p>A lifelong Republican, Mr. Bailey ran against Mr. Powell in 1956, 1960 and 1964, but was easily defeated in the heavily Democratic 15th District in Harlem.</p>
+        <p>Joseph Arthur Bailey was born March 20, 1905, in rural Vaverda, La., and grew up in New Orleans.</p>
+        <p>In 1928, he graduated from Lincoln University in Pennsylvania, with a bachelor's degree in political science. He also attended night classes at Columbia University and the New School for Social Research. After receiving his law degree from Brooklyn Law School in the mid-1940's, Mr. Bailey set up his law practice in Harlem.</p>
+        <p>He was assistant attorney general under Attorney General Louis J. Lefkowitz in the 1960's and early 1970's.</p>
+        <p>Mr. Bailey is survived by his wife of 47 years, the former Helen Gordon. He  is also survived by a daughter, Josette Bailey, of Manhattan; two sons, Jonathan A. Bailey of Cleveland, and Gordon C., Bailey, of Washington; two sisters, Gertie Coleman and Lorraine Brown, both of Roanoke, Va.; and five grandchildren.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

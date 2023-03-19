@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Psychological Biography of a Dancer Gone Mad</title>
+    <meta content="10EIFM$01" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Movies, Performing Arts/Weekend Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Movies; Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1008618"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <series series.name="DANCE REVIEW"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Dancing</classifier>
+        <classifier class="indexing_service" type="descriptor">Biographical Information</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <org class="indexing_service">Eifman Ballet Company</org>
+        <person class="indexing_service">Eifman, Boris</person>
+        <person class="indexing_service">Kisselgoff, Anna</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Dance/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Dance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Dancing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980410T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D05E6D8143DF933A25757C0A96E958260" item-length="1144" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Psychological Biography of a Dancer Gone Mad</hl1>
+      </hedline>
+      <byline class="print_byline">By ANNA KISSELGOFF</byline>
+      <byline class="normalized_byline">Kisselgoff, Anna</byline>
+      <abstract>
+        <p>Anna Kisselgoff reviews performance by Eifman Ballet of St Petersburg, directed by choreographer Boris Eifman, at City Center; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A ballet world in search of a major choreographer need search no more. He is Boris Eifman, a 52-year-old Russian whose Eifman Ballet from St. Petersburg made its New York debut on Wednesday night at City Center with his ''Red Giselle.''</p>
+        <p>A word of caution. Mr. Eifman's take on the well-known mental illness of the emigre Russian ballerina Olga Spessivtseva (she died in 1991 in New York State) requires some suspension of disbelief.</p>
+      </block>
+      <block class="full_text">
+        <p>A ballet world in search of a major choreographer need search no more. He is Boris Eifman, a 52-year-old Russian whose Eifman Ballet from St. Petersburg made its New York debut on Wednesday night at City Center with his ''Red Giselle.''</p>
+        <p>A word of caution. Mr. Eifman's take on the well-known mental illness of the emigre Russian ballerina Olga Spessivtseva (she died in 1991 in New York State) requires some suspension of disbelief.</p>
+        <p>Once past the cartoonish simplicities of his scenario, the complexities and blazing invention of his choreography, as performed by a stunning group of passionate dancers, are never in doubt. ''Red Giselle'' may not persuade but it will not bore. It is a highly dramatic and theatrical (the two are not the same) work, a perfected form of narrative ballet for which others in the West have strived.</p>
+        <p>Mr. Eifman could be called the rich man's Kenneth MacMillan, with some Roland Petit thrown in. The two United States premieres that his company is to present through Sunday night at City Center (131 West 55th Street) are the kind of psychological biographies that have interested such Western choreographers. MacMillan's ''Isadora'' for the Royal Ballet and ''Anastasia'' come to mind immediately.</p>
+        <p>''Red Giselle,'' which has an alternating cast, and ''Tchaikovsky,'' which is to have its premiere tomorrow, have a similar anti-Romantic toughness. Not everything is beautiful at the ballet in such works, and their lack of uplift would not have endeared Mr. Eifman to the Soviet authorities.</p>
+        <p>He was, in fact, Soviet choreography's least well-kept secret. Born in Siberia, where his family was exiled, and trained in Kishinev, Moldavia, and in the choreography department of the Leningrad Conservatory, Mr. Eifman quickly showed a brilliant talent that was too big to ignore. A film of his ballet ''Gayane'' with the Riga Ballet, shown in New York in 1979, immediately caught one's attention. Here was real choreography, and free of Soviet cliches, classical steps forced into an expressiveness for which they were not suited.</p>
+        <p>Mr. Eifman's gift is to wed gesture and classical technique into seamless expression. He is his own man, an original.</p>
+        <p>Unfortunately, the story line of ''Red Giselle,'' no matter how sincere, is Manichean rubbish. In short, we are told that Spessivtseva went mad because of the Russian Revolution and betrayals in love. Her first admirer here is an official in the secret police (actually Boris Kaplun) and the second is identified as her Partner, actually Serge Lifar, who preferred men and who himself was preferred by Serge Diaghilev, founder of the Ballets Russes.</p>
+        <p>But who is to know why Spessivtseva became ill? She entered a mental hospital in New York City in 1940 after dancing for the last time in 1937. Earlier, she had performed with Diaghilev and the Maryinsky Ballet. Millions who did not go mad had also survived the Russian Revolution, the emigre experience and love gone wrong.</p>
+        <p>Like MacMillan, who seemed influenced by Ken Russell's sensationalist biographical films, Mr. Eifman is entitled to artistic license. ''Red Giselle'' is at its best when it is at its most hallucinatory.</p>
+        <p>But images reduced to obvious contrast do not tell us much we do not know. On one hand, there is the enclosed world of the Imperial Ballet. The dancers take class in knee-length tutus and perform in the gold costumes that set off the blue of the Maryinsky theater. On the other side, there is the coarseness of the elbow-swinging, stamping revolutionary mob that invades the theater and the leather-clad Secret Police Agent, as he is called, who brutalizes the ballerina in a series of sexually tinged acrobatic duets.</p>
+        <p>Nor can one believe that Lifar led her astray. Here again tragedy is reduced to a scene in which her Partner, as Lifar is called, pays attention to a male dancer.</p>
+        <p>Yet when that caress by Lifar is repeated in a clever gloss on Act I of ''Giselle,'' Mr. Eifman's conception coalesces with dramatic force. For if Spessivtseva lives in legend today, it is because she has become universally identified with her most famous role: Giselle, the peasant girl who goes mad after Albrecht, her aristocratic lover, betrays her.</p>
+        <p>One might suppress a laugh when Lifar's Albrecht here caresses Wilfrid, his squire. But this fleeting image, working on two levels, sets the scene for the blurring of fantasy and reality that gives ''Red Giselle'' its powerful ending.</p>
+        <p>Before Giselle emerges from a plastic bubble (the dome of the Paris Opera) and retreats into a world of mirrors, she traverses a lifetime of stunning scene changes designed by Vyacheslav Okunev and moves through a musical journey that begins with Tchaikovsky and ends with Alfred Schnittke.</p>
+        <p>Yelena Kuzmina, in the title role, is an impressive dancer with an amazing flexible back. In her duets with her ballet teacher, Aleksandr Utkin, the Secret Police Agent, Albert Galichanin, and the Partner, Igor Markov, she does amazing things.</p>
+        <p>Mr. Eifman's choreography contrasts floor work and lifts, spirals and slides, the erotic and the pure. The entire company, with Russian fluidity, shifts easily from classical line to its distortion. We know the heroine is in trouble when her line is broken into angles and she flexes her feet.</p>
+        <p>The duets stand out but Mr. Eifman is equally at home in group choreography. Notice his stylization of the Charleston in Act II.</p>
+        <p>Mr. Markov, dancing also with Sergei Zimin, epitomizes the lithe athleticism of the men in the company. Mr. Utkin is nimble as the teacher tormented by the booted Secret Police who later partner his ballerinas. Mr. Galichanin, expressing powerful angst of his own, expertly partners Ms. Kuzmina through the choreography's twists and back flips. Sometimes a puppet dangling on his arm or sometimes in ecstasy, Ms. Kuzmina conveys the ambiguity of her character.</p>
+        <p>The hallucinations of Act II work precisely because they are so provocative. The Secret Police Agent's head seems to float in the air when his body is concealed by a curtain. The heroine is entrapped by other ghosts, the spirits or wilis who inhabit the shrewd digest of ''Giselle.'' Life and art come together.</p>
+        <p>Give Mr. Eifman another subject and any Western ballet company would be fortunate to acquire him as a guest.</p>
+        <p>DANCE REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

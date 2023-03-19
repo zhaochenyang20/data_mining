@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Nicole Behrendt, Thomas Martin IV</title>
+    <meta content="06BEHR$02" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2002/10/06/fashion/weddings/06BEHR.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1429539"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">BEHRENDT, NICOLE FUGAZY (NICOLE FUGAZY MARTIN)</person>
+        <person class="indexing_service">MARTIN, THOMAS S. IV</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="descriptor">Weddings and Engagements</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20021006T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE5D6163BF935A35753C1A9649C8B63" item-length="165" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Nicole Behrendt, Thomas Martin IV</hl1>
+        <hl2 class="online_headline">Nicole Behrendt and Thomas Martin IV</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Nicole Fugazy Behrendt, a daughter of Susan and Jeffrey E. Behrendt of Northport, N.Y., was married yesterday to Lt. Thomas S. Martin IV, the son of Lorena Martin and Mr. Martin III of Cary, N.C. The Rev. Edwin F. O'Brien performed the ceremony at the Roman Catholic Chapel of the Most Holy Trinity at the Military Academy in West Point, N.Y.</p>
+        <p>The bride, 22, was until last year a production assistant for television commercials at Jordan McGrath Case &amp; Partners, an advertising agency in New York. Her father is a director for business travel sales in New York with Starwood Hotel and Resorts.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Nicole Behrendt, Thomas Martin IV.</p>
+      </block>
+      <block class="full_text">
+        <p>Nicole Fugazy Behrendt, a daughter of Susan and Jeffrey E. Behrendt of Northport, N.Y., was married yesterday to Lt. Thomas S. Martin IV, the son of Lorena Martin and Mr. Martin III of Cary, N.C. The Rev. Edwin F. O'Brien performed the ceremony at the Roman Catholic Chapel of the Most Holy Trinity at the Military Academy in West Point, N.Y.</p>
+        <p>The bride, 22, was until last year a production assistant for television commercials at Jordan McGrath Case &amp; Partners, an advertising agency in New York. Her father is a director for business travel sales in New York with Starwood Hotel and Resorts.</p>
+        <p>Mrs. Martin is a great-great-granddaughter of Louis V. Fugazy, the founder of the Fugazy Steamship Company, now Fugazy International Travel in New York.</p>
+        <p>The bridegroom, 24, is a West Point graduate serving in the Army at Fort Carson, Colo. His father retired from I.B.M. as a program director for flat panel computer monitors at the company's office in Research Triangle Park, N.C.  WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths  FONDARAS, ANASTASSIOS</title>
+    <meta content="DN062799" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="1999" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="31" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1119177"/>
+      <doc.copyright holder="The New York Times" year="1999"/>
+      <identified-content>
+        <person class="indexing_service">FONDARAS, ANASTASSIOS</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19990627T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C00E1DC103AF934A15755C0A96F958260" item-length="92" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths  FONDARAS, ANASTASSIOS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>FONDARAS-Anastassios. Died at Columbia Presbyterian Hospital on June 24, 1999. Survived by his beloved wife Elizabeth; two daughters Kristina Fondaras Lamont of London and Antonia Fondaras of Washington D.C.; two sisters Anna Safilios and Fofi Trezos both of Athens; a niece Dina Safilios Rothschild; and six grandchildren. Funeral services will be held on Monday, June 28 at 12 noon at The Greek Orthodox Cathedral of the Holy Trinity, 319 E. 74th St. and the burial will be in Athens, Greece. In lieu of flowers contributions may be made to the Pasteur Foundation.</p>
+      </block>
+      <block class="full_text">
+        <p>FONDARAS-Anastassios. Died at Columbia Presbyterian Hospital on June 24, 1999. Survived by his beloved wife Elizabeth; two daughters Kristina Fondaras Lamont of London and Antonia Fondaras of Washington D.C.; two sisters Anna Safilios and Fofi Trezos both of Athens; a niece Dina Safilios Rothschild; and six grandchildren. Funeral services will be held on Monday, June 28 at 12 noon at The Greek Orthodox Cathedral of the Holy Trinity, 319 E. 74th St. and the burial will be in Athens, Greece. In lieu of flowers contributions may be made to the Pasteur Foundation.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

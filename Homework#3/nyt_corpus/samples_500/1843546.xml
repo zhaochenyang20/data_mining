@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Notes From an Ex-Senator</title>
+    <meta content="Noah.t" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="21" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Washington; Books" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/29/books/review/Noah.t.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1843546"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington</classifier>
+        <classifier class="online_producer" type="descriptor">Books and Literature</classifier>
+        <classifier class="online_producer" type="descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <person class="online_producer">Bradley, Bill</person>
+        <object.title class="online_producer">New American Story, The (Book)</object.title>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070429T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B00E3D8163EF93AA15757C0A9619C8B63" item-length="1004" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Notes From an Ex-Senator</hl1>
+        <hl2 class="online_headline">Notes From an Ex-Senator</hl2>
+      </hedline>
+      <byline class="print_byline">By TIMOTHY NOAH</byline>
+      <byline class="normalized_byline">Noah, Timothy</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>THE NEW AMERICAN STORY</p>
+        <p>By Bill Bradley.</p>
+        <p>364 pp. Random House. $25.95.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Bill Bradley, the former Democratic presidential contender, outlines his plan for America.</p>
+      </block>
+      <block class="full_text">
+        <p>THE NEW AMERICAN STORY</p>
+        <p>By Bill Bradley.</p>
+        <p>364 pp. Random House. $25.95.</p>
+        <p>Whatever happened to Bill Bradley? During his two decades in the Senate, this former Rhodes scholar and star forward for the New York Knicks accumulated an impressive record of accomplishment, particularly on economic issues. Intelligent, collegial and taller than Abe Lincoln, Bradley seemed just about the best the Democrats had to offer. But when he finally sought the presidential nomination, he displayed poor timing. The year, 2000, was inopportune -- his main rival was a sitting vice president with near identical views -- and Bradley lost. After Al Gore locked up the nomination, Bradley kept an indecorously long silence before endorsing him, and about a month before the general election he came out with a book, ''The Journey From Here,'' that was sprinkled with thinly veiled criticisms of his party's standard-bearer. Quite apart from the sour grapes, the book seemed strangely narcissistic. Mere weeks before Election Day, what need had voters for policy pronouncements from a candidate no longer in the race?</p>
+        <p>Now Bradley has written another book, ''The New American Story,'' outlining once again his plan for America. ''I'm outside the political pressure cooker now with no ax to grind and no political ambition to accomplish,'' he explains. ''What's here comes from my soul and from a new sense of freedom.'' But the old Bradley never seemed especially constricted when discussing government policy. He was admirably committed to principle and open to innovative ideas. The new Bradley, meanwhile, is hardly Zorba the Greek. He's a managing director at Allen &amp; Company, a leading investment bank for the entertainment and technology industries. Bradley still writes like a politician -- much of the book has the windy quality of an overlong speech -- and I'm hard pressed to identify many policies he advocates here that he wouldn't have argued for (and in a lot of cases, did argue for) when he depended on voters' good will. Reading ''The New American Story,'' I often found myself wishing I were experiencing Bradley as a presidential candidate rather than as an author, and that's only partly a knock on the book.</p>
+        <p>Bradley's conceit is that the country's conservative leaders are telling ''a story about America that simply isn't true.'' He organizes the book's first half around these false narratives, which he recites at a level of extreme generality -- no quotations or attributions -- that allows him to maintain senatorial decorum while enjoying maximum freedom to create straw men (for example, ''What good is it, the story asks, to have the world's strongest military if you never use it?''). Bradley then answers each false narrative with a true narrative that expresses communitarianism, fiscal sobriety, respect for the environment and other social values typically neglected by the right. It's a tedious and somewhat gimmicky construct.</p>
+        <p>But books like this aren't really meant to be read. They're meant to be shaken, vigorously, to see what ideas fall to the ground. The best ones here tumble out of the section on the economy. To get the budget deficit under control, Bradley proposes gradually raising the minimum eligibility age for Social Security until the year 2099, when it would be 70 (he recommends a ''narrowly liberalized'' disability benefit for people in their late 60s whose jobs cause health problems that won't permit them to keep working). This is more than justified, he notes correctly, by the rise in average life expectancy (from 61 years to 78) in the seven decades since Social Security was introduced. Bradley has advocated this reform since his Senate days, but backed away from it during his presidential run when Gore used it to attack him.</p>
+        <p>Bradley also argues plausibly that it's time to close tax loopholes for the rich in exchange for a modest reduction in tax rates, as Congress did in 1986. This time he suggests capping tax subsidies for those who own a home, give to charity, buy health insurance and perform other activities the government wants to encourage, so that these subsidies don't benefit the wealthy disproportionately. The largely unregulated hedge-fund tycoons who've become this decade's avatars of highflying wealth should, Bradley urges, be restricted in their access to pension funds and required to register with the Securities and Exchange Commission. Before hedge funds took off, he writes, the chairman of the Federal Reserve Board could calm the financial markets by phoning ''the key players.'' Today the Fed chairman lacks the means to know who many of those players even are.</p>
+        <p>Bradley has little to offer on the country's most vexing problem, the mess in Iraq. He calls the war ''the most serious foreign policy blunder I have seen in my lifetime'' and says we should end it. But his sole elaboration is ''Leaving has fewer long-term downsides than staying.'' This is the book's most glaring example of how the ''new sense of freedom'' Bradley enjoys in his post-political life, far from lending greater frankness to his pronouncements, enables greater avoidance. Were he running for president, he would be forced to detail when and how the troops should withdraw, what the likely consequences would be and how America should confront them.</p>
+        <p>On the other hand, Bradley the noncandidate is now willing to recognize as a ''potential approach'' to the health care crisis what he calls Medicare for All -- that is, socialized medicine. When he was a presidential candidate, he maintained the fiction that private insurance had a necessary role to play in a truly reformed health care system -- a fiction that continues to demand deference from today's major presidential candidates, mounting evidence to the contrary. Otherwise, candidate Bradley's health care plan was admirably ambitious -- and, he complains, grievously misunderstood. The plan's complexity made it ''prey to artful distortion,'' allowing the ''opposing campaign'' to exaggerate its potential costs and the risk that it would shortchange ''the most vulnerable citizens.'' Incredibly, Dollar Bill is still sulking about the fouls Gore committed seven years ago. He'd have forgotten them by now, if only he'd stayed in the game.</p>
+        <p>Timothy Noah is a senior writer at Slate and the editor of ''The Woman at the Washington Zoo,'' an anthology of writing by his late wife, Marjorie Williams.</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">Timothy Noah is a senior writer at Slate and the editor of ''The Woman at the Washington Zoo,'' an anthology of writing by his late wife, Marjorie Williams.</tagline>
+    </body.end>
+  </body>
+</nitf>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   CHRISTIANSON, THOMAS P.</title>
+    <meta content="DN063004" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1593380"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <person class="indexing_service">CHRISTIANSON, THOMAS P.</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040630T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9805E6D71238F933A05755C0A9629C8B63" item-length="59" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   CHRISTIANSON, THOMAS P.</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>CHRISTIANSON--Thomas P., 58, on June 28, 2004. Thomas leaves behind his wife Joan, sons Terence and Sean, daughter Carolyn, grandson Sean, Jr. and brother Robert. Visitation will be held on Thursday from 2-5 and 7-9pm at Thomas M. Quinn and Sons, 35-20 Broadway, Long Island City. Funeral mass on Friday at 10AM at St. Francis Cabrini RC Church.</p>
+      </block>
+      <block class="full_text">
+        <p>CHRISTIANSON--Thomas P., 58, on June 28, 2004. Thomas leaves behind his wife Joan, sons Terence and Sean, daughter Carolyn, grandson Sean, Jr. and brother Robert. Visitation will be held on Thursday from 2-5 and 7-9pm at Thomas M. Quinn and Sons, 35-20 Broadway, Long Island City. Funeral mass on Friday at 10AM at St. Francis Cabrini RC Church.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Architecture Award to Kevin Roche</title>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="1992" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Cultural Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="576576"/>
+      <doc.copyright holder="The New York Times" year="1992"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">ARCHITECTURE</classifier>
+        <classifier class="indexing_service" type="descriptor">AWARDS, DECORATIONS AND HONORS</classifier>
+        <classifier class="indexing_service" type="descriptor">AWARDS, DECORATIONS AND HONORS</classifier>
+        <org class="indexing_service">AMERICAN INSTITUTE OF ARCHITECTS</org>
+        <person class="indexing_service">ROCHE, KEVIN</person>
+        <classifier class="online_producer" type="types_of_material">Biography</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Architecture</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Engineering and Architecture</classifier>
+        <classifier class="online_producer" type="general_descriptor">Architecture</classifier>
+        <classifier class="online_producer" type="general_descriptor">Awards, Decorations and Honors</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19921214T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CE7DF1F30F937A25751C1A964958260" item-length="314" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Architecture Award to Kevin Roche</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Kevin Roche, an architect noted for corporate headquarters and skyscrapers that epitomize the evolution of modern architecture in the postwar decades, has been named the recipient of the 1993 Gold Medal from the American Institute of Architects. His best-known buildings include the Ford Foundation Building in New York, the Oakland Museum and the General Foods Corporation headquarters in Rye Brook, N.Y.</p>
+        <p>Mr. Roche, who is 70 years old and was born in Ireland, first came to prominence as a partner of Eero Saarinen, whose firm he joined in 1950. After Saarinen's death in 1961, Mr. Roche took over the design of several major Saarinen projects, including the CBS Building in New York and the TWA Terminal at Kennedy International Airport. In 1966 Saarinen's firm was renamed Kevin Roche John Dinkeloo &amp; Associates. That same year saw the completion of the Ford Foundation headquarters, a building that secured Mr. Roche's reputation as a leading American modernist. A Change in Approach</p>
+        <p>Since then, Mr. Roche's Connecticut-based firm has designed a number of major projects in New York, including the United Nations Plaza Hotel, the American Wing of the Metropolitan Museum, for which he also devised the master plan, the Central Park Zoo, the Morgan Stanley Building and a new addition to the Jewish Museum. In his more recent projects Mr. Roche has departed from an early adherence to modernism's crisp geometric lines, and the exteriors of his buildings reflected a richer, more eclectic approach.</p>
+      </block>
+      <block class="full_text">
+        <p>Kevin Roche, an architect noted for corporate headquarters and skyscrapers that epitomize the evolution of modern architecture in the postwar decades, has been named the recipient of the 1993 Gold Medal from the American Institute of Architects. His best-known buildings include the Ford Foundation Building in New York, the Oakland Museum and the General Foods Corporation headquarters in Rye Brook, N.Y.</p>
+        <p>Mr. Roche, who is 70 years old and was born in Ireland, first came to prominence as a partner of Eero Saarinen, whose firm he joined in 1950. After Saarinen's death in 1961, Mr. Roche took over the design of several major Saarinen projects, including the CBS Building in New York and the TWA Terminal at Kennedy International Airport. In 1966 Saarinen's firm was renamed Kevin Roche John Dinkeloo &amp; Associates. That same year saw the completion of the Ford Foundation headquarters, a building that secured Mr. Roche's reputation as a leading American modernist. A Change in Approach</p>
+        <p>Since then, Mr. Roche's Connecticut-based firm has designed a number of major projects in New York, including the United Nations Plaza Hotel, the American Wing of the Metropolitan Museum, for which he also devised the master plan, the Central Park Zoo, the Morgan Stanley Building and a new addition to the Jewish Museum. In his more recent projects Mr. Roche has departed from an early adherence to modernism's crisp geometric lines, and the exteriors of his buildings reflected a richer, more eclectic approach.</p>
+        <p>First awarded in 1907, the American Institute of Architects Gold Medal is one of the architectural profession's highest honors. Its past recipients include Frank Lloyd Wright, Ludwig Mies van der Rohe, Le Corbusier, Eero Saarinen and Louis I. Kahn. The award is to be presented to Mr. Roche in January at a ceremony at the National Building Museum in Washington.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

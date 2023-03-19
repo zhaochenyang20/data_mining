@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Homes Data Help Push Bonds Down</title>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="19" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="729605"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">GOVERNMENT BONDS</classifier>
+        <classifier class="indexing_service" type="descriptor">FINANCES</classifier>
+        <classifier class="indexing_service" type="descriptor">UNITED STATES ECONOMY</classifier>
+        <person class="indexing_service">HURTADO, ROBERT</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Government Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Economy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19941206T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A0DE2DD1439F935A35751C1A962958260" item-length="664" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Homes Data Help Push Bonds Down</hl1>
+      </hedline>
+      <byline class="print_byline">By ROBERT HURTADO</byline>
+      <byline class="normalized_byline">HURTADO, ROBERT</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Prices of Treasury securities fell yesterday amid revived investor concern over continuing strong growth that could accelerate inflation. Municipal bond prices outperformed government securities despite the potential $1.5 billion loss reported last week by Orange County, Calif.</p>
+        <p>The price of the benchmark 30-year Treasury bond fell about 6/32 to 95 7/32 . Its yield, which moves in the opposite direction from its price, rose to 7.92 percent from 7.91 percent on Friday.</p>
+      </block>
+      <block class="full_text">
+        <p>Prices of Treasury securities fell yesterday amid revived investor concern over continuing strong growth that could accelerate inflation. Municipal bond prices outperformed government securities despite the potential $1.5 billion loss reported last week by Orange County, Calif.</p>
+        <p>The price of the benchmark 30-year Treasury bond fell about 6/32 to 95 7/32 . Its yield, which moves in the opposite direction from its price, rose to 7.92 percent from 7.91 percent on Friday.</p>
+        <p>A report that showed a 1.3 percent surge in the sales of new homes in October weighed down Government securities. The Commerce Department report suggested that six increases in short-term interest rates by the Federal Reserve have not pushed mortgage rates high enough to slow the housing industry.</p>
+        <p>Prices of short-term Treasury bills fell sharply yesterday in anticipation of an interest rate increase. Bill rates were up an average 15 basis points in secondary market trading. A basis point is one-hundredth of a percentage point.</p>
+        <p>At its regular weekly auction of three-month and six-month bills, the Treasury saw rates jump to their highest levels since early 1991.</p>
+        <p>In the municipal market, analysts continued to weigh the impact of the Orange County investment fund's troubles. Yesterday's trading offered few clues.</p>
+        <p>Robert J. Froehlich, director of research at Van Kampen &amp; Merritt, said the market was waiting for more details to be released after an emergency meeting of the county's board of supervisors .</p>
+        <p>Late yesterday, the resignation of the Orange County treasurer, Robert L. Citron, was announced.</p>
+        <p>Mr. Froehlich noted that so far the two largest participants in the county's investment fund, the transportation and water agencies, have both agreed to stay in the fund. "If there is a mass defection," he said, "then those paper losses will turn to actual losses." The county's $7.8 billion investment pool represents contributions from 170 municipal agencies.</p>
+        <p>Of the $7.8 billion, approximately $4.7 billion is from Orange County agencies required to invest their money with the treasurer, including the school districts. The remaining $3.1 billion is from voluntary or "discretionary" investors, including the county transportation, toll road and sanitation agencies, as well as cities like Irvine and Huntington Beach. The money borrowed by the school districts is also part of the discretionary portion.</p>
+        <p>James Lynch of the Lynch Municipal Bond Advisory, said: "Right now potential sellers of these bonds will hesitate to sell because they don't know how it will all unfold and are afraid they will sell too cheap. Buyers hesitated because they want to be sure they are buying at the lowest price."</p>
+        <p>Peter B. Coffin, head of an investment advisory firm with the same name in Boston, said there was not a lot of activity for Orange County bonds, but he said the situation could give many retail traders an excuse to sell other issues.</p>
+        <p>Elsewhere, traders said South Africa was expected to sell its first post-apartheid bond issue in international markets early this week.</p>
+        <p>The Government plans to sell $500 million in five-year global notes through a group led by two investment banks, Goldman, Sachs &amp; Company and the Swiss Bank Corporation.</p>
+        <p>The following are the results of yesterday's three-month and six-month bill auction: (000 omitted in dollar figures)</p>
+        <p>3-Mo. Bills</p>
+        <p>6-Mo. Bills</p>
+        <p>Average Price</p>
+        <p>98.526</p>
+        <p>96.800</p>
+        <p>Discounted Rate</p>
+        <p>5.83%</p>
+        <p>6.33%</p>
+        <p>Coupon Yield</p>
+        <p>6.00%</p>
+        <p>6.63%</p>
+        <p>High Price</p>
+        <p>98.539</p>
+        <p>96.810</p>
+        <p>Discounted Rate</p>
+        <p>5.78%</p>
+        <p>6.31%</p>
+        <p>Coupon Yield</p>
+        <p>5.95%</p>
+        <p>6.61%</p>
+        <p>Low Price</p>
+        <p>98.521</p>
+        <p>96.800</p>
+        <p>Discounted Rate</p>
+        <p>5.85%</p>
+        <p>6.33%</p>
+        <p>Coupon Yield</p>
+        <p>6.02%</p>
+        <p>6.63%</p>
+        <p>Accepted at low price</p>
+        <p>13%</p>
+        <p>97%</p>
+        <p>Total applied for</p>
+        <p>$40,844,224</p>
+        <p>$47,532,142</p>
+        <p>Accepted</p>
+        <p>$13,609,224</p>
+        <p>$13,630,971</p>
+        <p>Noncompetitive</p>
+        <p>$1,604,071</p>
+        <p>$1,401,761</p>
+        <p>Both issues are dated Dec. 8, 1994. The three-month bills mature on March 9, 1995, and the six-month bills mature on June 8, 1995.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>IN THE REGION/Long Island; Presto! This Land Is Parkland</title>
+    <meta content="14lizo" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Real Estate Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="11" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Health; Education; Real Estate" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/01/14/realestate/14lizo.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1818777"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="In the Region | Long Island"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Parks and Other Recreation Areas</classifier>
+        <classifier class="indexing_service" type="descriptor">Decisions and Verdicts</classifier>
+        <classifier class="indexing_service" type="descriptor">Suits and Litigation</classifier>
+        <classifier class="indexing_service" type="descriptor">Mental Health and Disorders</classifier>
+        <classifier class="indexing_service" type="descriptor">Hospitals</classifier>
+        <classifier class="indexing_service" type="descriptor">Taxation</classifier>
+        <classifier class="indexing_service" type="descriptor">Property Taxes</classifier>
+        <classifier class="indexing_service" type="descriptor">Education and Schools</classifier>
+        <location class="indexing_service">New York State</location>
+        <location class="indexing_service">Long Island (NY)</location>
+        <location class="indexing_service">Nissequogue River State Park (Li)</location>
+        <org class="indexing_service">King's Park Psychiatric Hospital</org>
+        <person class="indexing_service">Cotsalas, Valerie</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Real Estate</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Real Estate/Locations/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Real Estate/Locations/New York/Long Island</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Real Estate/Locations/Regions</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Real Estate/Columns/In the Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Mental Health and Behavior</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Education</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Education</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Healthcare</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Hospitals</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Mental Health and Disorders</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/Long Island</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="descriptor">Hospitals</classifier>
+        <classifier class="online_producer" type="descriptor">Area Planning and Renewal</classifier>
+        <classifier class="online_producer" type="descriptor">Zoning</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hospitals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Property Taxes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Zoning</classifier>
+        <classifier class="online_producer" type="general_descriptor">Area Planning and Renewal</classifier>
+        <classifier class="online_producer" type="general_descriptor">Decisions and Verdicts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Leisure</classifier>
+        <classifier class="online_producer" type="general_descriptor">Parks and Other Recreation Areas</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suits and Litigation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Taxation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mental Health and Disorders</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+        <location class="online_producer">Long Island (NY)</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070114T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C06E2DF1330F937A25752C0A9619C8B63" item-length="1052" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>IN THE REGION/Long Island; Presto! This Land Is Parkland</hl1>
+        <hl2 class="online_headline">Presto! This Land Is Parkland</hl2>
+      </hedline>
+      <byline class="print_byline">By VALERIE COTSALAS</byline>
+      <byline class="normalized_byline">Cotsalas, Valerie</byline>
+      <abstract>
+        <p>New York State Supreme Court dismisses suit seeking to force state to sell 368 acres of land at King's Park, former psychiatric hospital in Smithtown, NY, to private developer; court transfers land to state Office of Parks, Recreation and Historic Preservation and acreage will become part of Nissequogue River State Park; local schools will continue to receive property tax revenue from state; photo (In the Region/Long Island) (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>IT was big news in the town of Smithtown in Suffolk County when, just before the New Year rolled in, 368 acres of land at a former state psychiatric institution in Kings Park were transformed into state parkland.</p>
+        <p>The property had been in dispute since the hospital closed in 1996, as a lawsuit sought to force the state to sell the land to a developer who planned to build as many as 1,800 homes there.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Just before the New Year rolled in, 368 acres of land at a former state psychiatric institution in Kings Park were transformed into state parkland.</p>
+      </block>
+      <block class="full_text">
+        <p>IT was big news in the town of Smithtown in Suffolk County when, just before the New Year rolled in, 368 acres of land at a former state psychiatric institution in Kings Park were transformed into state parkland.</p>
+        <p>The property had been in dispute since the hospital closed in 1996, as a lawsuit sought to force the state to sell the land to a developer who planned to build as many as 1,800 homes there.</p>
+        <p>But the suit was dismissed in December by a New York State Supreme Court justice, and control of the land was transferred from the state Office of Mental Health to the Office of Parks, Recreation and Historic Preservation.</p>
+        <p>''If you look at the land, it doesn't make sense to build housing,'' said Linda Henninger, president of the Kings Park Neighbors' Association, a local civic group that has opposed a housing development.</p>
+        <p>She said that the development would have broken up expanses of parkland surrounding it and that new residents in such an oddly placed subdivision would have clogged the hamlet's narrow roads.</p>
+        <p>The property, which has views of Long Island Sound, will now become part of Nissequogue River State Park, a forested 153-acre parcel next door that was also once part of the hospital -- although 90 acres of it could still be developed with park-related infrastructure like a pool. The transfer is ''great for the North Shore, and it's a beautiful park,'' Ms. Henninger said.</p>
+        <p>In the 1990s, as evolving treatment methods ended the practice of mass isolation of the mentally ill, Kings Park and other large state-run psychiatric hospitals on Long Island were shut down.</p>
+        <p>These institutions, including Pilgrim State and Edgewood State Hospital in Dix Hills and Deer Park and Central Islip Psychiatric Center, were small, self-contained cities. At their peak in the 1950s, tens of thousands of patients lived in residential buildings on the four sites, which had their own laundry and power plants, playing fields, swimming pools and other facilities. The hospitals employed hundreds of residents of local towns and hamlets.</p>
+        <p>The state shutdown left unemployment, large swaths of land and decaying buildings.</p>
+        <p>In Central Islip, the state transferred control of the land to the encompassing town of Islip. It hired developers to build attached town houses, which were sold at affordable prices. Parts of the hospital campus were also sold, for development of federal court buildings, a minor-league baseball stadium, shopping centers, offices and a technical college.</p>
+        <p>Those developments were made possible in large part by the existence of a local sewer system; the lack of such a system in Kings Park would make development more difficult and expensive.</p>
+        <p>Officials in Smithtown, who were working with State Senator John Flanagan on an effort to persuade the state to transfer the land to the town, were unprepared for the transfer of the land to the State Parks Department.</p>
+        <p>''It took everybody by surprise,'' Frank DeRubeis, planning director of Smithtown, said of the state's move to make the land state parkland.</p>
+        <p>The town has been waiting 10 years for contaminated soil on the site to be cleaned up. It had also been studying a plan, financed by Suffolk County, to spur development in downtown Kings Park and downtown Smithtown by expanding local sewage capacity with an underground leeching field on the psychiatric center property, Mr. DeRubeis said.</p>
+        <p>''Now it seems that whole thing is dead,'' he added.</p>
+        <p>The Kings Park Psychiatric Medical Center opened in 1885 as a rural branch of the Kings County Asylum in Brooklyn and was transferred to New York State 10 years later. In 1955, 9,300 patients were living there.</p>
+        <p>Three years after the hospital closed, 153 acres of the grounds were transferred to the Parks Department to create the Nissequogue River State Park, named for the river that runs through it.</p>
+        <p>The Office of Mental Health still operates two group homes and one residential care center for adults on 36 acres not transferred to the parks office. There are no plans to close these facilities.</p>
+        <p>From the community's point of view, it would seem there is little downside to the recent transfer. New York State pays taxes to the local schools under an arrangement that nets the district more than $5 million a year, according to Mr. Flanagan. About $2 million of that comes from the former psychiatric hospital property.</p>
+        <p>Since the state will continue owning the land, it will ''keep on paying those taxes on the land,'' he said.</p>
+        <p>That tax arrangement is unusual. It is dictated by Section 536 of New York's Real Property Tax Law, according to Jill Daniels, a spokeswoman for the New York State Office of Mental Health. The school districts in the same category as Kings Park are listed in the text of the law.</p>
+        <p>''Parkland is our 'industrial,' '' said Ms. Henninger, the civic group president, alluding to the zoning category that in some towns brings in significant tax revenue. ''We get a lot of money for beautiful trees.''</p>
+        <p>But before the hospital land is completely beautiful, the soil contaminated by the power plant and landfills on the site still has to be cleaned up. Last March, Mr. Flanagan said, the state budget appropriated $25 million to help with the project, which could cost $40 million to $60 million.</p>
+        <p>When the Empire State Development Corporation first requested proposals from developers, all of their plans called for high concentrations of housing to help cover the cleanup costs.</p>
+        <p>But that did not sit well with town officials. ''We felt all along that the developments were unacceptable because the state was selling to a developer, then walking away and leaving us with all that density,'' said Mr. DeRubeis, the planning director.</p>
+        <p>There remain 90 acres of the transferred land that hold abandoned psychiatric center buildings and could still be developed once the area is cleaned up. But Mr. Flanagan said such development would have to be ''consistent with the mission of a park.''</p>
+        <p>For example, he said, one leftover building has an Olympic-size swimming pool and could become part of a community center if it were repaired and renovated.</p>
+        <p>Or, as at the historic Glen Iris Inn in Letchworth State Park in Castile, N.Y., or the lodge in Bear Mountain State Park, ''we could make a beautiful bed and breakfast,'' he said.</p>
+        <p>In the Region | Long Island</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

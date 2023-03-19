@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths  TOFEL, JOSEPH M.</title>
+    <meta content="DN052300" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1201889"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <person class="indexing_service">TOFEL, JOSEPH M.</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000523T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9402E7D61F3AF930A15756C0A9669C8B63" item-length="76" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths  TOFEL, JOSEPH M.</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>TOFEL-Joseph M. Of Briarcliff Manor, NY. On May 22. Age 71. Retiree from IBM, Harrison NY. Husband of Annie Tofel. Father of Karen Doskow and Clifford Tofel. Brother of Elaine Colton and the late Harriett Crystal. Grandfather of Emily and Sydney Doskow, Nia and Lily Tofel. Funeral service Thursday 12 noon at the BallardDurand Funeral Home, 2 Maple Avenue, White Plains, NY. Interment Sharon Gardens Cemetery. Memorial contributions to the American Cancer Society would be appreciated.</p>
+      </block>
+      <block class="full_text">
+        <p>TOFEL-Joseph M. Of Briarcliff Manor, NY. On May 22. Age 71. Retiree from IBM, Harrison NY. Husband of Annie Tofel. Father of Karen Doskow and Clifford Tofel. Brother of Elaine Colton and the late Harriett Crystal. Grandfather of Emily and Sydney Doskow, Nia and Lily Tofel. Funeral service Thursday 12 noon at the BallardDurand Funeral Home, 2 Maple Avenue, White Plains, NY. Interment Sharon Gardens Cemetery. Memorial contributions to the American Cancer Society would be appreciated.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

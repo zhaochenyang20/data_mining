@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths  SCHECTER, EDWARD</title>
+    <meta content="DN010800" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1166957"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <person class="indexing_service">SCHECTER, EDWARD</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000108T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=980DE5DA103BF93BA35752C0A9669C8B63" item-length="50" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths  SCHECTER, EDWARD</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>SCHECTER-Edward. January, 6, 2000, age 61. Loving father of Deborah and Michael. Grandfather of Alexis, Brandon and Justin. Brother of Robert and the late Diane Rausch. Services at Frank E. Campbell, 1076 Madison Ave at 81 St., Sunday 1:30. Interment Beth Moses Cemetery. Contributions in his memory to Cancer Care.</p>
+      </block>
+      <block class="full_text">
+        <p>SCHECTER-Edward. January, 6, 2000, age 61. Loving father of Deborah and Michael. Grandfather of Alexis, Brandon and Justin. Brother of Robert and the late Diane Rausch. Services at Frank E. Campbell, 1076 Madison Ave at 81 St., Sunday 1:30. Interment Beth Moses Cemetery. Contributions in his memory to Cancer Care.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>DINER'S JOURNAL</title>
+    <meta content="01JOUR$05" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Leisure/Weekend Desk" name="dsk"/>
+    <meta content="34" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2004/10/01/dining/01JOUR.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1615485"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <series series.name="Diner's Journal"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Restaurants</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <org class="indexing_service">Blue Mill Tavern (NYC Restaurant)</org>
+        <person class="indexing_service">Bruni, Frank</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine/Restaurant Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine/Columns/Diner's Journal</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="descriptor">Restaurants</classifier>
+        <classifier class="online_producer" type="general_descriptor">Restaurants</classifier>
+        <location class="online_producer">New York City</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20041001T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B01EFDC1238F932A35753C1A9629C8B63" item-length="585" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>DINER'S JOURNAL</hl1>
+        <hl2 class="online_headline">Blue Mill Tavern</hl2>
+      </hedline>
+      <byline class="print_byline">By Frank Bruni</byline>
+      <byline class="normalized_byline">Bruni, Frank</byline>
+      <abstract>
+        <p>Frank Bruni reviews Blue Mill Tavern in Greenwich Village; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Just as nature abhors a vacuum, Manhattan abhors a dark, unused space where a restaurant recently existed. In fairly short order, one establishment's scratched lease and dashed ambitions become the next establishment's not-entirely-blank slate. Some furniture stays; some goes. A new menu and a new day dawn.</p>
+        <p>Or, in the case of the Blue Mill Tavern, which just opened where Grange Hall closed, an old day returns.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The Blue Mill Tavern resurrects the name of the restaurant that preceded Grange Hall and it reaches even further back with its décor and menu.</p>
+      </block>
+      <block class="full_text">
+        <p>Just as nature abhors a vacuum, Manhattan abhors a dark, unused space where a restaurant recently existed. In fairly short order, one establishment's scratched lease and dashed ambitions become the next establishment's not-entirely-blank slate. Some furniture stays; some goes. A new menu and a new day dawn.</p>
+        <p>Or, in the case of the Blue Mill Tavern, which just opened where Grange Hall closed, an old day returns.</p>
+        <p>The Blue Mill Tavern resurrects the name of the restaurant that preceded Grange Hall and inhabited this space on Commerce Street in Greenwich Village for about five decades, beginning in the early 1940's. The Blue Mill reaches even further back than that with its décor, an extremely handsome composition of light-toned woods, mirrors and aluminum trim that evokes the Art Deco style of the 1930's.</p>
+        <p>This restaurant's nostalgic bent carries over to its menu, which offers $19 blue-plate specials: a designated entree plus soup (or salad) and dessert. On Mondays, that entree is liver and onions. On Thursdays, macaroni and cheese. On Sundays, meat loaf.</p>
+        <p>The Blue Mill does not take reservations, so several friends and I showed up before 7 P.M. last Friday, hoping that we would be early enough to snag one of the dining room's cozy booths.</p>
+        <p>That room was almost empty, but the bar area was almost full, so we lingered there. It has windows onto the West Village's charmingly narrow, leafy streets, and the mostly young, attractive crowd seemed to be unwinding from the work week rather than revving up for the social and sartorial challenges of the weekend. We noticed more beer bottles than martini glasses. We liked this.</p>
+        <p>After moving to a booth, we tried several salads and a rich, crunchy onion tart, all of which realized their modest ambitions. The roasted beets with goat cheese were precisely that. If the horseradish vinaigrette that moistened them was supposed to lift them to a higher level, it did not, but they were just fine at their own altitude.</p>
+        <p>I enjoyed the watercress with blue cheese and walnuts, but I felt as if I had enjoyed precisely the same salad many times before, and so I found myself channeling the spirit of Peggy Lee. Was that all there was?</p>
+        <p>No. We still had entrees and desserts to go. Seared sea scallops floated on a multi-colored, many-splendored tide of corn succotash and smoked bacon that proved to be a potent magnet for my spoon. But the ''crispy duck'' was not remotely crispy, and the overcooked prime rib tasted like pot roast. Desserts were a work in progress, from a dessert menu still undergoing changes.</p>
+        <p>As we left, I took a parting glance at the gorgeous cherry-wood bar, built around a three-feet-in-diameter, cast aluminum vintage clock from a French train station. I almost sat down again on one of the round stools for an after-dinner drink. But the meal and the evening belonged to the past. It was time to pick up with the future.</p>
+        <p>The Blue Mill Tavern, 50 Commerce Street, at Barrow Street, Greenwich Village; (212) 352-0009. Appetizers, $6 to $11; entrees, $14 to $24.</p>
+        <p>Diner's Journal</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

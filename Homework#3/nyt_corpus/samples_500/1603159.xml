@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Cisco Reports Strong Revenue In 4th Quarter</title>
+    <meta content="11CISC$01" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2004/08/11/technology/11cisco.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1603159"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <series series.name="TECHNOLOGY"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Company Reports</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <org class="indexing_service">Cisco Systems</org>
+        <person class="indexing_service">Richtel, Matt</person>
+        <person class="indexing_service">Chambers, John T</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Executive</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Company Reports</classifier>
+        <classifier class="online_producer" type="descriptor">Executives and Management</classifier>
+        <classifier class="online_producer" type="descriptor">Stock Options and Purchase Plans</classifier>
+        <classifier class="online_producer" type="general_descriptor">Company Reports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Executives and Management</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stock Options and Purchase Plans</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Corporations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <org class="online_producer">Cisco Systems Incorporated</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040811T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B00E0DD1F3CF932A2575BC0A9629C8B63" item-length="954" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Cisco Reports Strong Revenue In 4th Quarter</hl1>
+        <hl2 class="online_headline">Cisco Reports Strong Revenue in 4th Quarter</hl2>
+      </hedline>
+      <byline class="print_byline">By MATT RICHTEL</byline>
+      <byline class="normalized_byline">Richtel, Matt</byline>
+      <dateline>SAN FRANCISCO, Aug. 10</dateline>
+      <abstract>
+        <p>Cisco Systems reports net income of $1.38 billion in fiscal fourth quarter ended July 31, up 41 percent from $982 million year earlier; revenue was $5.9 billion, compared with $4.7 billion year ago and $5.62 billion in previous quarter; chief executive John T Chambers comments; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Cisco Systems, the maker of Internet networking equipment, posted solid quarterly earnings on Tuesday that were squarely in line with Wall Street expectations. But John T. Chambers, the company's chief executive, suggested that economic conditions remain jittery, even more so than they were three months ago.</p>
+        <p>Mr. Chambers, whose sales efforts put him in contact with the country's most powerful executives, said he was hearing less optimism than he had three months earlier. While not necessarily expecting the economy to sour, customers have reverted to expressing a more cautious outlook, he said.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Still, John T. Chambers, the company's chief, suggested economic conditions remain jittery, even more so than they were three months ago.</p>
+      </block>
+      <block class="full_text">
+        <p>Cisco Systems, the maker of Internet networking equipment, posted solid quarterly earnings on Tuesday that were squarely in line with Wall Street expectations. But John T. Chambers, the company's chief executive, suggested that economic conditions remain jittery, even more so than they were three months ago.</p>
+        <p>Mr. Chambers, whose sales efforts put him in contact with the country's most powerful executives, said he was hearing less optimism than he had three months earlier. While not necessarily expecting the economy to sour, customers have reverted to expressing a more cautious outlook, he said.</p>
+        <p>Three months ago, when Cisco last held a quarterly conference call with investors, Mr. Chambers said he was as enthusiastic as he had been in several years. On Tuesday, Mr. Chambers was more measured.</p>
+        <p>''Most of the C.E.O.'s I talk with,'' Mr. Chambers said, ''view the economy as growing at a modest level and are a little more cautious in their outlook than they were a quarter ago.''</p>
+        <p>However, he said he was heartened by the fact that demand for Cisco products from United States companies continued to rise and that, of particular note, orders from telecommunications service providers were the highest in three years.</p>
+        <p>For the quarter ended July 31, the company's fourth, Cisco had net income of $1.38 billion, or 20 cents a share, up 41 percent from $982 million, or 14 cents a share, in the period a year earlier.</p>
+        <p>Cisco had revenue of $5.9 billion, compared with $4.7 billion in the period a year earlier and $5.62 billion in the previous quarter. Analysts had expected Cisco to post sales of $5.88 billion.</p>
+        <p>On a pro forma basis, the company had earnings of 21 cents a share, compared with analysts' estimates of 20 cents.</p>
+        <p>The earnings news from Cisco, based in San Jose, Calif., comes several weeks after two other technology industry bellwethers, I.B.M. and Microsoft, each posted solid quarterly results. However, their reports were also tempered, with Microsoft remaining cautious in its own outlook and I.B.M. reporting that it had noticed some pause in corporate technology spending.</p>
+        <p>The fourth quarter rounded out something of a rebuilding fiscal year for Cisco. Rebounding from the fallout of the dot-com collapse and the continued sluggishness in the telecommunications market, the company posted annual sales of $22 billion and earnings of 76 cents a share, compared with revenue of $18.9 billion and earnings of 59 cents a share in the 2003 fiscal year.</p>
+        <p>Steve Kamman, a network industry analyst with CIBC World Markets, said that if investors had foreseen the results a year ago, they ''would have been absolutely thrilled.'' But he added that investor expectations had changed and that the market was ''less enthusiastic across the board.''</p>
+        <p>Before Cisco announced its results, its shares closed at $20.46, up 41 cents. They fell as low as $19.90 after hours.</p>
+        <p>Mr. Kamman said that Cisco's fourth-quarter earnings were strong but not remarkable. ''They're delivering well, but there are no fireworks,'' he said. ''The questions now are when do they step on the accelerator and how would they do that?''</p>
+        <p>Within the broad brush strokes of Cisco's report, the finer points appeared to offer both cause for optimism and some mild concern for investors.</p>
+        <p>One potential trouble spot for Cisco, several industry analysts said, is that its inventories have been creeping up. That can be cause for concern because it can signal that the company has overestimated demand.</p>
+        <p>In Cisco's third fiscal quarter, inventory was $1.1 billion, up from $933 million in the second quarter. In the fourth quarter, it rose to $1.2 billion.</p>
+        <p>Mr. Chambers took pains during a conference call with analysts and reporters to allay any concern. He and Dennis Powell, the chief financial officer, attributed the rising inventories to a calculated effort to have the right level of supply to meet seasonal demand, particularly of back-to-school products.</p>
+        <p>''We're not losing sleep over this at all,'' he said. ''This is an issue we'd view as secondary, and not a primary issue at all.''</p>
+        <p>There was also a slight decrease in gross margin, which measures sales minus the cost of producing goods. Mr. Powell attributed the drop -- to 68.4 percent from 68.8 percent in the third quarter -- to some discounted prices and higher inventory.</p>
+        <p>On a potentially positive note for investors, the demand that Mr. Chambers said he was seeing from telecommunications service providers may be more than a revival in spending from those companies. It may indicate some success in Cisco's strategy of re-establishing ties with those companies after a fallout with some service providers during the dot-com boom.</p>
+        <p>For his part, Mr. Chambers received a personal financial gain, the company disclosed during its earnings conference call. Since April 2001, Mr. Chambers -- at his own request -- forfeited his salary and bonus, though he did continue to collect stock options potentially worth tens of millions of dollars.</p>
+        <p>However, the company said its board had approved paying Mr. Chambers $350,000 in annual salary, the same as he was receiving before the cutback in his pay.</p>
+        <p>TECHNOLOGY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

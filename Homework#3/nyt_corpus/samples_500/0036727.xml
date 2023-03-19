@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>ARE VIEWERS ENTITLED TO GAMES ON FREE TV?</title>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="5" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Sports; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="36727"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <series series.name="QUESTION OF THE WEEK"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">ATHLETICS AND SPORTS</classifier>
+        <classifier class="indexing_service" type="descriptor">TELEVISION</classifier>
+        <classifier class="indexing_service" type="descriptor">CABLE TELEVISION</classifier>
+        <person class="indexing_service">ILARIA, ROB</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cable Television</classifier>
+        <classifier class="online_producer" type="general_descriptor">Athletics and Sports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870503T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DEEDF123FF930A35756C0A961948260" item-length="68" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>ARE VIEWERS ENTITLED TO GAMES ON FREE TV?</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: George Steinbrenner must think all Yankee fans are fools, after he ''sold out'' on us once again. Well, I will never go to the Stadium again, and I feel the only recourse we fans have is to pool together and boycott games. When Mr. Steinbrenner sees those picket lines, maybe, just maybe he'll get the message.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: George Steinbrenner must think all Yankee fans are fools, after he ''sold out'' on us once again. Well, I will never go to the Stadium again, and I feel the only recourse we fans have is to pool together and boycott games. When Mr. Steinbrenner sees those picket lines, maybe, just maybe he'll get the message.</p>
+        <p>George Steinbrenner must think all Yankee fans are fools, after he ''sold out'' on us once again. Well, I will never go to the Stadium again, and I feel the only recourse we fans have is to pool together and boycott games. When Mr. Steinbrenner sees those picket lines, maybe, just maybe he'll get the message. The Yankees are our team, and we can do something about it!  ROB ILARIA  Brooklyn  QUESTION OF THE WEEK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

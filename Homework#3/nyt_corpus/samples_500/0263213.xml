@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Cubs Beat Reuschel</title>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="1989" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="8" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="263213"/>
+      <doc.copyright holder="The New York Times" year="1989"/>
+      <series series.name="BASEBALL: NATIONAL LEAGUE"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">BASEBALL</classifier>
+        <org class="indexing_service">NATIONAL LEAGUE</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball/Major League/Chicago Cubs</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball</classifier>
+        <classifier class="online_producer" type="general_descriptor">Baseball</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19890702T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950DE0D6163EF931A35754C0A96F948260" item-length="511" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Cubs Beat Reuschel</hl1>
+      </hedline>
+      <byline class="print_byline">AP</byline>
+      <dateline>SAN FRANCISCO, July 1</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Greg Maddux held San Francisco to two runs in seven and two-thirds innings today and added two singles and the game-winning run batted in to lead the Chicago Cubs past Rick Reuschel and the Giants, 3-2.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Greg Maddux held San Francisco to two runs in seven and two-thirds innings today and added two singles and the game-winning run batted in to lead the Chicago Cubs past Rick Reuschel and the Giants, 3-2.</p>
+        <p>Greg Maddux held San Francisco to two runs in seven and two-thirds innings today and added two singles and the game-winning run batted in to lead the Chicago Cubs past Rick Reuschel and the Giants, 3-2.</p>
+        <p>Maddux (7-7) won for the sixth time in his last eight starts. Reuschel (12-3) lost for the first time since April 28, ending a winning streak at a career-high nine games.</p>
+        <p>Maddux allowed seven hits and Mitch Williams pitched the final inning and a third for his 20th save.</p>
+        <p>With the score tied at 2-2, Vance Law led off the fourth with a double for Chicago and scored one out later when Maddux singled to center. Maddux is 12 for 38 (.316) with 4 r.b.i. this season.  Dodgers 1, Pirates 0</p>
+        <p>LOS ANGELES (AP) - Jose Gonzalez's grounder bounced off Jose Lind, the Pittsburgh second baseman, for a single to score Eddie Murray with two out in the ninth inning. The Pirates' winning streak ended at six games.</p>
+        <p>With one out, Murray singled off John Smiley (7-2) and went to second when Mike Marshall walked. After Jeff Hamilton popped out to second, Gonzalez, who has 14 hits in his last 31 times at bat, extended his hitting streak to 10 games with a single on an 0-2 pitch.</p>
+        <p>Marshall, who spent June on the disabled list with a sore back, played in his first game since May 31.  Cardinals 9, Padres 3</p>
+        <p>ST. LOUIS (AP) - For the first time in his career, Jose Oquendo had four hits in a game, including a two-run triple in St. Louis's five-run second inning.</p>
+        <p>Trailing by 1-0, the Cardinals, who had scored only 22 runs in their previous eight games, scored 5 runs in the second after two were out.</p>
+        <p>Bip Roberts of San Diego reached base his first three times up to tie the club record for consecutive times reaching base at nine. Roberts had six hits and three walks to tie the mark. He grounded out to third in the sixth inning to end the streak.  Astros 4, Expos 1</p>
+        <p>MONTREAL (AP) - Alex Trevino drove in four runs with two doubles for Houston. He drove in one run with a double in the fifth inning and added a three-run double in the seventh.</p>
+        <p>Larry Andersen (2-1) pitched three innings and earned the victory. Dave Smith got the last three outs for his 16th save.</p>
+        <p>The Astros took a 1-0 lead in the fifth when Craig Reynolds singled against Pascual Perez (4-9) and scored when Trevino grounded a 3-2 pitch down the left-field line. Montreal tied the score with a run in the bottom of the innin.</p>
+        <p>With one out in the seventh, Houston had runners on second and third when Montreal intentionally walked Ken Caminiti to get to Trevino, the eighth-place hitter. Trevino lined a double into the left-field corner to score all three runners.  Phillies 4, Braves 2</p>
+        <p>PHILADELPHIA (AP) - Bruce Ruffin won his first game since July 16, 1988.</p>
+        <p>Ruffin (1-3) who was recalled from the minor leagues on June 3, allowed one run and six hits in five innings. Roger McDowell pitched three innings for his ninth save, allowing two hits.</p>
+        <p>The Phillies took a 2-0 lead in the first inning off Pete Smith (2-9), and added two more runs in the sixth.</p>
+        <p>BASEBALL: NATIONAL LEAGUE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

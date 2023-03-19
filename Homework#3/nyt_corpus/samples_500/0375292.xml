@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Stewart Wins 16th, Shutting Out Yanks</title>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="47" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="375292"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <series series.name="BASEBALL"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">BASEBALL</classifier>
+        <org class="indexing_service">OAKLAND ATHLETICS</org>
+        <org class="indexing_service">NEW YORK YANKEES</org>
+        <person class="indexing_service">MARTINEZ, MICHAEL</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball/Major League/New York Yankees</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball/Major League/Oakland Athletics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball</classifier>
+        <classifier class="online_producer" type="general_descriptor">Baseball</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19900811T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE0D61F3AF932A2575BC0A966958260" item-length="644" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Stewart Wins 16th, Shutting Out Yanks</hl1>
+      </hedline>
+      <byline class="print_byline">By MICHAEL MARTINEZ</byline>
+      <byline class="normalized_byline">MARTINEZ, MICHAEL</byline>
+      <dateline>OAKLAND, Calif., Aug. 10</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: The Yankees' modest little winning streak died tonight, even if their hope of climbing out of last place didn't.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: The Yankees' modest little winning streak died tonight, even if their hope of climbing out of last place didn't.</p>
+        <p>The Yankees' modest little winning streak died tonight, even if their hope of climbing out of last place didn't.</p>
+        <p>They were done in, 3-0, by the Oakland Athletics and Dave Stewart, who gave up three hits and came within one out of a complete game in winning for the 16th time this season. The loss stopped the Yankees' longest winning streak of the season at five games.</p>
+        <p>Even so, the Yankees gained a half-game on sixth place in the American League East when the Milwaukee Brewers were swept in a doubleheader with the Royals at Kansas City. The events allowed the Yankees, who have been last since May 26, to close to within one game of sixth.</p>
+        <p>Stewart Has Streak Also</p>
+        <p>But they wilted tonight against Stewart, who retired 17 batters in a row from the second inning through the seventh and allowed only one hit after a leadoff single in the second by Kevin Maas.</p>
+        <p>Stewart, bidding to win 20 games for the fourth successive season, walked three and struck out eight. Rick Honeycutt came in to get the final out, striking out Mel Hall with two Yankees on base The last time the Yankees and the Athletics played here, they engaged in a monumental tussle of sorts. The pitchers were the same as tonight's - Dave LaPoint for the Yankees, Dave Stewart for Oakland - and the result was a 2-1 Athletics victory, produced when Rickey Henderson received a bases-loaded walk from Eric Plunk in the 11th inning. But that was May; this is August. Things have changed. LaPoint Keeps Pace The Yankees are out of the American League East chase, and the Athletics, predictably, are still leading in the West. Even so, LaPoint matched Stewart for three innings, kept the game close through four, then was suddenly gone in the fifth.</p>
+        <p>LaPoint, though, has had his success in Oakland. He pitched six scoreless innings in the two teams' earlier meeting and had a streak of 15 innings in which he did not allow a run there, dating to 1987.</p>
+        <p>But he was beset by control troubles from the start tonight, and only double plays in each of the first two innings kept the A's at bay early. In the fourth, the left-hander hit Terry Steinbach with a pitch, opening the way for Oakland's lead.</p>
+        <p>LaPoint followed by walking Mark McGwire, the fourth of five walks he issued, before striking out Felix Jose for the second out. But Walt Weiss lined a single to right, and Steinbach sprinted for the plate after deciding to challenge the throwing arm of Jesse Barfield.</p>
+        <p>Gets Results</p>
+        <p>It worked. Barfield's throw sailed over the head of the Yankee catcher, Brian Dorsett, making the score 1-0.</p>
+        <p>In the fifth, LaPoint faced problems again. Carney Lansford led off with a single - the fourth time in five innings that LaPoint allowed the first batter of the inning to reach base - and Willie Randolph, playing against his former team for the first time, put down a bunt.</p>
+        <p>Kevin Maas, the Yankee first baseman, couldn't make the throw in time, and Randolph was credited with a hit. Lansford went to second. Jose Canseco fouled out behind the plate, but Lansford stole third, and Dave Henderson walked to load the bases.</p>
+        <p>Steinbach then lined a two-run single to left field, pushing the lead to 3-0, and LaPoint was pulled by Manager Stump Merrill in favor of Eric Plunk.</p>
+        <p>The Yankees are battling for more than just a little respect in the division. They're also battling bus drivers - or at least, their traveling secretary, Bill Emslie, is. Witnesses say Emslie and the driver assigned to take a busload of team personnel and members of the press from the Kingdome to the airport in Seattle late Thursday night became involved in a shoving match. Emslie was apparently angry over the driver's inability to find the correct entrance to the tarmac. The airport police were called, and the team's flight here was delayed about an hour. Emslie refused to comment today about the incident.</p>
+        <p>BASEBALL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

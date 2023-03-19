@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Transactions</title>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="78815"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Terms not available</classifier>
+        <classifier class="online_producer" type="types_of_material">Statistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870930T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE3DE1331F933A0575AC0A961948260" item-length="136" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Transactions</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD:  BASEBALL ST. LOUIS (NL) - Signed Doug DeCinces, infielder, who was released Sept. 24 by the California Angels.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD:  BASEBALL ST. LOUIS (NL) - Signed Doug DeCinces, infielder, who was released Sept. 24 by the California Angels.</p>
+        <p>BASEBALL ST. LOUIS (NL) - Signed Doug DeCinces, infielder, who was released Sept. 24 by the California Angels.</p>
+        <p>BALTIMORE (AL) - Asked for unconditional release waivers on Alan Wiggins, infielder, who was suspended Aug. 31 by Commissioner Peter Ueberroth.  HOCKEY HARTFORD (NHL) - Reassigned 17 players to the Binghamton Whalers of the American Hockey League: Gary Callaghan, Greg Dornbach, Dallas Gaume, Roger Kortko and J. M. McKenzie, centers; Chris Brant, left wing; Todd Channell and Yves Courteau, right wings; Shawn Cronin, Jim Culhane, John McLean, Bill Root, Mike Vellucci, and Mark Vichorek, defensemen; and Sean Evoy, Peter Sidorkiewicz and Kay Whitmore, goalies. Announced retirement of Wayne Babych, right wing.  BASKETBALL MIAMI (NBA) - Named Stu Inman player-personnel director.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

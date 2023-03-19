@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Accused Official Asks Subpoenas in Brawley Case</title>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="1988" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="167561"/>
+      <doc.copyright holder="The New York Times" year="1988"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">ASSAULTS</classifier>
+        <classifier class="indexing_service" type="descriptor">BLACKS (IN US)</classifier>
+        <location class="indexing_service">DUTCHESS COUNTY (NY)</location>
+        <location class="indexing_service">WAPPINGERS FALLS (NY)</location>
+        <person class="indexing_service">WOLFF, CRAIG</person>
+        <person class="indexing_service">BRAWLEY, TAWANA</person>
+        <person class="indexing_service">PAGONES, STEVEN A (ASST DIST ATTY)</person>
+        <person class="indexing_service">MADDOX, ALTON H JR</person>
+        <person class="indexing_service">MASON, C VERNON</person>
+        <person class="indexing_service">SHARPTON, AL (REV)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2004/Candidates</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="general_descriptor">Assaults</classifier>
+        <classifier class="online_producer" type="general_descriptor">Blacks</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19880803T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DEEDB1E31F930A3575BC0A96E948260" item-length="444" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Accused Official Asks Subpoenas in Brawley Case</hl1>
+      </hedline>
+      <byline class="print_byline">By CRAIG WOLFF, Special to the New York Times</byline>
+      <byline class="normalized_byline">WOLFF, CRAIG</byline>
+      <dateline>POUGHKEEPSIE, N.Y., Aug. 2</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Steven A. Pagones, who has been accused of participating in a sexual attack on Tawana Brawley, made an appeal today that was unusual for a grand jury witness. He asked that his accusers and Miss Brawley be subpoenaed.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Steven A. Pagones, who has been accused of participating in a sexual attack on Tawana Brawley, made an appeal today that was unusual for a grand jury witness. He asked that his accusers and Miss Brawley be subpoenaed.</p>
+        <p>Steven A. Pagones, who has been accused of participating in a sexual attack on Tawana Brawley, made an appeal today that was unusual for a grand jury witness. He asked that his accusers and Miss Brawley be subpoenaed.</p>
+        <p>''You have not heard from the three men who claim they know what happened and from the one young lady who obviously knows what happened,'' Mr. Pagones said in a statement to the panel that he later made public. ''If you end your investigation without subpoenaing them, how can it be said that you have done everything to get to the bottom of this?''</p>
+        <p>Mr. Pagones, 26 years old, an assistant district attorney in Dutchess County, volunteered to appear without immunity in an effort to detail his whereabouts from Nov. 24 to Nov. 28, the four days Miss Brawley, 16, of Wappingers Falls, was missing.</p>
+        <p>The Brawley family's advisers, C. Vernon Mason and Alton H. Maddox Jr, lawyers from New York City, and the Rev. Al Sharpton have accused state officials of a covering up the involvement of law-enforcement officials in what they say was a racially motivated kidnapping and sexual assault of Miss Brawley. They have not displayed evidence to support the contentions, and Miss Brawley and the family have withheld their cooperation from the inquiry. Request for Report</p>
+        <p>Thus, Mr. Pagones, who is white, said he thought it was necessary to come forward. ''I am here to prove myself innocent of charges made only at press conferences and on television,'' he said in his statement. He also gave the grand jury the names of a dozen witnesses, who, he said, would help exonerate him, and some of them were interviewed today.</p>
+        <p>Mr. Pagones also asked the panel, which is expected to end five months of work in the next two weeks, to make its final report public. A grand jury is not compelled to do so, but can issue reports under three provisions, including when an official seeking to clear his name makes such a request. Attorney General Robert Abrams, the special prosecutor in the case, said Mr. Pagones's request would be considered.</p>
+        <p>Mr. Pagones arrived to testify shortly after 10 A.M. and finished after 1 P.M. As he left the armory where the grand jury meets, he said:</p>
+        <p>''I've done everything I can possibly do. I've answered their questions. I've waived my constitutional right to immunity.''</p>
+        <p>His testimony apparently pleased Mr. Abrams, who was on hand. He had often asked Mr. Pagones to testify and in a statement called the appearance a ''significant milestone.''</p>
+        <p>''His desire to assist our investigation,'' Mr. Abrams said, ''contrasts sharply with the stubborn refusal to cooperate by the Brawley family and their advisers.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

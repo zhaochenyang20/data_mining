@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Penn Traffic Co reports earnings for Qtr to Jan 28</title>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="1989" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="234225"/>
+      <doc.copyright holder="The New York Times" year="1989"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">COMPANY REPORTS</classifier>
+        <classifier class="online_producer" type="types_of_material">Statistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Company Reports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Corporations</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19890324T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F05EED7173BF937A15750C0A96F948260" item-length="82" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Penn Traffic Co reports earnings for Qtr to Jan 28</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD:</p>
+        <p>*3*** COMPANY REPORTS **</p>
+        <p>*3* Penn Traffic Co (AMEX)</p>
+        <p>Qtr to Jan 28</p>
+        <p>1989</p>
+        <p>1988</p>
+        <p>Sales</p>
+        <p>434,749,000</p>
+        <p>161,471,000</p>
+        <p>Net loss</p>
+        <p>3,210,000</p>
+        <p>b1,749,000</p>
+        <p>Share earns</p>
+        <p>-</p>
+        <p>.66</p>
+        <p>Yr sales</p>
+        <p>1,179,924,000</p>
+        <p>625,208,000</p>
+        <p>Net loss</p>
+        <p>9,131,000</p>
+        <p>b167,000</p>
+        <p>Share earns</p>
+        <p>-</p>
+        <p>.06</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD:</p>
+        <p>*3*** COMPANY REPORTS **</p>
+        <p>*3* Penn Traffic Co (AMEX)</p>
+        <p>Qtr to Jan 28</p>
+        <p>1989</p>
+        <p>1988</p>
+        <p>Sales</p>
+        <p>434,749,000</p>
+        <p>161,471,000</p>
+        <p>Net loss</p>
+        <p>3,210,000</p>
+        <p>b1,749,000</p>
+        <p>Share earns</p>
+        <p>-</p>
+        <p>.66</p>
+        <p>Yr sales</p>
+        <p>1,179,924,000</p>
+        <p>625,208,000</p>
+        <p>Net loss</p>
+        <p>9,131,000</p>
+        <p>b167,000</p>
+        <p>Share earns</p>
+        <p>-</p>
+        <p>.06</p>
+        <p>*3*** COMPANY REPORTS **</p>
+        <p>*3* Penn Traffic Co (AMEX)</p>
+        <p>Qtr to Jan 28</p>
+        <p>1989</p>
+        <p>1988</p>
+        <p>Sales</p>
+        <p>434,749,000</p>
+        <p>161,471,000</p>
+        <p>Net loss</p>
+        <p>3,210,000</p>
+        <p>b1,749,000</p>
+        <p>Share earns</p>
+        <p>-</p>
+        <p>.66</p>
+        <p>Yr sales</p>
+        <p>1,179,924,000</p>
+        <p>625,208,000</p>
+        <p>Net loss</p>
+        <p>9,131,000</p>
+        <p>b167,000</p>
+        <p>Share earns</p>
+        <p>-</p>
+        <p>.06</p>
+        <p>b-Net income  The latest year loss included a $6,990,000 after-tax writeoff of acquisition costs.</p>
+        <p>The results for the latest year included P&amp;C Foods Inc. since Aug. 6.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

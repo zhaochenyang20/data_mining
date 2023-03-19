@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>New York Police Seek 9,000 Officers</title>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="388307"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">POLICE</classifier>
+        <classifier class="indexing_service" type="descriptor">HIRING AND PROMOTION</classifier>
+        <classifier class="indexing_service" type="descriptor">EMERGENCY TELEPHONE NUMBERS</classifier>
+        <classifier class="indexing_service" type="descriptor">RESIDENCE REQUIREMENTS</classifier>
+        <classifier class="indexing_service" type="descriptor">FINANCES</classifier>
+        <classifier class="indexing_service" type="descriptor">BUDGETS AND BUDGETING</classifier>
+        <location class="indexing_service">NEW YORK CITY</location>
+        <location class="indexing_service">NEW YORK CITY</location>
+        <org class="indexing_service">POLICE DEPARTMENT (NYC)</org>
+        <person class="indexing_service">BLUMENTHAL, RALPH</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Law Enforcement and Security</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hiring and Promotion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Budgets and Budgeting</classifier>
+        <classifier class="online_producer" type="general_descriptor">Police</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mathematics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Emergency Telephone Numbers</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Labor</classifier>
+        <classifier class="online_producer" type="general_descriptor">Telephones and Telecommunications</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19901002T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE7D7103DF931A35753C1A966958260" item-length="796" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>New York Police Seek 9,000 Officers</hl1>
+      </hedline>
+      <byline class="print_byline">By RALPH BLUMENTHAL</byline>
+      <byline class="normalized_byline">BLUMENTHAL, RALPH</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: After months of self-analysis, the New York City Police Department has called for expanding its forces by more than 9,000 officers - about a third already budgeted, a third coming from internal economies and replacement by civilian workers, and a third from money not yet found.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: After months of self-analysis, the New York City Police Department has called for expanding its forces by more than 9,000 officers - about a third already budgeted, a third coming from internal economies and replacement by civilian workers, and a third from money not yet found.</p>
+        <p>After months of self-analysis, the New York City Police Department has called for expanding its forces by more than 9,000 officers - about a third already budgeted, a third coming from internal economies and replacement by civilian workers, and a third from money not yet found.</p>
+        <p>The plan, worked out in discussions between the police and senior city officials and to be made public today by Mayor David N. Dinkins, embodies sweeping changes in long-established police procedures, including a sharp scaling back of 911 emergency service, which has become the bane of the department.</p>
+        <p>It also seeks to shift to the Department of Correction and other city agencies jobs long borne by the police, freeing up hundreds of officers assigned to the Police Department's court division.</p>
+        <p>Transit and Housing Included</p>
+        <p>Mayor Dinkins must still come up with hundreds of millions of dollars to finance the plan, which would create the largest department in the city's history, well over the 31,000 of 1970. In addition to the new regular city police, the plan calls for 690 new transit and housing officers, beyond 762 additional officers already budgeted but not yet recruited or trained.</p>
+        <p>Along with the beefing-up of forces, aides said that Mayor Dinkins would propose today that from now on, all new officers hired be required to be residents of the city. The change would require legislative approval.</p>
+        <p>Yesterday's figures provided by City Hall officials on the eve of the report's release and following a week of fluctuating leaked figures, broke down as follows:</p>
+        <p>* Beyond the 26,000 uniformed officers now, the department has identified a need for 9,603 additional officers on the streets.</p>
+        <p>* Roughly one-third, 3,124, would be made available by hiring about 2,700 additional civilian aides - there are about 7,500 now -who could replace officers in desk, training and staff jobs, allowing them to assume patrol duties; and the elimination, consolidation and sharing of other unit duties.</p>
+        <p>* About another third, 3,063, have already been provided for in the budget and are scheduled to go through the Police Academy between now and June 30. This number includes 1,058 additional officers added on by Mayor Dinkins earlier this year, 358 added on and financed by the City Council and about 1,700 ''attrition'' replacements for officers who retire.</p>
+        <p>* The third group, 3,416 officers, would be truly new - that is, they are neither already in the department in non-patrol jobs, nor have they been already budgeted or otherwise reckoned in department expansion plans.</p>
+        <p>Because the group of 3,063 that had already been budgeted was often not broken out by city officials, recent news accounts left the impression that nearly 6,000 ''new'' officers would be sought. In reality, little more than half that number were truly newfound troops.</p>
+        <p>The city's two specialized police forces would also grow under the plan.</p>
+        <p>The transit police, now 4,562 strong, would gain 440 new officers over the 442 already budgeted. And the housing police, now at 2,488, would gain 250 over the 320 already provided for.</p>
+        <p>Altogether, the 4,106 truly new officers proposed for the three departments would cost the city $215 million a year, including benefits, the report says. When the new civilian aides and other expenses are added the costs amount to $649 million, City Hall aides said yesterday.</p>
+        <p>The so-called manpower report, in the making since May, offers a unit-by-unit analysis of each component in the Police Department, where the staffing stands now and what it should be increased or reduced to.</p>
+        <p>Reducing 911 Calls</p>
+        <p>One of the more striking recommendations is a sharp reduction of the 4.1 million 911 emergency calls the department responds to a year - already less than half the 8.3 million that are telephoned in. By ''differentiating'' between true emergencies and calls that can be handled routinely, the department plans to save the equivalent of several hundred officers.</p>
+        <p>Similarly, 492 police officers are currently assigned to the court division, guiding prisoners through arraignments and other court appearances. These functions should be shifted to correction officers, freeing many more police officers for street duty, the report said.</p>
+        <p>In addition, it calls for the elimination of many small, special purpose units, such as the Safe, Loft and Truck Squad, an anti-hijacking unit whose functions are to be assumed by existing units.</p>
+        <p>The Detective Bureau, now below strength at under 2,500, is scheduled for augmentation by several hundred detectives, although some of the city-wide and borough functions are to be redistributed to precinct squads, in line with Commissioner Lee P. Brown's stated goal of moving as many operations to the local level as possible.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>How to Honor a Bride-to-Be</title>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1989" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Connecticut Weekly Desk" name="dsk"/>
+    <meta content="34" name="print_page_number"/>
+    <meta content="12CN" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="290855"/>
+      <doc.copyright holder="The New York Times" year="1989"/>
+      <series series.name="CONNECTICUT OPINION"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <classifier class="indexing_service" type="descriptor">PARTIES (SOCIAL)</classifier>
+        <person class="indexing_service">HARRISON, DON</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Connecticut</classifier>
+        <classifier class="online_producer" type="general_descriptor">Parties (Social)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19891015T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950DEFD71E39F936A25753C1A96F948260" item-length="582" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>How to Honor a Bride-to-Be</hl1>
+      </hedline>
+      <byline class="print_byline">By Don Harrison; Don Harrison lives in Fairfield.</byline>
+      <byline class="normalized_byline">HARRISON, DON</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: THE eldest of my three daughters, a 19-year-old with a cheerful outlook, attended her first bridal shower on a recent Sunday. The round trip to Manchester encompassed four hours. She arrived home tired and slightly disappointed.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: THE eldest of my three daughters, a 19-year-old with a cheerful outlook, attended her first bridal shower on a recent Sunday. The round trip to Manchester encompassed four hours. She arrived home tired and slightly disappointed.</p>
+        <p>THE eldest of my three daughters, a 19-year-old with a cheerful outlook, attended her first bridal shower on a recent Sunday. The round trip to Manchester encompassed four hours. She arrived home tired and slightly disappointed.</p>
+        <p>''They spent most of the afternoon opening gifts,'' she said. ''Oh, what a beautiful toaster...''</p>
+        <p>I sympathized with her plight and wondered, at the same time, why women didn't borrow a page from the opposite sex's traditional bachelor dinner.</p>
+        <p>''You mean have a half-naked guy jump out of a cake?'' she asked with a playful smile.</p>
+        <p>No, I assured her, that wasn't what I meant at all. The toasters and the blenders were fine, but something else was needed to transform a gee-look-what-Aunt-Tillie-gave scenario into a more memorable event. A speaking program.</p>
+        <p>Yes, a testimonial. Ask a few of the people who best know the bride-to-be to say some wonderful things about her. Perhaps one speaker could be serious, another would provide some humorous anecdotes. Those who really didn't know the woman would come away with a new awareness, a new appreciation.</p>
+        <p>''I've attended several bachelor dinners and many of the classier occasions were, in fact, testimonials: the speeches really brought meaning to the affair.''</p>
+        <p>My wife, who was seated nearby, agreed with my basic premise - a noteworthy occasion in itself. ''Women really don't get the opportunity to say enough good things about each other,'' she chimed in. ''Men, on the other hand, are always honoring each other with some such award. It seems to me that dedicating a portion of a shower to some well-chosen remarks would be a welcome - and worthwhile - change.''</p>
+        <p>I decided to seek out opinions from some other women in my life. Jeanne, a recent graduate of Sacred Heart University who plans to be married in January of 1991, favored a speaking program in the form of a roast.</p>
+        <p>''A roast would be funny,'' she said. ''A mother, a grandmother and a close friend could say some funny things about the bride. Perhaps you could have some form of professional entertainment, such as a comic.</p>
+        <p>''Truthfully,'' Jeanne added, ''when I don't know the people at the shower, it becomes extremely boring.''</p>
+        <p>A male dancer? Jeanne shuddered in horror at the prospect. ''I think a lot of people do it to get back at men by degrading them. It really doesn't make sense, and frankly I'm not very comfortable with it,'' she noted.</p>
+        <p>Cheryl, who has attended more bridal showers than she would care to admit, was opposed to injecting a speaking program, but she agreed that the traditional shower needed some revisions. ''When you're young, they're fine. But if you've been to many, they become a bore,'' she said.</p>
+        <p>One viable alternative, she added, was a gathering for couples in which both the prospective bride and bridegroom receive gifts. This might work in some cases, but I can think of a lot of guys who wouldn't sit through an evening of watching people unwrap packages.</p>
+        <p>My next-door neighbor, Bobbi, seemed to be opposed to showers on general principle. ''Basically, it's not my idea of a way to spend an afternoon,'' she explained. ''My kids didn't want them, and I haven't been to many. I guess we're not ceremonial.''</p>
+        <p>Another neighbor, Mary Ellen, shared my belief that a speaking program was a sensible idea that deserved a trial. ''At least it would add another dimension,'' she stated.</p>
+        <p>Women, you are hereby invited to consider my proposal. Complement the shower of gifts with a shower of praise.</p>
+        <p>CONNECTICUT OPINION</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

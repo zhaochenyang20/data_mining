@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Libby Jury Leaves a Clue As It Heads Into Recess</title>
+    <meta content="03libby" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/03/03/us/03libby.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1830091"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Perjury</classifier>
+        <classifier class="indexing_service" type="descriptor">News and News Media</classifier>
+        <location class="indexing_service">Iraq</location>
+        <org class="indexing_service">Central Intelligence Agency</org>
+        <person class="indexing_service">Lewis, Neil A</person>
+        <person class="indexing_service">Libby, I Lewis Jr</person>
+        <person class="indexing_service">Walton, Reggie B (Judge)</person>
+        <person class="indexing_service">Wilson, Valerie Plame</person>
+        <person class="indexing_service">Wilson, Joseph C Iv</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Iraq</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East/Iraq</classifier>
+        <classifier class="online_producer" type="general_descriptor">Perjury</classifier>
+        <classifier class="online_producer" type="general_descriptor">Media</classifier>
+        <classifier class="online_producer" type="general_descriptor">News and News Media</classifier>
+        <person class="online_producer">Libby, I Lewis Jr</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070303T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9403E6DC1731F930A35750C0A9619C8B63" item-length="603" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Libby Jury Leaves a Clue As It Heads Into Recess</hl1>
+        <hl2 class="online_headline">Libby Jury Leaves a Clue as It Heads Into Recess</hl2>
+      </hedline>
+      <byline class="print_byline">By NEIL A. LEWIS</byline>
+      <byline class="normalized_byline">Lewis, Neil A</byline>
+      <dateline>WASHINGTON, March 2</dateline>
+      <abstract>
+        <p>Jury deliberating perjury and obstruction of justice case against I Lewis Libby Jr recesses for weekend; jurors send note to Judge Reggie B Walton, asking for further explanation of concept of reasonable doubt (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The jury deliberating the perjury and obstruction of justice case against I. Lewis Libby Jr. recessed for the weekend on Friday without reaching a verdict, but not before leaving an intriguing clue as to the state of deliberations.</p>
+        <p>The jurors sent a note with a question to Judge Reggie B. Walton, who is expected to respond on Monday when deliberations resume. In the note, the jurors asked for further explanation of the concept of reasonable doubt, suggesting possible uncertainty or even disagreement over the core standard by which they are to measure the evidence and testimony about Mr. Libby, the former chief of staff to Vice President Dick Cheney.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The jurors sent a note with a question to the judge asking for a clarification of the term reasonable doubt.</p>
+      </block>
+      <block class="full_text">
+        <p>The jury deliberating the perjury and obstruction of justice case against I. Lewis Libby Jr. recessed for the weekend on Friday without reaching a verdict, but not before leaving an intriguing clue as to the state of deliberations.</p>
+        <p>The jurors sent a note with a question to Judge Reggie B. Walton, who is expected to respond on Monday when deliberations resume. In the note, the jurors asked for further explanation of the concept of reasonable doubt, suggesting possible uncertainty or even disagreement over the core standard by which they are to measure the evidence and testimony about Mr. Libby, the former chief of staff to Vice President Dick Cheney.</p>
+        <p>''We would like clarification of the term 'reasonable doubt,' '' the note said. ''Specifically, is it necessary for the government to present evidence that it is not humanly possible for someone not to recall an event in order to find guilt beyond a reasonable doubt?''</p>
+        <p>The question suggested that at least some of the jurors are wrestling with the imprecise and often vexing definition of reasonable doubt, as well as how to decide whether a false statement should be attributed to faulty memory or willful deception, the issue at the center of the case.</p>
+        <p>Prosecutors have contended that Mr. Libby lied to a grand jury and F.B.I. agents who were investigating the leak of the identity of a C.I.A. operative, Valerie Wilson, in the summer of 2003. As part of their case, prosecutors have contended that they have demonstrated beyond a reasonable doubt that Mr. Libby lied when he said he did not discuss Ms. Wilson's role at the C.I.A. with two reporters. Moreover, the prosecutors have said that Mr. Libby also lied in an effort to cover up his role in the leak by testifying that he learned of Ms. Wilson's identity in a conversation with Tim Russert of NBC News on July 10 or 11.</p>
+        <p>Mr. Russert testified that in that conversation with Mr. Libby, they did not discuss Ms. Wilson.</p>
+        <p>Mr. Libby's lawyers asserted in their closing arguments that any misstatements Mr. Libby might have made were the result of a faulty memory. They also pressed the idea that memory is inherently imperfect, and that all the prosecution's witnesses demonstrated their own memory problems, which, by itself, was a demonstration of reasonable doubt.</p>
+        <p>The concept of reasonable doubt has proved troubling even for the Supreme Court, whose members have argued vigorously as to its definition and how it should be explained to a jury. There is, however, wide agreement that it is a more stringent standard than the ''preponderance of the evidence,'' the usual standard for a finding in noncriminal lawsuits.</p>
+        <p>The Supreme Court first made explicit the requirement in 1970 that, to convict someone of a crime, the jury must find that person is guilty beyond a reasonable doubt.</p>
+        <p>But justices have, over the years, continued to disagree over whether various instructions given to juries by judges are acceptable. In 1992, the justices split in a ruling that upheld convictions in which judges had told juries that reasonable doubt was akin to moral certainty.</p>
+        <p>In his instructions to the Libby jury, Judge Walton said, ''A reasonable doubt, as the name implies, is a doubt based on reason.''</p>
+        <p>He also said that ''if after careful, honest and impartial consideration of all the evidence, you cannot say that you are firmly convinced of the defendant's guilt, then you have a reasonable doubt.''</p>
+        <p>He also noted, however, that ''the government is not required to prove guilt beyond all doubt or to a mathematical certainty or to a scientific certainty.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Southland Borrows From a Licensee</title>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="1988" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="129989"/>
+      <doc.copyright holder="The New York Times" year="1988"/>
+      <series series.name="FINANCE/NEW ISSUES"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">CREDIT</classifier>
+        <classifier class="indexing_service" type="descriptor">MERGERS, ACQUISITIONS AND DIVESTITURES</classifier>
+        <org class="indexing_service">SOUTHLAND CORP</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Credit</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19880323T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DE4D71F3CF930A15750C0A96E948260" item-length="127" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Southland Borrows From a Licensee</hl1>
+      </hedline>
+      <byline class="print_byline">AP</byline>
+      <dateline>DALLAS, March 22</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: The Southland Corporation said today that it was raising $320 million for its recent leveraged buyout through a loan from its convenience-store licensee in Japan.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: The Southland Corporation said today that it was raising $320 million for its recent leveraged buyout through a loan from its convenience-store licensee in Japan.</p>
+        <p>The Southland Corporation said today that it was raising $320 million for its recent leveraged buyout through a loan from its convenience-store licensee in Japan.</p>
+        <p>Citicorp International arranged the financing in conjunction with the Diamond Lease Company and the Tokyo Leasing Company, which acted as lead managers for a syndicate of Japanese financial institutions, Southland said.</p>
+        <p>Principal and interest on the loan from the 7-Eleven Japan Company Ltd. will be repaid from future royalties the company owes Southland for use of the 7-Eleven name, Southland said.</p>
+        <p>Of the loan proceeds, $300 million will be applied toward repayment of debt incurred in the recently completed $4.9 billion leveraged buyout that took the company private, officials said.</p>
+        <p>FINANCE/NEW ISSUES</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Are Analysts Doing the Homework?</title>
+    <meta content="LTR003934" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="17" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Technology; Business; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1254156"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Stocks and Bonds</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <org class="indexing_service">Gateway 2000 Inc</org>
+        <person class="indexing_service">linzer, morton a</person>
+        <person class="indexing_service">Morgenson, Gretchen</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001210T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A07E1D9163FF933A25751C1A9669C8B63" item-length="232" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Are Analysts Doing the Homework?</hl1>
+      </hedline>
+      <abstract>
+        <p>Morton A Linzer letter on Gretchen Morgenson's Dec 3 column criticizing stock analysts for failing to anticipate problems that can prompt stocks like Gateway to fall</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>In ''Memo to Analysts: Thanks for Nothing'' (Market Watch, Dec. 3), Gretchen Morgenson criticized market analysts for failing to anticipate problems that can prompt a stock price to fall -- using Gateway, the computer company, as a recent example. The column drew varied responses from readers.</p>
+        <p>To the Editor:</p>
+        <p>It is time that some analysts wake up and do some decent legwork on the reasons behind the companies' adjustments and restructuring charges and pay more attention to media reports on factors that affect the industries they cover.</p>
+      </block>
+      <block class="full_text">
+        <p>In ''Memo to Analysts: Thanks for Nothing'' (Market Watch, Dec. 3), Gretchen Morgenson criticized market analysts for failing to anticipate problems that can prompt a stock price to fall -- using Gateway, the computer company, as a recent example. The column drew varied responses from readers.</p>
+        <p>To the Editor:</p>
+        <p>It is time that some analysts wake up and do some decent legwork on the reasons behind the companies' adjustments and restructuring charges and pay more attention to media reports on factors that affect the industries they cover.</p>
+        <p>Perhaps they are used to favorable reports and do not know how to recognize the reality of a company's position if it begins to slide.</p>
+        <p>Now the pundits are filling the media with news of a recession or worse. The pendulum swings back and forth, and the analysts continue to issue reports of ''hold,'' ''buy,'' ''strong performer,'' etc. The average investor is left at a great disadvantage by the faulty or belated advice.</p>
+        <p>MORTON A. LINZER  White Plains, Dec. 6</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

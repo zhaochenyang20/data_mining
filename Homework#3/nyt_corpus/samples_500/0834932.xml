@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Ex-Vichy Aide Says He Is Scapegoat for French Guilt in Holocaust</title>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="1996" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="834932"/>
+      <doc.copyright holder="The New York Times" year="1996"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NAZI ERA</classifier>
+        <classifier class="indexing_service" type="descriptor">JEWS</classifier>
+        <location class="indexing_service">FRANCE</location>
+        <person class="indexing_service">PAPON, MAURICE</person>
+        <person class="indexing_service">WHITNEY, CRAIG R</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/France</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/France</classifier>
+        <classifier class="online_producer" type="general_descriptor">Nazi Policies Toward Jews and Minorities</classifier>
+        <classifier class="online_producer" type="general_descriptor">Jews</classifier>
+        <classifier class="online_producer" type="general_descriptor">Religion and Churches</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19960307T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C01EFDC1F39F934A35750C0A960958260" item-length="461" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Ex-Vichy Aide Says He Is Scapegoat for French Guilt in Holocaust</hl1>
+      </hedline>
+      <byline class="print_byline">By CRAIG R. WHITNEY</byline>
+      <byline class="normalized_byline">WHITNEY, CRAIG R</byline>
+      <dateline>PARIS, March 6</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Fighting a move to bring him to trial 13 years after his first indictment on  charges he ordered the deportation of hundreds of Jews from France to a Nazi death camp during World War II, a former French Cabinet minister said in an interview published today that he was a scapegoat for French complicity in the Holocaust.</p>
+        <p>Maurice Papon, 85, who was secretary general of the collaborationist Vichy regime in the southwest Gironde region, told the daily Liberation that he had had no power to resist Nazi orders during the German occupation.</p>
+      </block>
+      <block class="full_text">
+        <p>Fighting a move to bring him to trial 13 years after his first indictment on  charges he ordered the deportation of hundreds of Jews from France to a Nazi death camp during World War II, a former French Cabinet minister said in an interview published today that he was a scapegoat for French complicity in the Holocaust.</p>
+        <p>Maurice Papon, 85, who was secretary general of the collaborationist Vichy regime in the southwest Gironde region, told the daily Liberation that he had had no power to resist Nazi orders during the German occupation.</p>
+        <p>Mr. Papon's wartime actions had been largely forgotten until they were recalled in 1981 by Le Canard Enchaine, a French weekly. At the time, Mr. Papon  was Budget Minister under President Valery Giscard d'Estaing. He resigned and was indicted in 1983. After those charges were dismissed on a technicality, he was indicted again in 1988.</p>
+        <p>Mr. Papon, who later joined the Resistance toward the end of the war, has been free and living quietly in Paris while the case worked its way through courts.</p>
+        <p>Hearings began today at a Bordeaux appeals court on whether finally to bring  Mr. Papon to trial on charges he organized the deportation of 1,690 Jews from Bordeaux between 1942 and 1944. A ruling is expected to take several months, and Mr. Papon's lawyers said they would appeal a decision to set a date for trial.</p>
+        <p>Mr. Papon, who was police prefect in Paris when more than 200 Algerians demonstrating for independence were killed in clashes with the police in 1961, told Liberation that he had been put on trial because some people could not forgive him for having a successful postwar career.</p>
+        <p>Prosecutors assert that Mr. Papon was responsible for deporting Jews that ended up in the Nazi death camp at Auschwitz. Mr. Papon denies the charges, and  he said today that documents he signed attesting to the arrests of Jews by the French police and to their expulsion from the country were simply reports to his superiors of events he had observed, not of orders being executed.</p>
+        <p>"It was a very secondary, very minor post," Mr. Papon said, referring to his  position in the Vichy regime. He said he had merely submitted reports to his superiors on roundups of Jews that the German authorities had made or had ordered the Vichy police to make, and that he had always tried to help the victims, not persecute them.</p>
+        <p>About 76,000 of the 320,000 Jews in France during the war were deported to Nazi camps, most of them by French police. Few survived.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Some G.I.'s to Come Home</title>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1989" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="World; Washington" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="243816"/>
+      <doc.copyright holder="The New York Times" year="1989"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">MISSILES</classifier>
+        <classifier class="indexing_service" type="descriptor">TREATIES</classifier>
+        <classifier class="indexing_service" type="descriptor">US-INTERNATIONAL RELATIONS-USSR</classifier>
+        <classifier class="indexing_service" type="descriptor">UNITED STATES INTERNATIONAL RELATIONS</classifier>
+        <classifier class="indexing_service" type="descriptor">UNITED STATES ARMAMENT AND DEFENSE</classifier>
+        <classifier class="indexing_service" type="descriptor">ARMAMENT, DEFENSE AND MILITARY FORCES</classifier>
+        <classifier class="indexing_service" type="descriptor">MILITARY PERSONNEL</classifier>
+        <classifier class="indexing_service" type="descriptor">PERSHING 2 (MISSILE)</classifier>
+        <location class="indexing_service">EUROPE</location>
+        <location class="indexing_service">UNION OF SOVIET SOCIALIST REPUBLICS (USSR)</location>
+        <location class="indexing_service">WEST GERMANY</location>
+        <org class="indexing_service">NORTH ATLANTIC TREATY ORGANIZATION (NATO)</org>
+        <person class="indexing_service"></person>
+        <person class="indexing_service">CHENEY, RICHARD B (SEC)</person>
+        <person class="indexing_service">GORDON, MICHAEL R</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Germany</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Russia and the Former Soviet Union</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Germany</classifier>
+        <classifier class="online_producer" type="general_descriptor">Missiles and Missile Defense Systems</classifier>
+        <classifier class="online_producer" type="general_descriptor">Treaties</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Military Personnel</classifier>
+        <classifier class="online_producer" type="general_descriptor">International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Armament and Defense</classifier>
+        <classifier class="online_producer" type="general_descriptor">Armament, Defense and Military Forces</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19890425T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950DE6D71F31F936A15757C0A96F948260" item-length="263" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Some G.I.'s to Come Home</hl1>
+      </hedline>
+      <byline class="print_byline">By MICHAEL R. GORDON, Special to The New York Times</byline>
+      <byline class="normalized_byline">GORDON, MICHAEL R;</byline>
+      <dateline>WASHINGTON, April 24</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: The United States will withdraw a small number of Army troops from West Germany as part of Pentagon efforts to cut back military spending, Mr. Cheney said today.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: The United States will withdraw a small number of Army troops from West Germany as part of Pentagon efforts to cut back military spending, Mr. Cheney said today.</p>
+        <p>The United States will withdraw a small number of Army troops from West Germany as part of Pentagon efforts to cut back military spending, Mr. Cheney said today.</p>
+        <p>He told a gathering at the National Defense University that about 4,000 troops would be withdrawn from West Germany and disbanded. The troops were used to man the Pershing 2 missiles that are being eliminated under the 1987 Soviet-American accord banning medium- and shorter-range missiles; the troops will not be assigned other missions. Mr. Cheney did not set a timetable for the move.</p>
+        <p>While the number of troops withdrawn is not significant in a military sense - there are estimated to be 205,000 American military personnel in West Germany - the move comes at a time when some NATO supporters have expressed anxiety about American withdrawals.</p>
+        <p>The move also reflects a partial change in the Pentagon's position. It has decried Congressional efforts to require the withdrawal of troops from Europe that have been used in support of the Army's Pershing 2 missiles and the Air Force's ground-launched cruise missiles, which are being eliminated under the 1987 accord.</p>
+        <p>Two members of Congress, Representative Andy Ireland, a conservative Republican from Florida, and Patricia Schroeder, a liberal Democrat from Colorado, are sponsoring legislation that would require the withdrawal of all of the troops that have been ''associated'' with the American medium-range missiles being eliminated.</p>
+        <p>The Congressional measure was intended to save money and to prod West Europeans to do more in their own defense.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

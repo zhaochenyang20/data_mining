@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INSIDE</title>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="1996" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Front Page; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="834506"/>
+      <doc.copyright holder="The New York Times" year="1996"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19960305T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0CE4D61E39F936A35750C0A960958260" item-length="162" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INSIDE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Property Seizure Backed</p>
+      </block>
+      <block class="full_text">
+        <p>Property Seizure Backed</p>
+        <p>Bolstering government authority to seize property used to commit a crime, the Supreme Court ruled that the property might be forfeited even if the owner was found innocent of any wrongdoing. Page A21.</p>
+        <p>Without the Concrete</p>
+        <p>Did removing the mysterious concrete from under the Carnegie Hall stage improve the sound? An assessment by conductors, musicians and critics, page C11.</p>
+        <p>Owner of Famous Deli Slain</p>
+        <p>Abe Lebewohl, the colorful owner of the Second Avenue Deli, a Lower Manhattan institution, was killed in in a robbery just blocks from the restaurant. Page B1.</p>
+        <p>Minnie Pearl Is Dead</p>
+        <p>Minnie Pearl, the country singer whose wisecracking character in a straw hat  (price tag attached) made her a mainstay of "The Grand Ole Opry" for decades, died in Nashville at the age of 83. Page B11.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

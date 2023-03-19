@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths  CALKINS, SARAH ANNE</title>
+    <meta content="DN010801" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1261348"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <identified-content>
+        <person class="indexing_service">CALKINS, SARAH ANNE</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20010108T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C01E7DF123AF93BA35752C0A9679C8B63" item-length="226" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths  CALKINS, SARAH ANNE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>CALKINS-Sarah Anne, 42. On December 23, 2000 at Memorial Sloan-Kettering Cancer Center in New York; from leukemia. Sarah grew up in Falls Church, VA, and was graduated from J.E.B. Stuart H.S. in 1976. She studied architectural history and was graduated with honors from Smith College in 1980. After earning her degree in 1984 from Columbia University's Graduate School of Architecture and Planning, Sarah opened her own architecture practice in New York City, specializing in residential design. She was a member of the American Institute of Architects (AIA), lectured on architecture at Smith College and Parsons School of Design, and wrote and illustrated travel articles. Sarah leaves her fiance, Dr. Antonio Beltramini, and his son, Roberto. She is survived by her parents, G. Nathan and Susannah Calkins of Falls Church, her sisters, Margaret Calkins Van Auken of Akron and Abigail Calkins Aguirre of Philadelphia, her brother-in-law, Francisco Aguirre and her three nieces. Her oldest sister, Helen Calkins, died in 1978. Sarah's family and her many devoted friends will miss her wit, intellectual curiosity, insight and generosity of spirit. She was like no other. A memorial service will be held at St. Paul's Chapel at Columbia University, Amsterdam Ave. at 117th St. on Thursday, January 18th, 2PM. In lieu of flowers, donations may be sent to Smith College for a scholarship fund to be established in Sarah's honor.</p>
+      </block>
+      <block class="full_text">
+        <p>CALKINS-Sarah Anne, 42. On December 23, 2000 at Memorial Sloan-Kettering Cancer Center in New York; from leukemia. Sarah grew up in Falls Church, VA, and was graduated from J.E.B. Stuart H.S. in 1976. She studied architectural history and was graduated with honors from Smith College in 1980. After earning her degree in 1984 from Columbia University's Graduate School of Architecture and Planning, Sarah opened her own architecture practice in New York City, specializing in residential design. She was a member of the American Institute of Architects (AIA), lectured on architecture at Smith College and Parsons School of Design, and wrote and illustrated travel articles. Sarah leaves her fiance, Dr. Antonio Beltramini, and his son, Roberto. She is survived by her parents, G. Nathan and Susannah Calkins of Falls Church, her sisters, Margaret Calkins Van Auken of Akron and Abigail Calkins Aguirre of Philadelphia, her brother-in-law, Francisco Aguirre and her three nieces. Her oldest sister, Helen Calkins, died in 1978. Sarah's family and her many devoted friends will miss her wit, intellectual curiosity, insight and generosity of spirit. She was like no other. A memorial service will be held at St. Paul's Chapel at Columbia University, Amsterdam Ave. at 117th St. on Thursday, January 18th, 2PM. In lieu of flowers, donations may be sent to Smith College for a scholarship fund to be established in Sarah's honor.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

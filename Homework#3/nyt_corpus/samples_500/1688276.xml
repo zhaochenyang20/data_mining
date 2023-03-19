@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>AUTOS ON MONDAY/Technology; Could Cars That Read Minds Save Drivers From Themselves?</title>
+    <meta content="18CARS" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Automobiles" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Science; Automobiles" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2005/07/18/automobiles/18CARS.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1688276"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <series series.name="Autos on Monday | Technology"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Automobiles</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Automobiles/Topics/Automobile Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Road Trips</classifier>
+        <classifier class="online_producer" type="descriptor">Automobiles</classifier>
+        <classifier class="online_producer" type="descriptor">Roads and Traffic</classifier>
+        <classifier class="online_producer" type="descriptor">Science and Technology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Science and Technology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Automobiles</classifier>
+        <classifier class="online_producer" type="general_descriptor">Roads and Traffic</classifier>
+        <org class="online_producer">Renault Sa</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20050718T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9801E0D71130F93BA25754C0A9639C8B63" item-length="965" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>AUTOS ON MONDAY/Technology; Could Cars That Read Minds Save Drivers From Themselves?</hl1>
+        <hl2 class="online_headline">Could Cars That Read Minds Save Drivers From Themselves?</hl2>
+      </hedline>
+      <byline class="print_byline">By WILLIAM DIEM</byline>
+      <dateline>PARIS</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>PILOTS log hours in cockpit simulators before they ever take the controls of an airliner, practicing emergency procedures and learning the layout of a plane's instrument panel. Automakers also rely on simulators, though their intent is to study drivers, not train them.</p>
+        <p>In the controlled laboratory setting of a driving simulator, researchers have discovered many things about drivers, including their reluctance to use all of a car's available braking power in a panic stop. Such findings have resulted in electronic systems that sense a panic situation -- by noting how sharply the driver first pushes the brake pedal -- and then continue to apply pressure even if the driver backs off.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Will future cars be able to analyze the driver's actions and adapt the car's mechanical systems to the driver's anticipated moves? Renault thinks so.</p>
+      </block>
+      <block class="full_text">
+        <p>PILOTS log hours in cockpit simulators before they ever take the controls of an airliner, practicing emergency procedures and learning the layout of a plane's instrument panel. Automakers also rely on simulators, though their intent is to study drivers, not train them.</p>
+        <p>In the controlled laboratory setting of a driving simulator, researchers have discovered many things about drivers, including their reluctance to use all of a car's available braking power in a panic stop. Such findings have resulted in electronic systems that sense a panic situation -- by noting how sharply the driver first pushes the brake pedal -- and then continue to apply pressure even if the driver backs off.</p>
+        <p>Today's most advanced cars size up a driver's actions in a number of similar ways; onboard computers stand ready to intervene if the driver makes a dangerous blunder like yanking the steering wheel too sharply in an attempt to avoid a collision.</p>
+        <p>Now Renault, the French automaker that also controls Nissan, is pursuing the possibility that future cars could go a step further, analyzing the driver's actions and adapting the car's mechanical systems to the driver's anticipated moves.</p>
+        <p>An aggressive driver would be allowed to follow close behind a car that cuts in front of him or her, but the brakes would be put on alert for immediate application. In the same situation, with a more timid driver, computers would slow the car down but not apply the brakes suddenly in a way that might alarm drivers following behind.</p>
+        <p>''We know that 70 percent of accidents come from the driver,'' said Pierre Beuzit, vice president for research at Renault. ''He badly identifies the risks or he reacts badly to an event. We want to create a sort of mathematical model of the psychology of drivers, to use directly in our development programs.''</p>
+        <p>Studies designed to gain a deeper understanding of drivers, necessary to developing this breed of supersmart cars, are being conducted at a new laboratory that is a joint effort of Renault and the Centre National de la Recherche Scientifique, the French national research center.</p>
+        <p>Driving simulators are interior mock-ups (or in some cases, complete cars) placed on hydraulically actuated platforms and surrounded by video screens and speakers. A driver at the wheel feels vibrations, acceleration and deceleration just as if he were driving on the roads projected around him.</p>
+        <p>''You save 50 percent of your research time,'' said Dr. Beuzit, noting one reason companies build multimillion-dollar simulators. ''It has transformed the automobile industry in the last 20 to 30 years.''</p>
+        <p>Because the simulator experience is so close to reality, providing the physical sensation of going around a curve or bouncing over a badly paved road, scientists can use it to do fundamental research on how all the senses contribute to what a driver perceives, said Dr. Andras Kemeny, a research director at the technical center.</p>
+        <p>For Renault, he said, ''It is absolutely necessary to understand the driver's strategy in driving, and then design industrial objects according to this knowledge.'' According to Dr. Kemeny, it would take a decade to complete the loop of bringing fundamental research results to showrooms.</p>
+        <p>Simpler forms of computer simulation technology have been helping automakers speed up the development of new models for decades. By running crash tests with digital models early in the process, they save millions of dollars that would go to building prototypes. Digital simulations of engine cooling systems have reduced the need for summer test drives in Death Valley; evaluating various designs for a heater no longer requires spending a winter in Sweden.</p>
+        <p>Driving simulators at the automakers' research centers are also used to verify that newly developed features work as intended. For instance, the 2007 Mercedes-Benz S-Class, which goes on sale in the United States early next year, will offer an enhanced braking system, called Brake Assist Plus, that uses radar to measure the distance to a car ahead. In a panic stop, it calculates the braking force needed to prevent a collision and applies just the right amount.</p>
+        <p>When 100 drivers tested the system at DaimlerChrysler's driving simulator in Berlin, only 11 percent ''crashed'' into a virtual car that stopped suddenly in front of them. Without it, 44 percent of the drivers ran into the car ahead.</p>
+        <p>Perhaps the most sophisticated facility in the world, the National Advanced Driving Simulator at the University of Iowa in Iowa City, belongs to the National Highway Traffic Safety Administration. One recent experiment there tested portable telephones controlled by voice commands, and another is studying teenage drivers to learn why they have so many accidents.</p>
+        <p>Renault's research center also has provisions for developing the physical details of production vehicles. Lighting systems can be evaluated in one lab, while a virtual reality test facility allows researchers to test many possibilities for the location of controls, switches and even structural elements like windshield pillars, all by simply altering the view inside special viewing goggles.</p>
+        <p>''We are using more and more artificial windows on the world,'' said Dr. Kemeny, referring to the computers, televisions and monitors of modern life. ''Portable telephones will soon offer G.P.S. navigation on their small screens. It's a bad idea, but you will use it. Our research will help determine how efficiently you use these tools.''</p>
+        <p>Autos on Monday | Technology</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

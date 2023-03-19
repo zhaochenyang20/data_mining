@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>One-Stop Shopping For the Civic- Minded</title>
+    <meta content="10ONLI$01" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="The City" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="14" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1229428"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="THE NEIGHBORHOOD REPORT: NEW YORK ONLINE"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Politics and Government</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <location class="indexing_service">New York City</location>
+        <org class="indexing_service">Gotham Gazette</org>
+        <person class="indexing_service">Lee, Denny</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/The City</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Government, Philanthropy and NGO</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000910T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B06E4DA1139F933A2575AC0A9669C8B63" item-length="378" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>One-Stop Shopping For the Civic- Minded</hl1>
+      </hedline>
+      <byline class="print_byline">By DENNY LEE</byline>
+      <byline class="normalized_byline">Lee, Denny</byline>
+      <abstract>
+        <p>Article on Gotham Gazette Web site; drawings; map (New York Online column) (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>GOTHAM GAZETTE  www.GothamGazette.com</p>
+        <p>For more than a century, the Citizens Union has been a steady, evenhanded voice for improving city government through public education.</p>
+        <p>While the union's goals have not changed, its tools for promoting political engagement have. In August 1999, it started a Web site that offers ''one-stop shopping for people who care about public policies and politics in New York City,'' said Conn Nugent, the group's executive director.</p>
+      </block>
+      <block class="full_text">
+        <p>GOTHAM GAZETTE  www.GothamGazette.com</p>
+        <p>For more than a century, the Citizens Union has been a steady, evenhanded voice for improving city government through public education.</p>
+        <p>While the union's goals have not changed, its tools for promoting political engagement have. In August 1999, it started a Web site that offers ''one-stop shopping for people who care about public policies and politics in New York City,'' said Conn Nugent, the group's executive director.</p>
+        <p>The Gotham Gazette, published online each weekday, features thoughtful essays on topics varying from arts to zoning and provides useful resources for both policy devotees and novices.</p>
+        <p>Mr. Nugent, who shared the 1985 Nobel Peace Prize for his work with International Physicians for the Prevention of Nuclear War, writes a regular column on the day's top news.</p>
+        <p>A staff of three keeps the site topical and balanced with the help of 50 regular contributors, who include elected officials, judges and directors of nonprofit groups. William F. Weld, former governor of Massachusetts, wrote a recent essay on government reform, for example, and Bette Midler gave an assessment of the city's community gardens.</p>
+        <p>''Our ideology is very simple,'' Mr. Nugent said. ''The best citizenry is an engaged citizenry.''</p>
+        <p>WHAT YOU SEE -- The home page looks like the front page of a newspaper, with Mr. Nugent's column and links to the day's commentary, letters to the editor and the like. The Gazette also features an in-depth examination of an issue each day and ''Ask Mother Knickerbocker,'' a column on New York City lore. Other recent items have included maps, created by the New York Public Interest Research Group, on the citywide distribution of school-age children, tuberculosis cases and heroin usage.</p>
+        <p>LINKS -- A banner along the left side of the ''front page'' provides additional resources on various public issues. Each issue is briefly described, with an overview of recent developments and list of online resources. There are links to scores of sites run by government agencies and nonprofit groups, as well as various daily and weekly newspapers and magazines. Every link is described briefly.</p>
+        <p>WHAT YOU GET -- A good-government guide to the issues and policies affecting New Yorkers.</p>
+        <p>DENNY LEE</p>
+        <p>THE NEIGHBORHOOD REPORT: NEW YORK ONLINE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

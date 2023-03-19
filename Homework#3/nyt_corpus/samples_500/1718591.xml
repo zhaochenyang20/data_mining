@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   GOSSARD, SANDER R.</title>
+    <meta content="dn111805" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1718591"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <identified-content>
+        <person class="indexing_service">GOSSARD, SANDER R.</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20051118T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9803E6DD1E3EF93BA25752C1A9639C8B63" item-length="58" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   GOSSARD, SANDER R.</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>GOSSARD--Sander R. Of Harrington Park, NJ, on Tuesday, November 15, 2005. Husband of Pamela, father of Sander, Jonathan and Carly. Son of Lorna and the late William. Brother of Stanley and Christopher. Service at Community Church in Harrington Park on Monday at 11AM. Visiting at Becker Funeral Home, 219 Kinderkamack Rd, Westwood, NJ, Sunday, 2-4 &amp; 7-9.</p>
+      </block>
+      <block class="full_text">
+        <p>GOSSARD--Sander R. Of Harrington Park, NJ, on Tuesday, November 15, 2005. Husband of Pamela, father of Sander, Jonathan and Carly. Son of Lorna and the late William. Brother of Stanley and Christopher. Service at Community Church in Harrington Park on Monday at 11AM. Visiting at Becker Funeral Home, 219 Kinderkamack Rd, Westwood, NJ, Sunday, 2-4 &amp; 7-9.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

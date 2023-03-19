@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>BEIRUT REFUGEES'S PLIGHT TERMED GRIM DESPITE ARRIVAL OF AID</title>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="13359"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">PALESTINIANS</classifier>
+        <classifier class="indexing_service" type="descriptor">REFUGEES AND EXPATRIATES</classifier>
+        <location class="indexing_service">MIDDLE EAST</location>
+        <location class="indexing_service">BURJ AL BRAJNEH (LEBANON)</location>
+        <location class="indexing_service">BEIRUT (LEBANON)</location>
+        <location class="indexing_service">LEBANON</location>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Lebanon</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East/Palestinian Authority</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East/Lebanon</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East/Lebanon/Beirut</classifier>
+        <classifier class="online_producer" type="general_descriptor">Palestinians</classifier>
+        <classifier class="online_producer" type="general_descriptor">Immigration and Refugees</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870215T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE5DA1639F936A25751C0A961948260" item-length="382" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>BEIRUT REFUGEES'S PLIGHT TERMED GRIM DESPITE ARRIVAL OF AID</hl1>
+      </hedline>
+      <byline class="print_byline">Special to the New York Times</byline>
+      <dateline>BEIRUT, Lebanon, Feb. 14</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Despite the arrival of some relief supplies in a besieged Palestinian refugee district here today, conditions in the district were described as desperate, with thousands of people suffering from malnutrition.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Despite the arrival of some relief supplies in a besieged Palestinian refugee district here today, conditions in the district were described as desperate, with thousands of people suffering from malnutrition.</p>
+        <p>Despite the arrival of some relief supplies in a besieged Palestinian refugee district here today, conditions in the district were described as desperate, with thousands of people suffering from malnutrition.</p>
+        <p>Four pickup trucks carrying food rolled into the refugee compound, Burj al Brajneh, on the southern outskirts of Beirut, during the early hours of the morning. It was not known when the next convoy of relief aid would be allowed in.</p>
+        <p>An earlier attempt to get the trucks into the district was thwarted by gunmen who fired at the convoy Friday, killing an Iranian Embassy official and wounding a colleague. The incident touched off a renewal of artillery exchanges between militiamen of the Shiite Moslem movement Amal, which has ringed the camp since October, and Palestinian guerrillas defending Burj al Brajneh, where about 30,000 people live.</p>
+        <p>The supplies that reached the camp included flour and dried milk. After the shooting Friday evening, the food was transferred from United Nations trucks to vehicles belonging to the Iranian Embassy, which has been supervising relief efforts, and was taken into the camp early this morning. An Appeal for More Aid Soon</p>
+        <p>Dr. Pauline Cutting, a British surgeon working inside Burj al Brajneh, told reporters by telephone that Iranian Embassy vehicles brought in a small quantity of supplies and took out four wounded people.</p>
+        <p>She said that only a small amount of flour reached the camp during the night, and that just about everyone in the camp was malnourished. She said she believed that unless more food reached Burj al Brajneh very soon, people would be starving to death within a week.</p>
+        <p>Dr. Cutting said the people at Burj al Brajneh were aware of efforts to bring relief supplies to them. When reports circulated Friday that a convoy was on the way, people came out in the streets in a state of expectation. But the camp was then shelled, she said, and 6 people died and 24 were wounded.</p>
+        <p>Amal, which is headed by Lebanon's Justice Minister, Nabih Berri, says the siege around Palestinian centers in Beirut and southern Lebanon will not be lifted until guerrillas who follow the Palestine Liberation Organization leader, Yasir Arafat, evacuate positions captured from the Shiite militia last November in southern Lebanon.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

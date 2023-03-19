@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>DINER'S JOURNAL</title>
+    <meta content="20JOUR" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="1999" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Leisure/Weekend Desk" name="dsk"/>
+    <meta content="39" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1131782"/>
+      <doc.copyright holder="The New York Times" year="1999"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Restaurants</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <location class="indexing_service">New York City</location>
+        <org class="indexing_service">LX (NYC Restaurant)</org>
+        <person class="indexing_service">Grimes, William</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine/Restaurant Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine/Columns/Diner's Journal</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Restaurants</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19990820T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE5DA1638F933A1575BC0A96F958260" item-length="318" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>DINER'S JOURNAL</hl1>
+      </hedline>
+      <byline class="print_byline">By William Grimes</byline>
+      <byline class="normalized_byline">Grimes, William</byline>
+      <abstract>
+        <p>William Grimes Diner's Journal review of LX, Argentine restaurant on East 60th Street in Manhattan; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The numerals are Roman, but the food is Argentine. LX, on East 60th Street in Manhattan, is a dark and handsome newcomer that goes beyond the gaucho-steak formula to explore regional Argentine specialties.</p>
+        <p>Carlos Benavides, the chef, is from Buenos Aires, and he uses the empanada as his culinary soapbox, changing the ingredients constantly to showcase a different style or region of Argentina.</p>
+      </block>
+      <block class="full_text">
+        <p>The numerals are Roman, but the food is Argentine. LX, on East 60th Street in Manhattan, is a dark and handsome newcomer that goes beyond the gaucho-steak formula to explore regional Argentine specialties.</p>
+        <p>Carlos Benavides, the chef, is from Buenos Aires, and he uses the empanada as his culinary soapbox, changing the ingredients constantly to showcase a different style or region of Argentina.</p>
+        <p>Last week, for example, he reached out to the northwestern province of San Luis for a stuffing of grilled chicken, red and green peppers, Argentine chorizo, raisins and green olives.</p>
+        <p>Argentine chorizo, sweeter and milder than its Spanish cousin, figures prominently in a delicious soup of pureed asparagus with crunchy slices of hearts of palm. The tamal de Tucuman is a whopper, thick walled and blunt, with a stuffing of veal, raisins, bell peppers and squash puree.</p>
+        <p>There's an Argentine ribeye steak, of course, but I preferred the generous skirt steak, fanned around half a large plate and served with a fresh green chimichurri sauce and a spicy sun-dried-tomato relish. Best bets among the desserts are the coconut flan and the irresistible crepes, filled with dulce de leche and cream cheese.</p>
+        <p>Up front, where the doors open onto the sidewalk, LX looks like a dozen other Manhattan cafes. In back, however, it feels like a private railway car from the last century, with lustrous mahogany walls and dainty shaded wall lamps.</p>
+        <p>The film posters are a nice touch: Argentine advertisements for schlocky Hollywood films from the 1940's and 50's, like ''Jungle Siren,'' with Ann Corio.</p>
+        <p>LX, 45 East 60th Street, Manhattan; (212) 421-1234. Dinner entrees, $19 to $29.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

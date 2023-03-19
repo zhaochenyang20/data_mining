@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Choice and Journey's End In Canadian Hotel Venture</title>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1993" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="604005"/>
+      <doc.copyright holder="The New York Times" year="1993"/>
+      <series series.name="COMPANY NEWS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">HOTELS AND MOTELS</classifier>
+        <classifier class="indexing_service" type="descriptor">COMPANY AND ORGANIZATION PROFILES</classifier>
+        <classifier class="indexing_service" type="descriptor">JOINT VENTURES AND CONSORTIUMS</classifier>
+        <location class="indexing_service">CANADA</location>
+        <org class="indexing_service">CHOICE HOTELS INTERNATIONAL</org>
+        <org class="indexing_service">JOURNEY'S END CORP</org>
+        <org class="indexing_service">CHOICE HOTELS CANADA</org>
+        <person class="indexing_service">MCDOWELL, EDWIN</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Hospitality, Restaurant and Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/Canada</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hotels and Motels</classifier>
+        <classifier class="online_producer" type="general_descriptor">Company and Organization Profiles</classifier>
+        <classifier class="online_producer" type="general_descriptor">Corporations</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19930422T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE6DC103AF931A15757C0A965958260" item-length="550" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Choice and Journey's End In Canadian Hotel Venture</hl1>
+      </hedline>
+      <byline class="print_byline">By EDWIN McDOWELL</byline>
+      <byline class="normalized_byline">MCDOWELL, EDWIN</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Choice Hotels International, the franchise hotel giant, said yesterday that it had formed a joint venture in Canada with the Journey's End Corporation, Canada's biggest hotel management company. The venture, to be called Choice Hotels Canada Inc., will initially have 174 inns, 120 of them currently owned by Journey's End.</p>
+        <p>"Together we expect to have over 500 hotels in the Canadian market in the next four or five years," said Gerald Petitt, president and chief operating officer of Choice, who described the joint venture as "a truly equal partnership." The board of directors will be "50-50," he said, "and we'll split the profits right down the middle."</p>
+      </block>
+      <block class="full_text">
+        <p>Choice Hotels International, the franchise hotel giant, said yesterday that it had formed a joint venture in Canada with the Journey's End Corporation, Canada's biggest hotel management company. The venture, to be called Choice Hotels Canada Inc., will initially have 174 inns, 120 of them currently owned by Journey's End.</p>
+        <p>"Together we expect to have over 500 hotels in the Canadian market in the next four or five years," said Gerald Petitt, president and chief operating officer of Choice, who described the joint venture as "a truly equal partnership." The board of directors will be "50-50," he said, "and we'll split the profits right down the middle."</p>
+        <p>With headquarters in Silver Spring, Md., Choice, a subsidiary of Manor Care Inc., had franchise revenues last year of just over $100 million. Its seven chains operate under the banners Clarion, Comfort, Econo Lodge, Friendship, Quality, Rodeway and Sleep Inns. Because they range from economy to upscale, two or more sometimes operate side by side. Revenues of $116 Million</p>
+        <p>Journey's End, with headquarters in Toronto, had revenues last year of about $116 million. Most of its properties are in Canada, although it also has a hotel in midtown Manhattan. The company's stock lost 50 cents yesterday, closing at $5.50 (Canadian) on the Toronto Stock Exchange.</p>
+        <p>Maurice Rollins, its founder and chief executive, will become chairman of Choice Hotels Canada. Its motels will be called Comfort Inns by Journey's End, its hotels Quality Hotels by Journey's End and its suites Quality Suites by Journey's End.</p>
+        <p>The venture will not affect ownership of current Journey's End properties, most of which are owned through limited partnerships.</p>
+        <p>The venture links the management ability of Journey's End with Choice's marketing muscle and sophisticated reservations system. That two-year-old system lets each hotel monitor and change its own room rates and inventory, as well as book guests at other Choice-brand hotels at their prevailing rates. Strategy Accelerated</p>
+        <p>The venture also accelerates the strategy of Choice to seek growth outside the United States through relationships with local franchise operators.</p>
+        <p>Canada is an especially good markeplace for Choice's strategy, Mr. Petitt said, because about two-thirds of its hotels there are independent operations, compared with only one-third in the United States.</p>
+        <p>James Carper, editor in chief of Hotels, the magazine of the international hotel industry, said the venture appeared to be a good one.</p>
+        <p>"One reason the franchise operations have to grow outside the United States," he said, "is that there isn't much more opportunity in this country. That's why they're grabbing each others' hotels and going abroad."</p>
+        <p>While only about 310 of Choice's 2,900 hotels are outside the United States, in 29 countries, many more are under construction or in development abroad.</p>
+        <p>For example, Choice signed a franchise agreement last year with CDL Hotels International of Singapore, to develop more than 30 hotels in Singapore, Malaysia, Brunei, Hong Kong, the Philippines and mainland China. Choice's partner in Mexico, Hoteles Calinda, has 16 Choice-brand hotels there. Other franchise agreements call for 20 new Choice-brand hotels in Venezuela and 10 in Costa Rica.</p>
+        <p>COMPANY NEWS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

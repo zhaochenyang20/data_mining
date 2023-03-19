@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Jury in Barry Trial Meets for 5 1/2 Hours; Reaches No Verdict</title>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="373579"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">DRUG ABUSE AND TRAFFIC</classifier>
+        <classifier class="indexing_service" type="descriptor">TRIALS</classifier>
+        <classifier class="indexing_service" type="descriptor">COCAINE</classifier>
+        <location class="indexing_service">WASHINGTON (DC)</location>
+        <person class="indexing_service">BARRY, MARION S JR (MAYOR)</person>
+        <person class="indexing_service">AYRES, B DRUMMOND JR</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Washington, D.C.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Washington, D.C.</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cocaine and Crack Cocaine</classifier>
+        <classifier class="online_producer" type="general_descriptor">Drug Abuse and Traffic</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19900804T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE2DC103DF937A3575BC0A966958260" item-length="339" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Jury in Barry Trial Meets for 5 1/2 Hours; Reaches No Verdict</hl1>
+      </hedline>
+      <byline class="print_byline">By B. DRUMMOND AYRES Jr., Special to The New York Times</byline>
+      <byline class="normalized_byline">AYRES, B DRUMMOND JR</byline>
+      <dateline>WASHINGTON, Aug. 3</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: The Federal jury weighing the 14 drug and conspiracy charges against Mayor Marion S. Barry Jr. met for five and a half hours today without reaching a verdict.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: The Federal jury weighing the 14 drug and conspiracy charges against Mayor Marion S. Barry Jr. met for five and a half hours today without reaching a verdict.</p>
+        <p>The Federal jury weighing the 14 drug and conspiracy charges against Mayor Marion S. Barry Jr. met for five and a half hours today without reaching a verdict.</p>
+        <p>The jury, nine women and three men, then suspended deliberations until Saturday morning.</p>
+        <p>Several times during the day the panel sent out notes to the Fdederal district judge hearing the case, Thomas Penfield Jackson, but the notes covered only minor matters and provided no clues as to how deliberations were going.</p>
+        <p>While considering one of the requests in a brief afternoon court session, Judge Jackson disclosed that a noisy undercover drug operation had taken place Thursday night at the hotel in suburban Maryland where the jury has been sequestered. A main charge against Mr. Barry resulted from an undercover drug operation at a hotel in Washington.</p>
+        <p>'Our Jurors Were Oblivious'</p>
+        <p>''I was assured by our marshals that our jurors were oblivious to it all,'' Judge Jackson told prosecution and defense lawyers in this afternoon's court session. ''They may have known there was a disturbance, but they didn't know what it was.''</p>
+        <p>In the Thursday night operation, police officials reported, drug agents tried to lure a suspect into buying $30,000 worth of cocaine. But the suspect became suspicious and fled, the officials said, setting off a noisy pursuit with helicopters and dogs.</p>
+        <p>The officials said the undercover agents were apparently unaware that the jury was staying at the hotel, the Sheraton in New Carrollton, Md. They identified the suspect as Brian Tribble, a friend of Len Bias, the All-American basketball star at the University of Maryland who died of a cocaine overdose in June 1986. Mr. Tribble was subsequently acquitted of charges that he had provided the cocaine.</p>
+        <p>Eighty religious leaders in the Washington area issued a statement today in which they asserted that there was a ''crisis of integrity'' in the city, a crisis they contended had been heightened by the divisive racial, political and legal issues surrounding Mr. Barry's trial.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

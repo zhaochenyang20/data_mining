@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths  HECHT, ISABEL M.</title>
+    <meta content="DN040900" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="40" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1190766"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <person class="indexing_service">HECHT, ISABEL M.</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000409T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E01EFD81F3FF93AA35757C0A9669C8B63" item-length="62" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths  HECHT, ISABEL M.</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>HECHT-Isabel M. On April 7, 2000. Beloved wife of Judge Burton G. Hecht. Loving mother of Mindy and Howard, Audrey and Jeffrey and Allen and Amy. Adoring grandmother of Diana, Daniel, Sara and Allison. She will be profoundly missed and will always be in our hearts. Visiting Saturday, 7-9 PM. Service Sunday, 10 AM, at ''The Riverside,'' 76th Street and Amsterdam Avenue.</p>
+      </block>
+      <block class="full_text">
+        <p>HECHT-Isabel M. On April 7, 2000. Beloved wife of Judge Burton G. Hecht. Loving mother of Mindy and Howard, Audrey and Jeffrey and Allen and Amy. Adoring grandmother of Diana, Daniel, Sara and Allison. She will be profoundly missed and will always be in our hearts. Visiting Saturday, 7-9 PM. Service Sunday, 10 AM, at ''The Riverside,'' 76th Street and Amsterdam Avenue.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

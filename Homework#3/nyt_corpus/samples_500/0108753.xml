@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>SFE TECHNOLOGIES INC reports earnings for Qtr to Oct 31</title>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1988" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="108753"/>
+      <doc.copyright holder="The New York Times" year="1988"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">COMPANY REPORTS</classifier>
+        <classifier class="online_producer" type="types_of_material">Statistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Company Reports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Corporations</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19880112T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D05EFD7103DF931A25752C0A96E948260" item-length="53" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>SFE TECHNOLOGIES INC reports earnings for Qtr to Oct 31</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD:</p>
+        <p>*3*** COMPANY REPORTS **</p>
+        <p>*3*SFE TECHNOLOGIES INC (OTC)</p>
+        <p>Qtr to Oct 31</p>
+        <p>1987</p>
+        <p>1986</p>
+        <p>Sales</p>
+        <p>9,576,000</p>
+        <p>10,374,000</p>
+        <p>Net loss</p>
+        <p>2,310,000</p>
+        <p>b6,752,000</p>
+        <p>Yr sales</p>
+        <p>39,482,000</p>
+        <p>42,672,000</p>
+        <p>Net loss</p>
+        <p>5,666,000</p>
+        <p>b15,889,000</p>
+        <p>b-Includes a gain of $2,620,000 on capital restructuring.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD:</p>
+        <p>*3*** COMPANY REPORTS **</p>
+        <p>*3*SFE TECHNOLOGIES INC (OTC)</p>
+        <p>Qtr to Oct 31</p>
+        <p>1987</p>
+        <p>1986</p>
+        <p>Sales</p>
+        <p>9,576,000</p>
+        <p>10,374,000</p>
+        <p>Net loss</p>
+        <p>2,310,000</p>
+        <p>b6,752,000</p>
+        <p>Yr sales</p>
+        <p>39,482,000</p>
+        <p>42,672,000</p>
+        <p>Net loss</p>
+        <p>5,666,000</p>
+        <p>b15,889,000</p>
+        <p>b-Includes a gain of $2,620,000 on capital restructuring.</p>
+        <p>*3*** COMPANY REPORTS **</p>
+        <p>*3*SFE TECHNOLOGIES INC (OTC)</p>
+        <p>Qtr to Oct 31</p>
+        <p>1987</p>
+        <p>1986</p>
+        <p>Sales</p>
+        <p>9,576,000</p>
+        <p>10,374,000</p>
+        <p>Net loss</p>
+        <p>2,310,000</p>
+        <p>b6,752,000</p>
+        <p>Yr sales</p>
+        <p>39,482,000</p>
+        <p>42,672,000</p>
+        <p>Net loss</p>
+        <p>5,666,000</p>
+        <p>b15,889,000</p>
+        <p>b-Includes a gain of $2,620,000 on capital restructuring.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

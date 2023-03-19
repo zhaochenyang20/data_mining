@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Jigsaw of Memories At the Site of a Fatal Blast</title>
+    <meta content="01GAS" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="The City Weekly Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="14" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2001/07/01/nyregion/thecity/01GAS.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1305958"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <series series.name="NEIGHBORHOOD REPORT: DOWNTOWN BROOKLYN"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Gas (Fuel)</classifier>
+        <classifier class="indexing_service" type="descriptor">Explosions</classifier>
+        <classifier class="indexing_service" type="descriptor">Monuments and Memorials</classifier>
+        <location class="indexing_service">New York City</location>
+        <org class="indexing_service">Institute For Community Living</org>
+        <person class="indexing_service">Walit, Harriet</person>
+        <person class="indexing_service">Walit, Leonard</person>
+        <person class="indexing_service">Cochran, Khay</person>
+        <person class="indexing_service">Kinetz, Erika</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/The City</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Explosions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Gas (Fuel)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Monuments and Memorials</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20010701T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940CE4D71439F932A35754C0A9679C8B63" item-length="468" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Jigsaw of Memories At the Site of a Fatal Blast</hl1>
+        <hl2 class="online_headline">A Jigsaw of Memories at the Site of a Fatal Blast</hl2>
+      </hedline>
+      <byline class="print_byline">By ERIKA KINETZ</byline>
+      <byline class="normalized_byline">Kinetz, Erika</byline>
+      <abstract>
+        <p>Institute for Community Living unveils bronze commemorative plaque at 415-417 State Street in tribute to Harriet and Leonard Walit and Khay Cochran, who died last summer in gas blast at town house in downtown Brooklyn, NY; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The sky is still there. Harriet and Leonard Walit and Khay Cochran are not.</p>
+        <p>On the evening of July 11, 2000, Mr. and Mrs. Walit came home and smelled gas in their town house at 420 State Street. They called their neighbor, Mr. Cochran, to help them investigate. One of the three flipped on a light switch, which apparently was the act that ignited an estimated 4,000 cubic feet of gas in a thunderous explosion.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The sky is still there. Harriet and Leonard Walit and Khay Cochran are not.</p>
+      </block>
+      <block class="full_text">
+        <p>The sky is still there. Harriet and Leonard Walit and Khay Cochran are not.</p>
+        <p>On the evening of July 11, 2000, Mr. and Mrs. Walit came home and smelled gas in their town house at 420 State Street. They called their neighbor, Mr. Cochran, to help them investigate. One of the three flipped on a light switch, which apparently was the act that ignited an estimated 4,000 cubic feet of gas in a thunderous explosion.</p>
+        <p>Today, grass has begun to grow where the town houses at 418 and 420 State Street once stood. A few fingers of ivy have curled their way up through the chain link fence that fronts on the empty lots. In the back is the ghost of a garden. A red Japanese maple, one birch tree and a  stone cherub remain. Neighbors say hyacinths bloomed in the spring.</p>
+        <p>Last weekend, the Institute for Community Living added a more permanent piece to the jigsaw of memories on State Street. The organization unveiled a bronze commemorative plaque at 415-417 State Street, a 32-bed treatment residence run by the institute. The facility, which serves people with histories of homelessness, mental illness and substance abuse, was christened the Walit House in memory of the Walits and Mr. Cochran. Mrs. Walit, a retired social worker and neighborhood activist, was on the institute's board at the time of her death.</p>
+        <p>''She gave people a sense that they had control and that they could be significant in terms of being in control of their own lives and in terms of helping people,'' said Peter Campanelli, the institute's president. ''I think that was her legacy.''</p>
+        <p>Friends and neighbors eulogized the three for their active roles in the tight-knit block between Nevins and Bond Streets. ''They had to look for what is wrong,'' said Julian Jackson, Mr. Cochran's companion of over 53 years. ''This time it was a very serious mistake.''</p>
+        <p>Mr. Jackson and a friend who was visiting, Francis Aguirre, were rescued from 418 State Street on the night of the explosion.</p>
+        <p>''I looked and saw the back wall disintegrating,'' Mr. Jackson recalled. He called to Mr. Aguirre, ''Please look upstairs and tell me what you see.'' Mr. Aguirre's response is etched in Mr. Jackson's memory: ''I see the sky.'' That is how Mr. Jackson knew the house was gone.</p>
+        <p>''I hadn't thought about life without Khay,'' Mr. Jackson said. ''We'd been together too long. But tomorrow isn't guaranteed to anyone.''</p>
+        <p>ERIKA KINETZ</p>
+        <p>NEIGHBORHOOD REPORT: DOWNTOWN BROOKLYN</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

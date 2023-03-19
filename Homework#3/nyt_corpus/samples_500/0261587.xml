@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Lawyer Is Wed To Ms. Gradowitz</title>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="1989" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="261587"/>
+      <doc.copyright holder="The New York Times" year="1989"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">GROBE, BRUCE JAMES</person>
+        <person class="indexing_service">GRADOWITZ, MARCIE LYNN (MARCIE LYNN GROBE)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19890626T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950DE4DD1738F935A15755C0A96F948260" item-length="223" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Lawyer Is Wed To Ms. Gradowitz</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Marcie Lynn Gradowitz, a daughter of Beatrice Gradowitz of Hastings-on-Hudson, N.Y., and the late Louis J. Gradowitz, was married yesterday at the Biddle mansion in Tarrytown, N.Y., to Bruce James Grobe, a son of Mr. and Mrs. Albert A. Grobe of White Plains and Bay Beach, Ontario. Rabbi Elliot Spiegel performed the ceremony.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Marcie Lynn Gradowitz, a daughter of Beatrice Gradowitz of Hastings-on-Hudson, N.Y., and the late Louis J. Gradowitz, was married yesterday at the Biddle mansion in Tarrytown, N.Y., to Bruce James Grobe, a son of Mr. and Mrs. Albert A. Grobe of White Plains and Bay Beach, Ontario. Rabbi Elliot Spiegel performed the ceremony.</p>
+        <p>Marcie Lynn Gradowitz, a daughter of Beatrice Gradowitz of Hastings-on-Hudson, N.Y., and the late Louis J. Gradowitz, was married yesterday at the Biddle mansion in Tarrytown, N.Y., to Bruce James Grobe, a son of Mr. and Mrs. Albert A. Grobe of White Plains and Bay Beach, Ontario. Rabbi Elliot Spiegel performed the ceremony.</p>
+        <p>The bride, a graduate of the School of Visual Arts in New York, received a bachelor's degree in fine arts and a master's degree in art therapy at Pratt Institute and a certificate in early-childhood education at the New School for Social Research. She is a computer graphic advertising artist at the Prodigy Services Company in White Plains; her husband is the company's counsel. Her father was a builder and an owner of service stations and automobile dealerships in the New York region.</p>
+        <p>The bridegroom, a cum laude graduate of Princeton University, where he was a Fulbright Scholar, received a J.D. degree from the Columbia University School of Law, where he was an International Fellow, and a certificate from the Parker School of Foreign and Comparative Law at Columbia. He was previously married and divorced. His father, who retired as the chief announcer and the production manager at WQXR Radio in New York, is a photojournalist. His mother, Sylvia Grobe, is a psychotherapist in White Plains.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

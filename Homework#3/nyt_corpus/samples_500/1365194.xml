@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Alien Invaders Reshape the American Landscape</title>
+    <meta content="05TREE$03" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2002/02/05/science/earth/05TREE.html" name="alternate_url"/>
+    <meta content="Correction Appended" name="banner"/>
+    <meta content="20020207T000000" name="correction_date"/>
+    <docdata>
+      <doc-id id-string="1365194"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Olympic Games</classifier>
+        <classifier class="indexing_service" type="descriptor">Winter Games (Olympics)</classifier>
+        <classifier class="indexing_service" type="descriptor">Olympic Games (2002)</classifier>
+        <classifier class="indexing_service" type="descriptor">Television</classifier>
+        <location class="indexing_service">Salt Lake City (Utah)</location>
+        <person class="indexing_service">Sandomir, Richard</person>
+        <person class="indexing_service">Costas, Bob</person>
+        <person class="indexing_service">Mckay, Jim</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Utah</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Rockies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Eco-tourism</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Utah/Salt Lake City</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Utah</classifier>
+        <classifier class="online_producer" type="descriptor">Trees and Shrubs</classifier>
+        <classifier class="online_producer" type="descriptor">Forests and Forestry</classifier>
+        <classifier class="online_producer" type="descriptor">Environment</classifier>
+        <classifier class="online_producer" type="descriptor">Suburbs</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suburbs</classifier>
+        <classifier class="online_producer" type="general_descriptor">Games</classifier>
+        <classifier class="online_producer" type="general_descriptor">Olympic Games</classifier>
+        <classifier class="online_producer" type="general_descriptor">Trees and Shrubs</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Forests and Forestry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20020205T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C04E0DC103DF936A35751C0A9649C8B63" item-length="2007" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Alien Invaders Reshape the American Landscape</hl1>
+        <hl2 class="online_headline">Invaders Reshape the American Landscape</hl2>
+      </hedline>
+      <byline class="print_byline">By CAROL KAESUK YOON</byline>
+      <abstract>
+        <p>Television coverage of 2002 Winter Games in Salt Lake City, Utah, discussed; live coverage is planned for many events; Bob Costas will be prime-time host and Jim McKay will return as commentator; television schedule listed; photos (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>In the summer of 1904, Hermann Merkel, the chief forester at the Bronx Zoo, noticed that a few of the majestic American chestnut trees lining the zoo's walkways had developed a mysterious new disease. The next year, nearly every chestnut tree in the parks of the Bronx had the disease. And by the 1950's it had spread from Maine to Georgia, killing billions of chestnut trees and changing the East's wooded landscapes forever.</p>
+        <p>Merkel had discovered the disaster known as chestnut blight, giving scientists their first bitter taste of the imported diseases that have been sweeping through American forests ever since.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>New forest pathogens have destroyed trees in forests, cities and suburbs, resulting in a startling loss of this natural resource.</p>
+      </block>
+      <block class="full_text">
+        <p>In the summer of 1904, Hermann Merkel, the chief forester at the Bronx Zoo, noticed that a few of the majestic American chestnut trees lining the zoo's walkways had developed a mysterious new disease. The next year, nearly every chestnut tree in the parks of the Bronx had the disease. And by the 1950's it had spread from Maine to Georgia, killing billions of chestnut trees and changing the East's wooded landscapes forever.</p>
+        <p>Merkel had discovered the disaster known as chestnut blight, giving scientists their first bitter taste of the imported diseases that have been sweeping through American forests ever since.</p>
+        <p>The best known are chestnut blight and Dutch elm disease, both of which are believed to have come from Asia and are still attacking trees today. But scientists say a host of devastating forest pathogens have continued to arrive. Among the most recent is sudden oak death syndrome, which has killed thousands of oaks and other trees in California and may threaten the mighty redwood as well.</p>
+        <p>Fast-moving and usually hard or impossible to cure, these exotic diseases have destroyed countless trees in forests, cities and suburbs. The results can be seen not only in landscapes stripped of some of their most beautiful species but in changes to how forest ecosystems work and in the economic value of this natural resource.</p>
+        <p>''I get concerned about what the forests of the future will look like,'' said Dr. Craig G. Lorimer, a forest ecologist at the University of Wisconsin. ''To have so many diseases cause so many problems over such a short period of time is really unprecedented. You get this impression that clear-cutting is the most devastating thing that's ever happened to North American forests, and it's not. This is much more serious.''</p>
+        <p>As world trade intensifies, scientists predict that more and more tree diseases will find their way into the country (and out of it). And while most pathogens die on arrival, unable to find a suitable victim or climate, a small portion turn into devastating blights. According to a report last month from the National Academy of Sciences, about 13,000 plant diseases a year are intercepted by inspectors at international ports of entry -- and these inspectors are able to examine perhaps 2 percent of the incoming cargo and baggage.</p>
+        <p>The effect of such invasions is clear. A fungus called dogwood anthracnose has killed millions of flowering dogwoods in the southern Appalachians alone, essentially wiping out the species in many areas. In the Southeast, butternut canker has hit butternut trees so hard that the species has been listed as threatened in at least one state, Tennessee, and has been declared a species of special concern, a prelude to consideration for federal listing as threatened or endangered.</p>
+        <p>In the Northwest, an imported root disease is killing off Port Orford cedars, whose wood can be worth as much as $50,000 for a single, mature tree. And the list goes on. If imported insects are included among the pests, the casualty list grows even longer; some species are attacked by both kinds of imported pest.</p>
+        <p>Dr. Don Goheen, a plant pathologist with the United States Forest Service in Medford, Ore., who works with Port Orford cedars, echoed the comments of others, saying: ''These introduced diseases are bad news. We're run ragged by them.''</p>
+        <p>Though the devastation goes on around the country, it has received little notice outside the community of forest researchers -- largely, scientists say, because a diseased tree can take years to die and its loss is not always evident to the casual observer.</p>
+        <p>''When you look out there you don't have a barren moonscape,'' said Dr. Scott E. Schlarbaum, a forest geneticist at the University of Tennessee. ''You have a forest. But that forest is very different than it was 100 years ago.''</p>
+        <p>The loss is most likely to be noticed when the tree is prized for its beauty. The rapid spread of dogwood anthracnose, a fungal disease that begins with spotting leaves and soon ends in the death of the tree, has robbed many communities of flowering dogwoods, long a joyful herald of spring.</p>
+        <p>Dr. Mark Windham, a plant pathologist at the University of Tennessee, says the disease is attacking Pacific dogwoods in the West and flowering dogwoods in the East, with the southern Appalachians hardest hit.</p>
+        <p>In 1989, Dr. Windham said, he saw 20,000 healthy trees on Lookout Mountain in Tennessee go under. ''They became fully blighted in two weeks,'' he said. ''In three years most were dead.''</p>
+        <p>Researchers estimate that in the Great Smoky Mountains National Park, 60 percent of the dogwoods have been killed by the disease. But even this well-traveled area may not look too bad to the casual visitor: roadside dogwoods do well, exposed to sunshine, which the fungus dislikes. ''Tourists don't tend to get out of their cars, so they might not see much,'' Dr. Windham said. ''Several hundred feet into the woods they'd see a different picture.''</p>
+        <p>Likewise, dogwoods in sunny yards can escape unscathed.</p>
+        <p>Besides being beautiful, dogwoods play a number of roles in the forest. The leaves have high levels of calcium, making them a primary food for lactating deer. In addition, the calcium in decaying leaves keeps soils from becoming too acidic, a growing concern now that dogwoods have disappeared from so many areas. And the outer coat of the berries is 20 percent fat, making them a crucial source of energy, for example, for songbirds.</p>
+        <p>Likewise, animals are thought to have suffered when chestnuts disappeared. Before 1900, one out of every four trees in the East was an American chestnut, an abundant hardwood and a hearty nut producer. Dr. Frederick V. Hebard, staff pathologist at the American Chestnut Foundation, a nonprofit organization dedicated to the Herculean task of restoring the tree, says oaks and hickories typically produce hundreds of pounds of nuts per acre -- but when chestnut trees were also present, that same acre produced thousands of pounds of nuts. Chestnuts were said to have covered the ground like marbles.</p>
+        <p>The bounty was devoured by chipmunks, voles, bear, deer, turkey, grouse, crows and people. (The roasted chestnuts sold by street vendors generally come from Europe).)</p>
+        <p>In the late 18th and early 19th centuries, ''people moved here expressly to get land up on Clinch Mountain, where there were so many chestnuts you could set pigs out to forage in the fall,'' said Dr. Hebard, speaking from the foundation's field station in Virginia. ''Before there were ever cowboys in America, there were pigboys, herding up pigs on horseback and setting them loose to forage.''</p>
+        <p>Rare trees are being hit hard, too. Butternut or white walnut trees, which produce a beautiful wood favored by carvers and cabinetmakers, have nearly been wiped out in the Southeast by butternut canker, a fungus whose country of origin is unknown.</p>
+        <p>Among the most worrisome pests from abroad are the various species of Phytophthora, a group of funguslike organisms that includes the culprit that caused the Irish potato famine in the 19th century. Another species of Phytophthora, whose origins remain mysterious, showed up in native forests in the 1950's, attacking the roots of Port Orford cedars. It continues to attack them today.</p>
+        <p>In addition to being a highly valuable commercial wood, these cedars are critical to Northwestern forests. Their fibrous root systems shore up river banks, and their durable wood, once fallen in a river, provides important fish habitat -- critical functions where many species of salmon are struggling.</p>
+        <p>Yet another species of Phytoph thora has been found to cause sudden oak death syndrome, which has jumped to 14 different plant species since it was first noticed in 1995. Last month, researchers at the University of California reported finding DNA evidence of the disease on dying redwood shoots. Scientists are continuing laboratory tests to see whether the new disease can indeed kill this beloved species, or whether something else is doing in the redwood shoots.</p>
+        <p>Sometimes these imported diseases can be treated, if caught early and if enough fungicide is applied or enough limbs are cut off. But such expensive cures are usually attempted only for individual trees on private property. Cures on a forestwide scale are, in general, impossible. Even curbing the spread of the diseases is difficult, as many travel as tiny wind-borne or water-borne spores or on insects flying from tree to tree.</p>
+        <p>Instead, researchers are seeking to identify and breed disease-resistant trees. In some cases, for example with chestnuts, researchers are creating hybrid trees that are a mixture of resistant foreign species and natives. In other cases, nature itself provides the answer.</p>
+        <p>In Catoctin Mountain Park in Maryland, where nearly all the dogwoods have died, researchers discovered one thriving dogwood whose branches were entwined with several others that had died. That tree has since given rise to a disease-hardy line known as Appalachian Spring, which has just become available for sale.</p>
+        <p>And scientists say one lesson that has come from these blights is the importance of diversity, particularly in planted landscapes. The graceful branches of the Dutch elm, for example, once arched over streets in nearly every city and town. Scientists say its very popularity may have led to the epidemic.</p>
+        <p>''People came west with this vision that that's what a street should look like,'' said Dr. George Ware, a tree scientist at the Morton Arboretum in Lisle, Ill. They planted row upon row of the elegant vase-shaped tree, producing a monoculture ripe for an epidemic.</p>
+        <p>''We really brought about the devastation,'' said Dr. Karel Jacobs, a tree pathologist at the Morton Arboretum. ''We loved them too much.''</p>
+        <p>As a result, Dr. Jacobs said, researchers urge managers to plant more diversified landscapes to help slow or prevent the spread of diseases. Yet she added that most cities and towns remained worrisomely undiversified, with a handful of favored trees in abundance.</p>
+        <p>Still, hope lives on, even for chestnuts. Dr. Hebard says that in undisturbed forests there are billions of chestnut sprouts that have been growing since the original epidemic decades ago, still too small to be hit by the disease. One promising avenue of research is work on viruses that can attack the chestnut blight fungus attacking the tree.</p>
+        <p>But while many scientists aim for a return to the forests of old, some researchers say that goal is unrealistic.</p>
+        <p>''The concept was always that disease is bad, but that paradigm has shifted,'' said Dr. John Castello, a forest pathologist at State University of New York's College of Environmental Science and Forestry in Syracuse. Disease can perform functions like killing weak trees and releasing nutrients for other plants. ''The question really is, how much disease is enough?'' he went on. ''That's what foresters and pathologists are trying to determine now.''</p>
+        <p>People, he said, should move from the notion that the only good forest was the one that was here before Europeans arrived. ''The idea that everything will remain the same without change is just wrong,'' he said. ''Change is the rule.''</p>
+        <p>Correction:  February 7, 2002, Thursday  Because of an editing error, an article in Science Times on Tuesday about tree diseases from abroad misstated the name of the species blighted by Dutch elm disease. It is the American elm; Dutch elm is the name of the disease, not the tree.</p>
+      </block>
+      <block class="correction_text">
+        <p>Correction: February 7, 2002, Thursday</p>
+        <p>Because of an editing error, an article in Science Times on Tuesday about tree diseases from abroad misstated the name of the species blighted by Dutch elm disease. It is the American elm; Dutch elm is the name of the disease, not the tree.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

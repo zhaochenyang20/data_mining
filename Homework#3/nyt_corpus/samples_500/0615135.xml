@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Broker in Human Lives</title>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="1993" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="615135"/>
+      <doc.copyright holder="The New York Times" year="1993"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">BOOK REVIEWS</classifier>
+        <person class="indexing_service">WISE, DAVID</person>
+        <person class="indexing_service">WHITNEY, CRAIG R</person>
+        <object.title class="indexing_service">SPY TRADER (BOOK)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19930613T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE7DA173EF930A25755C0A965958260" item-length="639" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Broker in Human Lives</hl1>
+      </hedline>
+      <byline class="print_byline">By David Wise;</byline>
+      <byline class="normalized_byline">WISE, DAVID</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>SPY TRADER Germany's Devil's Advocate and the Darkest Secrets of the Cold War. By Craig R. Whitney. Illustrated. 375 pp. New York: Times Books/Random House. $25.</p>
+      </block>
+      <block class="full_text">
+        <p>SPY TRADER Germany's Devil's Advocate and the Darkest Secrets of the Cold War. By Craig R. Whitney. Illustrated. 375 pp. New York: Times Books/Random House. $25.</p>
+        <p>A FEW hours after dawn on Feb. 10, 1962, a tall, thin Russian wearing dark glasses walked to the center of Berlin's Glienicke Bridge and passed a stocky younger man in a fur cap who was headed in the opposite direction. The Soviet spy Rudolf Ivanovich Abel had been traded for Francis Gary Powers, who had been brought down while flying a U-2 spy plane for the C.I.A.</p>
+        <p>Fifteen miles away at Checkpoint Charlie, far from the cinematic scene on the bridge over the Havel River, an East German lawyer sat quietly in his car awaiting word of the exchange. Wolfgang Vogel's name was unknown at the time, but he had arranged a swap that was a milestone in the history of the cold war. Mr. Vogel had worked out the details with James B. Donovan, the former O.S.S. counsel who had defended Abel at his espionage trial in New York. Ostensibly, Mr. Vogel represented "Frau Helen Abel," Abel's supposed wife. In fact, his clients were the K.G.B. and the Stasi, the East German spy agency.</p>
+        <p>The Powers-Abel trade was the beginning of Mr. Vogel's career as a broker in human lives who earned the respect of officials on both sides of what used to be called the Iron Curtain. Mr. Vogel has opened his files to Craig R. Whitney, the European diplomatic correspondent of The New York Times, and the result is "Spy Trader: Germany's Devil's Advocate and the Darkest Secrets of the Cold War," a carefully documented, absorbing account of the East German lawyer over three decades. Mr. Whitney reports that Mr. Vogel arranged the ransom by West Germany of exactly 33,755 political prisoners held by East Germany and the release of another 215,019 East Germans. They were exchanged for payments by Bonn to the East German Government of nearly 3.5 billion marks.</p>
+        <p>Both sides found Mr. Vogel useful, the C.I.A. and the F.B.I. no less than the K.G.B. Spies get caught, and since Moscow and Washington preferred to pretend their operatives were innocent, the spy trade required a middleman. The larger trade in political prisoners, as Mr. Whitney makes clear, was strictly for cash; East Germany needed hard currency. Mr. Vogel was glad to accommodate everyone.</p>
+        <p>He grew rich in the process -- a gold Mercedes, a country house with the latest Western appliances, a comfortable life. And he believed in what he was doing. His greatest triumph was the trade in 1986 of the Soviet dissident Natan Sharansky, who was not a spy, for several prisoners in Western jails who were.</p>
+        <p>Ironically, Mr. Whitney contends, Mr. Vogel helped bring down the German Democratic Republic. The migration westward that he had facilitated became a flood by the fall of 1989. East Germany could no longer control its borders. Erich Honecker, the aging East German leader, did not realize his country was literally walking away from him.</p>
+        <p>In the aftermath of the collapse of Communism, Mr. Whitney says, some of the very people Mr. Vogel had helped turned on him, denouncing him for profiting from their plight. Arrested by German authorities on various criminal charges, then freed, he is still under investigation by prosecutors, his fate uncertain. Mr. Vogel remains what he was, an ambiguous man. He savored his car, his dacha, his sailboat, his collection of Meissen birds -- everything that his Stasi connections and the trade in human beings brought him. In the end, his life was a Faustian bargain.</p>
+        <p>Still, Mr. Vogel earns a measure of cautious sympathy from Mr. Whitney that is not entirely misplaced. Mr. Vogel, after all, was more than a servant of an evil secret police. He gave thousands of people back their freedom -- the most precious gift, as it turned out, that Bonn's marks could buy.</p>
+        <p>David Wise is the author of "Molehunt," a book about the C.I.A.'s search for Soviet spies in its ranks.</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">David Wise is the author of "Molehunt," a book about the C.I.A.'s search for Soviet spies in its ranks.</tagline>
+    </body.end>
+  </body>
+</nitf>
