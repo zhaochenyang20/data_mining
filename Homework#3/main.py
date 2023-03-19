@@ -131,6 +131,10 @@ def main():
     else:
         bag_of_words_all = np.load(str(root / "bow.npy"))
     print(bag_of_words_all)
+
+    top_words = Counter(all_words).most_common(100)
+    print(top_words)
+
     word_lengths = np.zeros(32)
     for word in all_words:
         word_lengths[len(word)] += 1
