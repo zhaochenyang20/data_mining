@@ -75,10 +75,6 @@ Max: 43.00
 
 ![](./Box.png)
 
-不过，此处 `matplotlib.pyplot` 与课堂要求有所区别。按照我们课程所讲，将最大值和最小值进行修正后，得到的图像如下：
-
-<img src="./Box_fix.png" style="zoom:50%;" />
-
 ## 文本数据的表示
 
 代码位于 `./tf-idf.py`，中途的若干多数据存储于对应的 `*.npy` 文件下。参考 `__main__` 部分的运行逻辑，大体实现思路如下：
@@ -102,6 +98,15 @@ Max: 43.00
 `co_exist_matrix` 的定义并不麻烦，然而在存储上有两种思路。第一种是利用 `Dict`，以两个需要计算关系的单词 `word1` 和 `word2` 为 `key`；第二种是将每个单词映射为 `index`，然后存储一整个 `array`。从直观上，后者存储的矩阵是稀疏的，似乎会浪费存储空间。然而，Python 中 `Dict` 的实现是相对空间不够压缩的，而且 `word1` 和 `word2` 具有繁琐的排序问题。我们虽然可以通过对 `[word1, word2]` 通过 `sorted` 方法进行排序，但是仍旧繁琐。
 
 考虑到之后计算欧氏距离与余弦相似度仍旧需要通过向量运算实现，而且 `numpy` 对于向量运算的优化是非常彻底的，故而我在上述 trade-off 中选择了第二种实现策略。
+
+最后，这里需要注意到，`co_exist_matrix` 的定义应该是和顺序无关的，故而 `co_exist_matrix` 是一个对称矩阵，需要如下处理：
+
+```py
+for page in all_pages:
+    for word1, word2 in combinations(list(set(page)), 2):
+        co_exist_matrix[words_to_index[word1], words_to_index[word2]] += 1
+        co_exist_matrix[words_to_index[word2], words_to_index[word1]] += 1
+```
 
 ### 计算距离与相似度
 
@@ -133,7 +138,7 @@ Max: 43.00
 
 4. 99 号：约翰·爱德华兹前参议员在曼哈顿呼吁立即从伊拉克撤军，并表示国会议员有权制止总统加强战争。
 
-5. 29 号：一名前加州美国红十字会橙县分会的会计高管被指控盗用超过 10 万美元，引发了对美国红十字会及其分会财务管理的担忧。
+5. 17 号：康奈尔大学有影响力的社会学家托马斯 · A · 莱森（Thomas A. Lyson）于去年 12 月 28 日在纽约伊萨卡去世，享年 58 岁。他的家人表示，他去世的原因是癌症。
 
 **分析**
 
@@ -145,26 +150,26 @@ Max: 43.00
 
 **欧氏距离最接近的前 5 个实词：**
 
-1. great
-2. history
-3. notes
-4. study
-5. jersey
+1. university
+2. great
+3. high
+4. better
+5. reason
 
 **余弦相似度最高的前 5 个实词：**
 
-1. would
-2. university
-3. could
-4. David
-5. history
+1. york
+2. new
+3. years
+4. made
+5. may
 
-效果比起文档相似更好。在欧氏距离中，较为相关的词有 history，notes 和 study；而在余弦相似度中，比较相近的词有 university 和 history。
+效果也不太理想。在欧氏距离中，较为相关的词有 university，great、high、better 也有一定语义联系；而在余弦相似度中，比较相近的词几乎没有。
 
 ### 结论与反思
 
-综合来看，`tf-idf` 和 `co_exist` 的方法还是较为粗糙，这种传统的 `sparse information retrival` 方法的价值较为受限。当然，`dense information retrival` 可能效果更佳，然而操作更为复杂。
+综合来看，`tf-idf` 和 `co_exist` 的方法还是较为粗糙，这种传统的 sparse information retrival 方法的价值较为受限。当然，`dense information retrival` 可能效果更佳，然而操作更为复杂。
 
 本次实验我大量采用了 `Pool` 方法和 `numpy` 的内置函数加速并行计算，极大方便了实验的进行。
 
-最后，我对语料处理有了粗浅的了解，还使用一些⽂本处理的库进行了基本的动手实践。即便是 sparse ⽂本挖掘，其本身操作也非常灵活，值得深入挖掘，并且对我个人研究 `dense IR` 起到了很好的引导作用。
+最后，我对语料处理有了粗浅的了解，还使用一些⽂本处理的库进行了基本的动手实践。即便是 sparse ⽂本挖掘，其本身操作也非常灵活，值得深入挖掘，并且对我个人研究 dense IR 起到了很好的引导作用。

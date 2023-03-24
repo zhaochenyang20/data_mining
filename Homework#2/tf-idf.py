@@ -60,12 +60,12 @@ def tf_idf_cal(page, all_words, all_pages):
     for word in all_words:
         # tf：某个词在文章中出现的次数/文章总词数
         tf = page.count(word) / len(page)
-        # idf：log(语料库的文档总数/(包含该词的文档数+1))
+        #! idf：log(语料库的文档总数/(包含该词的文档数))
         include = 0
         for passage in all_pages:
             if passage.count(word) != 0:
                 include += 1
-        idf = math.log(len(all_pages) / (include + 1))
+        idf = math.log(len(all_pages) / (include))
         # tf-idf = tf * idf
         tfidf = tf * idf
         tf_idf.append(tfidf)
@@ -77,15 +77,18 @@ def cal_co_exist(words_to_index):
     for page in all_pages:
         for word1, word2 in combinations(list(set(page)), 2):
             co_exist_matrix[words_to_index[word1], words_to_index[word2]] += 1
+            co_exist_matrix[words_to_index[word2], words_to_index[word1]] += 1
     return co_exist_matrix
 
 def compute_distance(array_1, array_2):
+    array_1, array_2 = np.array(array_1), np.array(array_2)
     euclidean_distance = np.linalg.norm(array_1 - array_2)
     cosine_similarity = np.dot(array_1, array_2) / (np.linalg.norm(array_1) * np.linalg.norm(array_2))
     return euclidean_distance, cosine_similarity
 
 if __name__ == '__main__':
     if not (dir_path / "pages.npy").exists():
+        print("constructing dictionary...")
         all_pages, all_words = dict_construct()
         np.save(str(dir_path / "pages"), np.array({"all_pages": all_pages, "all_words": all_words}))
     else:
@@ -93,6 +96,7 @@ if __name__ == '__main__':
 
     words_to_index = {word: index for index, word in enumerate(all_words)}
 
+    print("calculating tf-idf...")
     if not (dir_path / "tf_idf.npy").exists():
         tf_idf_cal_passage = partial(tf_idf_cal, all_words=all_words, all_pages=all_pages)
         with Pool() as p:
@@ -101,6 +105,7 @@ if __name__ == '__main__':
     else:
         tf_idf_vector = np.load(str(dir_path / "tf_idf.npy"), allow_pickle=True)
 
+    print("calculating co-exist matrix...")
     if not (dir_path / "co_exist.npy").exists():
         co_exist_matrix = cal_co_exist(words_to_index)
         np.save(str(dir_path / "co_exist"), co_exist_matrix)

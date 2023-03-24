@@ -109,8 +109,8 @@ def main():
                 ) if content else None,
             }
             df = df.append(data, ignore_index=True)
-            np.save(str(root / "df"), np.array(df))
-            np.save(str(root / "all_words_and_classes"), np.array({"all_words": all_words, "all_classes": all_classes}))
+        np.save(str(root / "df"), np.array(df))
+        np.save(str(root / "all_words_and_classes"), np.array({"all_words": all_words, "all_classes": all_classes}))
     else:
         df = pd.DataFrame(np.load(str(root / "df.npy"), allow_pickle=True))
         name_dict = {
