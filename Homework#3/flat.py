@@ -5,7 +5,12 @@ import seaborn as sns
 from sklearn.decomposition import PCA
 import openTSNE
 from pathlib import Path
+from sklearn.preprocessing import StandardScaler
 
+def normalize_data(data):
+    scaler = StandardScaler()
+    data_normalized = scaler.fit_transform(data)
+    return data_normalized
 
 def plot_pca(data_pca):
     colors = sns.color_palette("hls", 4)
@@ -21,7 +26,6 @@ def plot_pca(data_pca):
     plt.title("PCA Plot")
     plt.legend()
     plt.show()
-
 
 def plot_t_sne(data_tsne):
     colors = sns.color_palette("hls", 4)
@@ -40,23 +44,17 @@ def plot_t_sne(data_tsne):
     plt.legend()
     plt.show()
 
-
 def PCA_plot():
-    # Load data
     data = pd.read_csv(str(Path.cwd() / "100_word_vector.txt"), header=None, index_col=0, sep=" ")
-
-    # PCA
+    data_normalized = normalize_data(data)
     pca = PCA(n_components=2, random_state=42)
-    data_pca = pca.fit_transform(data)
+    data_pca = pca.fit_transform(data_normalized)
 
     plot_pca(data_pca)
 
-
 def T_SNE_plot():
-    # Load data
     data = pd.read_csv(str(Path.cwd() / "100_word_vector.txt"), header=None, index_col=0, sep=" ")
-
-    # t-SNE
+    data_normalized = normalize_data(data)
     tsne = openTSNE.TSNE(
         n_components=2,
         perplexity=30,
@@ -66,10 +64,8 @@ def T_SNE_plot():
         initialization="random",
         learning_rate=200,
     )
-    data_tsne = tsne.fit(data)
-
+    data_tsne = tsne.fit(data_normalized)
     plot_t_sne(data_tsne)
-
 
 if __name__ == '__main__':
     PCA_plot()

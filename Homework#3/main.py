@@ -136,8 +136,10 @@ def main():
     print(top_words)
 
     word_lengths = np.zeros(32)
+
     for word in all_words:
         word_lengths[len(word)] += 1
+
 
     file_word_freq = np.asarray([len(content.split()) for content in df.content if not pd.isna(content)])
 
@@ -146,8 +148,6 @@ def main():
         month_freq[int(i) - 1] += 1
 
     classes_freq = Counter(all_classes)
-
-    # Visualization
     wc = wordcloud.WordCloud(max_words=100, scale=10, background_color="black")
     wc.generate(" ".join(all_words))
     plt.imshow(wc, interpolation="bilinear")

@@ -105,7 +105,7 @@ array([0.0000e+00, 5.3700e+02, 3.6280e+03, 1.2240e+04, 3.5821e+04,
 
 ### **实现思路**
 
-利用 Python，基于 PCA 和 t-SNE 降维技术来分析文本数据。首先从本地读取文本数据，然后使用 sklearn 的 PCA 算法进行降维并绘制出 PCA 降维图，使用 openTSNE 库中的 t-SNE 算法进行降维并绘制出 t-SNE 降维图。在绘制降维图时，使用了 matplotlib 和 seaborn 这两个 Python 可视化库。
+利用 Python，基于 PCA 和 t-SNE 降维技术来分析文本数据。首先从本地读取文本数据，然后使用 sklearn 的 PCA 算法进行降维归一化，而后绘制出 PCA 降维图，再使用 openTSNE 库中的 t-SNE 算法进行降维并绘制出 t-SNE 降维图。在绘制降维图时，使用了 matplotlib 和 seaborn 这两个 Python 可视化库。
 
 为了运行这段代码，需要安装以下 Python 库：
 
@@ -113,12 +113,12 @@ array([0.0000e+00, 5.3700e+02, 3.6280e+03, 1.2240e+04, 3.5821e+04,
 - numpy
 - matplotlib
 - seaborn
-- scikit-learn
+- sklearn
 - openTSNE
 
 ### 代码运行
 
-直接将 `100_word_vector.txt` 放置于当前路径下即可运行。
+直接将 `100_word_vector.txt` 放置于当前路径下，`python3 flat.py`即可运行。
 
 ### 结果
 
