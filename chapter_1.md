@@ -1,6 +1,7 @@
 # Introduction
 
 ## Motivation: what is and why data mining
+
 ---
 
 ### Datamining的定义
@@ -16,6 +17,7 @@
 - 价值性 （value）
 
 ### Big Data and Deep Learning
+
 **Representation Learning** 的定义：
 Representing objects as **real valued vectors** in a **low dimensional semantic space** based on their distribution in big data
 
